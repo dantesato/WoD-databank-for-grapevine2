@@ -6,7 +6,17 @@
         "Time",
         "Thin",
         "Blood",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Technocracy",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Time Of Thin Blood.txt",
     "filename": "Time Of Thin Blood.txt",

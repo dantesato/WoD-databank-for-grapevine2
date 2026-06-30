@@ -6,7 +6,17 @@
         "Cities",
         "Darkness",
         "Volume",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Technocracy",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Cities of Darkness Volume 1.txt",
     "filename": "Cities of Darkness Volume 1.txt",

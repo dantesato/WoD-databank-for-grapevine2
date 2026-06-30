@@ -6,7 +6,16 @@
         "Wrath",
         "Players",
         "Guide",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Technocracy",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Spheres"
     ],
     "description": "# File: Wrath Players Guide.txt",
     "filename": "Wrath Players Guide.txt",

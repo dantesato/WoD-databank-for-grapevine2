@@ -6,7 +6,15 @@
         "Ghouls",
         "Fatal",
         "Addiction",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Ghouls - Fatal Addiction.txt",
     "filename": "Ghouls - Fatal Addiction.txt",

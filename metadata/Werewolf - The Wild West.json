@@ -6,7 +6,17 @@
         "Werewolf",
         "Wild",
         "West",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Wyld",
+        "Weaver",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Werewolf - The Wild West.txt",
     "filename": "Werewolf - The Wild West.txt",

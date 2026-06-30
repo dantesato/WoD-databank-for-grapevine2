@@ -4,7 +4,16 @@
     "category": "Vampire",
     "tags": [
         "Malkavian",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Technocracy",
+        "Traditions",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Malkavian.txt",
     "filename": "Malkavian.txt",

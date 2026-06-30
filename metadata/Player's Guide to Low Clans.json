@@ -6,7 +6,14 @@
         "Player's",
         "Guide",
         "Clans",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Weaver",
+        "Kiths",
+        "Spheres"
     ],
     "description": "# File: Player's Guide to Low Clans.txt",
     "filename": "Player's Guide to Low Clans.txt",

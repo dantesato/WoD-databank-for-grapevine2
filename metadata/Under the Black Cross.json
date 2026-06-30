@@ -6,7 +6,15 @@
         "Under",
         "Black",
         "Cross",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Weaver",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Under the Black Cross.txt",
     "filename": "Under the Black Cross.txt",

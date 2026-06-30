@@ -6,7 +6,12 @@
         "Wind",
         "From",
         "East",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Traditions",
+        "Umbra",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Wind From The East.txt",
     "filename": "Wind From The East.txt",

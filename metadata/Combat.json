@@ -4,7 +4,14 @@
     "category": "Vampire",
     "tags": [
         "Combat",
-        "Vampire"
+        "Vampire",
+        "Sabbat",
+        "Technocracy",
+        "Traditions",
+        "Umbra",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Combat.txt",
     "filename": "Combat.txt",

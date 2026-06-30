@@ -6,7 +6,15 @@
         "Book",
         "Lost",
         "Dreams",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Book of Lost Dreams.txt",
     "filename": "Book of Lost Dreams.txt",

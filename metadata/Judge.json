@@ -4,7 +4,11 @@
     "category": "Vampire",
     "tags": [
         "Judge",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Traditions",
+        "Kiths",
+        "Spheres"
     ],
     "description": "# File: Judge.txt",
     "filename": "Judge.txt",

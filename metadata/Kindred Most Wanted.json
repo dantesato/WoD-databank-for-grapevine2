@@ -6,7 +6,16 @@
         "Kindred",
         "Most",
         "Wanted",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Kindred Most Wanted.txt",
     "filename": "Kindred Most Wanted.txt",

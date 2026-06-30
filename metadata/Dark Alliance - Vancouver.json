@@ -6,7 +6,17 @@
         "Dark",
         "Alliance",
         "Vancouver",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Wyld",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Dark Alliance - Vancouver.txt",
     "filename": "Dark Alliance - Vancouver.txt",

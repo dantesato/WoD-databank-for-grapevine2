@@ -4,7 +4,16 @@
     "category": "Vampire",
     "tags": [
         "Ravnos",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyld",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Ravnos.txt",
     "filename": "Ravnos.txt",

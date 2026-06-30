@@ -6,7 +6,16 @@
         "Cities",
         "Darkness",
         "Volume",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Cities of Darkness Volume 3.txt",
     "filename": "Cities of Darkness Volume 3.txt",

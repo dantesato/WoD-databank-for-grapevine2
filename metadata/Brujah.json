@@ -4,7 +4,14 @@
     "category": "Vampire",
     "tags": [
         "Brujah",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Brujah.txt",
     "filename": "Brujah.txt",

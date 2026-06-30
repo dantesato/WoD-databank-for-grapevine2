@@ -8,7 +8,16 @@
         "Storyteller",
         "Screen,",
         "Book",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Weaver",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Crusade Lore, Storyteller Screen, And Book.txt",
     "filename": "Crusade Lore, Storyteller Screen, And Book.txt",

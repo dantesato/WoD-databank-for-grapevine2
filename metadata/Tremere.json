@@ -4,7 +4,15 @@
     "category": "Vampire",
     "tags": [
         "Tremere",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Tremere.txt",
     "filename": "Tremere.txt",

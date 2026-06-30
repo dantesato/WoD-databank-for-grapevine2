@@ -7,7 +7,16 @@
         "Sanguinis",
         "Masters",
         "State",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Libellus Sanguinis I - Masters of the State.txt",
     "filename": "Libellus Sanguinis I - Masters of the State.txt",

@@ -1,62 +1,114 @@
 import os
 import json
 
-# Root folder of your databank
 ROOT_DIR = r"C:\Users\marti\WoD-databank-for-grapevine2"
 METADATA_DIR = os.path.join(ROOT_DIR, "metadata")
 
-# Keyword map: add or adjust as needed
-KEYWORD_MAP = {
-    "vampire": ["vampire", "cainite", "blood", "embrace", "clan", "masquerade", "ghoul"],
-    "werewolf": ["werewolf", "garou", "wyrm", "pack", "caern", "rage"],
-    "mage": ["mage", "awakened", "paradox", "tradition", "chantry", "avatar"],
-    "wraith": ["wraith", "shadowlands", "oblivion", "spectre", "haunt"],
-    "changeling": ["changeling", "fae", "glamour", "dreaming", "kith", "seelie"],
+# --- PRIMARY CATEGORIES ---
+PRIMARY = {
+    "Vampire": [
+        "vampire", "cainite", "kindred", "blood", "vitae", "embrace",
+        "ghoul", "masquerade", "camarilla", "sabbat", "anarch",
+        "clan", "generation", "diablerie", "bruja", "toreador",
+        "ventrue", "nosferatu", "malkavian", "lasombra", "tzimisce",
+        "ravnos", "gangrel", "assamite", "banu haqim", "ministry"
+    ],
+    "Werewolf": [
+        "garou", "werewolf", "caern", "sept", "pack", "wyrm", "weaver",
+        "wyld", "umbra", "gnosis", "rage", "tribe", "silver fang",
+        "black spiral dancer", "red talon", "glass walker", "fianna",
+        "shadow lord", "bone gnawer", "get of fenris"
+    ],
+    "Mage": [
+        "mage", "awakened", "paradox", "avatar", "chantry", "tradition",
+        "technocracy", "horizon realm", "sphere", "prime", "entropy",
+        "correspondence", "forces", "matter", "mind", "spirit", "time",
+        "verbena", "sons of ether", "order of hermes", "virtual adept"
+    ],
+    "Wraith": [
+        "wraith", "shadowlands", "oblivion", "spectre", "fetters",
+        "haunts", "stygia", "legion", "passion", "pathos"
+    ],
+    "Changeling": [
+        "changeling", "fae", "glamour", "banality", "dreaming",
+        "kith", "seelie", "unseelie", "sidhe", "redcap", "sluagh"
+    ]
 }
 
-def detect_category(text):
-    """Return category based on keyword matches."""
-    text_lower = text.lower()
-    for category, keywords in KEYWORD_MAP.items():
-        if any(word in text_lower for word in keywords):
-            return category.capitalize()
+# --- SUBDIVISIONS / FACTIONS / THEMES ---
+SUBTAGS = {
+    "Camarilla": ["camarilla", "ivory tower", "justicar", "prince"],
+    "Sabbat": ["sabbat", "black hand", "pack priest", "ductus"],
+    "Anarch": ["anarch", "barony", "free state"],
+    "Technocracy": ["technocracy", "iteration x", "new world order", "progenitors"],
+    "Traditions": ["tradition", "order of hermes", "verbena", "choristers"],
+    "Umbra": ["umbra", "spirit world", "gauntlet"],
+    "Wyrm": ["wyrm", "pentex", "black spiral"],
+    "Wyld": ["wyld"],
+    "Weaver": ["weaver"],
+    "Kiths": ["sidhe", "redcap", "boggan", "troll", "sluagh"],
+    "Clans": ["ventrue", "toreador", "malkavian", "gangrel", "lasombra", "tzimisce"],
+    "Spheres": ["prime", "entropy", "forces", "matter", "mind", "spirit", "time", "correspondence"]
+}
+
+def detect_primary(text):
+    text = text.lower()
+    for category, words in PRIMARY.items():
+        if any(w in text for w in words):
+            return category
     return "Shared / Other"
 
-def update_metadata_tags():
-    """Scan all metadata files and update tags based on content keywords."""
-    updated_count = 0
+def detect_subtags(text):
+    text = text.lower()
+    found = []
+    for tag, words in SUBTAGS.items():
+        if any(w in text for w in words):
+            found.append(tag)
+    return found
+
+def update_metadata():
+    updated = 0
 
     for file in os.listdir(METADATA_DIR):
-        if file.endswith(".json") and file != "index.json":
-            json_path = os.path.join(METADATA_DIR, file)
+        if not file.endswith(".json") or file == "index.json":
+            continue
 
-            with open(json_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
+        json_path = os.path.join(METADATA_DIR, file)
+        with open(json_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
-            # Read corresponding text file
-            txt_path = os.path.join(ROOT_DIR, data["relative_path"])
-            if not os.path.exists(txt_path):
-                continue
+        txt_path = os.path.join(ROOT_DIR, data["relative_path"])
+        if not os.path.exists(txt_path):
+            continue
 
-            with open(txt_path, "r", encoding="utf-8", errors="ignore") as f:
-                content = f.read()
+        with open(txt_path, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
 
-            # Detect category and update tags
-            category = detect_category(content)
-            data["category"] = category
-            data["source"] = category
+        # Detect primary category
+        primary = detect_primary(content)
+        data["category"] = primary
+        data["source"] = primary
 
-            # Add category tag if missing
-            if category.lower() not in [t.lower() for t in data["tags"]]:
-                data["tags"].append(category)
+        # Detect subtags
+        subtags = detect_subtags(content)
 
-            # Save updated metadata
-            with open(json_path, "w", encoding="utf-8") as f:
-                json.dump(data, f, indent=4)
+        # Merge tags
+        existing = {t.lower() for t in data["tags"]}
+        for tag in subtags:
+            if tag.lower() not in existing:
+                data["tags"].append(tag)
 
-            updated_count += 1
+        # Add primary category tag if missing
+        if primary.lower() not in existing:
+            data["tags"].append(primary)
 
-    print(f"✅ Updated tags and categories for {updated_count} files.")
+        # Save
+        with open(json_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
+
+        updated += 1
+
+    print(f"✅ Updated categories and subtags for {updated} files.")
 
 if __name__ == "__main__":
-    update_metadata_tags()
+    update_metadata()

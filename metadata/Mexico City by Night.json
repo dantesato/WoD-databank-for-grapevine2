@@ -6,7 +6,15 @@
         "Mexico",
         "City",
         "Night",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Mexico City by Night.txt",
     "filename": "Mexico City by Night.txt",

@@ -4,7 +4,15 @@
     "category": "Vampire",
     "tags": [
         "Inquisitor",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Inquisitor.txt",
     "filename": "Inquisitor.txt",

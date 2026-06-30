@@ -4,7 +4,15 @@
     "category": "Vampire",
     "tags": [
         "Gangrel",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Gangrel.txt",
     "filename": "Gangrel.txt",

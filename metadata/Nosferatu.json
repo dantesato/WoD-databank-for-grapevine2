@@ -4,7 +4,15 @@
     "category": "Vampire",
     "tags": [
         "Nosferatu",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Wyrm",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Nosferatu.txt",
     "filename": "Nosferatu.txt",

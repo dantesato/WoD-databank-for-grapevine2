@@ -6,7 +6,14 @@
         "Revelations",
         "Dark",
         "Mother",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Technocracy",
+        "Traditions",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Revelations of the Dark Mother.txt",
     "filename": "Revelations of the Dark Mother.txt",

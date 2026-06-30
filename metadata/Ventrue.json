@@ -4,7 +4,14 @@
     "category": "Vampire",
     "tags": [
         "Ventrue",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Ventrue.txt",
     "filename": "Ventrue.txt",

@@ -6,7 +6,17 @@
         "Freeholds",
         "Hidden",
         "Glens",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Wyrm",
+        "Wyld",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: Freeholds and Hidden Glens.txt",
     "filename": "Freeholds and Hidden Glens.txt",

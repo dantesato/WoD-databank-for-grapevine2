@@ -6,7 +6,15 @@
         "World",
         "Darkness",
         "Edition",
-        "Vampire"
+        "Vampire",
+        "Camarilla",
+        "Sabbat",
+        "Anarch",
+        "Traditions",
+        "Umbra",
+        "Kiths",
+        "Clans",
+        "Spheres"
     ],
     "description": "# File: World of Darkness - 1st Edition.txt",
     "filename": "World of Darkness - 1st Edition.txt",

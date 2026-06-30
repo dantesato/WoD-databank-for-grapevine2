@@ -1,9 +1,10 @@
 {
     "title": "Dreamspeakers",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Dreamspeakers"
+        "Dreamspeakers",
+        "Vampire"
     ],
     "description": "# File: Dreamspeakers.txt",
     "filename": "Dreamspeakers.txt",

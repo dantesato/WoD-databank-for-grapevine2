@@ -1,10 +1,11 @@
 {
     "title": "Cainite Heresy",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Cainite",
-        "Heresy"
+        "Heresy",
+        "Vampire"
     ],
     "description": "# File: Cainite Heresy.txt",
     "filename": "Cainite Heresy.txt",

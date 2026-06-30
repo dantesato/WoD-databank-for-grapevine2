@@ -1,10 +1,11 @@
 {
     "title": "Storyteller's Screen",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Mage",
+    "category": "Mage",
     "tags": [
         "Storyteller's",
-        "Screen"
+        "Screen",
+        "Mage"
     ],
     "description": "# File: Storyteller's Screen.txt",
     "filename": "Storyteller's Screen.txt",

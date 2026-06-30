@@ -1,10 +1,11 @@
 {
     "title": "City of Angels",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "City",
-        "Angels"
+        "Angels",
+        "Vampire"
     ],
     "description": "# File: City of Angels.txt",
     "filename": "City of Angels.txt",

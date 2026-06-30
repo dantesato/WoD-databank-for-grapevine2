@@ -1,10 +1,11 @@
 {
     "title": "Thousand Whispers",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Thousand",
-        "Whispers"
+        "Whispers",
+        "Vampire"
     ],
     "description": "# File: Thousand Whispers.txt",
     "filename": "Thousand Whispers.txt",

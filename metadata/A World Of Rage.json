@@ -1,10 +1,11 @@
 {
     "title": "A World Of Rage",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "World",
-        "Rage"
+        "Rage",
+        "Vampire"
     ],
     "description": "# File: A World Of Rage.txt",
     "filename": "A World Of Rage.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Elysium",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Elysium"
+        "Elysium",
+        "Vampire"
     ],
     "description": "# File: Elysium.txt",
     "filename": "Elysium.txt",

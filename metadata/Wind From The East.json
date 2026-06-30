@@ -1,11 +1,12 @@
 {
     "title": "Wind From The East",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Wind",
         "From",
-        "East"
+        "East",
+        "Vampire"
     ],
     "description": "# File: Wind From The East.txt",
     "filename": "Wind From The East.txt",

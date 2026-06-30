@@ -1,9 +1,10 @@
 {
     "title": "Verbena",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Verbena"
+        "Verbena",
+        "Vampire"
     ],
     "description": "# File: Verbena.txt",
     "filename": "Verbena.txt",

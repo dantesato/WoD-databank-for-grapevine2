@@ -1,10 +1,11 @@
 {
     "title": "Killing Streets",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Killing",
-        "Streets"
+        "Streets",
+        "Vampire"
     ],
     "description": "# File: Killing Streets.txt",
     "filename": "Killing Streets.txt",

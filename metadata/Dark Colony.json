@@ -1,10 +1,11 @@
 {
     "title": "Dark Colony",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Dark",
-        "Colony"
+        "Colony",
+        "Vampire"
     ],
     "description": "# File: Dark Colony.txt",
     "filename": "Dark Colony.txt",

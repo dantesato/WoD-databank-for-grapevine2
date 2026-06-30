@@ -1,11 +1,12 @@
 {
     "title": "Vampire, the Dark Ages",
-    "source": "Vampire: The Masquerade",
-    "category": "Vampire: The Masquerade",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Vampire,",
         "Dark",
-        "Ages"
+        "Ages",
+        "Vampire"
     ],
     "description": "# File: Vampire, the Dark Ages.txt",
     "filename": "Vampire, the Dark Ages.txt",

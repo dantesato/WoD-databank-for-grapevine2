@@ -1,9 +1,10 @@
 {
     "title": "Artificers",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Artificers"
+        "Artificers",
+        "Vampire"
     ],
     "description": "# File: Artificers.txt",
     "filename": "Artificers.txt",

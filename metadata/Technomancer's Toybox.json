@@ -1,10 +1,11 @@
 {
     "title": "Technomancer's Toybox",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Technomancer's",
-        "Toybox"
+        "Toybox",
+        "Vampire"
     ],
     "description": "# File: Technomancer's Toybox.txt",
     "filename": "Technomancer's Toybox.txt",

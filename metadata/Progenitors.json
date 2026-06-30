@@ -1,9 +1,10 @@
 {
     "title": "Progenitors",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Progenitors"
+        "Progenitors",
+        "Vampire"
     ],
     "description": "# File: Progenitors.txt",
     "filename": "Progenitors.txt",

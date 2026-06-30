@@ -1,10 +1,11 @@
 {
     "title": "Clanbook Salubri",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Clanbook",
-        "Salubri"
+        "Salubri",
+        "Vampire"
     ],
     "description": "# File: Clanbook Salubri.txt",
     "filename": "Clanbook Salubri.txt",

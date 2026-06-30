@@ -1,10 +1,11 @@
 {
     "title": "Dead Magic",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Dead",
-        "Magic"
+        "Magic",
+        "Vampire"
     ],
     "description": "# File: Dead Magic.txt",
     "filename": "Dead Magic.txt",

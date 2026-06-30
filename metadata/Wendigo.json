@@ -1,9 +1,10 @@
 {
     "title": "Wendigo",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Wendigo"
+        "Wendigo",
+        "Vampire"
     ],
     "description": "# File: Wendigo.txt",
     "filename": "Wendigo.txt",

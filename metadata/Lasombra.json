@@ -1,9 +1,10 @@
 {
     "title": "Lasombra",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Lasombra"
+        "Lasombra",
+        "Vampire"
     ],
     "description": "# File: Lasombra.txt",
     "filename": "Lasombra.txt",

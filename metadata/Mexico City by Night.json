@@ -1,11 +1,12 @@
 {
     "title": "Mexico City by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Mexico",
         "City",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: Mexico City by Night.txt",
     "filename": "Mexico City by Night.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Sandman",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Sandman"
+        "Sandman",
+        "Vampire"
     ],
     "description": "# File: Sandman.txt",
     "filename": "Sandman.txt",

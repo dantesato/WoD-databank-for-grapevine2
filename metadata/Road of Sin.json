@@ -1,9 +1,10 @@
 {
     "title": "Road of Sin",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Road"
+        "Road",
+        "Vampire"
     ],
     "description": "# File: Road of Sin.txt",
     "filename": "Road of Sin.txt",

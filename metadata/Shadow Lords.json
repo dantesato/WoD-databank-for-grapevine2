@@ -1,10 +1,11 @@
 {
     "title": "Shadow Lords",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Shadow",
-        "Lords"
+        "Lords",
+        "Vampire"
     ],
     "description": "# File: Shadow Lords.txt",
     "filename": "Shadow Lords.txt",

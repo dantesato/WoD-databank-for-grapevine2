@@ -1,10 +1,11 @@
 {
     "title": "House of Tremere",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "House",
-        "Tremere"
+        "Tremere",
+        "Vampire"
     ],
     "description": "# File: House of Tremere.txt",
     "filename": "House of Tremere.txt",

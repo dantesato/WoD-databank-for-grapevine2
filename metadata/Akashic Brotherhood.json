@@ -1,10 +1,11 @@
 {
     "title": "Akashic Brotherhood",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Akashic",
-        "Brotherhood"
+        "Brotherhood",
+        "Vampire"
     ],
     "description": "# File: Akashic Brotherhood.txt",
     "filename": "Akashic Brotherhood.txt",

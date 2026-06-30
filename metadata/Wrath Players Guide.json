@@ -1,11 +1,12 @@
 {
     "title": "Wrath Players Guide",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Wrath",
         "Players",
-        "Guide"
+        "Guide",
+        "Vampire"
     ],
     "description": "# File: Wrath Players Guide.txt",
     "filename": "Wrath Players Guide.txt",

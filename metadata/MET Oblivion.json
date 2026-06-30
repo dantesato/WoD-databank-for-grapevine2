@@ -1,9 +1,10 @@
 {
     "title": "MET Oblivion",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Oblivion"
+        "Oblivion",
+        "Vampire"
     ],
     "description": "# File: MET Oblivion.txt",
     "filename": "MET Oblivion.txt",

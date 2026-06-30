@@ -1,9 +1,10 @@
 {
     "title": "Enchanted",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Enchanted"
+        "Enchanted",
+        "Vampire"
     ],
     "description": "# File: Enchanted.txt",
     "filename": "Enchanted.txt",

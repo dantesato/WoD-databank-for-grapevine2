@@ -1,9 +1,10 @@
 {
     "title": "Ventrue",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Ventrue"
+        "Ventrue",
+        "Vampire"
     ],
     "description": "# File: Ventrue.txt",
     "filename": "Ventrue.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Wolves of the Sea",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Wolves"
+        "Wolves",
+        "Vampire"
     ],
     "description": "# File: Wolves of the Sea.txt",
     "filename": "Wolves of the Sea.txt",

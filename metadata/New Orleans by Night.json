@@ -1,10 +1,11 @@
 {
     "title": "New Orleans by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Orleans",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: New Orleans by Night.txt",
     "filename": "New Orleans by Night.txt",

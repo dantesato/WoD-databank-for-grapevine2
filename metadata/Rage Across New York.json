@@ -1,11 +1,12 @@
 {
     "title": "Rage Across New York",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Rage",
         "Across",
-        "York"
+        "York",
+        "Vampire"
     ],
     "description": "# File: Rage Across New York.txt",
     "filename": "Rage Across New York.txt",

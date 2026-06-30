@@ -1,11 +1,12 @@
 {
     "title": "Nobles - the Shining Host",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Nobles",
         "Shining",
-        "Host"
+        "Host",
+        "Vampire"
     ],
     "description": "# File: Nobles - the Shining Host.txt",
     "filename": "Nobles - the Shining Host.txt",

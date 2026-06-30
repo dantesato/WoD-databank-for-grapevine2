@@ -1,11 +1,12 @@
 {
     "title": "Wild West - Companion",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Wild",
         "West",
-        "Companion"
+        "Companion",
+        "Vampire"
     ],
     "description": "# File: Wild West - Companion.txt",
     "filename": "Wild West - Companion.txt",

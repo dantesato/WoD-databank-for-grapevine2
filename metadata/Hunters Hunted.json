@@ -1,10 +1,11 @@
 {
     "title": "Hunters Hunted",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Hunters",
-        "Hunted"
+        "Hunted",
+        "Vampire"
     ],
     "description": "# File: Hunters Hunted.txt",
     "filename": "Hunters Hunted.txt",

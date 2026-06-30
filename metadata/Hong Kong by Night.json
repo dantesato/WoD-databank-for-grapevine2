@@ -1,11 +1,12 @@
 {
     "title": "Hong Kong by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Hong",
         "Kong",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: Hong Kong by Night.txt",
     "filename": "Hong Kong by Night.txt",

@@ -1,10 +1,11 @@
 {
     "title": "Garou Saga",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Garou",
-        "Saga"
+        "Saga",
+        "Vampire"
     ],
     "description": "# File: Garou Saga.txt",
     "filename": "Garou Saga.txt",

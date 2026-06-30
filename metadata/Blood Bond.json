@@ -1,10 +1,11 @@
 {
     "title": "Blood Bond",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Blood",
-        "Bond"
+        "Bond",
+        "Vampire"
     ],
     "description": "# File: Blood Bond.txt",
     "filename": "Blood Bond.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Innocent",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Innocent"
+        "Innocent",
+        "Vampire"
     ],
     "description": "# File: Innocent.txt",
     "filename": "Innocent.txt",

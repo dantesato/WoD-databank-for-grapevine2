@@ -1,9 +1,10 @@
 {
     "title": "Judge",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Judge"
+        "Judge",
+        "Vampire"
     ],
     "description": "# File: Judge.txt",
     "filename": "Judge.txt",

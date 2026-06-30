@@ -1,9 +1,10 @@
 {
     "title": "Spoils of War",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Spoils"
+        "Spoils",
+        "Vampire"
     ],
     "description": "# File: Spoils of War.txt",
     "filename": "Spoils of War.txt",

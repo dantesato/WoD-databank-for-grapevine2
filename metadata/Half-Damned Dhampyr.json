@@ -1,10 +1,11 @@
 {
     "title": "Half-Damned Dhampyr",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Half-Damned",
-        "Dhampyr"
+        "Dhampyr",
+        "Vampire"
     ],
     "description": "# File: Half-Damned Dhampyr.txt",
     "filename": "Half-Damned Dhampyr.txt",

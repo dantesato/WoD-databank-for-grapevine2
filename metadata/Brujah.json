@@ -1,9 +1,10 @@
 {
     "title": "Brujah",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Brujah"
+        "Brujah",
+        "Vampire"
     ],
     "description": "# File: Brujah.txt",
     "filename": "Brujah.txt",

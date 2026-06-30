@@ -1,9 +1,10 @@
 {
     "title": "Combat",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Combat"
+        "Combat",
+        "Vampire"
     ],
     "description": "# File: Combat.txt",
     "filename": "Combat.txt",

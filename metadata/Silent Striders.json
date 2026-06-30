@@ -1,10 +1,11 @@
 {
     "title": "Silent Striders",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Silent",
-        "Striders"
+        "Striders",
+        "Vampire"
     ],
     "description": "# File: Silent Striders.txt",
     "filename": "Silent Striders.txt",

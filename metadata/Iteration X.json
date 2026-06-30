@@ -1,9 +1,10 @@
 {
     "title": "Iteration X",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Iteration"
+        "Iteration",
+        "Vampire"
     ],
     "description": "# File: Iteration X.txt",
     "filename": "Iteration X.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Mafia",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Mafia"
+        "Mafia",
+        "Vampire"
     ],
     "description": "# File: Mafia.txt",
     "filename": "Mafia.txt",

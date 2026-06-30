@@ -1,10 +1,11 @@
 {
     "title": "Hunter - The Reckoning",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Hunter",
-        "Reckoning"
+        "Reckoning",
+        "Vampire"
     ],
     "description": "# File: Hunter - The Reckoning.txt",
     "filename": "Hunter - The Reckoning.txt",

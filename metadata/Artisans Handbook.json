@@ -1,10 +1,11 @@
 {
     "title": "Artisans Handbook",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Artisans",
-        "Handbook"
+        "Handbook",
+        "Vampire"
     ],
     "description": "# File: Artisans Handbook.txt",
     "filename": "Artisans Handbook.txt",

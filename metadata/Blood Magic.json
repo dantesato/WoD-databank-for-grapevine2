@@ -1,10 +1,11 @@
 {
     "title": "Blood Magic",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Blood",
-        "Magic"
+        "Magic",
+        "Vampire"
     ],
     "description": "# File: Blood Magic.txt",
     "filename": "Blood Magic.txt",

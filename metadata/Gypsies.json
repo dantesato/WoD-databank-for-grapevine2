@@ -1,9 +1,10 @@
 {
     "title": "Gypsies",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Gypsies"
+        "Gypsies",
+        "Vampire"
     ],
     "description": "# File: Gypsies.txt",
     "filename": "Gypsies.txt",

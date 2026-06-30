@@ -1,9 +1,10 @@
 {
     "title": "DC by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: DC by Night.txt",
     "filename": "DC by Night.txt",

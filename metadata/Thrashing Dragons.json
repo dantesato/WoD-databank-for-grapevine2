@@ -1,10 +1,11 @@
 {
     "title": "Thrashing Dragons",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Thrashing",
-        "Dragons"
+        "Dragons",
+        "Vampire"
     ],
     "description": "# File: Thrashing Dragons.txt",
     "filename": "Thrashing Dragons.txt",

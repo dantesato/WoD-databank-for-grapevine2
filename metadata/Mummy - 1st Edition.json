@@ -1,10 +1,11 @@
 {
     "title": "Mummy - 1st Edition",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Mummy",
-        "Edition"
+        "Edition",
+        "Vampire"
     ],
     "description": "# File: Mummy - 1st Edition.txt",
     "filename": "Mummy - 1st Edition.txt",

@@ -1,10 +1,11 @@
 {
     "title": "Blood Nativity",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Blood",
-        "Nativity"
+        "Nativity",
+        "Vampire"
     ],
     "description": "# File: Blood Nativity.txt",
     "filename": "Blood Nativity.txt",

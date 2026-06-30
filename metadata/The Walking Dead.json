@@ -1,10 +1,11 @@
 {
     "title": "The Walking Dead",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Walking",
-        "Dead"
+        "Dead",
+        "Vampire"
     ],
     "description": "# File: The Walking Dead.txt",
     "filename": "The Walking Dead.txt",

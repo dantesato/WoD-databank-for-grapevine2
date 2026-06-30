@@ -1,10 +1,11 @@
 {
     "title": "Berlin by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Berlin",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: Berlin by Night.txt",
     "filename": "Berlin by Night.txt",

@@ -1,10 +1,11 @@
 {
     "title": "MET Book of the Damned",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Book",
-        "Damned"
+        "Damned",
+        "Vampire"
     ],
     "description": "# File: MET Book of the Damned.txt",
     "filename": "MET Book of the Damned.txt",

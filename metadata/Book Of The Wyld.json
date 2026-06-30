@@ -1,10 +1,11 @@
 {
     "title": "Book Of The Wyld",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Book",
-        "Wyld"
+        "Wyld",
+        "Vampire"
     ],
     "description": "# File: Book Of The Wyld.txt",
     "filename": "Book Of The Wyld.txt",

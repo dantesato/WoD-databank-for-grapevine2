@@ -1,10 +1,11 @@
 {
     "title": "The Spirit Ways",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Spirit",
-        "Ways"
+        "Ways",
+        "Vampire"
     ],
     "description": "# File: The Spirit Ways.txt",
     "filename": "The Spirit Ways.txt",

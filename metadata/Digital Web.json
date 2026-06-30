@@ -1,9 +1,10 @@
 {
     "title": "Digital Web",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Digital"
+        "Digital",
+        "Vampire"
     ],
     "description": "# File: Digital Web.txt",
     "filename": "Digital Web.txt",

@@ -1,10 +1,11 @@
 {
     "title": "Mummy - the Resurrection",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Mummy",
-        "Resurrection"
+        "Resurrection",
+        "Vampire"
     ],
     "description": "# File: Mummy - the Resurrection.txt",
     "filename": "Mummy - the Resurrection.txt",

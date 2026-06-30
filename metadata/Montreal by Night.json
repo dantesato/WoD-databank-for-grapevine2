@@ -1,10 +1,11 @@
 {
     "title": "Montreal by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Montreal",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: Montreal by Night.txt",
     "filename": "Montreal by Night.txt",

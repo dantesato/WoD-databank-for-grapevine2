@@ -1,12 +1,13 @@
 {
     "title": "Libellus Sanguinis III - Wolves At The door",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Libellus",
         "Sanguinis",
         "Wolves",
-        "door"
+        "door",
+        "Vampire"
     ],
     "description": "# File: Libellus Sanguinis III - Wolves At The door.txt",
     "filename": "Libellus Sanguinis III - Wolves At The door.txt",

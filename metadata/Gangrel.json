@@ -1,9 +1,10 @@
 {
     "title": "Gangrel",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Gangrel"
+        "Gangrel",
+        "Vampire"
     ],
     "description": "# File: Gangrel.txt",
     "filename": "Gangrel.txt",

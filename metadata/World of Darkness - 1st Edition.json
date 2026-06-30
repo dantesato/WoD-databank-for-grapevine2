@@ -1,11 +1,12 @@
 {
     "title": "World of Darkness - 1st Edition",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "World",
         "Darkness",
-        "Edition"
+        "Edition",
+        "Vampire"
     ],
     "description": "# File: World of Darkness - 1st Edition.txt",
     "filename": "World of Darkness - 1st Edition.txt",

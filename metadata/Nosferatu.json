@@ -1,9 +1,10 @@
 {
     "title": "Nosferatu",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Nosferatu"
+        "Nosferatu",
+        "Vampire"
     ],
     "description": "# File: Nosferatu.txt",
     "filename": "Nosferatu.txt",

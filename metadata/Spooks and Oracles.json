@@ -1,10 +1,11 @@
 {
     "title": "Spooks and Oracles",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Spooks",
-        "Oracles"
+        "Oracles",
+        "Vampire"
     ],
     "description": "# File: Spooks and Oracles.txt",
     "filename": "Spooks and Oracles.txt",

@@ -1,11 +1,12 @@
 {
     "title": "Werewolf - The Wild West",
-    "source": "Werewolf: The Apocalypse",
-    "category": "Werewolf: The Apocalypse",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Werewolf",
         "Wild",
-        "West"
+        "West",
+        "Vampire"
     ],
     "description": "# File: Werewolf - The Wild West.txt",
     "filename": "Werewolf - The Wild West.txt",

@@ -1,10 +1,11 @@
 {
     "title": "Autumn People",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Autumn",
-        "People"
+        "People",
+        "Vampire"
     ],
     "description": "# File: Autumn People.txt",
     "filename": "Autumn People.txt",

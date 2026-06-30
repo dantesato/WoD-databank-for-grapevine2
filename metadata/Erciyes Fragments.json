@@ -1,10 +1,11 @@
 {
     "title": "Erciyes Fragments",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Erciyes",
-        "Fragments"
+        "Fragments",
+        "Vampire"
     ],
     "description": "# File: Erciyes Fragments.txt",
     "filename": "Erciyes Fragments.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Red Talons",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Talons"
+        "Talons",
+        "Vampire"
     ],
     "description": "# File: Red Talons.txt",
     "filename": "Red Talons.txt",

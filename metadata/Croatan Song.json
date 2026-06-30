@@ -1,10 +1,11 @@
 {
     "title": "Croatan Song",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Croatan",
-        "Song"
+        "Song",
+        "Vampire"
     ],
     "description": "# File: Croatan Song.txt",
     "filename": "Croatan Song.txt",

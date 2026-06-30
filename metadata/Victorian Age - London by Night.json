@@ -1,11 +1,12 @@
 {
     "title": "Victorian Age - London by Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Victorian",
         "London",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: Victorian Age - London by Night.txt",
     "filename": "Victorian Age - London by Night.txt",

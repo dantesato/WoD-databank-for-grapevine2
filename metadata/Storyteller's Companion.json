@@ -1,10 +1,11 @@
 {
     "title": "Storyteller's Companion",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Storyteller's",
-        "Companion"
+        "Companion",
+        "Vampire"
     ],
     "description": "# File: Storyteller's Companion.txt",
     "filename": "Storyteller's Companion.txt",

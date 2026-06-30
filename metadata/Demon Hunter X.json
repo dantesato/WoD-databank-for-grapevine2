@@ -1,10 +1,11 @@
 {
     "title": "Demon Hunter X",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Demon",
-        "Hunter"
+        "Hunter",
+        "Vampire"
     ],
     "description": "# File: Demon Hunter X.txt",
     "filename": "Demon Hunter X.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Hermit",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Hermit"
+        "Hermit",
+        "Vampire"
     ],
     "description": "# File: Hermit.txt",
     "filename": "Hermit.txt",

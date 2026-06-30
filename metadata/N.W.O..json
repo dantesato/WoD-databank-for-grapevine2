@@ -1,9 +1,10 @@
 {
     "title": "N.W.O.",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "N.W.O."
+        "N.W.O.",
+        "Vampire"
     ],
     "description": "# File: N.W.O..txt",
     "filename": "N.W.O..txt",

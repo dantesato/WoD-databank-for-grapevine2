@@ -1,10 +1,11 @@
 {
     "title": "Order of Hermes",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Order",
-        "Hermes"
+        "Hermes",
+        "Vampire"
     ],
     "description": "# File: Order of Hermes.txt",
     "filename": "Order of Hermes.txt",

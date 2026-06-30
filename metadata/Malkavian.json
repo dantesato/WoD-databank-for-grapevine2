@@ -1,9 +1,10 @@
 {
     "title": "Malkavian",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Malkavian"
+        "Malkavian",
+        "Vampire"
     ],
     "description": "# File: Malkavian.txt",
     "filename": "Malkavian.txt",

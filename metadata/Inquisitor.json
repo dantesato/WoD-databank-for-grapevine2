@@ -1,9 +1,10 @@
 {
     "title": "Inquisitor",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Inquisitor"
+        "Inquisitor",
+        "Vampire"
     ],
     "description": "# File: Inquisitor.txt",
     "filename": "Inquisitor.txt",

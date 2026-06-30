@@ -1,10 +1,11 @@
 {
     "title": "Celestial Chorus",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Celestial",
-        "Chorus"
+        "Chorus",
+        "Vampire"
     ],
     "description": "# File: Celestial Chorus.txt",
     "filename": "Celestial Chorus.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Wayward",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Wayward"
+        "Wayward",
+        "Vampire"
     ],
     "description": "# File: Wayward.txt",
     "filename": "Wayward.txt",

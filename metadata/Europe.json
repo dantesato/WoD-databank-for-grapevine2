@@ -1,9 +1,10 @@
 {
     "title": "Europe",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Europe"
+        "Europe",
+        "Vampire"
     ],
     "description": "# File: Europe.txt",
     "filename": "Europe.txt",

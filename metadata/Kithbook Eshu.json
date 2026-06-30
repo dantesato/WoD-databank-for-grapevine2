@@ -1,10 +1,11 @@
 {
     "title": "Kithbook Eshu",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Kithbook",
-        "Eshu"
+        "Eshu",
+        "Vampire"
     ],
     "description": "# File: Kithbook Eshu.txt",
     "filename": "Kithbook Eshu.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Ravnos",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Ravnos"
+        "Ravnos",
+        "Vampire"
     ],
     "description": "# File: Ravnos.txt",
     "filename": "Ravnos.txt",

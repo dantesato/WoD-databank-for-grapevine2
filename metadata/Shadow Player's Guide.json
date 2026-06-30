@@ -1,11 +1,12 @@
 {
     "title": "Shadow Player's Guide",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Shadow",
         "Player's",
-        "Guide"
+        "Guide",
+        "Vampire"
     ],
     "description": "# File: Shadow Player's Guide.txt",
     "filename": "Shadow Player's Guide.txt",

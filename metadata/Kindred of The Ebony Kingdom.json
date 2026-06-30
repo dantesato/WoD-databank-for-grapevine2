@@ -1,11 +1,12 @@
 {
     "title": "Kindred of The Ebony Kingdom",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Kindred",
         "Ebony",
-        "Kingdom"
+        "Kingdom",
+        "Vampire"
     ],
     "description": "# File: Kindred of The Ebony Kingdom.txt",
     "filename": "Kindred of The Ebony Kingdom.txt",

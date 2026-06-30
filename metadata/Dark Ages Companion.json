@@ -1,11 +1,12 @@
 {
     "title": "Dark Ages Companion",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Dark",
         "Ages",
-        "Companion"
+        "Companion",
+        "Vampire"
     ],
     "description": "# File: Dark Ages Companion.txt",
     "filename": "Dark Ages Companion.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Giovanni",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Giovanni"
+        "Giovanni",
+        "Vampire"
     ],
     "description": "# File: Giovanni.txt",
     "filename": "Giovanni.txt",

@@ -1,10 +1,11 @@
 {
     "title": "Iberia By Night",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Iberia",
-        "Night"
+        "Night",
+        "Vampire"
     ],
     "description": "# File: Iberia By Night.txt",
     "filename": "Iberia By Night.txt",

@@ -1,10 +1,11 @@
 {
     "title": "Kithbook Redcaps",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Kithbook",
-        "Redcaps"
+        "Redcaps",
+        "Vampire"
     ],
     "description": "# File: Kithbook Redcaps.txt",
     "filename": "Kithbook Redcaps.txt",

@@ -1,9 +1,10 @@
 {
     "title": "Martyr",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Martyr"
+        "Martyr",
+        "Vampire"
     ],
     "description": "# File: Martyr.txt",
     "filename": "Martyr.txt",

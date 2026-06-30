@@ -1,9 +1,10 @@
 {
     "title": "Followers of Set",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Followers"
+        "Followers",
+        "Vampire"
     ],
     "description": "# File: Followers of Set.txt",
     "filename": "Followers of Set.txt",

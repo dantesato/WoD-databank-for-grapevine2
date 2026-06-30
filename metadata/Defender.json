@@ -1,9 +1,10 @@
 {
     "title": "Defender",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Defender"
+        "Defender",
+        "Vampire"
     ],
     "description": "# File: Defender.txt",
     "filename": "Defender.txt",

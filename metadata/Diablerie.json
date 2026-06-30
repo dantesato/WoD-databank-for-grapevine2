@@ -1,9 +1,10 @@
 {
     "title": "Diablerie",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Diablerie"
+        "Diablerie",
+        "Vampire"
     ],
     "description": "# File: Diablerie.txt",
     "filename": "Diablerie.txt",

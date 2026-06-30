@@ -1,9 +1,10 @@
 {
     "title": "Get Of Fenris",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Fenris"
+        "Fenris",
+        "Vampire"
     ],
     "description": "# File: Get Of Fenris.txt",
     "filename": "Get Of Fenris.txt",

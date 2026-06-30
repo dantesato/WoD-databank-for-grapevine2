@@ -1,10 +1,11 @@
 {
     "title": "Diablerie - Mexico",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Diablerie",
-        "Mexico"
+        "Mexico",
+        "Vampire"
     ],
     "description": "# File: Diablerie - Mexico.txt",
     "filename": "Diablerie - Mexico.txt",

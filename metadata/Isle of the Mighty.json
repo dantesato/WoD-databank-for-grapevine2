@@ -1,10 +1,11 @@
 {
     "title": "Isle of the Mighty",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Isle",
-        "Mighty"
+        "Mighty",
+        "Vampire"
     ],
     "description": "# File: Isle of the Mighty.txt",
     "filename": "Isle of the Mighty.txt",

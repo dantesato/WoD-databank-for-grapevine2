@@ -1,10 +1,11 @@
 {
     "title": "Blood and Silk",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Blood",
-        "Silk"
+        "Silk",
+        "Vampire"
     ],
     "description": "# File: Blood and Silk.txt",
     "filename": "Blood and Silk.txt",

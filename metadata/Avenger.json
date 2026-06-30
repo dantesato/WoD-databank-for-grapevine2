@@ -1,9 +1,10 @@
 {
     "title": "Avenger",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Avenger"
+        "Avenger",
+        "Vampire"
     ],
     "description": "# File: Avenger.txt",
     "filename": "Avenger.txt",

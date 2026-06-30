@@ -1,10 +1,11 @@
 {
     "title": "Virtual Adepts",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Virtual",
-        "Adepts"
+        "Adepts",
+        "Vampire"
     ],
     "description": "# File: Virtual Adepts.txt",
     "filename": "Virtual Adepts.txt",

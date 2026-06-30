@@ -1,10 +1,11 @@
 {
     "title": "Void Engineers",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Void",
-        "Engineers"
+        "Engineers",
+        "Vampire"
     ],
     "description": "# File: Void Engineers.txt",
     "filename": "Void Engineers.txt",

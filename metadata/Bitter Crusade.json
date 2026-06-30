@@ -1,10 +1,11 @@
 {
     "title": "Bitter Crusade",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Bitter",
-        "Crusade"
+        "Crusade",
+        "Vampire"
     ],
     "description": "# File: Bitter Crusade.txt",
     "filename": "Bitter Crusade.txt",

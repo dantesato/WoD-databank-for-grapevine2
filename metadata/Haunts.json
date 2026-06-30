@@ -1,9 +1,10 @@
 {
     "title": "Haunts",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Haunts"
+        "Haunts",
+        "Vampire"
     ],
     "description": "# File: Haunts.txt",
     "filename": "Haunts.txt",

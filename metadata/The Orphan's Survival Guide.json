@@ -1,11 +1,12 @@
 {
     "title": "The Orphan's Survival Guide",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Orphan's",
         "Survival",
-        "Guide"
+        "Guide",
+        "Vampire"
     ],
     "description": "# File: The Orphan's Survival Guide.txt",
     "filename": "The Orphan's Survival Guide.txt",

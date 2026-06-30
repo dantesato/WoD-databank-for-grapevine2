@@ -1,9 +1,10 @@
 {
     "title": "Renegades",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Renegades"
+        "Renegades",
+        "Vampire"
     ],
     "description": "# File: Renegades.txt",
     "filename": "Renegades.txt",

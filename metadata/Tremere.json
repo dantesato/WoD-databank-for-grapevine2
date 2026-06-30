@@ -1,9 +1,10 @@
 {
     "title": "Tremere",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Tremere"
+        "Tremere",
+        "Vampire"
     ],
     "description": "# File: Tremere.txt",
     "filename": "Tremere.txt",

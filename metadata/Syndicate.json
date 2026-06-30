@@ -1,9 +1,10 @@
 {
     "title": "Syndicate",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Syndicate"
+        "Syndicate",
+        "Vampire"
     ],
     "description": "# File: Syndicate.txt",
     "filename": "Syndicate.txt",

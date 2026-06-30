@@ -1,9 +1,10 @@
 {
     "title": "The Moonstruck",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Moonstruck"
+        "Moonstruck",
+        "Vampire"
     ],
     "description": "# File: The Moonstruck.txt",
     "filename": "The Moonstruck.txt",

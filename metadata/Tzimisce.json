@@ -1,9 +1,10 @@
 {
     "title": "Tzimisce",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Tzimisce"
+        "Tzimisce",
+        "Vampire"
     ],
     "description": "# File: Tzimisce.txt",
     "filename": "Tzimisce.txt",

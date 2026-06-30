@@ -1,9 +1,10 @@
 {
     "title": "War in Concordia",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Concordia"
+        "Concordia",
+        "Vampire"
     ],
     "description": "# File: War in Concordia.txt",
     "filename": "War in Concordia.txt",

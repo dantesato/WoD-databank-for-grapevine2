@@ -1,10 +1,11 @@
 {
     "title": "Art of Mage the Ascension",
-    "source": "Mage: The Ascension",
-    "category": "Mage: The Ascension",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Mage",
-        "Ascension"
+        "Ascension",
+        "Vampire"
     ],
     "description": "# File: Art of Mage the Ascension.txt",
     "filename": "Art of Mage the Ascension.txt",

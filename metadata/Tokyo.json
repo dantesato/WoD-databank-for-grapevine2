@@ -1,9 +1,10 @@
 {
     "title": "Tokyo",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Tokyo"
+        "Tokyo",
+        "Vampire"
     ],
     "description": "# File: Tokyo.txt",
     "filename": "Tokyo.txt",

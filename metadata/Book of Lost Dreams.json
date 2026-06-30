@@ -1,11 +1,12 @@
 {
     "title": "Book of Lost Dreams",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Book",
         "Lost",
-        "Dreams"
+        "Dreams",
+        "Vampire"
     ],
     "description": "# File: Book of Lost Dreams.txt",
     "filename": "Book of Lost Dreams.txt",

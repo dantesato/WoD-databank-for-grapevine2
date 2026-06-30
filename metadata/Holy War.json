@@ -1,9 +1,10 @@
 {
     "title": "Holy War",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Holy"
+        "Holy",
+        "Vampire"
     ],
     "description": "# File: Holy War.txt",
     "filename": "Holy War.txt",

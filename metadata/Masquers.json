@@ -1,9 +1,10 @@
 {
     "title": "Masquers",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
-        "Masquers"
+        "Masquers",
+        "Vampire"
     ],
     "description": "# File: Masquers.txt",
     "filename": "Masquers.txt",

@@ -1,11 +1,12 @@
 {
     "title": "Caerns - Places of Power",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Caerns",
         "Places",
-        "Power"
+        "Power",
+        "Vampire"
     ],
     "description": "# File: Caerns - Places of Power.txt",
     "filename": "Caerns - Places of Power.txt",

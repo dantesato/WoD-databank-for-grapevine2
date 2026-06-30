@@ -1,10 +1,11 @@
 {
     "title": "Necropolis - Atlanta",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Necropolis",
-        "Atlanta"
+        "Atlanta",
+        "Vampire"
     ],
     "description": "# File: Necropolis - Atlanta.txt",
     "filename": "Necropolis - Atlanta.txt",

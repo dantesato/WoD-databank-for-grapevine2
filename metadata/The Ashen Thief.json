@@ -1,10 +1,11 @@
 {
     "title": "The Ashen Thief",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Ashen",
-        "Thief"
+        "Thief",
+        "Vampire"
     ],
     "description": "# File: The Ashen Thief.txt",
     "filename": "The Ashen Thief.txt",

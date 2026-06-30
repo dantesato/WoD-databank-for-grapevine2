@@ -1,10 +1,11 @@
 {
     "title": "Midnight Express",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Midnight",
-        "Express"
+        "Express",
+        "Vampire"
     ],
     "description": "# File: Midnight Express.txt",
     "filename": "Midnight Express.txt",

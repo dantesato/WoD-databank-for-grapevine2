@@ -1,10 +1,11 @@
 {
     "title": "Midnight Siege",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Midnight",
-        "Siege"
+        "Siege",
+        "Vampire"
     ],
     "description": "# File: Midnight Siege.txt",
     "filename": "Midnight Siege.txt",

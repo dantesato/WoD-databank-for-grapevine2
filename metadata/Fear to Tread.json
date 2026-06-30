@@ -1,10 +1,11 @@
 {
     "title": "Fear to Tread",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Fear",
-        "Tread"
+        "Tread",
+        "Vampire"
     ],
     "description": "# File: Fear to Tread.txt",
     "filename": "Fear to Tread.txt",

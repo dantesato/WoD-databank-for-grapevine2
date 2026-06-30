@@ -1,10 +1,11 @@
 {
     "title": "Hidden Lore",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Hidden",
-        "Lore"
+        "Lore",
+        "Vampire"
     ],
     "description": "# File: Hidden Lore.txt",
     "filename": "Hidden Lore.txt",

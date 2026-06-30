@@ -1,10 +1,11 @@
 {
     "title": "The Book of Shadows",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Book",
-        "Shadows"
+        "Shadows",
+        "Vampire"
     ],
     "description": "# File: The Book of Shadows.txt",
     "filename": "The Book of Shadows.txt",

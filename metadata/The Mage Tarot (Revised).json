@@ -1,11 +1,12 @@
 {
     "title": "The Mage Tarot (Revised)",
-    "source": "Mage: The Ascension",
-    "category": "Mage: The Ascension",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Mage",
         "Tarot",
-        "(Revised)"
+        "(Revised)",
+        "Vampire"
     ],
     "description": "# File: The Mage Tarot (Revised).txt",
     "filename": "The Mage Tarot (Revised).txt",

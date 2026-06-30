@@ -1,10 +1,11 @@
 {
     "title": "Halls of the Arcanum",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Halls",
-        "Arcanum"
+        "Arcanum",
+        "Vampire"
     ],
     "description": "# File: Halls of the Arcanum.txt",
     "filename": "Halls of the Arcanum.txt",

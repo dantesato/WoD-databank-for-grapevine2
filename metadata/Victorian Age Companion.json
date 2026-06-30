@@ -1,10 +1,11 @@
 {
     "title": "Victorian Age Companion",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Victorian",
-        "Companion"
+        "Companion",
+        "Vampire"
     ],
     "description": "# File: Victorian Age Companion.txt",
     "filename": "Victorian Age Companion.txt",

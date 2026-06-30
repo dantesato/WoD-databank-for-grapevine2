@@ -1,10 +1,11 @@
 {
     "title": "The Book of Mirrors",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "Book",
-        "Mirrors"
+        "Mirrors",
+        "Vampire"
     ],
     "description": "# File: The Book of Mirrors.txt",
     "filename": "The Book of Mirrors.txt",

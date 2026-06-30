@@ -1,11 +1,12 @@
 {
     "title": "World of Future Darkness",
-    "source": "Shared / Other",
-    "category": "Shared / Other",
+    "source": "Vampire",
+    "category": "Vampire",
     "tags": [
         "World",
         "Future",
-        "Darkness"
+        "Darkness",
+        "Vampire"
     ],
     "description": "# File: World of Future Darkness.txt",
     "filename": "World of Future Darkness.txt",

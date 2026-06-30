@@ -1,0 +1,489 @@
+# File: Storytellers Screen.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+- i : |
+e "
+/
+,
+
+bs it)
+
+THE MBP ov
+
+ra
+» he
+% 4 2 "i
+& \ j
+: ‘
+. *
+‘
+i/ P ,
+a (7? Ki
+
+
+\
+: s
+A"
+te,
+RS +
+.
+. Py
+id
+: é
+'
+, al
+/
+&* '
+
+
+x Abysmal
+Poor
+
+ee Average
+
+eee Good
+Exceptional
+Superb
+
+3
+4
+5
+
+Degree of Success
+
+One Success
+Two Successes
+Three Successes
+Four Successes
+
+Five Successes
+
+Easy
+
+Routine
+Straightforward
+Standard
+Challenging
+Difficult
+
+Extremely Difficult
+
+Marginal
+Moderate
+Complete
+Exceptional
+Phenomenal
+
+Mortal Health Levels
+
+Bruised
+Hurt
+Injured
+Wounded
+Mauled
+
+( rippled
+
+Incapacitated
+
+Mortal Death
+
+Health Level
+Bruised
+Hurt
+Injured
+Wounded
+Mauled
+Crippled
+
+Incapacitated
+
+*Not only do mortals have to heal this Health Level, but
+they lose one point from one of their Physical Attributes as
+well (Storyteller discretion). Mortals who reach Incapacitated
+heal at the Storyteller's discretion; some enter comas for the
+
+No effect
+
+l
+l
+
+5
+
+Incapable of Action
+
+Time
+
+One day
+
+Three days
+
+One week
+
+One month
+Three months
+Three Months *
+
+Perhaps never
+
+rest of their lives; others make miraculous recoveries.
+
+Combat Summary Chart
+
+Stage One: Initiative
+
+© Roll Wits + Alertness (difficulry 4). The winner
+declares her action last (after she has heard everyone else's
+actions) and performs it first.
+
+Declare Dice Pool division if performing multiple actions
+
+Stage Two: Attack
+
+¢ For firearms combat, roll Dexterity + Firearms
+
+For melee (with weapons) combat, roll Dexterity + Melee
+
+¢ For hand-to-hand (without weapons) combat, roll
+Dexterity + Brawl
+
+el xe: roll Dexterity + Dodge. A character can
+forfeit some or all of his Dice Pool to dodge at any time;
+
+each success subtracts one from the opponent's successes
+
+Stage Three: Resolution
+
+© Roll damz
+(difficulty 6)
+
++, determined by weapon or maneuver
+
+¢ Soak damage: roll Stamina (difficulty 6)
+
+al Complications
+¢ Changing Actions: The difficulty increases by + 1
+
+¢ Immob tion: The difficulty to hit an immobi
+
+lized target is decreased by - 2
+¢ Stunning: When Corpus damage exceeds Stamina
+
+rating, the target is stunned and cannot act next turn
+
+Brawling Chart
+
+Difficulty Damage Actions
+
+Maneuver Roll
+Block Dex + Brawl - 6 none Special
+Body Slam Dex + Brawl Special
+
+Dex + Brawl Strength
+
+Kick Dex + Brawl Strength +
+
+Punch Dex + Brawl
+
+Grapple
+
+Strength
+Special Maneuvers
+
+Evasive Act. Wits + Dodge none
+LeapingRake Dex + Brawl
+
+Taunt Manip + Expr
+
+Strength + 2
+
+Wits + 4 none
+
+
+Melee Weapons Table Firefight Complications
+
+Weapon Difficulty Damage Conceal Complication Difficulty
+
+ay + Strength : Changing action + |
+Clu 4
+Knife 4 Strength + Long range
+Foil 5
+
+Saber ( Strength + ¢ Lying flat
+
+Strength + Immobilization
+Strength + 3 Point-blank
+
+Broadsworc 6 Strength + ) Behind pole
+Behind wall
+
+Only head ¢
+
+Armor Movelittth
+
+. : Aiming + Perception (1/turn)
+
+Class Armor Rating Penalty ‘
+Scope
+
+lass One (reinforces thing)
+
+Specific area of target
+
+: Multiple shots
+lass Three (soulsteel breastplate) Ball
+
+lass Two (relic chain mail shirt)
+
+wuto
+
+lass Four (full suit of relic Kevlar) Three-round burst
+
+lass Five (Stygian steel plate mail) Spray
+
+Harrowings
+
+Targeted Harrowings
+
+The escape roll for all Targeted Harrowings is Willpower (diff. 9).
+
+Loss of Willpower — A Passion or Fetter is the Quarry. If the wraith succeeds, he returns to a Fetter and keeps his last Willpower
+point. If he fails, he rolls the Quarry Trait's rating (diff. 8) and every non-success reduces the Trait's rating by one. On a botch, he loses the
+targeted Trait (falling into another Harrowing) and must make a Willpower vs. Angst roll (diff. 6) or lose a point of Permanent Corpus.
+
+Loss of Temporary Corpus — The wraith herself is the Quarry. If she succeeds she returns to a Fetter (or the Tempest) and gains
+Temporary Corpus equal to her Stamina rating. If she fails, she loses a point of Permanent Corpus. If she botches, she falls into another
+Temporary Corpus Harrowing.
+
+Loss of a Fetter — The Fetter is the Quarry. If the wraith succeeds the Fetter is Resolved and he snaps back to another Fetter (or the
+Tempest). If he fails, he loses the targeted Fetter and must roll the rating of another Fetter (diff. 5). Each failure on this roll reduces the new
+target's rating by one.. In case of a botch, he rolls Willpower vs. Angst (diff. 6), and if he fails he loses one point of Permanent Corpus.
+
+Loss of a Passion — The Passion is the Quarry. If the wraith succeeds, she keeps the one point Passion and snaps back to a Fetter (or
+the Tempest). If she fails, she loses the targeted Passion and must roll the rating of another Passion (diff. 5). Each failure on this roll reduces
+the new target's rating by one. In case of a botch, he rolls Willpower vs. Angst (diff. 6), and if he fails he loses one point of Permanent
+Corpus.
+
+Destruction Harrowings
+The escape roll for all of these is Willpower vs. Angst (diff. 6).
+
+Loss of Willpower — If the wraith succeeds, she snaps back to a Fetter (or the Tempest) with one Willpower point. If she fails, she is
+
+dragged into the Void. If she botches, she becomes a Spectre.
+
+Loss of Last Passion — If the wraith succeeds, he snaps back to a Fetter (or the Tempest) with one point in his last Passion. If he fails,
+he is dragged into the Void. If he botches, he becomes a Spectre.
+
+Loss of All Permanent Corpus — If the wraith succeeds, she snaps back to a Fetter (or the Tempest) with one Permanent and one
+Temporary Corpus. If she fails, she is dragged into the Void. If she botches, she becomes a Spectre (usually a Nephwrack).
+
+The Catharsis Roll
+
+The Shadow makes a control roll by spending one temporary Angst point and rolling a number of dice equal to its Angst. The Psyche
+may resist with a Willpower roll, adding Eidolon dice if appropriate. Both rolls are at a diff. of 6. The Shadow stz
+scene, at which time it returns control to the Psyche.
+
+ys in control for an entire
+
+When the Shadow is dominant, it can gain Angst through its Shadow Passions, utilize any of the Psyche's Arcanoi, and use Thorns.
+It cannot help the Psyche to regain Pathos, nor can it refuel the Pathos of the Psyche. The Shadow cannot expend Willpower, nor can it
+reduce the character's Pathos below 1.
+
+During Catharsis, the Shadow can choose to "cut off' a Psyche from his senses. This effect can only be resisted with Eidolon dice.
+
+Relic Firearms Chart
+
+Type Difficulty Damage Range Rate -athos Use
+Revolver, Lt 4 12 3
+Revolver, Hvy 7 5 35
+
+Pistol, Lt 20
+
+Pistol, Hvy
+
+Rifle
+
+SMG, Small
+
+SMG, Large
+
+Assault Rifle
+
+Shotgun
+
+Shotgun, Semi-auto
+
+ARCHAIC FIREARMS
+
+Crossbow
+
+Matchlock Pistol (1400s)
+
+Matchlock Rifle (1400s)
+
+Wheellock Pistol (1500s)
+
+Wheellock Rifle (1500s)
+
+Flintlock Pistol (1600s)
+
+Flintlock Rifle (1600s)
+
+Dueling Pistol (1770)
+
+"Brown Bess" Rifle (1700s)
+
+Percussion Pistol (1800s)
+
+I
+
+N/A J
+N/A N
+N/A J
+N/A N
+N/A J
+N/A  N
+N/A J
+N/A  N
+N/A J
+N/A N
+
+Percussion Rifle (1800s)
+
+rsts the gun ¢ i le turn. The rate does not apply t
+
+clip or in the barrel. The + 1 tes a bullet can be held in the ¢
+
+Firearms, difficult
+
+Dodeing Cover Difficulties
+
+Difficulty Terrain
+By moving back half a step, the character
+is back under full cover.
+
+Cover
+
+Lying flat
+
+: 7 Behind pole
+
+Full cover within diving distance (one yard) P
+
+Behind wall
+
+Full cover within running dist
+Only head exposed
+
+(three yards)
+
+Partial cover within running distance
+
+(three yards)
+
+Flat and featureless, no cover (the
+
+character dives to the ground and
+
+imitates a small rock)
+
+
+*s]aaa] sndiod Q] Jo wnulxeul B 0} ‘UO Os pue™*
+
+a1P $1 daly s]Paa] sndiod uaaag 69-09
+s]Paa] sndiod x1S 66-06
+s]aaaq sndioz aay 6b-OF
+s]aAa'] sndiog inoj 6£-0E
+s]Paa] sndiosd aaiy |, 67-02
+s]Pae] sndiog omy 61-01
+]PAa] sndiod auCQ 6S
+
+SWONS|aeW Aanfuy (399} UI) aouRIsSIG]
+aseured sue]
+
+9oIp ZI InoJ
+ao1p IYysIq samy
+9oIp x OMT
+9oIp ino j 9uQ
+
+j9e}UOD JO UN} aod aseweg PAIT Wonspeyy
+
+peuing Apog ammua fousayur sulsey aay
+Peaand st. 4poq stp JOFTeY seIyUCT OAL aoou [[Fy e UO TYysTUpTU Te ATaI@WIID poLasac]
+
+peuing st Apog aya jo wed eB fysioy auO
+
+PA] JO 221g spunom,
+]Peas ualyjow jo 19H us]
+
+pewruruuc 9 aIOM Stopsnu [eatuq AOYM\ uolsueu PIC )
+Wyslu SsoTUoour B UO spec 'SSOID AQUNODS V
+
+ally JeoTWIAYD k Jo Iea}] uIN Ob doy surdeyd gnys wp ‘papmord y
+
+ng 9e1dap-psry) dauing uasung eb jo 1ea}{ uaae AIC sty US| WA OU Ul M SULIC YU JO} Poter-Tp: M V
+
+(send sauFop pocsigh oie 2 Jo ear oad uOoUaye aup ul UONRAS Aemqns URI] \
+
+(suing daidap-isilj) a]pued v Jo Tap] sary
+
+amy joey AMOI
+
+2Seueg Bunyey proys
+
+Aep suuids Auuns b UO {RU surddoys V
+
+Jetoeds surya
+
+Aue se sjsoys piesol J Us9Op ay ‘ABA Joy "Yystiq OO] JOU isnf say oqAvwi 10 Aliep] 9poupE poaedap sty
+
+WO SlosuUdssow aie SyIeIM IYI YUTYR yYsrw sy ‘sdudTIOdxe Yeop-ieoU eK pey soy sdeysag "]]e Iv ssapAsay
+
+aya Jo audsaid ay} 02 UONDwad JepNIQIed OU sey [LUOUT Jo 110s sTY |, :9SEIG/UOTIVAY ONE = %C'0 Ol
+
+"squase jeanjgeusodns jo peoisul
+
+sjusuoddo se Woy) SUIIaS *SYITeIM Ieaj O] aSNjJo1 sjeIIOU! Vso] AOIUNL]Z BsIpes IsOW 9YI UDAD IsUILde
+
+punois Joy puras [pI yeawour Jo adAQ sty "yaeap ueYyI WOggnis Aopy sswaduYy snoszysry 9%] 6
+
+"SUTWUPOYM
+
+NAO SUONUSUR Jay puy 07 Ajayl] ose syareayy "ouTpoY DWysAsd ay? Jo suapsrosued Nay) 10} Ajayeipowull
+
+ung Avw Adyar ysnoy? ‘preaye UeYA payeUrdsey o1our dre AIOSaIVI sTYyA Jo sIaquiayy :AyISOLIND, %S Q
+
+‘dja Apoyerpaurut ayes soy dn asnoy payuney soy surind 4jasiay Aq WUsUIaseg 9Y1 O01 UMOP 05 01
+
+Sulsnjor :A][BUOTBI IDL TS [JIM AloOsaIwD SITY UT [BIIOUT B "presye [[s aly A Avaq peyjoayuoD %)
+‘uresieg 07 Idwane OF YsNoud paqda]]JOO st nq "preaye si jeOW ay] :ArOJeTPIOUOD %OI
+
+«iSISOYO,, ‘Survaeas9s JOOp JU ayp ino UNI 7.UOA dys Ing "YyAeIA\ dup pue Jjasiay UsaA\jaq ayqissod sv s.uvIsIpP
+
+yonur se and oj Aa Appoinb PIA ayy "JoTUOD-FJas JWOs suleIdI Ing ‘preaye si ]eWOW sy] AOIIaT, (e
+
+‘uO oNAsop puljg Sulsned Aq se9y oY? INO oyeI JsIMJOYAIO pUk ssUTYyI YseUls "YITeIM SuIpN.QUT oy Ie Apuey
+
+sdoaq Vy MOIU) OF S[BIOU Sasned asuOodsa1 YAds.19q ay ‘UO}DvaI SHastjeutue Ajaind vy :yAsss9g %SI a
+
+‘Jeangeusadns oy Jo aduasaid aya ing SuryaAue OF UMOP TH And TIM ysoys v
+
+S998 OYM A1OTIIVD STYI Ul IUOIWOS SUOHLZ1]LUONLI-IIAO JIssE]D dy ST asuUOdsaI sTY | JeHPqsiq] %QI ¢
+
+"yates v Jo 9DU9
+
+said oY OF uonejnded aya JO JUSWIBaS SITY? jJO asuodsas VIPIWIWUT 9YI SI IYSIZ puljg sotueg %0Z Z
+
+‘uonsonb ayn jo ino Ajaj}a]durod are suo|se xojduiod pure syysnoup [euoney ‘aoeyd Surpry e
+
+Jog noge adors 0} aJqe aq Asaq Ie [pla ATOS97d stup Ul spevoOUL ‘siskyered OUT poyiliay ej Wuoyeyed) %OI |
+
+sSun}ey £04
+
+OTPIVIY uonendog jo % JaModyypin
+
+)

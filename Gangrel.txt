@@ -1,0 +1,2827 @@
+# File: Gangrel.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+ic
+Ss
+=
+i?)
+=
+=
+3
+=
+=
+a
+wi
+=
+:
+-
+=
+=
+es
+Ss
+=
+Cy
+2
+s
+Ss
+7)
+<
+
+
+From the Forests of Mystery
+
+Inthe heart ofnature, the supernatural roamsfree.
+ByBrad Freeman
+
+© 1993 by White Wolf. All rights reserved. Reproduction
+
+without written permission of the publisher is expressly
+denied, except for the purpose of reviews. Players may
+
+reproduce the character sheets for personal use only.
+
+
+Theeyes watch youas you walk, measuring your
+every move. You know they're outthere,
+
+somewher
+
+g. You
+
+and the thoughtis notcomfortir
+
+speedup, slow down, stop. go, butthey'restill there.
+
+watchingand waiting
+
+Aslightrustle to your left grabs yourattention, and
+youspin—only tofindnothing. Butthey're there.
+Youmove on, and the rustling beginsagain, Again
+youstop, with the same result. You begin running.
+
+fleeing, screaming ... and then, no more.
+
+Special Thanks To:
+
+Mark "Riding Hood" ReineHagen, fortumninglittle
+andred when his grandmacamea-knockin'.
+Stewart "Hawker" Wieck, for hisreactionto going
+toallthe local basketball games.
+
+Ken "Upwardly Mobile" Cliffe, forhis promotion
+—nowhe'sthe only Coordinated Developer we
+have.
+
+Josh "ExtortedandContorted" Timbrook, forthe
+sacrifices he makes to get top-notch artwork.
+
+Wes "St. Nick" Harris, for whathe better bring us
+afterhis Christmas trip to England.
+
+René "Needle and Thread" Lilly, for popping her
+buttons ‘cause Dougie'sin town.
+
+Rob "Worse than Dogs" Hatch, forhisculinary
+expertise.
+
+Travis "Vacation Man" Williams, for missing his
+flightand then getting rained on five outof seven
+
+Credits
+Written by: Brad Freeman
+Developed by: Andrew Greenberg
+Edited by: AlaraRogers
+ArtDirector: Richard Thomas
+Art: John Bridges, Joshua Gabriel Timbrook
+Cover: Timothy Bradstreet, Grant Goleash
+Production: RichardThomas
+Back Cover: Chris McDonough, Joshua Gabriel
+Timbrook
+Character Sheet: Andrew Greenberg, Richard
+Thomas
+
+This book is dedicated to Hunter S.Thompson-
+poet, playwright and statesman - who was its
+inspiration.
+
+daysin "sunny California."
+
+Andrew "Stinky" Greenberg, for putting long back
+hair—Imeanlong hairbackinstyle.
+
+Richard "Norman Rockwell" Thomas, forhis all-
+American Christmascard.
+
+Sam "Norman Bates" Chupp, for whathis
+Christmas cards shouldhavelookedlike.
+
+Chris "Junior" McDonough, fornow we know
+where he gets his mouth from.
+
+William "Fanboy" Hale, forfinagling asecondhand
+Ice-T autograph.
+Bill"Popped" Bridges, forenjoying Ice-T forthe
+firsttime (he almostmadeitinto the pit).
+
+Benjamin "Friendly Fire" Monk, Jr.,forsending
+uptrial balloons when Billis around,
+
+Lyndi "The Professional" Hathaway, forcarrying
+herloser partnerin Four-Square.
+
+Alara "Domestic Violence" Rogers, for what's
+gonna happen toher fiance ifhe keeps applying for
+the samejobshe' s after.
+
+PUBLISHING
+
+© 1993, 1997, 1998 White Wolf Publishing, Inc. All rights reserved.
+Reproduction without the written permission of the publisher is
+expressly forbidden, except for the purposes of reviews, and for
+blank character sheets, which may be reproduced for personal use
+only. White Wolf, Vampire the Masquerade, Vampire the Dark
+‘Ages, Mage the Ascension and World of Darkness are registered
+trademarks of White Wolf Publishing, Inc. All rights reserved.
+Werewolf the Apocalypse, Wraith the Oblivion, Changeling the
+Dreaming, Werewolf the Wild West and Clanbook Gangrel are
+trademarks of White Wolf Publishing, Inc. All rights reserved. All
+characters, names, places and text herein are copyrighted by
+White Wolf Publishing, Inc.
+
+The mention of or reference to any company or product in these
+pages is not a challenge to the trademark or copyright concerned.
+This book uses the supernatural for settings, characters and
+themes. All mystical and supernatural elements are fiction and
+intended for entertainment purposes only. Reader discretion is
+advised.
+
+‘Check out White Wolf online at
+
+hitp://www.white-wolf.com; alt. games.whitewolf and
+
+rec games frp storyteller
+
+PRINTED IN THE USA.
+
+
+tt
+
+Cable fC seca
+
+lan Gangrel
+a
+
+2.0ther
+
+Chapter J Cemplates
+
+Appendix: Gangrel of Note
+DP iyo
+
+ee
+
+
+ntroduction:
+
+~~
+
+he Book of
+lan Gangrel
+
+by Lord Ashton
+( Edited and with an introduction by Dr. Raoul King )
+
+Forewarned
+
+by Dr. Raoul King
+
+First, let me just say how oh-so-very grateful I am to my
+alleged sire for letting me write this. Most guys who've only
+been dead as long as I have don't get to say much around the
+really moldy types.
+
+Second, I'd like to thank the son of a bitch for going
+anarch on us, therefore leaving it to me to finish his ever-so-
+perfect monograph. Dammit, leaving chewed-on,
+
+blood-encrusted tapes lying around to be tuned into manu-
+scripts is my job! At least the bloodsucking bastard talks
+better than I do. Hell, he tells the truth neater than I lie.
+Third, I'd like to apologize for the language in this damn
+thing. His, not mine. Ashton may talk like a guerrilla phi-
+losopher most of the time, but put a pen in his hand and he
+gets positively academic. It's the British public schools that
+
+——————
+
+7
+
+Introduction
+
+
+do that to you. I've tried to cut the worst of it, but bear with
+hhim when he gets rolling. For my language, I don't apologize,
+unless you're seeing a lot of asterisks and s***, in which case
+I've been edited again, dammit!
+
+Not to put too fine a point on it, but ifyou're reading this,
+you're probably dead, and you probably don't know a whole
+hellofalotabout what's goingon. Ashtonstarted thisproject
+
+Preface
+
+as away tohelp orient you sorry bastards. Of course, when he
+bled medry (c. 1968), he'd only barely begun, sol didn'thave
+the benefit ofhis wisdom. You, on the otherhand, get his and
+mine. Lucky you.
+
+by Ashton
+
+Welcome, neonate!
+
+Though you may not understand how or why, you have
+been granteda great gift. You are immortal, and the problems
+of living lay behind you. You will discover new problems, of
+course, but you will also see new things you could never have
+imagined in your waking life.
+
+You are a member of a proud and unusual tribe among
+the Kindred, your new species, "Clan" Gangrel they call us,
+forthey must havea label for we who defy labeling. Nonethe-
+less, ofall labels, I bear it proudly, not so much for what it says
+as for what it does not.
+
+We are a "clan," in its true sense, bound by blood, and
+unlike other Kindred, bound through fear to an antique
+hierarchy. We hold together — when we do — because of
+common interest.
+
+Where others cower, trapped in their musty havens, we
+roam free and wild, taking shelter wherever it may be found.
+Only our wits see us through into the shelter of another
+welcoming night.
+
+While our brethren fear the Lupines, we know them for
+what they are. Some rare few even eam their friendship.
+
+
+A traditional, if informal, alliance exists between the
+members of our clan and the Rom, known to the breathing
+world as the Gypsies. To describe to you this relationship, I
+have engaged one of my progeny, who in his breathing days
+‘was something of an expert on the Romany.
+
+Since it is our custom for a site to abandon his new
+offspring to make her own way through the difficult transi-
+tion from life to unlife, we sometimes have "feral" Gangrel
+who do not fully understand their condition. Too, there are
+other beings with whom the Gangrel are sometimes con-
+fused. The Gypsies, or Rom, who are our mortal relatives
+(more on this later) are one such. You will find that the
+Lupines, whom mortals call Werewolves, may be mistaken
+for us due to their shapechanging skills. Last are the Ravnos,
+renegade Kindred of Gypsy stock. Do not confuse them with
+either your clansmen ot the true Rom! They are blackguards
+all, with no more honor than a hungry cat.
+
+Ifthis cast of characters seemsat first confusing, be aware
+that it shall become less so with time. You have at least the
+advantage of this document, whereas for one reason ot
+another some of our kind were never recontacted and edu-
+cated by their sires. These are known as Caitiff, and perhaps
+too many of them are from our line.
+
+Indeed, because even those whoare brought up correctly,
+are often left to their own devices for a formative year or s0,
+their mistaken ideas about who and what they are frequently
+become entrenched. Thus we have among our number some
+individuals who have chosen rather ... unique paths. Isitany
+wonder that of all the clans, the Gangrel most reflect the
+popular conception of the Vampire? I shall tell somewhat of
+this in the following pages, but in essence this document is
+presented with the purpose of laying aside some of the more
+egregious errors which a feral childe may make.
+
+To begin, I present here a history of the Kindred, with
+particular attention to the Gangrel. Read it and learn well,
+that you may begin to appreciate what you are and what you
+‘can become, And, if | may be so bold, what you must avoid
+becoming at any cost.
+
+
+
+| Chapter J:
+A Briet Histor
+Clan Gangre
+
+by Ashton
+Editor's Note: What follows is a lengthy excerpt from
+Ashton's rambling History of the Kindred. He babbled for eight
+hours or so, most of it stuff from the Book of Nod and other
+similarly questionable sources, and all obtainable elsewhere. I've
+leftin only material I haven't seen anywhere else, mostly having
+to do with Gangrel and the Lupines. So sue me. — R.K.
+
+Origins of the Gangrel
+
+The Gangrel enjoy a special relationship with those
+creatures known asLupines. This, according to legend, is due
+to their sharing a bloodline. The tale as I have heard it runs
+thus:
+
+In the beginning of time, when God created Adam, he
+made also a wife for him, out of the same clay from which he
+made the first Man.
+
+Her name was Lilith, and she was the first feminist. She
+is described (in ancient Hebrew sources and elsewhere) as an
+unusually hirsute woman, who was not willing to be subser-
+vient to Adam. When Adam complained to God about her,
+God banished Lilith from the Garden of Eden, and took the
+raw material for Eve from Adam himselF.
+
+Now, when Lilith went forth from Eden, she was preg-
+nant. She gave birth alone and in the wilderness, attended
+only by wild beasts, for the animals were yet unnamed, and
+none knew whether they were destined tobe prey orpredator.
+
+So the first birth in the world was midwived by animals,
+and four children were born. A bear, a wolf, a tiger, a serpent
+and another animal described only as "a beast" were in
+attendance. Each received one of the babes into its care} all
+but the serpent, whose foster-child was stillborn. And each
+
+took the child away to raise however they thought best.
+These children became the ancestors of the zoanthropes,
+what we now call the Lupines.
+
+One of Lilith's get, whose name comes down to us as
+Ennoia, was raised by the wolves. Even when the wolves
+learned they were to be carnivores, and preyed upon other
+animals, they cared for her as their own.
+
+When at last she was grown, she took a mate from among
+the pack, and bore him children. Some were like her, in the
+form of man. Some were like their father, and ran as wolves.
+Yeteach had within them the seed of the other, and it isfrom
+them that Lupines trace their ancestry.
+
+A longwhile later, she grew dissatisfied with her life, and
+lefe the pack to travel the world. Immortal like her parents,
+she wandered for many years alone, and came at last t0 a city
+raised by her half-siblings, the descendants of Adam and his
+second wife. Her great beauty and somewhat earthy nature
+stood her well, and she was well-received in Enoch.
+
+She dwele there for many years until, in a series of
+incidents reminiscent of the tale of Helen of Troy, she
+became a source of discord in this proto-city. She finally let,
+though not before presenting several of her lovers with
+children. It is from these children that the Gypsies are
+descended.
+
+Again, she wandered the world, finding nevera place to
+settle. Everywhere that she was taken in, she was cast out
+again after her presence brought discord.
+
+Finally, long after her blood had mingled with that of
+Eve's brood, she met one of Caine's, who convinced her to
+
+
+mattered little, for he proved interesting in other ways. In Itis certain, thanks to an eyewitness who has asked that
+
+their passion for each other, it was not long before she was I not use his name, that among those involved in the sack of
+
+made Kindred. Rome were Gangrel. The ancient peoples were ever aware
+Fromheraredescendedall who call themselvesGangrel. _ that Kindred walked among them, and the Romans were no
+
+From her we learn the tongues ofanimals,andhowtochange _€xception. Of interest is the fact that' contempprary. reports
+
+our shape to resemble them. From heralso we get ourlicense were made of a vampire altering rs £0
+
+to wander the world freely. Even as the Lupines can trace Which can be taken.as mea
+
+their blood back toher inher livingdays, soweoftheGangrel__ mostlikelya aswell
+
+can find our heritage in the blood ofher changed life. Butwe __ me for peréop
+
+remember, even if our Lupine half-brothers do not, that we i
+
+share a common mother.
+
+The Gangrelin History
+
+Since as a rule, the Gangrel themselves.do.
+their history, much of what giih be said here
+
+is cerain, however, thay6f eer cl
+
+been one of the most if
+
+affairs. Seldom has thi
+
+Rather, self-defense
+
+of the "historical"
+
+ping for a Gangrel
+
+fancies of huma
+
+nothing but wi
+The talesi
+
+is said, for i
+
+warning of
+
+fleeing, as ti
+
+to enlist oth
+
+Ie is tempring at
+
+fresh from the wi
+
+folk. Whether
+
+What we do
+
+thus starting a
+
+other clans
+Other si
+
+tradition (gi
+
+from centigy
+
+certain thatjely
+
+vicinity of ‘ r deBitimarerto d
+
+thatdescr aGs Re a Inquisition; of
+
+anda vamp : le all ,tiat. But I get ahead of yselfdt was a ntitive
+It is claimed, 3 a i fiérel natted Falking Water who welcomed. the first
+
+Gnostic texts point to Jesug hea a lony-of settlers to Virginia, and it was Gangrel and their
+
+frenzy, if not the Curse. It isplikely¥ however, cit all +" atties who died in the slaughter of the colonists at the claws
+
+everfinda biblical scholar willing tohelp me confirm or deny of Lupines.
+
+this hint. When the next European colonists came to North
+
+America, they found Gangrel who were relatively accepted
+
+among the natives. From the start, the Gangrel shunned the
+
+ppd bpd bp ip pie
+
+cities that the invaders built, but they were not among those
+who first fought against the settlers themselves, That hap-
+pened only when certain intolerant religious groups, fleeing
+other intolgsatit is groups; settled the northeast and
+began stu ve aia Tha aie in with their
+worldvie a "ke
+to sum
+
+RRatives and
+Royed.
+w did
+
+~ Dre
+
+angrel
+then rose ag:
+felROt a few Ghouls.
+in 20 prisoners had surprises,
+
+_ Embrace more neo!
+the third night fell, no
+in store for their capto; i
+Needless to say, the:
+and the official story al
+misplaced Allied bombing.
+
+astily-drafted Neonates fed well,
+lin was the camp was lost to
+
+Later in this century, when the ecological movement of
+the ‘60s-to-90s arose, we were (and are) with it. It is indeed
+shameful that some of us have taken advantage of the trust
+and idealism of these activists, merely to sate our hunger with
+their blood.
+
+Editor's note: this is me he's talking about, and I don't
+
+Ave .a damn. It's not like environmentalists are an
+
+rate the eco-
+Lupines — who
+\¢ cases were able
+
+fGiieh the then-called
+less sought out
+
+ithe tribesmen of a
+
+omnen who shunned the
+Ose of animals, and who
+de, at any rate) desire for
+
+there are also tales of
+wear skins other than
+
+er of the Gangrel elders in
+
+agié: Most of the Gangrel there have
+
+Uippithe efforts of research scientists to
+
+k the native animals. Removing the
+
+ears of aera caribou and
+
+tanks of oil company vehicles is a
+
+litical force, howe, the power of the
+
+f past. The recent oil'spill, for which the
+
+at least partially responsible(§nd for which they
+
+(Plate, iva perfect example. If thbpalid not wage such
+
+dr with the Lupines, feel the fative Gangrel would
+successful in protecting their territory.
+
+4
+
+All rumors that a female Gangre{Ifichnnu has taken up
+restllence in the Antarctic are false. Pay them no mind
+whatever. Although the long Antarctic nights might allow
+such a person to avoid the sleep of day for months at a time,
+there is little orno fresh blood to be found, and the unending
+cold is too much even for such as us. Even if such a person
+were there, what on earth could possibly interest her in the
+endless waste? No, I'm afraid this belongs to the realm of
+myth. The Garou, too, have myths about this place, as do the
+humans. Enjoy the tales, but pay them no heed.
+
+eel;
+
+Chapter 13
+
+trctic
+
+
+Australia
+For whatever reason, there are a number of Gangrel
+elders there, and the rough-and-ready way they rule their
+sometimes extended territories is reminiscent of the old
+American West. Typical of these is Fenton, a sixth-genera-
+tion Gangrel (Embraced in 1880!) who rules Tasmania. He
+enjoys good relations with his fellow Prince in Victoria, but
+
+things are somewhat more strained with the Brujah Prince of
+Canberra in New South Wales.
+
+Eastern Europe
+
+The few facts dribbling in from old Russia and her client
+states have proven especially hard to confirm or deny.
+
+The tales refugee Kindred present are confusing at best,
+but it appears that a very powerful (which in our circles
+usually means very old) being has appeared on the scene in
+the former Soviet Union. This person or persons is busy
+remaking that part of the world to suit him. This includes
+climinating or subjugating the Kindred active in the area. It
+is even rumored that the current ethnic purges in Yugoslavia
+may be part of this consolidation.
+
+The word is out that Gangrel are to avoid this area,
+though of course anyone who brings back the true story will
+receive a hero's welcome. A number of Gangrel still operate
+in the area, but keep an especially low profile.
+
+The Soviet Disunion
+The Nosferatu claim something awful is going on in
+what used to be the Soviet Union. You've doubtlessheard the
+rumors. All I know is that a member of the German Gangrel
+group Oddindohter (a Valkyrie offshoot) managed to cross
+the border into Smolensk, and what she found terrified her.
+Apparently, a purge of some kind is underway, not only of
+Kindred but of many sorts of supernatural beings. Curiously,
+those clans most predominant in the area seem more inter-
+ested in coveringup these occurrences, rather than attempting
+
+to do anything about them.
+
+France
+
+Eyer the province of the Toreador and certain Brujah
+sects, France has been avoided by the Gangrel until recently.
+Now that the French governmentis aggressively pursuing the
+high-tech industries, those far-sighted Gangrel who survived
+the mess in the Germanys are moving to prevent the same
+from happening in France. Whether they are successful or
+not will depend on the cooperation of other powers.
+
+One thingiscertain:as the cities encroach (Euto-Disney
+was builtona favorite Gangrel haunt), more than afew ofour
+kin turn to madness, violence or drugs to cope with the loss
+of their lands. Many French Gangrel have gone to earth,
+
+
+perhaps into torpor. Some have begun to prey exclusively on
+alcoholics, drugaddicts or Lupines for the rush they gain from
+blood charged with drugs or rage.
+
+And some, chillingly, have retumed to the practice of
+feeding off the mad that was banned when the Masquerade
+was laid down. Now we suspect that the cause is neurochemi-
+cal rather than demonic, butitis clear that feedingexclusively
+from disturbed individuals can bring madness. For some
+Gangrel, deprived of the wilds in which to run, the wild
+dreams of a paranoid or megalomaniac are a likely substitute.
+
+Germany
+
+As the great forests have fallen to the axe, so at last has
+the Wall that separated the two halves of Germany. Every-
+one is glad that travel is less restricted now, but Kindred are
+wary of the UCS.
+
+The recently-forged and still shaky alliance between
+certain tribes of Lupine and individual Gangrel in the Black
+Forest is being tested even now, with the common foes being
+the Sabbat and the industry of Germany, which has had
+many restrictions lifted in an effort to revive a flagging
+economy.
+
+Elsewhere in Germany, Gangrel clash with those clans
+normally inhabiting the cities, as the Gangrel are forced into
+their territory by circumstance. Not all are able to adapt to
+city life, however, and the recent witch-hunts by Lupines
+(written offas terroristattacks by the human press) have been
+directed more often than notat deranged Gangrel. Whether
+the Lupines have been guided by Kindred who fear for the
+Masquerade, or whether the actions of Gangrel lunatics have
+tipped their hands, remains to be seen.
+
+Additionally, recent attacks on foreigners and, espe-
+cially, Gypsies in Germany may well be provoked by the
+Gangrel's enemies. Certain war-like Lupines have been
+associated with racist and, now, skinhead movements, while
+the Ventrue would also gain by destroying what few mortal
+allies we have.
+
+In the Cotswolds of England, most of the country's wild
+Gangrel can be found. In many other parts of the United
+Kingdom, Lupines calling themselves Fianna and the more
+pernicious human mages have hunted us to extinction (or
+into the cities, which can be as bad). Some individual packs
+of the Fianna appear to have taken an oath not to molest
+Gangrel, but explanations of this differ. There are Gypsies
+here also, though they tend to be nearly as "civilized" as those
+in America.
+
+North America
+
+Though Gangrel do not necessarily keep strongholds,
+there are places in this continent where they can usually be
+found, and where a Gangrel may go in hopes of finding help.
+
+There are clefts in the Grand Canyon where a brave or
+incautious vampire may lay down fora day'ssleep in the open
+airand never fear the sun —as long ashis luck holds out. The
+cliffs are simply too steep and close in some places for adirect
+beam of sunlight to reach bottom, but few can pinpoint these
+spots with accuracy.
+
+The United States national forests, once full of both the
+Gangrel and the Lupines, are now mostly empty of either. It
+is in the accidental wilderness that we live now — those
+places forgotten by mortals or overlooked by their greed.
+West Virginia and other "poor" and "underdeveloped" areas
+are our havens, as are those wastelands left behind when the
+profit-makers move on.
+
+South America
+
+The bloody conflicts between the Setites and the Gangrel
+in parts of South America have done neither of our clans any
+service. The Gangrel would do better to ignore the Setites
+and their crops and concentrate on saving their homes in the
+rain forest. Attempts have been made to contact the peculiar
+jaguaroid Lupines of the area, with little success. Apparently,
+however, they have no more fear or hatred for Kindred than
+they do any other outsiders.
+
+Definitely worth investigating.
+
+Chapter
+
+toh ti bb tit th
+
+
+Chapter JJ:
+Gangrel Culture
+
+By Ashton
+
+Having read a little of our history, maybe you'll under-
+stand why we Gangrel are so contradictory. Almost without
+exception, we are fervent loners who prize privacy, but we are
+also avid storytellers, who love nothing more than a night of
+tall tales. Yet, though we are the taletellers among the
+Kindred, we are not its gossips. We keep our secrets well.
+We're often proud, yet we associate regularly with Gypsies
+and similar outcasts.
+
+Moreover, despite being survivors of fantastic tenacity,
+we will willingly place ourselves in danger to "count coup" by
+infiltrating a Lupine tribe. To resolve these contradictions, it
+will be necessary to understand the most fundamental, and
+yet closely-guarded, part of being a Gangrel. I'm speaking of
+course, of the tale.
+
+Through history, many vital cultures have survived with
+only oral traditions. Nomadic cultures in particular prefer
+memories to books, for they are easier to carry, and can adapt
+to any situation or environment.
+
+Acommon facet of cultures which convey their history
+through oral traditions is that they retain memorable stories
+most accurately and for the longest time. Poems, alliterative
+
+verse, and formulaic patterns are common techniques to help
+retain a story intact through generations. So, when two
+Gangrel meet, each is more likely to be able to pass on the
+stories of the other if they are memorable — even more so if
+they rhyme and have a catchy beat. But perhaps we can best
+demonstrate by example. Let us look at a meeting between
+two Gangrel, a more ritualized meeting than most, but
+serving to show the process.
+
+The Reverend, a 12th-generation Gangrel just passing
+through Texas, rouses himself from daylit sleep and changes
+to wolf-form fora night's run. A scent becomes evident to his
+wolf' nose: there is another Kindred nearby! Following the
+trace with all care, he comes upon CJ, an 11th-generation
+Gangrel, formerly a waitress in Philadelphia. After checking
+out the area, the Reverend shifts forms to match C]'s human
+one (the polite thing to do), and approaches, making just
+enough noise for CJ to hear him. CJ, for her part, calls out to
+The Reverend, making it clear he is welcome.
+
+They meet, each recognizing the other for Gangrel by
+the animal features, and decide to make a production of
+greeting:
+
+The Reverend: Well met, sister. May I share your camp?
+
+
+C]: Get your ass over here before you freeze (laughter).
+You're welcome here.
+
+The Reverend: My thanks. I am the Reverend, and I do
+the Lord's work out Arizona way.
+
+C): CJ. Headin' back east. Where you from, anyway?
+
+The Reverend: Coville was my sire, and in the time of
+Jacob the wolf-killer, I was made. Since then I have been
+going to and fro in the earth and walking up and down in it.
+In the desert south of Vegas I happen upon a wanderer named
+Corey, who had been hunted... (he tells the story of Corey).
+
+C): (in a pseudo street-rap staccato)
+
+They call me CJ, and it was 50 years back
+
+a bitch named Mikki took my blood and gave it back
+
+I thought I was sick, I felt so queasy and green,
+
+I felt myself hooked on something I never seen
+
+(She goes on to tell of his Embrace and first hunt)
+
+They will continue to trade stories until each has told
+the other everything he feels is interesting. This is a first
+meeting, so they will start at the beginning. Ifthey meet again
+later, they will pick up from where they last met. A kind of
+"pecking order" is established, as each assesses the alleged
+experiences of the other in light of theit own.
+
+At times this becomes an exercise in one-upmanship,
+swapping increasingly taller tales, though to be caught in an
+outright lie is considered the worst of bad form. The emphasis
+on the truth of the tale varies with the circumstances — at
+times a well-told lie will earn more respect than a poorly-told
+but true story. At other times (particularly in emergencies) a
+careful, complete and accurate report is all that will do.
+
+There is another anomaly in the clan's respect for an
+individual. While many of the traditional Kindred measures
+of status mean little to us, there is one accord unique among
+us: counting coup against the Lupines. If you ever get the
+opportunity to pass fora Lupine, to learn one of their tales or
+skills, or even to steal a hair from tail of one and live to tell
+the tale, you will find you have earned a great deal of respect.
+
+The Civilized Gangrel
+
+For all our love of nature and the wandering life, there
+have been times when by choice or necessity a Gangrel has
+become prince ofa city or territory. This happened briefly in
+San Francisco, in the last century. Ithappened quite recently
+in Alaska, and there are still some Gangrel princes in Austra-
+lia, Usually, they rule with a more open hand than most
+princes. Though styles differ, common among the Gangrel
+princes have been:
+
+a respect for nature;
+
+a desire to maintain the Masquerade;
+
+a disregard for the traditions (exceptas noted later);
+
+and
+
+a tendency to wander their domain in disguise.
+
+They often try running theirdomainsasanomad orpack
+
+animal would. Weaker, elder and more valuable tribe mem-
+bers are kept toward the center of the realm, while patrols of
+
+Clanbook Gangrel
+
+young bucks roam the borders. Even within cities, Gangrel
+princesare known to vary their residences at whim, as though
+some subdued wanderlust were manifesting itself.
+
+Trial by combat is an accepted form of adjudication,
+although a champion may be appointed by the prince for one
+or both parties should an unfair physical match seem to
+prejudge a case.
+
+The Gather
+
+One of the most interesting facets of Gangrel culture is
+the traditional Gathers. One is generally held at each Sol-
+stice, and again at each Equinox. The Solstice festivals are
+generally open to invited guests, while those held on the
+Equinox are secret revels for blood-family or tribe only.
+
+News of an impending Gatherspreads by word of mouth,
+with regular or exceptional events having more draw. A
+really good, regularly scheduled Gather (such as the San
+Francisco-area Redwoods Revel) will draw Gangrel from all
+over the world, but no Gather has ever succeeded in drawing
+the entire clan.
+
+Needless to say, the Malkavians are known to perform
+mockeries of our Solstice festivals at sporadic intervals.
+Fortunately, they have not learned of our secret ones. Or if
+they have, none of us have been invited.
+
+These generally begin with a party (refreshments of
+various types provided by the host), and then turn into a
+storytelling session/boasting contest. Someone is likely to
+start a fight, which inaugurates any wrestling, brawling or
+physical competitions the evening may hold. There is always
+achance someone will fall in the fire — which adds spice to
+an evening — and the inevitable shapechanging contest
+signals the end of the physical pursuits.
+
+At this point, many of the neonates will have toppled
+into drugged or exhausted or battered-near-bloodless sleep,
+but the elder members of the clan will stay awake into the wee
+hours telling tales. During exceptionally successful Gathers,
+the tale-telling may even last through the day and into the
+following night. Itis considered a mark of highest respect for
+a storyteller to so enthrall her listeners that they resist the
+sleep ofday, merely tohear the end of the tale (thoughall will
+head into an enclosed area, with the storyteller continuing
+the tale as they move). Indeed, it is said that old Snorri kept
+anaudience of ancillae awake and gripped by his tale through
+all of Lent.
+
+Finally, the Gather will disperse, each in her own direc-
+tion, there to carry the word of decisions, fights and stories to
+other Gangrel who were not present. Often a reputation can
+be made or destroyed at a Gather in a number of ways. By
+doing or saying something notable, by fighting particularly
+well or poorly, by telling an outstanding story, or by hosting
+an exceptional Gather, a Gangrel can do wonders for her
+standing within the clan. An impressive enough Gather can
+even become a tale unto itself.
+
+
+The Lupines
+
+Editor's note: Ashton is uncharacteristically concise and to
+the point when discussing our fuzzy half-brothers. The essay
+following his fight scene is excerpted from another m.s. — Raoul
+King
+
+The Lupines and Their Ways
+
+by Ashton
+
+They are spoken of with fear, even by Kindred who are
+themselves objects of fear. Most mortals who encounter them
+are so traumatized by the experience that they rationalize it
+away as something — anything — else. One of them is a
+match for any but the oldest and most potent vampire, anda
+pack too much even for that.
+
+They are the main reason most Kindred huddle close to
+their fetid cities, like superstitious cavemen clinging to the
+light of their campfires.
+
+And yet, of all clans, the Gangrel show no fear for these
+most fearsome of beasts. We alone understand them well
+enough tofight them effectively, negotiate with them openly,
+and sometimes even call them friends.
+
+The Lupines have a tribal culture, similar to that of the
+Native Americans. They, like ourselves, prefer an oral tradi-
+tion, though those born human can read and write as well as
+any.
+
+They also hold honor in high esteem, though their
+definition of honor may differ from our own. Their sense of
+honor implies a recognition of duty to the tribe, as well as
+dedication to protecting all life, and the spirit of the earth-
+motheras manifest in Nature. However, they re notpacifists.
+They fight for what they protect, and they most emphatically
+do not include the Kindred among their charges! They will
+slay a vampire on sight, as a literal crime against nature.
+
+They believe us either pawns of or in league with the
+Wyrm, an archetypal force of destruction which I am not
+certain they mean metaphorically. They believe that this
+Wyrm, through its pawns and allies, has wrought destruction
+upon the Earth-mother, to the extent thatit threatensall life
+on Earth.
+
+He ey
+
+==
+
+
+The list of the Wyrm's allies include all Kindred, from
+the most civilized Ventrue to the most depraved Sabbat
+diabolist. As they see it, whether we want it to or not, our
+existence as supernatural beings erodes the Earth. Also
+numbered among her enemies are the demons, ghosts and
+other supernatural creatures which violate the natural order
+of things.
+
+Industries of every description, from oil companies to
+lumber companies to nuclear power plants and automobile
+manufacturers are also on the side of the Wyrm.
+
+Some Lupines wouldalso include the normal humanson
+the planet, who themselves are directly and indirectly re-
+sponsible for the imperilment of Gaia. Others are more
+moderate, comparing the kine to mere sheep, strayed because
+their shepherd has been napping.
+
+All agree, though, that there is another, and potent,
+agency of the Wyrm. I have been unable to learn much of
+these "Dark Dancers," but I believe them to be renegade
+Lupines, who serve the Wyrm and draw dark powers from it.
+
+If there is anything to compare to these turncoats, it is
+the way we the Gangrel are perceived by Lupines. Some
+believe us traitors to our kind because we have on occasion
+hunted Kindred with the Lupine packs. Most would not trust
+us even were we committed enemies of the other clans. But
+some of us have managed to earn the trust of these noble
+beasts. I shall tell how it happened to me.
+
+I have always been one of the fortunate Kindred who
+does not terrify animals, but then I was good with them
+during my sunlit life. As a vampire, I learned over time to
+have even more than an affinity for animals: I found I could,
+to a degree, control them. It made it easy to subsist during
+long treks across the wild, for I could call to me vessels that
+would never betray me. Eventually (and I attribute this to
+drinking so much wolf blood) I learned to change my shape
+to that of a wolf. For those who have never run wild beneath
+the stars, on four swift legs, and breathed the chilly air that
+mankind never has fouled, I heartily recommend the experi-
+ence.
+
+However, on one ofthese nights full moon hung low in
+the sky, and the lone wolf who was to be my night's repast
+seemed strangely resistant to my charms. I finally caught her,
+after the chase ofboth my lifetimes, and when Isunk my teeth
+intohershoulder, Ifeltsucha current of vital energy flow into
+me I thought I would go mad.
+
+This was nothing like the ancient power one feels when
+one is given the blood of an elder. Rather, it felt utterly
+mortal, but of such succulent vigor that it stood by the blood
+of the animals I had been drinking as the long-remembered
+sun stands beside a candle.
+
+I tore myself from her throat, sated though I had not
+drunk her dry, and watched herslink away, then following on
+leathery wings.
+
+
+ge:
+ZZ
+
+She led me to asmall fire in a sheltered cleft, and around
+it lay monsters. Some, like her, were in the form of great
+wolves. Others were — or seemed, that night — wholly
+human. Most were in an intermediate form, hulking shapes
+of varying proportions of wolf and man.
+
+She told herstory to them ina whiny, snapping language
+my empathy for beasts let me glean a gist of. I had not licked
+the wound, and how fortunate | was, for the wound had been
+made by wolf's teeth, and they did not suspect me for what I
+was. Indeed, they thought me one of their own, a Caitiff
+Lupine if you will, lost to those who sired me and stricken by
+the Change without training.
+
+Armed with this knowledge, | returned to the site of my
+attack on her, resumed my wolf-form, and began tracking her
+as a wolf would. Pethaps I was being foolish, but I was yet
+flushed with her blood, and I wanted to know more about
+these creatures.
+
+Well before I reached their group, I was attacked. Two
+syoung wolves appeared out of the brush, and they took turns
+Tunging at me and nipping at my heels. They circled continu-
+ally, making it hard for me to get a good shot at either, and I
+‘was at the verge of resuming my bat-form and fleeing, when
+‘a circle of eyes surrounded me.
+
+ws
+
+1 fought then for all I was worth, doubly handicapped
+because I had to defeat them withoutshowing my true nature.
+They were faster than I, and stronger, though I lent their
+stolen blood to my own strength, but I was much tougher
+than they had expected.
+
+One of them got careless, and sank his teeth into my
+shoulder, but he had done me little harm, and I struck him
+with all my strength. My jaws met in his neck, I gulped a
+draught of his potent blood, and then hurled him aside to
+meet the other. This one fought better, with more wisdom
+tempering his strength, and he would have had me had I not
+done what I'd sworn not to: I lost myself in Frenzy,
+
+As if from a great distance, I watched myself resuming
+(almost) my human form, great claws sprouting from my
+hands, the Beast thudding within me like a great drum. I tore
+him loose from my throat and held him over my head,
+oblivious to the pain, howling my need for blood and ven-
+geance, and then smashed him to the ground and clawed his
+belly open.
+
+With his defeat I gained some measure of control. I was
+able toresume by wolf-form, and gradually the red faded from
+mysight. Amazingly, neither of my foes was dead, and though
+I longed to, I did not heal my own wounds for I could see they
+did not regenerate as we do, but hold on with an incredible
+
+
+vitality while an accelerated but normal-seeming healing
+takes place. (Only later did I learn how little good my healing
+would have done: I carried those marks for weeks!)
+
+The circle around me had narrowed, and one old wolf
+came out to confront me now. He was silver-haired, bigger
+than the others and scarred from many battles. Something
+about his smell told me he was their leader. It was instinct
+that kept me from challenging him. Instead I lay down at his
+approach, not quite baring my neck to him, but submitting to
+his authority, even as a neonate kneels to a prince.
+
+He sniffed me carefully, and seemed slightly disturbed by
+what he smelled, but I was drenched in the blood of his
+people, inside and out, and he at last took my muzzle in his,
+his moon-bright eyes glaring at me the while. Finally he
+released me and moved away, the circle of eyes drifting away
+after him. Soon I was alone in the clearing, and while I knew
+they had not accepted me into their tribe, they had accepted
+me as one of them. My howl of triumph rang beneath the
+moon.
+
+‘The Trust of the Wolf
+
+Others have gained acceptance or tolerance by the
+Garou, some by elaborate magical preparation, others by
+cunning, still others by adventure. Certain of us are able to
+place our mind within the body of a genuine wolf, and thus
+journey forth even in daylight. Some have passed for human
+
+and met the Garou in that form. Others have simply used the
+same powers of obfuscation that work so well against the
+mortal populace.
+
+Trusting the Wolt
+
+Whatever the method of gaining the trust of the Lu-
+pines, if one of us proves herself worthy, the inevitable
+discovery of our nature may not spel disaster.
+
+Once they have accepted a tribe member, they are
+fantastically loyal. Even the revelation that one is born ofan
+enemy race isnot sufficient to break the bond of tribal loyalty
+— though I admit it strains it mightily. Individuals may
+indeed seck your blood in payment for your deception,
+though the tribeasa whole will not. Itisaprecious thing, chis
+ond, and not to be taken lightly. On severel occasions, Ican
+attribute my survival to the bond Inow have with these folk.
+
+By this, I do not merely mean my physical survival,
+though that is certainly welcome, but I owe at least some of
+my Humanitas to them. The Garou have a way of dealing
+with the Beast which Ihave done my best to learn. Inestence,
+they say: Iam a creature born from violence, fated to die in
+violence. I cannot change this. Tan, however, direct the
+violence as I will.
+
+
+Make no mistake: their Beast isnot ours. Theirs is merely
+primitive, while ours is primeval. We can nevertheless learn
+from their example. Iftaking the Beast out fora run can make
+it chafe less at its confinement, perhaps we should try it.
+
+The Lupine Culture
+
+Editor's note: This was part of a longer bit titled The
+Unnatural History of the Lupine. I cut it because most of it had
+todo with old, dead wolves. We've gota lot more to worry about
+
+ith new, living ones. Learn and live.
+There are more than five tribes of Lupine (all of which,
+the way, prefer to be called Garou). Ido not knowall their
+es, but I can tell you some of them. Which tribe one
+ongs to involves not only what one's bloodline is, but also
+der what phase of the moon one was born. Understand
+my research in this area has been hampered by the fact
+Icould not and cannot ask too many questions without
+iscovered for what I am, and so my information may
+tary or incorrect. For this I apologize in advance.
+
+BRIDGES —
+
+And, indeed, there are Gangrel who have taken this to
+heart. When the Beast threatens to overwhelm us, often one
+will flee the situation, take to the woods and the form of a
+wolf, and run down some prey. By acting out the impulses of
+the Frenzy, but never letting the Beast take control, one can
+escape the Frenzy itself.
+
+Some Tribes of the Garou
+The Glass Walkers
+
+This is the tribe most likely to be found in the cities, and
+consequently the most likely to encounter the Kindred. They
+generally havea reasonable attitude toward technology, and
+are consequently distrusted by their brethren and sistren.
+They have among them subdivisions, perhaps famous fami-
+lies. The Philodox are one of these sub-tribes, whose purpose
+apparently is to reconcile the old ways with the new.
+
+Other subcategories of the Glass Walkers are the Bone-
+Gnawers, a scavenger class, and the Were-Hackers, a youth
+movement who seem to be intent on turning technology
+against the Wyrm (including us).
+
+Chapter J)
+
+"4
+}.
+
+
+The Get of Fenris
+
+This warrior tribe includes those werewolves bor under
+the full ofthe moon, and in particular those who intend todie
+gloriously in battle. They are the most fearsome warriors ever
+to take the field, yet their bravery is matched by their
+foolhardiness, They will not hesitate to attack one (or sev-
+eral) of our kind. The Red Talons are a militaristic branch
+who are, if possible, even more extreme.
+
+The Ragabash
+
+These are a tribe of Lupines who delight in trickery,
+mystery and riddles. They are unreliable in the extreme; one
+cannot even expect them to consistently behave unpredict-
+ably. In this sense they have much in common with the
+Malkavians. The only one who seemed at all willing to talk
+tome was an old devil who began our conversation by telling
+me that he knew who and what I was, but that he would not
+give me away because he appreciated the joke. Ashe told me
+(and I see no reason to trust his word), the Ragabash delight
+in infiltrating other tribes, either to do mischief or simply to
+accomplish a difficult feat. I am sure there is much we as
+Gangrel could learn from them if we could trust what they
+say. Apparently there are tell-tale signs by which one can be
+told from a member of another tribe, but I have not learned
+them. I will reveal more of them when I have more to tell.
+
+Che Dancers inthe Dark
+
+Ihave mentioned these beings before, but I wish to
+emphasize again how dangerous they can be. They combine
+the worst of the Lupines with the worst of humans, and
+observe no rules in their search for power. A Gangrel of my
+acquaintance was approached by some of these Dark Ones,
+whose leader was dying and who sought the Embrace as an
+answer to old age. Needless to say, my friend declined, and
+was later attacked by some who sought to take his Vite by
+force. Be warned and beware!
+
+A final note to those who would walk with the moon-
+touched: Respect them and their ways. To us, they may seem
+savages — and they are. To us they may seem uncivilized,
+unlettered and unsophisticated. They are. But what has all
+our "civilization" brought us, but more violence, secret
+struggles and dark despair? Theirs is in many ways a cleaner
+path, and though they do not make the pretensions to
+nobility that many of us do, they are noble creatures. Even if
+you are never accepted among them, you can lean from
+them. They are a dying breed, and we breed their death with
+every childe we sire, Learn from them while they arestill here
+to tutor us.
+
+
+Che Rom
+
+by Dr. Raoul J.King
+
+After my graduation from the University of Michigan
+
+(or was it Minnesota? — damn cold place, anyway), I had a
+Doctor of Journalism to put after my name and absolutely
+nothing to write about.
+
+So I did what any self-respecting journalist would have
+done. I decided to write a book. It was my intention to write
+abook on the hippie phenomenon, following these ancestors
+‘of Jerry's Kids around the country, and incidentally force
+myself to sample whatever degraded pleasures their culture
+shad to offer.
+
+Unfortunately, my editor, a guy who'd been satisfied
+owith a Master's in Journalism and charges dropped, and also
+
+my former roommate, had other ideas.
+
+"Who the hell cares about the hippies?" he said. "The
+
+jole drug scene's old news. President Johnson say
+
+"What's that?" I shouted. "I can't hear you! It's the damn
+
+one!"
+
+"How about the Gypsies?"
+
+"Weren't they sold to Detroit?"
+
+"No, I mean real live gypsies. Wanderers of the world.
+
+iil that ethnic stuff is real hot now."
+
+"What kind of parties they got?"
+
+"Are you kidding? Stolen wine and home-made beer
+around the campfire, gorgeous Gypsy chicks dancing to make
+your eyes water. Fiddle-music to wake the dead. It's a stone
+groove, Gonz. You'll love it."
+
+"How long? How much?"
+
+Tewas long enough, and nearly enough money, so found
+myself on a plane to England, where I met my first bona-fide
+Rom. They were pretty typical of what I later learned of
+European Romany. They stayed pretty much in a circuit,
+traveling from place to place as the weather suited, doing odd
+jobs, stealing anything that wasn't tied down, and generally
+making not quite enough of a nuisance of themselves to be
+unwelcome.
+
+At first, they were standoffish, even hostile as they
+define hostile. They kept trying to sell me stuff, to rip me off,
+totell my fortune. Even after told them 1 was writinga book,
+they persisted in trying to get money out of me. I thought of
+itas charmingly naive, thinking there was money to be had
+from a writer, and told them so. They just smiled and offered
+to tell me how it would sell.
+
+Atlast [hit upon a stratagem that won their confidence.
+After a long night at a local pub, I was incarcerated for
+liberating a tavern sign to which I had taken a fancy,
+damaging said sign on the helmet of a police officer, and
+fleeing arrest (would have made it, except I was holding my
+
+
+pants up with one hand — but if you want the whole story,
+go buy my book The Gypsies: A Strange and Wonderful Saga of
+the Modern Nomads.)
+
+After my release, I found their attitude toward me had
+changed. Evidently the police had asked them questions
+about me, since I had been seen in their company, before
+letting me go. When I retuned, Jorge, the man I had been
+trying to talk to, welcomed me like a brother.
+
+"Why did you not say you were a dilo, my friend? Your
+kind is bacht— what you call lucky. You are welcome here at
+my fire."
+
+J stayed with them for nearly a month, learning their
+customsand some baby-talkin Rom, and when they prepared
+to move on to Liverpool to meet up with some friends, I was
+invited to go with them.
+
+Their kumpania was part the traditional Gypsy caravan,
+with painted wagons and horse-drawn carts, and part mod-
+em, with a trailer and two antique station wagons. My
+battered rental Land Rover wasn't too far out of place.
+
+During the time I traveled and camped with Jorge and
+his kumpania, I learned a great deal about the Rom that I
+hadn't known, and some things I haven't seen reported
+anywhere else.
+
+For instance, even though we had been together many
+weeks, Inoticed Jorge kept his two daughters, ages 10 and 14
+or $0, well away from me. I asked Jorge if he didn't trust me
+with them.
+
+"Trust you? Of course I do, as much as any giorgio. But it
+isnotdone, to let the Romany girls be too near a man. They
+are too beautiful. So from a friend we remove temptation."
+
+Talso learned how to steal a chicken: you tie a piece of
+string to.akemel of corn, and toss it down to where the bird
+can get to it. Once it eats the corn, you can lead it home by
+the string in its crop. The gypsies kept chickens of their own,
+but never ate them. When I asked why this was so, Jorge told
+me they kept a chicken of each color so that any telltale
+feathers wouldn't give them away; a suspicious farmer could
+be shown a chicken of whatever color he was missing,
+
+Acquiring a pig was nearly as easy: one of the kids would
+squish a sponge down into a lump of lard and peg it til it
+hardened, then feed it to some farmer's pig. After the animal
+ate the lump, the lard would mele, the sponge would expand,
+and the pig would die of a blocked intestine. Then a few gypsy
+kids would "happen" by, and buy the dead pig on the cheap
+"for their dog."
+
+These carny-style cons and hoaxes were perpetrated
+again and again while I journeyed with Jorge. Most of them
+relied on a rough psychology that any Freudian could profit
+from.
+
+But they had a sense of honor among themselves and
+everyone they considered friends. Once I lost a pen, a cheap
+retractable I had stolen from my hotel, and one of the kids
+walked over a mile to return it to me.
+
+JSST
+
+The same standards did not apply to outsiders. Some
+called them gaje, other giorgio, but all agreed they were not
+worthy of an even break. I watched two Romany men with a
+horse so old it must have been endangering the horse-
+masquerade. Rather than put the beast down with a syringe
+or a bullet, they fixed it up to look as healthy as possible,
+filling the pits in its teeth, staining the gray from its coat,
+inflating the hollows in its face with a straw — the perfect
+appetizer for breakfast, incidentally — and then sold the
+animal to some poor son-of- a-bitch farmer they primed with
+home-made hooch. Later, when he complained, they turned
+around and accused the poor bastard of mistreating the beast.
+"Look how sick it looks now! It was always healthy with us!"
+
+Of course, among themselves, the Rom play no such
+tricks.
+
+‘That is how I knew the Rom when I still breathed for a
+living. Itwasn't many years later —only alifetime, in my case
+
+that I got to see the other side of the Gypsies.
+
+I was in Toronto, for health reasons, and I had a pack of
+
+lunters on my ass. The trailer-park outside of town had
+med like a good place to lose them, but these bastards were
+tenacious as hell, and I swear they could smell me! Anyway,
+Hi was feeling pretty desperate when I saw a patrin, a sign that
+meant Gypsies were near. I whistled the tune Jorge had
+taught me, that identified me asa friend of his kumpania, and
+sure enough, one of the older men at a nearby fire perked up
+is ears and called me over. They had a big trash-fire going,
+and were sitting around it on uptumed cinder blocks. I gave
+them a name, they did the same, and probably all of us were
+ing. But I wasn't in much of a bargaining position.
+
+"Look," I said, "there are some folks on my ass who want
+
+to kill me, and they probably won't be any too gentle with
+iyone they find with me. I hate to bring trouble to you, but
+‘I'm desperate. Can you hide me?"
+‘The guy —Iwas pretty sure he was the baro of this bunch
+looked at me closely, and asked, "These men, are they the
+police?"
+
+"No, they're, ah, free-lance talent, but they're pretty.
+Mevermined. And i'm not sure they're all men." Shad to wam
+him somehow.
+
+He eyed me again. "Come."
+
+I followed him to his vurdon, a silver-sided trailer that
+had been very expensive a very long time ago. I stepped
+inside, amazed as always at the sumptuous clutter inside a
+eon The sky outside was light enough that I could see
+
+"Do you havea place alittle darker? I'm going to have to
+hide all day ... the trunk of a car, maybe?" I hadn't said
+ything about being Kindred, but my sire, in one of his
+ative moods, had said that the Gypsies were in on the
+squerade, and I had heard stories ... I still couldn't bring
+
+
+"You are mulasi, then?"
+
+Thadn't heard the term. "I guess so."
+
+"You do not steal from family."
+
+"No. I try not to steal what I need — "
+
+"Good. You can dig?" He gestured at the scorched
+ground,
+
+"I can do better than that. But — "
+
+"Go, hide down here. We will talk tomorrow night." He
+turned away and strode back the way we'd come.
+
+I sifted into the ground; before I slept, I could hear him.
+and others moving around above.
+
+T awoke to the sound of stamping and pounding above
+me. I panicked for a second, but I could tell the sounds were
+dying down rather than getting nearer. If there was trouble,
+I didn't want these poor bastards taking all of it — just the
+parts I couldn't handle. I had my pistol out when I emerged
+from my hiding-place, but the only people there were Samed
+and some of his men. The stamping | had heard was the sound
+of them putting out the fire that had been burning above me
+all day long!
+
+When he saw the expression on my face, Samed just
+laughed. "Youhadagood day'ssleep, eh? You don't care what
+happens besides?"
+
+Irepressed a shudder. "I guess not. Whathappened when
+they showed up?"
+
+"Youwere rightabout them, I think. One at least was not
+altogether a man. He seemed brutish, more an animal thana
+man, and I think he tracked you by smell to my eurdon. But
+he followed to the fire, where I and my brothers were telling
+paramitsha — what you call ghost stories.
+
+Clanbook Gangrel
+
+"They ask if we have seen anything unusual, any ghosts.
+Lask to share what they are drinking!" He slapped his knee.
+"They do not like to be made fun of, these serious men and
+almost-men. They tell me great harm will befall me if we
+allow the ghost to pass. I promise them ifI see the ghost I will
+throw him in my fire. See how I keep my promises! They are
+nothappy, but they sniff around some more and then leave."
+Heegrew serious fora moment. "But youare wrong, my friend.
+One of them was a policeman. He did not wear the unlucky
+black uniform, but I could smell him a cop. Be careful."
+
+"Thanks, I will. So, why the hell did you hide me,
+anyway?"
+
+He shrugged. "My grandfather told me, if one of your
+kind came to us and knew our ways, we could trust him. He
+said long ago we shared the same grandmother, so many of
+your kind are Gypsy by blood — at least a little bit." He
+smiled, "He also said, though it was not lucky to have you
+here, when you left you would carry away all the prikasa, all
+the bad luck of our kumpania."
+
+"Sure. Your bad luck is probably better than my good
+luck, anyway."
+
+"Bater! Now, though, we dance, and you will do some
+tricks for these young ones to show them their old man is not
+foolish to believe the old tales!"
+
+This we did, and I gortoattenda Gypsy party once more,
+this time more as a observer than participant. Samed kept by
+me through the festivities, both to keep an eye on me, I'm
+sure, and to show his fellows that he wasn't afraid of me.
+Before long, I was as accepted as I've ever been among the
+living, perhaps more so since these folk knew what I was and
+didn't care, as long as I didn't bother them.
+
+Thad never quite lost the knack of eating and drinking,
+and I did a little of both. It put the folks more at ease. In
+response to my small tricks to demonstrate my unnaturalness,
+they showed me feats of trickery, juggling, sleight-of-hand,
+and maybe something more. In all, it was the best party I'd
+been to since I died.
+
+Samed told mea few old stories about his kind and mine,
+including a tale of a Gypsy woman who died and came back
+as a Kindred to tend her child each night. She was nursing it
+from her breast (vitze, I'm sure) and eventually the baby died.
+The mother had to be put down to protect her husband and
+his tribe. Samed didn't belabor the point, but | wassure they'd
+know just what to do if I violated their hospitality.
+
+When it was time for me to go, several members of the
+company pressed gifts on me, most of them small twists of
+cloth. Samed explained that they were tangible representa
+tions of the curses and bad luck I would take with me when
+Ileft.
+
+They made a big fuss over me as I left, though I noticed
+while some actually broke into tears at my going, none asked
+me to return. I didn't say anything about this, but I expect I'd
+do the same. Samed told me a few shortcuts to get me on my
+
+way south, and recommended the best place in TO for
+boosting a car that wouldn't be missed. Then he hugged me
+like a brother and I left.
+
+And that was the Gypsies as a Kindred and Gangrel. I
+can't swear you'll do as well. A few hints, though:
+
+Don't mess with them unless you can avoid it. Why take
+chances?
+
+Don't tell anyone from another clan about it. They
+might get pissy about the Masquerade, or just take advantage
+of the Rom and lose us some allies.
+
+Try the older, more traditional Rom first. They're more
+likely to remember the tales Samed's grandfather told him.
+
+Treat them right! Do not mess with them. Don't flirt
+with their daughters, don't drink from their dogs, nothing.
+Don't even mention blood (almost all bodily functions are
+taboo; talking of them brings bad luck)
+
+Take whatever they give you with you. Samed told me
+Thad to hang onto the prikasa items until I lost them by
+chance, someone offered to take them, or I could sell them.
+Tost the damn things when I wrecked my stolen Ford on a
+treacherous gravel road — you figure out whether it was the
+bad luck or just crappy Detroit steering,
+
+
+Be
+
+TheMa ing of a Gangrel
+
+‘Ashton's recounting of the birth of a Gangrel is impos-
+sibly labored and a litele out of date. Here's what happens as
+I see it:
+
+Reasons
+
+Anybody who thinks there's only one reason for making
+someone else into a night-wandering bloodsucker is either
+crazy or a Tremere.
+
+I've heard of it done because, "I loved him," or "I hated
+her." I've heard of it done because the mortal had valuable
+skills the Kindred wanted kept alive, and I've heard it done
+because it amused the creator.
+
+The Hunt
+
+Since telling the tale ofa Creation is worth a warm drink
+at another Gangrel's camp, it's your duty to make it as
+dramatic as possible. Most prefer to hunt their prospective
+childe. This can be a traditional hunt, culminating in run-
+ning the childe down and Embracing him, ot it could mean
+sneaking up on him when he'ssleeping. Joshua's popular tale
+
+(true or not) is of Embracing a woman so quietly and deftly
+that she went to sleep a mortal and woke a vampire! In any
+event, the Change should provide a good story, and show off
+the skills of both sire and childe.
+
+The Change
+
+Before abandoning your new progeny, custom has it that
+you leave the sorry bastard with a full stomach — either fill
+her full of your blood, ot leave a likely vessel laying around
+somewhere. You will not contact her again until and unless
+you judge her worthy of the Gangrel.
+
+The Kid's Might Out
+
+A this point she's on her own —as far as she knows. It
+is considered very bad form to interfere with your fledgling,
+but you've got to keep an eye on her. If you can keep the poor
+fledgling from violating the Masquerade, all the better. In
+any event, ifshe makes it on her own (your option as to how
+long is long enough), you can go see her again and introduce
+yourself. If you're the shy type, mail her this book (that is,
+after all, why we're printing it). Then bring her along to the
+next Gather. Congratulations! It's a Gangrel.
+
+
+pide eed td tft
+
+The Gangrel Forms
+
+*:
+
+_ The Gangrels' many forms aré well known among Kindred, and equally feared. Each form isa mix of the characters own
+Thus,
+
+werewhen
+
+S first changed. While older Gangrel can often assume many different forms, the Shadow of the Beast only allows the ‘
+
+character to take those of wolf and bat.
+
+‘The Wolf
+
+The wolf form provides the Gangre! with a wu Ee
+
+Che Bat
+
+‘The most obvious advantage of turning into a bat is the
+flicht. B: avaho3 cal ondioted
+
+character's Physical Attributes, but subtracts ‘one from Ma
+nipulation. Also, th
+
+of the wolf — boosting his power of hearing, smelling and
+taste.
+are themselves boosted by the Discipline.
+
+Furthermore, the wolf form lets the character bite hav-
+ing previously grappled the target, and attacks with the bite
+orclaws are both rolled against dificult of five. Addition-
+ally, the ch his horizontal j
+per success while in wolf form, and can run faster as ae
+decreasing related difficulties by one.
+
+There are some disadvantages to this form as well.
+Obviously, the character cannot engage in fine manipula-
+tion, nor can he carry anything which will not fit in his
+mouth. Humans are unlikely to stick around when a large
+wolf is prowling about, and urban Gangrel quickly leam to.
+keep an eye out for the dogcatcher.
+
+12 mph for sustained flights. Kindred with Celerity can
+increase these speeds with the use of blood, and those with
+Fortitude can fly at high speeds for longer times.
+
+In bat form, a vampire loses two points of Strength, but
+gains a point of Dexterity. Also, contrary to popular belief,
+bats are not blind. Still, in this form a character has the
+benefits of bat sonar and all the advantages that entails.
+
+Also, the character cannot engage in any fine manipu-
+lation, and ean ony cary items which inher claws Bats
+
+10 pound:
+flying. The fabled man-bat form can be gained as a Merit or
+a seventh-level Discipline.
+
+ly when not
+
+
+
+Chapter JJJ:__
+The Gangrel and.~
+Others
+
+by Raoul King
+
+In general, the clan members think of the Camarilla as
+a necessary evil. Face it, a lone Gangrel in the middle of the
+Yosemite Park hasa lormore to lose by breaking the Masquer-
+ade than does a boardroom full of Ventrue.
+
+So, while most Gangrel think the Camarilla is preferable
+tothe alternative, there existsan unwritten alternative tothe
+paths of anarch or Camarilla pawn. Autarkis are those who
+neither obey nor defy the Camarilla — they just avoid it.
+Officially, the Gangrel deplore such Kindred. In fact, they g0
+out of their way to aid them.
+
+Iewill be easiest to understand this if I just show you the
+Traditions as practiced by today's Gangrel:
+
+1. Acceptance
+
+If you come to a city where you think the prince will
+accept you, by all means announce yourself. Ifnot, go in and
+lay low —very low. Dependingon the prince, it may be better
+to let them think you're an anarch than get caught trespass-
+ing.
+
+2.Domain
+
+(Once again, it's worth paying attention to, ifit's not too
+much trouble. Always remember, though, that unlike most
+Kindred, your feet aren't nailed to the ground. To quote a
+noted ghoul: "There is no problem so big it cannot be run
+away from."
+
+3.Becoming
+
+The hell withtheprince. Who's theprince of Yellowstone
+Park, Death Valley or the Grand Canyon? Talk to your sire
+about this (if you can find her) — for advice if nothing else.
+You need to be careful making other Kindred, if for no other
+reason than they will be competing for your spot on the food
+chain, Old, "suicidal" Gangrel have been known to pass on
+their blood before ending an existence that has proven
+unbearable—a sensible move froman ecological standpoint.
+
+4. Accounting
+
+Yeah, right. There's a reason we pick ‘em independent
+—so we don't have to deal with this bullshit.
+
+S.Serecy
+Damn good idea. Lone Gangrel are more vulnerable to
+a secrecy breach than most city-dwellers. Watch it!
+
+6. Destruction
+
+This is another one of those rules that just doesn't apply
+on the open road. As our Gypsy friends say (with a different
+meaning), "On the toad, each man is his own prince."
+
+
+Ralitions with Other Kindred
+
+Clans of the Camarilla
+@rujah
+
+They're animals (andII say this with sincere apologies to
+any part-time animals reading this). But they have the right
+idea about cooperating with the Camarilla (don't) and the
+right idea about how to party (unconditionally). They also
+like to fight, which endears them to many. They're fast
+buggers, but they don't have claws to speak of.
+
+Watch out for the old ones, though. They think too
+much.
+
+Malkavian
+Most of the Malkavians are crazy, and the rest are just
+plain sneaky. That doesn't mean you shouldn't listen to
+them, just don't believe a word they say. The sneaky ones
+won'ttell you the truth and the crazy ones wouldn't know the
+truth if it was fed to them intravenously.
+
+Nosferatu
+
+Don'tlet their looks fool you—these guys stick together
+better than any clan except the Tremere, and the Tremere
+cheat
+
+The Nosferatualso have an information networksecond
+tonone, and they may be willing to share news. They really
+don't have much of a sense of storytelling, preferring literal
+truth to dramatic necessity, but they are well worth cultivat-
+ing as a source of information.
+
+Toreador
+
+Most of these fops are absolutely worthless, not even
+worth the trouble to stake ‘em out and give ‘ema suntan. At
+least they're not actively malevolent.
+
+Some of them can write, though. They tend to waste
+their time on experimental plays and films, (not to mention
+deconstructionist criticism), but some can spin a good yarn.
+
+Party with them, but don't expect to fit in. And don't
+trust them with a burnt-out match.
+
+Cremere
+They'te manipulative, organized, secretive, and treach-
+erous. Trust one the way you woulda Ravnos with your sister.
+Only very occasionally, when your interests coincide, can
+you work witha Tremere—and then you'll becomea liability
+as soon as your usefulness is ended.
+
+
+The Ventrue are the closest thing the Kindred have to
+professional politicians, which is why they are shunned by all
+sensible undead. Some of what they do may need doing, but
+itis scarcely worth supporting these (figurative and literal)
+leeches to do it. The next time you meet one, borrow his
+handkerchief, and give it to the next pack of Lupines you
+meet. They should be able to follow the scent.
+
+NYon-Camarilla Clans
+Anarchs
+
+Okay, so they're not a clan. So sue me.
+
+What can you say about a group that doesn't want
+anything todo with the Camarilla, chat would justassoon see
+the whole bunch get a tan, except — more power to them.
+
+Assamites
+
+I only heard about these guys through a friend, who
+claims the whole bunch are really the Assassins of Hassan-i-
+Sabah, made immortal by their undead master, and carrying
+on his secret plans for world domination. As far as I'm
+concerned, that's about as good an explanation as the Single
+Bullet Theory. Whatever they are, I'm sure they knew
+exactly what they were doing when they started emulating
+the assassins of the good old days, and I'm sure they're pretty
+damn dangerous when they want tobe. Steer clear, especially
+in the Mideast.
+
+Caititt
+
+Anybody who doesn't know her sire or thing one about
+the Camarilla is a Caitiff. They rise from all kinds of acci-
+dents, including being sired by a Gangrel who gets killed
+before he can declare himself to his progeny.
+
+So, if you meet one of these unfortunates, give ‘em a
+break. Try to minimize her chance of blowing the Masquer-
+ade, and see if you can't point them at the anarchs or get
+someone to adopt them. It's happened.
+
+But some of these sorry sons of bitches are a lost cause,
+destined for a lurid end on the front page of some sleazy
+tabloid. Your best bet then is to pull out and make sure none
+of your people are around when they blow.
+
+Ravnos
+
+Asdifficultas it may sound, these sleazy bastards manage
+to give both Gypsies and Gangrel a bad name. In Eastern
+Europe, where they first grew to prominence, the older
+Gangrel tell ofa fiery Gypsy witch, skilled in the magical arts
+ofillusion, who seduced a vampire lover to gain his power. He
+betrayed the secrets of the Kindred to her, and in she in turn
+betrayed her tribe in exchange for the Embrace. Out of such
+deception, the old Gypsies say, were the Ravnos born.
+
+Butold Gypsies are notorious liars... In any event, avoid
+them if possible, sic somebody on them if not. We'd all be
+better off without them.
+
+Followers of Set
+Idon't know about you, but !'m kind of leery of vampires
+who worship the "god of darkness." Wasn't Set the devil of
+Egyptian mythology? Call me crazy, but they just don'sound
+like my idea of a good time.On the other hand, I hear that
+icy nave teat eaten ierad comand caching sic tan
+fill nepee co avay.
+
+Giovanni
+Idon't know much about them, but I understand they
+helped one of our clan who asked for sanctuary at their
+ancestral mansion. On the other hand, one of them com-
+pletely wiped a Gangrel and a Brujah they ran across in a
+business deal. Don't borrow money from them.
+
+Other Sects
+
+JInconnu
+
+T've only met one Inconnu, and that was pretty much by
+accident. This one may once have been a Gangrel (don'tfool
+yourself, they're beyond caring about clan loyalties and all
+that). In any event, he seemed sympathetic to the Gangrel
+cause. Maybe the fact that most of these guys were born when
+the world was covered with forest makes them appreciate our
+tree-hugging clan. I don't know.
+
+Sabbat
+
+My humble opinion is that these bastards are the most
+honest bunch ofus around. Make no mistake aboutit, they're
+creeps. But at least they don't run around bemoaning lost
+humanitas,and generally actingas though ourexistence were
+anything more than the in-flight movie on the trip to hell.
+On the down side, this makes them a real bitch to be around.
+I certainly don't want anybody around who behaves worse
+than I do. If you want to really piss one off, laugh at him —
+but make sure you've already got one foot in the woods.
+
+Hunters
+
+If you ever get honest-to-God vampire hunters on your
+ass, get the hell out of Dodge. Most of these guys have seen
+‘way too many horror movies, get me? Go dig a hole and pull
+it in after you.
+
+With that bit of advice over, let's look at the known
+groups that are a threat to your unlife:
+
+The Arcanum
+
+I know it's heresy to say it, since these guys are close to
+cracking the Masquerade if anyone is, but they're such
+harmless old farts! It's not that you can take one to dinner or
+
+
+anything, but they just can't seem to get it together enough
+to blow our cover.
+
+For those of you who haven't heard, the Arcanum is a
+loose affiliation of academics, cabalists, and occult investiga-
+tors benton uncovering everything Man Was Not Meant To
+Know. Cross a UFOlogist with the protagonist in an H.P.
+Lovecraft story and you've got the idea.
+
+Every generation ot so (from what I hear), a senior
+member decides it's time to publish their findings on vam-
+pires, public outcry be damned. So a committee is appointed
+to bring the records up to date, another is set to cataloguing
+physical evidence, a third starts cross-referencing previously
+published materials, everyone involved starts bucking for
+tenure so they won't be ruined when the story breaks ... and
+nothing ever gets printed. I'd suspect someone was being
+boughtoff, except that havingseen Congressand universities
+at work, Idon't think it's necessary. The workings ofacademe
+and bureaucracy are sufficient.
+
+Steer clear on general principles; but don't sweat blood
+over them.
+
+The Inquisition
+
+Did you know thatstatistically speaking, the Inquisition
+is also relatively harmless? At least to Kindred, it's the truth.
+Ashton talked to someone who audited their books, and
+estimates they murder 80 humans and near-humans forevery
+Kindred unlife they take.
+
+Ofcourse, who knows how many of these are committed
+by the actual Order of Leopold, and how many by splinter
+groups, renegade membersand wannabes, but Ashton trusted
+his source and I trust him, The worst thing you can do here
+is act like a vampire, thus drawing their attention, or piss off
+
+Special Rules for Gangrel
+
+Note tothe Storyteller:
+
+Vampire is, above all else, a storytelling game, and we
+have done our best in this supplement to tell itasa story from
+within the gothic-punk world of Vampire. Now, however,
+we have some rule-specific information to present, so we
+must step back into the allegedly real world.
+
+What follows is a set of supplementary mechanics for
+telling stories about Gangrel. As with all rules in Vampire,
+they are optional! If one of these offends you, pluck it out! If
+a tule doesn't seem to go far enough, or inspires you with a
+better idea, by all means change it. You may wish to keep
+these secret from the players, as in-depth stuff to be leamed
+later from their elders. Above all, do what you think will
+make the story more interesting and enjoyable for everyone
+— not just you, not just the players, not just the Gangrel.
+Good luck!
+
+someone who turns you in just to get rid of you (something I
+imagine happens more often than most of us would care to
+admit).
+
+On the other hand, once you get these people on your
+ass, you're in the shit. These fanatics have been doing this for
+generations, they know as much about us as any mortals, and
+they're not afraid to use a hammer to kill a flea. Most of the
+humans they kill probably die from smoke inhalation when
+the Inquisition burn down a whole apartment building to get
+at the one vampire inside.
+
+Label them more dangerous than an incumbent politi-
+cian. If you know these guys are in town, you're obligated to
+report them so word can spread. I'd make the call froma car
+phone, if you catch my meaning.
+
+US.Government
+
+Although they aren't widely known as hunters, the good
+old U.S. government does maintain an interest in us, |
+understand the FBI is nominally in charge, but there are
+rumors that the CIA has been up to something Kindred-
+related in South America. As I hear it, the FBI hunters are
+some kind of inner cabal, agents who've run across vampires
+during their duties and are then swom to secrecy and put to
+work digging up clues to prove our existence to the rest of the
+world.
+
+Fortunately, except for a few incidents in the Pacific
+Northwest, we haven't had too much trouble with the FBI.
+The Forestry Service, on the other hand ... Did you know
+these guys spend you and your victims' tax money to build
+roads so that loggers can get to the old forest, chop down all
+the trees and pay the "Forestry Service" less than it spent on
+the road? I mean, hookers go to less trouble for a customer. |
+hear that individual park rangers have found outabout either
+usor the Lupines, but can't confirm the rumor. Let me know
+if you hear anything.
+
+New Gangrel Merits an? Flaws
+
+Generally, these are to be chosen only when creating a
+character, though the Storyteller may wish to make one of
+these available retroactively toacharactercreated before this
+work was published. They are meant for use with rules
+presented in The Players Guide.
+
+Superstitious (Cwo-point flaw)
+
+The character has misconceptions about what he is. In.
+the absence of a sire, he becomes what he believes himself to
+be. "Hollywood-itis," the belief that one has the powers and
+limitations of one of the several movie vampires, is the most
+common form. A more severe manifestation (possibly worth
+more points to the Storyteller) is a Gangrel who believes
+himself a Lupine.
+
+
+Ruse of the Wolfs Clothing (Twe-point merit)
+
+In animal form only, the vampire still smells alive, even
+to the super-sensitive nostrils of the Lupines. This is essen-
+tially a "Baby Face" merit for altered forms, and may include
+other lifelike symptoms at the Storyteller's discretion, as well
+as a defense against the werewolf gift Sense Wyrm. If this is
+the case, then the Storyteller may well want to increase the
+cost of this merit.
+
+Gift of Proteus (One, two or four-point merit)
+
+This merit allows the Gangrel to "fine-tune" the shapes
+achieved by the Protean Discipline. The number of points
+spent determines the scope of the variation, which must be
+specific, approved by the Storyteller, and defined when the
+merit is chosen.
+
+Examples:
+
+For | point, the character can vary the special effects.
+The character may modify the incidental effects of a form.
+Red Eyes might glow an eerie green instead of red.
+
+For 2 points, the character may achieve a minor varia-
+tion on a form. For instance, a player may determine the
+actual breed of wolf which her character may become.
+
+For 4 points the character may make a significant varia-
+tion in one of the Protean shapes, (as longas itisstill a shape
+traditionally associated with Vampires), such as becoming a
+black cat instead of a wolf. Among the forms traditionally
+ascribed to Vampires were those of cats, crows, black dogs,
+wolves, toads and bats.
+
+Further Gangrel Disciplines
+Adaptability (Protean Level 6)
+
+With this discipline, a vampire can adapt himself to one
+particular extreme environment. Extreme cold, heat (short
+of Celsius 200°, the Kindred-kindling temperature), even
+deep-sea pressures or the vacuum of space may be endured
+with varying comfort. Note that the ability to survive the
+environment does nothing to protect you against other
+hazards. A deep-sea-going vampire might still be eaten, and
+a space-traveller had best avoid the sunlight.
+
+Communicating with Lupines
+
+If you have Werewolf: The Apocalypse, there are
+several modifications you might want to make in your game.
+Several tribes hold differing views of Kindred. In particular,
+those most likely to be sympatheticor to tolerate the Gangrel
+are the Silent Striders, the Stargazers and the Uktena. The
+Glass Walkers are more inclined to be open-minded than
+most, but they aren't particularly close to the nature-loving
+Gangrel. The Shadow Lords are another possibility, but they
+are likely to be hiding something ...
+
+Needless to say, the Black Spiral Dancers (of whom.
+Ashton has heard only rumors) are likely to be interested in
+contacting vampires, but only Sabbat members would have
+nothingto lose from such an exchange. Every other tribe will
+kill a vampire (Gangrel or not) on sight, except in the most
+‘outrageous of circumstances.
+
+
+Ingratiation 101
+
+A Gangrel attempting to pass for Garou will need acover
+story. She must preferably pretend to be a homid (a human-
+born werewolf), since this will account for the lack of
+familiarity with Lupine culture. "Lost children," or those
+with Lupine blood that the Tribes are unaware of, are greeted
+with great joy, for the Garou are no longer a fertile race, and
+fewer still breed true.
+
+Nonetheless, times being what they are, suspicions run
+high, and the Lupine optimism will be tempered with a great
+deal of suspicion. It is even possible that a Gangrel may pass
+for a werewolf and still be suspected of being an enemy —a
+Spiral Dancer, for instance.
+
+Note that certain Skills can keep the werewolves from
+
+nga vampire. A skill in Masquerade with
+aspecialty of "Lupines," or Subterfuge skill plus Animal Ken
+might work. Various Disciplines can have similar effect.
+
+A note of clarification: the Garou Gift Sense Wyrm will
+usually detect any vampire with a Humanity less than seven.
+Others should be safe, though at the Storyteller's discretion,
+such practices as Diabolism or Thaumaturgy may also give
+one aways
+
+Lupine Lore
+This isa very important Knowledge for anyone expect-
+ingto infiltrate the Lupines. It may be possible to findan elder
+Gangrel who will be willing to work with a Neonate and
+teach her this skill, but most likely it will need to come
+through experience.
+
+Lupine Language
+
+The "language" of growls, barks and nonverbal commu-
+nication making up the Lupine lingua franca is also quite
+useful. Note that whomever teaches this skill invariably
+passes on their own "accent," so depending on the teacher, a
+character may give away more than they realize by convers-
+ing in it. Once again, an elder Gangrel willing and able to
+teach this skill will be rare, but possible.
+
+Lupine Combat
+
+Kindred with the Protean discipline may be able to learn
+the principles of the Lupine martial arts. Most of the tech-
+niques involve shapes other than the human, often with
+shifts from one to the other. Subject to the limita-
+tions of her shapeshifting ability (see below) a Gangrel may
+become as proficient as time and teachers (and experience
+
+points) allow.
+
+
+Lupines can assume five forms — Homid (human),
+Glabro (near-human), Crinos (Wolfman), Hispo (near-wolf)
+and Lupus (wolf), Of these, (and assuming a Gangrel with
+Protean discipline), the human, wolf, and near-wolf forms
+are reasonable easy. At the Storyteller's discretion, a suffi-
+
+tly bestial Gangrel with claws may be able to pass as a
+Glabro. Only a true monster (and master of Protean disci-
+pline) can pass for a Crinos. The Storyteller may wish to
+provide for a special spell, ritual or Merit that may allow a
+Gangrel to.assume this half-form, or make it one of the sixth-
+level Protean Disciplines.
+
+Lupine Skills
+
+Certain of the skills of the Lupines may be available to
+Gangrel who have become accepted or tolerated by the
+Garou. Any skill that for one reason or another would require
+accommodations to teach it to a vampire (a sun-ritual dance
+or some such) cannot be learned by a Kindred character
+moving covertly among the Garou — obviously, only if the
+Garou teaching the skill is aware of the true nature of her
+pupil will she make the accommodations needed. One of the
+most important skills a Gangrel can leam is Rituals.
+
+Rituals
+These can be leamed as the Garou skills outlined in
+
+Werewolf. The restrictions about covert vampires apply as
+for other skills, but many of these will not be taught to any
+
+known vampire, however trusted. Among those which might
+be available, perhaps the most interesting from a Vampires
+standpoint is the Rite of Spirit Awakening which allows a
+
+character to awaken a sleeping spirit into action, or Rite of
+the Open Bridge, which opens Moon Bridges. For a Gangrel
+rouse this ritual, she musthave access toa cae andso forth,
+just as the Lupines do.
+
+TheUmbra
+
+The Garou spirit-realm is notnormally open to the likes
+of Vampire, who are readily distinguishable there by the
+cloud of haunting spirits (victims? tormentors?) that cloak
+them, and the fact that their "souls" are murky, almost faded-
+looking. Only powerful rituals allow Kindred to "step
+sideways."
+
+Cricking the Lupines
+
+Kindred cannot learn Lupine Gifts, as these inolve
+ancient Garou spirits. However, they can use their own
+Disciplines to duplicate them, and should do so if they are
+trying to stay undercover.
+
+Ifthe focus ofa story is a Gangrel attempting to deceive
+one or more Garou into accepting her as their own, you have
+the opportunity to tell a very powerful tale. The wearing of
+masks is always revealing; if nothing else, the choice of mask
+tell us about its wearer. In this same way, the deception being
+practiced may give you the chance to explore the nature of,
+the Beast, the funny way in which we tend to become the
+things we pretend we are, and the tangled web we weave ....
+
+You may also be able to generate some sympathy for the
+noble Garou, which most vampires view as creatures out of
+nightmare. Finally, you may be able to raise questions about
+the Kindred and their ways. If you do your job properly, the
+players may question whether the Garou are right, and the
+ceaseless bickerings of the Kindred are serving the Wyrm in
+leading this world toward destruction. And, if this is the case,
+what (if anything) do they intend to do about it?
+
+
+
+Chapter JJJ):
+
+~
+
+Gangrel Templates
+
+You should have a good idea of the variety of characters
+available to a Gangrel. Feel free to create one that is not
+typical of the species: most of the interesting ones aren't.
+However, in any Gather there will be some typical Gangrel.
+Here are examples to use for character inspiration, or when
+the Storyteller needs an instant supporting character.
+
+The templates presented here are similar to those in
+Vampire. The Natures and Demeanors given here are
+samples only, You can easily alter these templates to fit your
+concept of how you would want to run the character. Some
+Natures/Demeanorsare taken from the additional selections
+given in The Players Guide.
+
+
+Archon-in-Craining
+
+Quote: Yeah, go ahead and do it. I'm sure the elders
+wouldn't mind. Of course I'll back you up. Go ahead.
+
+Prelude: Violence is it. There's nothing you like better
+than wading into a fight, arms and legs flailing about and
+whacking everything in sight. The trouble with being
+mortal, however, was that one good fight could get you in
+more trouble than you wanted. You tried all the socially
+acceptable avenues — sports, the military, marriage —
+but even being a cop didn't give youall the opportuni-
+ties for beating heads you wanted.
+
+Thenaskinny old lady made you proposition you
+couldn't refuse. After throwing you around your apart-
+ment fora while, just to give you an idea of her strength,
+she made you. ghoul, and set you loose battling something
+called the Sabbat. You went about your work with pleasure,
+and she wasso pleased with your success thatshe gave you the
+gift of the Kiss.
+
+While you still work with your Mentor on occasion,
+you've found that there are foes everywhere for you to
+fight. Indeed, the Camarilla seems to have made
+a point of amassing as many violent foes as
+possible, and you couldn't be happier.
+
+Generally the sect leaders condone
+your actions, since you usually fight
+anarchs, but you've learned there are
+some times when even a vampire should
+avoid aight. Still, on the whole, you see
+yourselfon the rightcourse— leg breaker
+now, Archon tomorrow.
+
+Concept: You pick fights at a
+
+moment's notice. You know you're good
+enough towin most ofthem. Even ifyou're
+not, you'll still have fun until you lose.
+You're willing to work with anybody to
+further your purpose (fighting) but know
+better than toadvertise your role in starting
+the battles.
+
+Roleplaying Tips: Not all Gangrel are
+laconic outsiders. You're very social, and
+other people generally enjoy your presence
+— until you start beating on them. Try and
+talk other people into starting fights, and then
+act as though you're either coming to their aid
+
+‘orpounding on them to preserve the Masquer
+ade. Your coterie should respect you for your
+power, but know better than to get into a fight
+against you.
+
+Equipment: Any weapons you desire
+(though brass knuckles are your preference),
+
+Yamaha Venture, leather jacket.
+
+Clanbook Gangrel
+
+
+VAMPIRE: The Masquerade
+
+Nature: Bravo
+Demeanor: Director
+Concept: Archon in Training
+
+Generation: 9th
+Haven:
+
+Sey
+Physical
+Strength
+
+Attributes
+Social
+
+Charisma, @00000
+
+Perception. @@000000
+
+Dexterity.
+
+Wits,
+
+Stamina,
+
+o>
+
+Rey
+
+Talents
+Acting. 00000000
+Alert:
+
+Abilities
+
+on'
+Knowledge
+
+Computer. 00000000
+
+Athletics,
+
+Etiquette.
+
+Finance.
+
+Brawl.
+
+Firearms.
+
+Dodge.
+
+Melee.
+Music.
+
+Empathy.
+
+Law.
+Linguistics,
+Medicine.
+
+00000000
+
+Repair.
+Security.
+
+Occult,
+
+Streetwise.
+
+Stealth,
+
+Politics.
+
+Survival,
+
+Science.
+
+=e
+
+a
+Disciplines
+is 90000000
+
+Advantage
+
+Bac junds
+Generation @@00@0000
+Mentor
+
+Protean, @@000000
+
+Resources
+Status
+
+0000000
+
+vw
+
+opm Other Traits —«--
+
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5_ Virtues:7 Freebie Point
+
+oo Humanity —-—
+@eeeee0000
+
+<om— Willpower ——~--
+@eeeeeee000
+Ooooooo0o000
+
+comm Blood Pool ——<--
+
+Ooooo0o00o0o
+Oboo0o0000000
+
+<v— Weakness —---
+GAIN ANIMAL FEATURE WITH
+EACH FRENZY
+
+5 (7/5/21)
+
+
+Babe inthe Woods
+
+Quote: Excuse me? Drink what? You mustbe out Ever since then, your sleep cycle has been hor-
+of your mind! \ ribly messed up. You find it impossible to wake
+Prelude: You liveda relatively normal life, \ y up before the sun has set, and always go to
+until recently. You grew up in a world that A i sleep before day break. Needless to say,
+didn't have room for things like vampire f \ your school work has suffered and your
+and werewolves. The strangest thing that N \ \ friends tease you about being a vampire
+ever happened to youwashavingsome 4 | — something you know to be impos-
+one call you on the phone just as you‘ ( : ) sible.
+were thinking of him. Concept: You haven't the faint-
+Throughout childhood, high school " est idea what has happened.to you. As
+and college, nothing about you stood far as you're concerned, talking to the
+out. The only feature which separated animals makes you Doctor Doolittle,
+you from your peers was your remarkable | 9 not some kind of monster. You may
+talent at crafting stories, a skill you shared even have a Derangement that makes it
+with none but your closest friends. So you difficult for you to remember exactly how you
+grew up in uneventful fashion, happy get yoursustenance. Yourallies are your
+with your place in the scheme of family—theoneplace youhave
+things. always been able to turn
+for solace.
+
+Then, one night in
+
+college, you went to Roleplaying
+a party hosted Tips: You can
+by some artist do this either
+friends. Youmeta as a total in-
+professional story- nocent, in which
+teller there who spun case you may eam
+the most amazing tall the enmity of your
+tales about the strang- fellow players, or
+est beings. Youwerealso youmay simply be
+rather taken with the "playing along"
+storyteller, which ac- to find out what
+counts for your agreeing weird thing has
+
+happened to
+you. In either
+case, youshould
+use this charac-
+terasafoiltopoint
+up the atrocities of
+the Kindred exist-
+ence.
+Equipment:
+From typical human
+pocket items to none
+whatsoever.
+
+to a date with a relative
+stranger.
+
+After he brought you
+home, the two of you stayed
+up late, spinning stories and
+swappingtalesuntil the themes
+turned tohortor. This was the
+cone category he could top
+you in, and you sat with
+rapt fascination as the
+hours slipped away. As
+dawn neared, you sug-
+gested he sleep at your
+apartment, and he agreed.
+When youwoke, however,
+itwas the next night, and
+he had left.
+
+Clanbook Gangrel
+
+Lt. Gangrel-t.
+
+VAMPIRE: The —
+
+Nature: Martyr
+Demeanor: Conformist
+
+et tll
+
+eae
+
+Sire:
+Generation: 11th
+
+Attributes:7/5/3_Abilities:13/9/5_Disciplines:3_Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+ee
+
+t Jie ll
+
+Chronicle: Concept: Babe in the Woods ~~ Haven:
+SSO 0" Attributes $o9r0<>
+Physical Social Mental
+Strength Charisma. Perception. @@000000
+Dexterity A i 1
+Stamina. Wits. @@000000
+epeie yon
+SOs Abilities POPC
+Talents Skills Knowledge
+Acting. @0000000 Animal Ken, #8000000 Bureaucracy. 00000000
+Alertness_ @0000000 Drive. #8000000 Computer. 0000000
+Athleti @0000000 Etiquette. Finance.
+Brawl__ 00000000 Firearms. 00 if i
+Dodge. 90 Melee. 00 Law.
+Empathy Music. 00 Linguist
+Intimidati Repair Medicine.
+Leadership Security. 000000 ~— Occult. 00000000
+Streetwise___00000000 Stealth. #0000000 Politics, 0000000
+Subterfuge___ 00000000 Survival, @0000000 Science. @000000
+<SOso" Advantage: Lo7O<>
+Disciplines Backgrounds Virtues
+lis Allies
+Fortitude Contacts
+Protean, Generation
+oo0000000 Resources Self-Control,
+00000000 00000000
+Courage. 0000
+Ses O=<>
+ey
+om Other Traits——e — -— Ht ity nee Health
+Storytelling 00000 @ © 8 CCOCCCEO Bruised oO
+History 000000 Hurt 410
+Soo: peal Sea
+oooov000 8 9 8 OO H0000 Wounded 2 O
+ooooooond COOOOOO000 Mauld 2 0
+00000000 Crippled 5 O
+00000000 Blood Pool Incapacitated =O
+00000000 we
+ccoo0000, OXOOOOOOUC  Gananmat FEATURE Wirt
+sespece? EEO RES OOC EACH FRENZY
+
+
+
+Appendix: ~~.
+
+angrel of Note
+
+Play
+
+the game if you read on. You have been warned!
+
+please read no further: the following material is for the Storyteller's eyes only, You will lessen your enjoyment of
+
+Storyteller: Here are some interesting Gangrel that should not be used by players, but instead provide some ready-made
+
+char:
+
+ters for the Storyteller to incorporate or deri
+
+inspiration from in her Chronicles. Feel free to change the specifics;
+
+players may ignore these warnings and read what they shouldn't. But they'll be sorry!
+
+Dr. Raoul King
+
+Raoul King, Ph.D., Journalism, was something of a rebel,
+even by the standards of the 1960s. He delighted in seeing
+those in power brought low, and the particular school of
+journalism to which he belonged, known as the Gonzo
+school, did not recog
+press. Indeed, Gonzo journalists do not believe the reporter
+can be separate from the story.
+
+Accordingly, it was 1968 in Chicago, at the Democratic
+Convention, and Dr. King was busily becoming part of the
+
+e the professional detachment of the
+
+Night for details on the evening's events). King had not
+intended to get this far into his story, and was not thrilled at
+a tum of events he couldn't even make public — his death
+and subsequent resurrection,
+
+But after a fairly difficult period of adjustment, he has
+turned his talents to uncovering and reporting on what he
+perceives as corruption in the world of the undead.
+
+His Status among the Kindred as a whole is low — his
+occasionally muckraking tactics are not winning him any
+
+d hiselders, and the fact thathe considers his jot
+
+riot. Ashton, a 10%
+was using the riots and subsequent disruption of the Kindred
+society to create afew unauthorized progeny (see Chicago by
+
+done ifhe makes story "public" to the other Kindred seems
+inadequate to the younger vampires.
+
+He does a little better among the Gangrel, sinc
+than anything else, they enjoy a good story.
+
+oe
+?'
+
+oP esl
+
+Ree) Sena ea |
+
+Appendix
+
+leo |
+
+Pe
+
+
+Karen Anotos
+
+Karen had inatedb h
+was quite young. Naturally, when her agent found her a part
+flick, she threwherselfinto the part. She was the
+
+bright spot in an otherwise mediocre movie, and those who
+
+take notice took notice, She won part after part, and though
+typecast, sh di
+
+of when they wanted a vampiress.
+She also developed a devoted fan following, not all of
+whom breathed. When she was Embraced by a well-
+intentioned undead fan, she knew what had happened even
+though her benefactor didn't stick around.
+Us Fekava i
+the scripts of her own lurid films. She has what is without a
+doubt the worst case of Hollywood-itis on record.
+
+
+Harbard
+
+The Gangrel leader of the Black Forest hasa difficultjob
+to do. First, he has to watch out for the German industries,
+which are chopping down the forest at an increased rate, in
+an effort to jump-start the Unified German economy. Sec-
+ond, he has the largest Lupine population in Europe in his
+domain. Fortunately, Harbard is a resourceful man. He has
+managed to make his two enemies fight one another, and
+even ally himself somewhat uneasily with one of them (the
+Lupines). Now, however, he has to worry about the new
+presence in Russia, as do mostof the supernatural inhabitants
+of Europe.
+
+Recent events in the Black Forest have given him a
+bargaining point with the indigenous Sabbat tribe: their
+leader was caught trying to penetrate into Faerie, lost atrial
+by combat, and was given over to Harbard by the Folk as
+punishment. How he will use this chip remains to be seen.
+
+
+pot td did
+
+Waelkyrige
+
+Notan individual, bura group of warrior women, whose
+leader has been documented in A World of Darkness. They
+are literally the choosers of the slain and their title and
+alized intoa religion. The Norse faith, part iculaly, hadroom
+in itfor blood-magic, and these Gangrel were a part of it, The
+Valkyries were not considered any less the messengers of
+Odin for the fact that they were Kindred, just as the faithful
+would not mind the Ten Commandments being engraved in
+mere stone: the material at hand is what is used,
+
+The role of the Valkyries was that of battle-fates: They
+could appear in a significant battle to swing the tide to the
+benefit of one side. As they chose the slain, there were two
+options available to them. They could drink a vessel dry,
+granting him death in battle (having one's blood drunk by a
+Valkyrie counts), thereby guaranteeing him a place in the
+afterlife, Or they could grant him temporary but real immor-
+tality in the physical world by Embracing him.
+
+Note that the Norse did not see a dichotomy between
+the temporary immortality granted by the Embrace and the
+immortality given to one who is taken to Asgard. Even
+though most Kindred believe there is no hope for their souls
+save Golconda, the Norse believed that even a revenant
+could redeem himself in the eyes of Odin and gain the boon
+of death in battle, and a subsequent place at the Table of the
+Einherjar in Valhalla.
+
+In any event, these daughters of Odin have awakened,
+and believe the time of Ragnarok (the Norse Armageddon).
+is near. Led by Brynhild, they have been consolidating theit
+position (as they see it) and have been Embracing many, of
+the combatants in recent battles, in order to build their
+power. As their number has grown, splinter groups
+formed. One of these, Oddindéhter (a radical feminist s
+is responsible for much of the intelligence arriving, from
+Russia.
+
+
+The Gangrel relish their reputation as
+the most mysterious of the Camarilla
+clans, but even their secrecy cannot
+stand forever. Now learn the secrets of
+these enigmatic vampires — their
+history and legends, their allies and
+enemies, and the truth of their
+relationship with the fearsome Lupine.
+There is good reason why they stand
+at the forefront of every vampiric we
+none can stand against them.
+
+ta)
+
+Clanbook: Gangrel includes
+
+© The history of the clan and
+its unique view of the world;
+
+* 10 sample characters suitable
+for players and storytellers; and
+
+© how the Gangrel run with
+the werewolves and the
+powers they gain.
+
+ISBN 1-56504-046-5 i
+WW 2052. $32000°0S D N y
+
+ii al

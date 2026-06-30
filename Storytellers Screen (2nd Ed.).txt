@@ -1,0 +1,1868 @@
+# File: Storytellers Screen (2nd Ed.).txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+
+
+
+
+Combat Summary Chart
+
+Stage One: Initiative
+
+© Roll Wits + Initiative (difficulty 4). The winner de-
+clares her action last (after she has heard everyone else's
+actions) and performs it first.
+
+* Declare Dice Pool division if performing multiple A
+eeeee Superb actions.
+Ue : © Declare any Rage point expenditures (maximum of
+Ditftialties character's Dexterity rating).
+Stage Two: Attack
+Difficulti
+bacon) © For firearms combat, roll Dexterity + Firearms.
+, ¢ For melee (with weapons) combat, roll Dexterity +
+Routine
+Melee.
+¢ For hand-to-hand (without weapons) combat, roll
+Standard Dexterity + Brawl.
+© Dodge: roll Dexterity + Dodge. A character can forfeit
+Difficult some orall of his Dice Pool to dodge atany time; each success
+subtracts one from the opponent's successes.
+Degrees of Success
+Stage Three: Resolution
+Two Successes Moderate * Roll damage, determined by weapon or maneuver
+(difficulty 6).
+Four Successes Exceptional © Soak damage: roll Stamina (difficulty 6).
+General Complications
+5 © Changing Actions: The difficulty increases by one.
+Experience Chart © Immobilization: The difficulty to hit an immobilized
+Trait Cost target is decreased by two.
+Stunning: When Health Level damage exceeds Stamina
+Ability current rating x 2 rating, the target is stunned and cannot act next turn (a Rage
+point will counter the effect).
+Gift Level of Gift x 3 |
+
+Spirit Combat Table
+
+Stage One: Initiative
+current rating ¢ As above. Spirits roll Willpower for initiative.
+
+Stage Two: Attack
+
+* Roll Willpower (difficulty 6) unless a Charm is being
+used (refer to the Charm description)
+
+© Dodge: Willpower (difficulty 6), or split Willpower
+Gauntlet Dice Pool between attack and dodge.
+
+Stage Three: Resolution
+
+© Roll Rage (difficulty 6); one Health Level of aggravated
+damage is inflicted per success (Garou can soak this with a
+Gnosis roll, difficulty 6); one Power point per success is lost
+if the target is a spirit.
+
+* Soak damage: spirits cannot soak damage.
+
+Willpower current rating
+
+Area Typical Gauntlet
+Inner city
+
+Rural countryside
+
+Typical active caern
+
+Mie presrese cer Difficulty for Rage Rolls
+
+Difficult
+
+Moon Phase
+
+Stepping Sideways
+
+_ Successes Shift Time
+
+5 Gibbous
+
+Failure; may not try again for another hour
+
+30 seconds
+
+If the Garou is in Crinos form, the difficulty is decreased by
+one.
+
+db _——
+
+
+Brawling Chart Health Levels
+Maneuver Roll : Difficulty ; Damage = Actions | Baird
+
+Body Slam Dex + Brawl 7 Special
+
+Grapple Dex + Brawl 6 Strength ; ‘1
+
+Punch Dex + Brawl 6 Strength if
+Special Maneuvers*
+
+Wounded 2
+| apa
+Fur Gnarl Dex + Brawl 8 Str +1 + Special? z
+Jaw Lock Dex + Brawl 6 Special 1 ye
+Taunt Man. + Exp. Opp. Wits +4 none 1 Fs
+t These maneuvers do aggravated damage.
+* These maneuvers cannot be used by a character in frenzy. wr
+
+Firefight Complications
+
+Complication Difficulty Dice
+
+Melee Weapons Table
+Weapon Difficulty Damage Conceal
+
+Grand Klaive 7 Strength +4* T
+* This is a silver weapon; Garou cannot soak this damage Only head exposed +4
+
+Immobilization 2
+
+Point-blank
+
+Behind pole +2
+
+Aiming + Perception (1/tum)
+Armor
+
+Class Armor Rating Penalty Specific area of target +2
+
+Class Two (armor T-shirt) 2 0
+Class Four (flak jacket) 4 1
+
+Full-auto +3
+
+5+l1/yard +10
+
+Movement Rates Chart
+
+Movement Distance (yards per turn)
+Homid Glabro Crinos* Hispo Lupus
+
+12 + Dex 12 (14) + Dex x15
+
+* Number in parentheses applies when quadrupedal
+x = Multipliers are applied to Homid movement rates
+
+EN
+
+ls ii /,
+
+a 7 eee
+
+Firearms Chart
+
+Type Difficulty Damage Range = Rate Clip Concealment
+Example
+
+this is considered a long-range shot.
+
+Rate: The maximum number of bullets or three-round bursts the gun can fire in a single turn. The rate does not apply to full-
+auto or spray fire.
+
+Clip: The number of bullets that can be held in one clip or in the barrel. The +1 indicates a bullet can be held in the chamber,
+making the gun ready to fire.
+
+Concealment: P = can be hidden in a pocket; J = can be hidden inside a jacket; T = can be hidden inside a trenchcoat; N =
+cannot be hidden on one's person at all.
+
+* indicates the gun is capable of three-round bursts, full-auto fire and sprays.
+
+** The crossbow is listed to accommodate those characters who wish to use one to stake vampires. However, unlike a firearm,
+it does not add attack successes to the damage Dice Pool. Additionally, a crossbow takes five turns to reload.
+
+Dorging Cover Difficulties
+
+Difficulty Cover Difficulty
+
+Behind pole +2
+
+4 Fullcoverwithin diving distance (one
+yard) Only head exposed +4
+
+a Yo) 1598 STONEGATE IND. BLYD.
+"ota Sach,
+
+7 Partial cover within running dis-
+tance (three yards)
+
+Revolver, Hvy. i 6 35 iy 6 J
+Colt Anaconda (.44 magnum)
+Pistol, Hvy.
+Sig P220 (.45 ACP)
+SMG, Small* 7 4 25 3 30+1 J
+Ingram Mac-10 (9mm)
+Assault Rifle* 7 7 150 S 42+1 N
+Steyr-Aug (5.56mm) meee |
+Shotgun, Semi-auto 7 8 20 3 8+1 Ty
+Fianchi Law-12 (12 gauge)
+Range: This is the practical range of the gun in yards. A character may fire ona target at up to double the listed range; however,
+
+CAME STUDIO
+
+aaa 7 7S.
+
+a=
+
+Delirium Chart
+
+Willpower _ % of Popul Reaction
+
+Panic: Just get away! The person moves as far away from the Garou as his feet can carry him —
+gibbering, screaming, and ignoring obstacles such as plate-glass windows and 30-story drops.
+
+bizarre reason, this individual displays no reaction to the Garou's appearance whatsoever. If
+spoken to, she responds, politely and casually. Why?
+
+Feats of Strength Falling Damage
+
+Dice Pool Feats Lift Distance (in feet) Injury
+
+10 Two Health Levels
+30 Four Health Levels
+10
+
+5
+
+2 Break a chair 100 Ibs.
+4 Break a 2" x 4" 400 Ibs.
+
+6 Throw a motorcycle 800 Ibs.
+
+8 Break a three-inch lead pipe 1000 Ibs.
+
+Six Health Levels
+
+...and so on, to a maximum of 10 Health Levels.
+
+Rip open a steel drum 1500 lbs.
+
+Fire Damage
+
+Break a metal lamp post 3000 Ibs. Difficulty
+
+Heat of Fire
+
+Throw a van 5000 Ibs.
+
+5 Heat of a torch (second-degree burns)
+
+Berserk: In blind, frenzied fear, the human takes some sort of action — any sort of action. She
+might run down the street breaking windows, or might actually leap upon the Garou, tearing
+with her fingernails at "the monster."
+Conciliatory: The person, though doing her best to remain calm and placate the beast, is on
+the verge of collapse: "Okay, okay, | —I'll do whatever you say, just don't hurt me, please!" She
+will try to do anything she possibly can to avoid getting hurt.
+Curiosity: This individual might be the stereotypical absent-minded researcher, or just a loon
+who thinks the Garou is Bigfoot's love child via Elvis's clone, but in any event he will be
+fascinated rather than frightened, even going so far as to study the Garou (at a safe distance).
+This sort is often the most likely to rationalize things later on.
+
+10 0.5% No Reaction/Blasé: This person either has nerves of steel or a brain of Jell-O. For whatever
+
+Jumping 2 Heat of a chemical fire
+
+Roll: Strength + Athletics Woands Sikecf Rice:
+Difficulty: 3 (varies)
+Type of Jump _—Feet per Success
+
+Homid Glabro Crinos Hispo Two Bonfire; half of body burned
+
+
+By James Moore
+
+The following stories are designed to fit into the
+Storyteller's ongoing chronicle. All city locations — and
+even the location of the pack's caern — should be decided
+by the Storyteller. Names and locations are given in the
+stories for ease of use, but if the material presented works
+better with alterations, the Storyteller should not hesitate
+to change what is needed. While the stories are complete
+and ready for use, space constraints have necessitated
+limiting the information presented for many of the second-
+ary characters. Storytellers should feel free to provide this
+information themselves.
+
+Battle Maps: All of the adventures presented here come
+complete with battle maps, for use with either miniatures or
+cardboard standups. Please consult: the miniatures rules in
+the Werewolf rulebook (pp. 247-249). Each battle map
+presents specific physical challenges for the characters, and
+special emphasis will be placed on these challenges.
+
+Non-player Character Traits: Each encountered per-
+son has a Health Level chart. These charts are designed to
+be checked off as the NPC loses each Health Level, begin-
+
+ning with "OK" and continuing to "Incapacitated."
+
+© 1997 White Wolf Publishing, Inc. All rights reserved. Repro-
+duction without the written permission of the publisher is expressly
+forbidden, except for the purposes of reviews, arid blank character
+sheets, which may be reproduced for personal use only. White Wolf,
+Vampire the Masquerade, Vampire the Dark Ages and Mage the
+Ascension are registered trademarks of White Wolf Publishing, Inc.
+All rights reserved. Alon, Werewolf the Apocalypse, Wraith the
+Oblivion, Changeling the Dreaming, Werewolf the Wild West, and
+Werewolf Screen Second Edition are trademarks of White Wolf
+Publishing, Inc. All rights reserved. All characters, names, places and
+text herein are copyrighted by White Wolf Publishing, Inc.
+
+ATLANTA, GA 30021
+
+Waite Wotrl USA
+GAME STUDIO
+
+The mention of or reference to any company or product in these pages
+is not a challenge to the trademark or copyright concerned.
+
+This book uses the supernatural for settings, characters and themes.
+All mystical and supernatural elements are fiction and intended for:
+entertainment purposes only. Reader discretion is advised.
+
+Check out White Wolf online at
+
+http://www.white-wolf.com;
+rec.games.frp.storyteller
+
+PRINTED IN CANADA.
+
+alt.games.whitewolf and
+
+OLE CP LT is ES teenie //,
+
+|
+
+
+ee
+—N
+
+Story One: Camera Shy
+
+Stop the presses!
+
+~~ Any overzealous newspaper editor
+
+Plot Outline
+
+A local contact informs one of the characters that there
+will be photographs of "a strange herd of creatures, possibly
+a whole tribe of Bigfoots" in the next issue of The Nation's
+Pulse, a locally published "news magazine" with national
+distribution. There is a very real threat that someone has
+taken photographs of the sept's moot, held only a few days
+before. Worse still, the tabloid is being printed by Bane-
+ridden machinery capable of weakening the Veil.
+
+With no other information available, the characters
+must risk open exposure in order to capture the photo-
+graphs. The informant has no idea who the photographer is,
+nor any knowledge about the layout of the newspaper's
+offices. Above all else, the Garou must use secrecy to
+achieve their goals. Here is a story where wits, not claws, are
+needed to win the day.
+
+Theme
+
+The theme of "Camera Shy" is responsibility. Photo-
+graphs of werewolves are appearing in newspapers, and the
+Veil may be compromised. The characters discover the
+
+a
+
+potential leak, and it is their responsibility to discover what
+is really going on.
+
+Mood
+
+The mood of "Camera Shy" is one of urgency and caution.
+The pack must enter the offices of the local newspaper and try
+to retrieve the photographs and negatives of the werewolf
+pictures. Let's reemphasize that: into the offices of the news-
+paper, a place with many reporters and many photographers,
+and probably a few security guards. The pack must stop the
+werewolf photographs from being published, but they must
+also avoid confrontation. Worst of all, che newspapet's offices
+are in the heart of the city.
+
+Battle Map Challenge
+
+The combat challenge in "Camera Shy" comes from
+close quarters. The hallways in the tabloid's offices are only
+one yard wide (one hex). A Garou in Crinos, Hispo, or
+possibly Lupus form (depending on exact build) is simply
+not going to be capable of moving freely in the hallways.
+Leaping in these forms is effectively impossible.
+
+Crinos or Hispo cannot even walk the hallways side by
+side; they must move in "single file" formation. Attempts to
+traverse the corridors in any other way will increase diffi-
+culty numbers substantially. Even in Homid form, Garou in
+this area cannot stand in the same hex without some form
+of penalty. As a rule of thumb, any activity involving
+motion suffers a difficulty increase as follows: Homid +1,
+Glabro +2, Crinos +4, Hispo +3, and Lupus +1.
+
+Additionally, the rooms all have low ceilings — only
+seven feet in height, with doorways that are six feet in
+height. Most forms are unaffected, but Crinos (and perhaps
+Glabro) suffer problems when running about (+1 to all
+Dexterity difficulties).
+
+Scene One: Informer
+
+A werewolf's Contact, or even one of her Kinfolk that
+just happens to know someone at the paper, tells her about
+the pictures scheduled to appear in the next issue of The
+Nation's Pulse. The paper is already hyping the pictures,
+with radio spots and even a large advertisement about the
+four-page spread of exclusive photos.
+
+The following information can be gathered by the pack
+if they peruse the tabloid or question their informer:
+
+© The photographer's name is Tom Detweiller. He
+previously received a Pulitzer Prize nomination for a port-
+folio of powerful photos documenting Desert Storm. He
+always retains the rights to his material, and frequently
+releases his pictures to syndication. His agreement with
+The Nation's Pulse allows the tabloid first dibs on any local
+news photos. If the pictures and negatives are not seized by
+the pack immediately, there is a very real threat of national
+exposure; Detweiller's name carries some clout in journal-
+istic circles.
+
+2 Storytelling Screen
+
+LE PT DE time //,
+
+
+Detweiller is a local resident, but his address and phone
+number are unlisted. The only possibility of gathering more
+information on the man is actually to.go to the newspaper
+offices.. The informant can provide absolutely no more
+information about Detweiller.
+
+© The latest issue of The Nation's Pulse gave special
+thanks to Margaret Agatha Henderson, a woman who
+recently passed away, leaving most of her fortune to various
+animal shelters and to the paper. Mrs. Henderson also
+donated a very large and somewhat antiquated news press
+to The Nation's Pulse, adding a message in her will: "I leave
+this press to The Nation's Pulse, the only paper in our great
+nation that is bold enough to tell the truth." Since the last
+issue's headline clearly stated that a grotesquely large woman
+on the cover, the one with the photographically touched-
+up bear cub in her arms, had just given birth to "Elvis'
+Martian Love Child," it is fairly safe to assume that the late
+Mrs. Henderson was a bit...eccentric.
+
+In the event that the pack has no informants or simply
+does not read the newspaper, one of the sept's elders will
+send the characters on the mission. The elder will strongly
+advise the pack to go after regular business hours, to avoid
+unwanted attention.
+
+The sept's elders can also provide the following informa-
+tion: A metis of the Glass Walker tribe recently investigated
+the newspaper. He was never seen again. He did, however,
+make a phone call to one of the sept's elders. The call was cut
+short, ending in the sound of gunfire. Most assume that he was
+killed while at the tabloid's offices. He had just enough time to
+explain that the recently inherited press was actually a gift to
+the paper from Pentex, the new owner of The Nation's Pulse.
+He explained that the presses are actually a gigantic fetish, one
+designed to reduce the effects of the Delirium. Everyone who
+reads the paper will actually be more inclined to believe the
+pictures are real, whether they are or not.
+
+Scene Cwo: Eyewitness Yews
+
+The pack's next steps ate: to retrieve the photographs
+and negatives before they can be published, and to destroy
+the presses. As stated above, this task must be handled
+carefully; any blatant use of Garou talents will likely cause
+many more problems. Above all else, the pack must be
+subtle. The newspaper is located in an old, two-story
+warehouse building. Employees set their own hours, and
+there are usually at least a few workers on the premises at
+any given time of the day or night. There are also security
+guards. Half a dozen Crinos tearing through the offices will
+certainly be noticed.
+
+The first floor holds the design and layout offices of the
+newspaper (in the front of the building), and the presses
+themselves (in the rear). The presses occupy approximately
+two-thirds of the first floor.
+
+The second floor is used primarily as storage and is
+accessible only through a door that leads from the reception
+area. A security door connects the two floors; it is locked
+after regular business hours. Use the Strength Chart on pg.
+
+212 of the rulebook to determine whether or not a charac-
+ter can force entry; the Strength required is 5. Because of
+the area's high crime rate, the original owners had all of the
+windows on the second floor bricked in; there isno entryway
+from the second floor.
+
+The Nation' s Pulse is located in a rather dismal section of
+the city and has only two accessible entrances. The front
+entrance is not locked, but a guard sits at the receptionist's
+
+desk after 6:00 p.m.
+
+The only other point of entry is located at the back of the
+warehouse, where the presses themselves are located. Two
+sliding warehouse doors, closed but not locked at the
+present time, open onto loading docks. This is where trucks
+arrive early in the morning (about 4:00 a.m.) to retrieve the
+newly printed papers. (This section is not detailed on the
+battle map.)
+
+The Gauntlet rating here is 8. The Penumbra-scape here
+is filled with an unholy noise — the screeching of the
+presses, which constantly attracts new Banes. A huge,
+amorphous blob — a Bane — can be seen where the presses
+are located in the physical world. It sits perched atop the
+presses, its tentacles buried in the paper-feeds. (See The
+Press Bane, below.)
+
+The presses begin running at 12:00 midnight, printing
+copies of the story and pictures of the "Bigfoot Family" —
+which are, indeed, pictures of Garou in Crinos form. Life
+will be considerably harder for the pack should these photos
+see print.
+
+
+A
+
+ne A
+
+Security
+
+Barrier Strength
+Second floor security door 5
+Lifting loading doors (from outside) 3
+Breaking loading doors 6
+Sneaking (Dex + Stealth roll) Difficulty
+Front offices (before midnight) 7
+Front offices (after midnight) 5
+Press room (before midnight) 6
+Press room (after midnight) 4
+
+The Guards
+
+Physical: Strength 5, Dexterity 3, Stamina 6
+
+Social: Charisma 2, Manipulation 2, Appearance 2
+
+Mental: Perception 3, Intelligence 2, Wits 3
+
+Talents: Alertness 2, Athletics 2, Brawl 3, Dodge 2,
+Intimidation 3
+
+Skills: Etiquette 1, Firearms 3, Melee 2, Stealth 2
+
+Knowledges: Law 1
+
+Fomor Powers: Immunity to the Delirium, Heightened
+Strength and Stamina
+
+Willpower: 6
+
+Health Levels:
+
+Guard #1 (Reception area): OK, -1, -1, -2, -2, -5,
+Incapacitated
+
+Guard #2 (Office B): OK, -1,-1,-2, -2, -5, Incapacitated
+
+Guard #3 (Office B): OK, -1, -1, -2, -2, -5, Incapacitated
+
+Guard #4 (Press room): OK, -1, -1, -2, -2, -5, Incapaci-
+tated'
+
+Equipment: Light revolvers, billy clubs
+
+The General Staff
+
+Physical: Strength 2, Dexterity 2, Stamina 2
+Social: Charisma 2, Manipulation 2, Appearance 2
+Mental: Perception 2, Intelligence 3, Wits 1
+Talents: Alertness 2, Expression 1
+
+Skills: Etiquette 2
+
+Knowledges: Investigation 1, Law 1
+
+Willpower: 6
+
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+Bruce (Donaldson
+
+(See "Office D")
+Physical: Strength 3, Dexterity 4, Stamina 2
+Social: Charisma 2, Manipulation 4, Appearance 3
+
+Mental: Perception 4, Intelligence 3, Wits 5
+
+Talents: Alertness 2, Athletics 2, Brawl 1, Dodge 4,
+Intimidation 1, Streetwise 4, Subterfuge 3
+
+Skills: Drive 3, Etiquette 2, Firearms 1, Melee 1, Stealth 4
+Knowledges: Computer 1, Investigation 5, Law 1, Lin-
+guistics 1
+
+Backgrounds: Contacts 5
+Willpower 9
+
+Powers: Immunity to the Delirium — unknown to
+Donaldson, he is Kinfolk.
+
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+The Umbra
+
+Gauntlet Rating: 8
+
+The Press Bane
+
+Willpower 7, Rage 10, Gnosis 8, Power 45
+
+Charms: Reform, Weaken Delirium (Power cost: 7 per
+issue; this Charm reduces the effects of the Delirium on all
+people who read The Nation's Pulse, subtracting one for
+every issue read. The Nation's Pulse is being used as an
+experiment for the effectiveness of this Bane; if it succeeds,
+Pentex plans to move the Bane to one of its more reputable
+magazines.)
+
+The Press Bane is very powerful in its own right, but is
+also a very distinct coward. Any attempt to attack the Bane
+will force it to Reform elsewhere, abandoning the press for
+good.
+
+4 Storytelling Screen
+
+aime 1/,
+
+\ ene
+
+
+Who's Who in the Office
+
+(See the "Camera Shy" battle map)
+
+Security Guards
+
+There are several people in the front offices, mostly
+those responsible for ensuring that the next issue comes out
+ina presentable fashion. There are also a surprising number
+of security guards present, more than would normally be
+expected in offices such as these. However, the guards all
+look fairly bored and tend to neglect their appointed duties.
+
+To sneak past any of the guards, players must roll
+Dexterity + Stealth (difficulty 7). If spotted by the guards,
+werewolves in Homid or Glabro form will be stopped and
+questioned. Any Crinos, Hispo or Lupus will be shot on
+sight. The guards all work for a security company separate
+from the paper.
+
+The Sentinel Security Service is a subsidiary of Pentex,
+and all security agents are hired for their ability to do their
+job better than most. To ensure that its guards are always
+prepared, Sentinel Security gives them regular checkups
+and booster shots of mega-vitamins. These shots have
+increased the guards' strength and rendered them immune
+to the Delirium. If they receive too many more of these,
+they may become fomori.
+
+The guards are courteous and generally friendly to the
+people at the newspapers, but they are also well trained and
+will not hesitate to stop an intruder, with the use of lethal
+force if necessary. Quick-thinking Garou can prevent blood-
+shed simply by stating that they work as freelance reporters
+or photographers at the paper. The guards have only
+recently been hired and are not familiar with all the paper's
+employees. However, stammering or the inability to an-
+swer simple questions is all it takes to trigger the guards'
+suspicions.
+
+The guards are not tainted enough to be detectable by
+Sense Wyrm or Scent of the True Form, although Sense the
+Unnatural will reveal that they have some mild supernatu-
+ral powers.
+
+Front Offices
+
+The offices in the front of the building are all occupied.
+Some are being used by writers trying to meet their next
+deadline; others are being used by the staff assembling the
+paper. There are six offices total, not including the
+receptionist's desk in the foyer. If the Garou enter after 6:00
+p.m., the receptionist's desk is occupied by a guard rather
+than the receptionist.
+
+© Office A: The first office on the left past the foyer is
+being used by three men laying out the sports section of the
+paper. All three are tired, and none of them will pay any
+attention to people passing the office. They will notice
+anyone entering the room, but will merely nod and ignore
+them if the characters do not confront them. So far as these
+
+Camera Shy
+
+/ aa LE IY
+
+three are concerned, there is a security staff that will stop
+anyone who isn't supposed to be there. ,
+¢ Office B: This office is being used by two of the security
+guards as a break room. They are effectively off duty at the
+moment and will ignore the pack unless the pack confronts
+them. The pack may find it necessary to confront the
+guards, however, for this room is also the file room for
+photographs. Several file cabinets contain a variety of
+strange and generally doctored photographs. However, the
+photographs sought by the pack are not in this room.
+
+* Office C: This office is actually a darkroom. A red light
+glows above the door. Inside, a photographer is developing
+his film. Any attempts to enter this room are met with a
+harsh: "Do you mind?! I'm workin' in here!" This is indeed
+the room where the photographic negatives can be found.
+The photographer, a thin man in his 20s, can easily be
+intimidated by any show of force. He will help the pack
+retrieve the negatives if he is threatened.
+
+¢ Office D: This office is being used by staff reporter
+Bruce Donaldson. He is writing a feature on the birth of a
+four-headed cow. Donaldson is bored to tears, and he has. no
+useful information. Should the pack be abusive, he will
+verbally assault them and then leave them alone. If the pack
+threatens him, he will immediately attempt to call security.
+He can be easily placated with an apology, but will demand
+to know who the pack members are and what they want in
+the paper's offices. He will even go so far as to attempt to
+follow the pack. He has been sniffing around for a good story
+for some time. He is also the reporter who wrote the story on
+the "Bigfoot Family."
+
+© Office E: This office holds the microfiche library for
+the paper. Two researchers are here doing their best to
+gather more information. They are far too busy to bother
+with the pack. Should the pack ask any questions, the
+researchers will curtly point the Garou in the direction of
+what they need.
+
+* Office F: This office holds four people, who are laying
+out the main section of the newspaper. They are very busy
+and will ignore the pack unless the pack has decided to
+approach the office before midnight. The paper they are
+currently assembling is of importance only if the pack
+arrives before the presses have started. If the presses have
+not yet started, then the vital photos are actually being laid
+out in this room.
+
+If the characters approach after midnight, they see a
+stack of photos set to the side while the people in the room
+begin the preliminary layout for the next issue. The stack of
+photos includes the pictures they seek. Should the pack fail
+or botch an attempt to take the photos discreetly, the
+employees alert security immediately. The security staff in
+turn notifies police. The characters could easily end up
+surrounded by police if they are not very careful.
+
+
+The Press Room
+
+(Not all of this room is detailed on the battle map.)
+
+Clever characters could manage to stop the presses with
+little difficulty. The huge machines are all connected to
+one set of power cables, which in turn leads to a very large
+fusebox in the corner (Perception + Alertness, difficulty 6,
+to notice the fusebox). Characters using stealth (Dexterity
++ Stealth, difficulty 6/4 before/after midnight) should be
+able to avoid notice in the noisy press room if they do not
+get too violent while dismantling the fusebox. If the press
+operators discover a Garou tampering with the fusebox,
+they immediately alert the guards.
+
+Any attempt to use physical strength against the press is
+likely to result in the loss of a limb or two — the press moves
+at incredible speeds and will likely crush to death anyone
+that manages to bypass the safety guards.
+
+When the press is at work (midnight onward), the noise
+level causes the press operators to wear protective ear
+covering. The size of the press makes it possible for even a
+Crinos to sneak past the few workers without too much
+difficulty.
+
+Characters with Heightened Senses will suffer near the
+presses — the noise is actually amplified by the Bane inside
+the machinery. Garou using this Gift must make a Stamina
+roll (difficulty 8) to avoid being temporarily deafened.
+Success on this roll means the character must subtract two
+from all hearing Perception Dice Pools for the duration of
+
+rN
+
+mh
+|
+
+itll:
+
+oom
+-
+row,
+PK ad
+#
+
+ana»
+ceye
+weve
+°
+4
+ow
+
+29 feow ww
+
+© pewoerge * Oewe Bees **
+
+eer © Ge-e gw
+2&8 BR8ee of COT FCF
+
+oe Owe aoe ©
+
+|
+!
+|
+t
+|
+
+ogee &
+Deter >
+; e ow
+
+Coe oor
+S-@e0e -
+
+the scene. Failure causes the character to subtract four for
+the rest of the night; a botch renders the character deaf for
+the duration of the night.
+
+Wrap-Up and Complications
+
+In the end, the pack should succeed in its mission, but
+carelessness while so doing could endanger the Veil in an
+even. worse way. If the pack causes too much grief at the
+offices of the paper, the paper's reporters will do their best
+to discover just who or what entered their building and
+stole their photos. Additionally, Tom Detweiller will take
+the loss of his precious photos personally and will do his best
+to discover the perpetrator of the theft.
+
+The press can be a serious foe to cross paths with, and any
+attempts to take the pictures by force will quickly prove just
+how serious an enemy the press can become. The paper wilt
+spare no effort to locate the creatures that took their
+property. News people will smell that a story is theirs for the
+taking, and they will do their very best to take it.
+
+Renown
+
+If the characters succeed, each gains one point of Wis-
+dom. If the Storyteller considers their tactics particularly
+clever, he may opt to award them two points each. The
+Press Bane is considered an average minion of the Wyrm,
+because it will run rather than fight.
+
+6 Storytelling Screen
+
+AO Te tiene //,
+
+L
+
+
+Story, Cwo:
+Sneak Thief
+
+Theme
+
+"Sneak Thief' is a story of betrayal, one that should cause
+the pack to realize just how tenuous the friendship and
+camaraderie of the Garou can be. The story's theme is
+simply to be wary of strangers bearing gifts.
+
+Mood
+
+The mood of "Sneak Thief" is rage. Ooragant, the story's
+villain, is a Black Spiral Dancer and a traitor to boot. His
+crimes against the sept cannot go unavenged.
+
+Battle Map Challenge
+
+The construction site battle map is hazardous in several
+respects. The ground is wet (increasing difficulties in move-
+ment and balance), and the area is strewn with dangerous
+piles of haphazardly stacked construction material.
+
+For example, large stacks of girders litter the area. Players
+might decide to stand on these piles, the better to gain a
+vantage point while looking for Ooragant. Any attempt to
+climb these small mountains could trigger an avalanche of
+heavy steel girders. Characters should roll Dexterity +
+Athletics (difficulty 8) to climb. Failure means the girders
+have slipped from under the character, causing him to lose
+the rest of his actions that turn. A botch means the
+character falls and is buried under several hundred pounds
+of steel. This inflicts five Health Levels of damage (can be
+soaked) and pins the character underneath the debris. It
+requires a Strength of 5 and an entire action to remove the
+girders (the character may not split his Dice Pool during
+this action).
+
+Other Garou might decide to use the girders as weapons.
+They are bulky and unwieldy, increasing difficulties by two
+when used as clubs or spears.
+
+Other physical challenges are detailed throughout the
+adventure.
+
+Historical Background
+
+Eight months ago, while at a moot, the Garou of the sept
+were surprised by a newcomer, one without name or Rank.
+He was a homid and had been a ronin for over three years.
+This ronin explained that he had turned his back on his
+previous pack because he was maladjusted to life asa Garou.
+After almost three years of fighting Gaia's battles, he had
+grown weary of the continuous fights, grown tired of living
+on the periphery of humanity, and decided that he needed
+time alone. In short, he fell victim to Harano.
+
+After relating his tale, the ronin humbly asked to be
+allowed to join the sept, claiming he had finally accepted
+his place in the grand scheme of things.
+
+The sept has long since accepted this stranger. For six
+months he has fought with the sept, defending it with such
+ferocity that he was awarded with the name "Screams-As-
+He-Kills."
+
+The ronin with no name is in fact a Black Spiral Dancer.
+
+Originally an Uktena, he used forbidden rituals of power to
+fight the Wyrm, but was corrupted by the very forces he
+tried to vanquish. His name is Ooragant, and he is a Rank
+Three Dancer.
+' Ooragant hides this fact by wearing a powerful fetish:
+The Face of Innocence. The Face of Innocence is a facial
+tattoo depicting the symbol of Gaia. Bound into the ink is
+a Puppeteer Bane, a spirit that can conceal all traces of
+Wyrm corruption. Once activated, the Bane will prevent
+even the Gift: Sense Wyrm from working.
+
+Ooragant concocted a scheme to steal all that he can
+from the sept, and to kill the sept's elders if possible. The
+plan called for him to gain the trust of the sept, and so he
+has spenta long time with the sept before making his move.
+Now he has recruited other Black Spiral Dancers to assist
+him in implementing the plan's final stages.
+
+Scene One: Murder Most
+Foul
+
+Ooragant has waited and befriended as many of the sept
+as he could. Now the time has come. Ooragant waits until
+
+
+nightfall to make his move. It is up to you, the Storyteller,
+to decide just how many of the sept's leaders Ooragant
+
+manages to kill, ifany. At the very least, he manages to steal
+
+one of the most powerful fetishes of the sept (perhaps even
+its Pathstone, the item that allows Moon Bridges to be
+opened). The sept leader and possibly the caern warder
+should at least be injured and unable to guide the sept.
+
+Unguided, the sept flies into arage. Ahroun run from the
+caern on a mad hunt after Coragant, not waiting for aid
+from Ragabash or ritualists. Everyone splits up, scattering in
+all directions. A few keep their heads and stay behind to
+guard the caern and wounded ones. These calm Garou ask
+the pack to search for Ooragant; they suspect the rest are
+too frenzied to find the cunning Black Spiral. The pack is
+sent out and is the first to catch Ooragant's scent (the
+others have rallied in the wrong direction after an Ahroun
+called for them, sure he found the trail).
+
+Ooragant has spent six months planning his escape route
+and has made certain that his fellow Black Spiral Dancers
+are ready to assist him. He has learned the lay of the land
+and long ago picked a point to rendezvous with the rest of
+his true packmates. The agreed-upon place is at a new
+construction site a fair distance from the caern, a site where
+the new West Pointe Mall is under construction. The mall
+will be one of the largest ever built, and the site is already
+overflowing with construction materials.
+
+Getting there is hardly a problem for Ooragant; he has
+plotted the easiest way through the heart of the woods. The
+
+8 Storytelling Screen
+
+/ imma 1
+
+terrain is fairly rough, but not dangerously so, and there is
+a small stream between the sept and the mall's future site.
+
+Chasing after Ooragant requires Perception + Primal-
+Urge rolls (difficulty 7). However, once characters cross the
+stream, the difficulty increases to 9. The pack needs 10
+successes, in three or fewer rolls, to find Ooragant before he
+can fully hide (two before the stream, one after). If they fail
+to track him, an Intelligence + Investigation or Enigmas
+roll (difficulty 6) allows a character to realize that the mall
+site must be his destination, for little else in the area would
+be of interest to a Black Spiral Dancer. The pack can go to
+the mall site, but Ooragant will be firmly entrenched by
+then.
+
+If a member of the pack has the Gift: Sense of the Prey
+(Level Two Ragabash) or uses the Ritual of the Questing
+Stone, the characters will be led straight to the construc-
+tion site.
+
+Scene Two: West Pointe Mall
+
+The mall is hidden behind nine-foot-high wooden fences.
+The fences are covered with signs that announce the
+opening date of the site sometime later in the year. Plans for
+the West Pointe Mall have been under way for awhile now.
+To date, however, the many hours spent at the site have
+yielded little save a large, muddy hole and several hundred
+yards of concrete tubing buried in the ground.
+
+© Tubes: Each tube is five feet in circumference and can
+easily be used as a hiding place, assuming a werewolf is in
+Homid or Lupus form (Glabro, Hispo and Crinos forms are
+simply too stocky to fit easily through the openings).
+
+© Girders: Large steel girders are stacked in piles and
+held together by thin steel bands. These piles range in
+height from four-foot mounds to dangerously unstable
+stacks towering 12 feet or higher into the air.
+
+® Foundation: The foundation of the mall has not been
+completed. It is a deep, wide pit in the ground awaiting
+concrete filling. For now, the walls and ground are wet mud.
+The pit is 15 feet deep.
+
+© Equipment: Very little in the area could actually be
+used in hand-to-hand combat, but any Garou with a back-
+ground in construction would find the heavy machinery
+easy enough to operate (Dexterity + Drive with a specialty
+in heavy equipment; difficulty 6). Ooragant has a history of
+working in heavy construction and can use the equipment.
+
+There is one forklift and one dump truck. While all of the
+machinery is awkward to maneuver at any speed (difficulty
+raises to 7 or even 8 for fast maneuvers), the forklift has an
+effective Strength of 7 for the purpose of doing damage, and
+the dump truck has an effective Strength of 8 for the same
+purpose. These vehicles cannot cause aggravated damage.
+
+Anyone taking cover behind the heavy equipment re-
+ceives an additional three dice to soak rolls and cover
+bonuses, particularly against ranged attacks.
+
+_Certain Glass Walker Gifts (Power Surge, Control Simple
+or Complex Machines) can be used to control or neutralize
+the heavy equipment.
+
+
+© Slippery When Wet: The area, well saturated from the
+recent rains, is slippery and treacherous at best. All at-
+tempts to run or leap require a Dexterity + Athletics roll
+(difficulty 6) in order to avoid slipping.
+
+The foundation is filled with a few inches of water;
+underlying silt makes traction almost impossible. Jumping
+or climbing rolls have difficulties of 7, and no fewer than
+five successes are needed to climb out of the foundation pit.
+Anyone falling into the foundation must make a Dexterity
++ Athletics roll (difficulty 5) or take two Health Levels
+falling damage (pre-soak).
+
+The Cubby Holes
+
+Two locations on the battle map are marked by dark
+circles. These enter into small tunnels leading to the main
+Black Spiral Dancer Pit some 10 miles away. Both are fairly
+well concealed, and characters must declare that they are
+looking for such hatchways to be al-
+lowed a Perception + Alertness roll
+(difficulty 8) to spot them.
+
+These holes are set with traps and
+will collapse if the right steps are not
+made by the Garou who enters. The
+collapse of a tunnel takes place some 50
+feet in, and drops over three tons of dirt
+on anything in the tunnel between the
+entrance and 80 feet. Seven Health
+Levels of non-ageravated damage is de-
+livered (characters can soak this).
+
+Getting out ofa collapsed hole would
+likely require several Garou to dig the
+character(s) out unless the pinned Garou
+has the metis Gift: Burrow.
+
+The Umbra
+
+The Penumbra-scape is a barren
+wasteland, crawling with a few Pattern
+Spiders. They are more than ready to
+protect their newly claimed territory.
+They are working to ensure that the
+new building exists in the Penumbra as
+well as the physical world — a task
+which requires them to weave their Pat-
+tern Web here.
+
+The Gauntlet at the construction
+site is 6.
+
+Ooragant's Plan
+
+Because of the late hour, there are no
+humans on the site. Unfortunately for
+Ooragant, his partners are late.
+
+Ooragant is not intent on killing his
+pursuers at this time; he is far more
+interested in not being killed. He will
+do his best to hide among the large piles
+of construction materials and avoid con-
+
+frontation until his Black Spiral Dancer packmates arrive
+at the construction site.
+
+After five turns, Ooragant's packmates (two fewer than
+the characters) will show themselves, stepping from the
+Umbra ready to fight. The most important thing to
+Ooragant's packmates is that Ooragant be allowed to es-
+cape. His capture would ensure the failure of all their
+schemes against the sept. If Ooragant escapes, he will
+return to his Hive and deliver secrets of the sept's caern
+(weak points, number of guards, etc.). The caern will be in
+grave danger.
+
+Packmates
+
+The characters have the advantage of numbers, but the
+Dancers have the advantage of familiarity with the terrain
+(either give them bonuses to the obstacle rolls or don't
+make them roll at all). In the last six months, Ooragant's
+pack has hardly been idle. Encounters
+with Garou have whittled down the
+pack's numbers. The Dancers have been
+anticipating Ooragant's return for some
+time now.
+
+Renown
+
+Ooragant is considered a strong min-
+ion of the Wyrm for the purpose of
+awarding Glory Renown (see the chart
+on pp. 190-193 of the Werewolf
+rulebook). His packmates are average
+minions. Regaining the sept's fetish (or
+Pathstone, if that's what was taken) will
+gain the characters one Glory point and
+two Honor points each.
+
+Photocopy this page and cut out these
+vehicles for use with the battle map.
+
+Sneak Thief 9
+
+A LP ET iene /,
+
+
+Ooragant
+
+Breed: Homid
+
+Auspice: Ragabash
+
+Tribe: Black Spiral Dancers
+
+Physical: Strength 4 (6/8/7/5), Dexterity 3 (3/4/5/5),
+Stamina 3 (5/6/6/5)
+
+Social: Charisma 4, Manipulation 5 (4/2/2/2), Appear-
+ance 4 (3/0/4/4)
+
+Mental: Perception 3, Intelligence 4, Wits 5
+
+Talents: Alertness 3, Athletics 4, Brawl 3, Dodge 5,
+Empathy 2, Expression 3, Intimidation 1, Primal-Urge 1,
+Subterfuge 5, Survival 3
+
+Skills: Drive 3, Etiquette 2, Firearms 1, Melee 3, Lead-
+ership 2, Performance 3, Repair 1, Stealth 4
+
+Knowledges: Computer 1, Enigmas 2, Linguistics 2,
+Medicine 3, Occult 1, Rituals 3
+
+Backgrounds: Contacts 4, Kinfolk 2
+
+Gifts: (1) Blur of the Milky Eye, Persuasion, Scent of
+Running Water, Smell of Man; (2) Ears of the Bat,
+Staredown
+
+Rank: 3
+
+Rage 6, Gnosis 8, Willpower 6
+
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+Rites: Talisman Dedication, Rite of Contrition, Rite of
+Spirit Awakening, Rite of the Fetish, Rite of Summoning
+
+Fetishes: Face of Innocence (Level 5, Gnosis 6; this
+facial tattoo fetish allows Ooragant to appear entirely
+uncorrupted by the Wyrm and makes it possible for him to
+move amongst the Garou without fear of detection. A
+Puppeteer Bane is bound into it (yes, bound into the tattoo
+ink — into Ooragant's face!); this Bane can hide the taint
+of the Wyrm.
+
+Image: Ooragant is actually quite handsome, with long,
+dark hair and eyes that sparkle. He is slightly above average
+in height, but is also quite thin, built more like a runner
+than a weightlifter. He normally wears blue jeans and a
+leather vest with a small medicine bag.
+
+Roleplaying Notes: You are very friendly, always willing
+to go that extra mile for a friend, or even for those you
+pretend are your friends. You love a good joke, and what
+better joke than to fool a whole sept? Nothing is beyond the
+scope of how far you will go to convince the Garou you are
+still with them.
+
+Background: Ooragant was once of the Uktena, but was
+easily corrupted to the Black Spiral after he suffered Harano.
+He has no regrets about his decision.
+
+Black Spiral Dancer Packmates
+
+Breed: Metis
+
+Auspice: Ahroun
+
+Tribe: Black Spiral Dancers
+
+Physical: Strength 3 (5/7/6/4), Dexterity 3 (3/4/5/5),
+Stamina 4 (6/7/7/6)
+
+Social: Charisma 2, Manipulation 2 (0/0/0/0), Appear-
+ance 0 (0/0/0/0)
+
+Mental: Perception 3, Intelligence 2, Wits 3
+
+Talents: Alertness 3, Athletics 4, Brawl 2, Dodge 2,
+Empathy 1, Expression 3, Intimidation 3, Primal-Urge 2,
+Subterfuge 3
+
+Skills: Firearms 1, Leadership 1, Melee 4, Performance
+1, Repair 2, Stealth 3, Survival 4
+
+Knowledges: Medicine 1, Occult 3, Rituals 2
+
+Backgrounds: None -
+
+Gifts: (1) Razor Claws, Sense Wyrm, The Falling Touch
+
+Rank: 1
+
+Rage 8, Gnosis 4, Willpower 5
+
+Health Levels:
+
+Black Spiral Dancer #1: OK, -1, -1, -2, -2, -5, Incapaci-
+tated
+
+Black Spiral Dancer #2: OK, -1, -1, -2, -2, -5, Incapaci-
+tated
+
+Black Spiral Dancer #3: OK, -1, -1, -2, -2, -5, Incapaci-
+tated
+
+Image: Deformed, vile werewolves. They are all
+gibberingly insane.
+
+Roleplaying Notes: Hoot, holler and laugh at the pack
+as you try to lure them into dangerous obstacles and kill
+them.
+
+Background: They are all fiercely loyal to Ooragane,
+whom they consider a hero for his "exile" among the Garou.
+They will die so that he may escape.
+
+There are fewer Black Spiral Dancers than members of
+the character pack: the ratio is approximately one Dancer
+for every two characters. A pack of five characters will face
+three Dancers.
+
+Umbra
+
+Gauntlet Rating: 6
+
+Pattern Spiders
+
+Willpower 6, Rage 4, Gnosis 6, Power 25
+Charms: Calcify, Solidify Reality
+
+These "bugs" roam about the grounds, ensuring that
+construction proceeds correctly. They will attack anything
+that gets in their way. There are five of them.
+
+|
+
+Storytelling Screen
+
+A
+
+
+Story Chree: Treasures
+of the Past
+
+Cheme
+
+The theme of "Treasures of the Past" is remembrance. A
+large collection of Native American artifacts has recently
+been uncovered, and among the artifacts are several items
+of potential power. These items are now in the hands of
+humans, but they belong to the Garou.
+
+Mood
+
+"Treasures of the Past" is meant to evoke feelings of loss and
+feelings of hope. The sense of loss stems from the relics
+themselves, for they are the remnants of a vanished culture.
+There is hope, however, for the ancient relics may allow
+modern Garou to battle the Wyrm more effectively. Addition-
+ally, these relics may teach the Garou about the lost Croatan
+tribe; both the Uktena and the Wendigo would desperately
+like to acquire any item that belonged to their dead brethren.
+
+Battle Map Challenge
+
+The challenges in "Treasures of the Past" stem from the
+numerous alarms and from the four fomor guards. Addition-
+ally, the area is filled with fragile fragments of the past, and
+Garou will likely want to be very careful about unnecessary
+breakage. Lastly, the surveillance cameras, which are linked to
+the security monitors, pose a very real danger to the Veil.
+
+Motion detectors are marked on the map as dark tri-
+angles along the bases of the display cases and walls.
+Anyone crossing the path of one risks setting it off (see the
+Security sidebar).
+
+Scene One: Anticipation
+
+The first part of the story takes the form of several news
+briefs about the excavation on Roanoke Island. Archaeolo-
+gists at Roanoke have discovered deeply buried ruins believed
+to predate even the first English settlement in the New World.
+The archaeologists theorize that an ancient tribe of Indians
+once dwelt on the island. Careful digging has procured several
+startlingly preserved artifacts. The best finds are a spear and a
+painted stone, both of which were found buried with the
+skeletal remains of a young male. This information should be
+provided by the Storyteller in the form of a news story, either
+in print or overheard on the radio.
+
+Several days later, an even larger find is discovered only a
+few hundred yards from the first excavation site. The find
+includes three more remarkably well-preserved skeletons and
+several crude weapons apparently made specifically for doing
+battle. Each weapon has unusual runes carved into its surface.
+Photographs of the weapons are published in the newspaper.
+Any Garou viewing the photos will recognize the pictograms
+for Gaia and the Wyrm, as well as a few that mean nothine to
+
+modem Garou. It is remotely possible that an Uktena or
+Wendigo would recognize one of the "mystery" pictograms as
+that of the Croatan tribe. The most unusual item in the entire
+collection isa large crystal flawlessly carved into a representa-
+tion ofa wolf's skull. The items are in nearly perfect condition,
+and archaeologists expect that the relics will reveal much
+about natives that once inhabited Roanoke.
+
+Many elder Garou are nervous about the discovery,
+fearing that humans will learn too much about the Garou.
+Reports come later of a failed attempt by a Wendigo pack
+to seize the artifacts; the pack only discovered later that the
+entire collection had been moved before they arrived at the
+supposed storage facility. ;
+
+Some time later, announcements are made that the
+collection will be going on a nationwide tour, stopping at
+several museums, the first of which is in the city closest to
+the pack's sept. If any member of the pack is from the
+Wendigo or Uktena tribe, her desire to retrieve these
+artifacts is effectively guaranteed. If however, there are no
+members of the Pure One tribes in the pack, the characters
+will be asked by the caern's elders to capture the artifacts.
+
+In any event, these artifacts represent a huge find; even
+other Garou know very little about the Croatan. What the
+humans see as simply another link to the past should be
+considered a major discovery by Garou who remember their
+past with reverence.
+
+Scene Two: Casing the
+Museum
+
+Characters with any common sense whatsoever are
+going to want tosee the artifacts before trying to take them.
+The best way to do so is simply to visit the American
+Heritage Museum, where the Roanoke Collection is now
+on display.
+
+The Building: The building is three stories. The Roanoke
+Collection is on the third floor, while the first and second
+floors display small exhibits of Southern crafts and African-
+American history. The only entrances into the building are
+the main doors (large double doors with reinforced glass), four
+emergency exits (one on each corner), one large loading door
+(sliding, corrugated steel) in the rear of the building, and one
+locked access door next to the loading door. The only windows
+are three small office windows on the second floor in the rear
+face of the building, and one large window on the second floor
+in the front face of the building. A skylight on the roof allows
+access to the third floor.
+
+On the third floor (where the exhibit is housed), there is
+one main entrance to the room (up the stairs from the
+second floor). There are also four fire exits leading to stairs
+that allow access to all levels and exit onto the first-floor
+street.
+
+The second half of the first floor (toward the rear) is a
+warehouse/loading area, with a small loading dock, sliding
+door and an access door opening onto the alley. A small
+
+Treasures of the Past Il
+
+AL PS ET i ED TY
+
+
+A
+
+room off to the side holds the circuit breakers and emer-
+gency generator (to run the security alarms). Anyone
+seeking to shut down the electronic security must take out
+the circuit box and the generator (cutting the lines will
+work, but the saboteur risks electrocution).
+
+The Collection: The collection has made the news, and
+there is a waiting line to see the unusual artifacts, but the
+line moves quickly. Someone in line makes snide com-
+ments about how he expected more for his admittance fee,
+and about how small the collection really is. Most. are
+simply fascinated by the skeletal remains and the very
+lifelike crystal skull.
+
+A close examination of these articles will lead the pack
+to believe that nearly every item, including the skeletal
+bones, is imbued with power in one form or another.
+Several cases around the room contain various parts of the
+collection. Each piece is identified by what the archaeolo-
+gists believe the item was used for.
+
+The artifacts are stored in glass cases, and several guards
+are present. A Perception + Alertness roll (difficulty 7)
+reveals several inactive electronic eyes and motion sensors
+in various spots around the room. In addition, there is a
+pivoting video camera in each of the room's four corners
+(above the exits). This is a high-security area.
+
+Obviously, attempting to take the items by force will only
+lead to a great deal of trouble, but a few of the pack might opt
+to sneak in later in the evening. The American Heritage
+Museum closes at 7:00 p.m., but, as signs posted around the
+museum point out, the security force is on duty 24 hours a day.
+
+The night guards are all fomori. There are four guards on
+the late-night roster. The guards look perfectly normal, but
+Garou who use Sense Wyrm, Sense the Unnatural or Scent
+of the True Form readily detect them as fomori.
+
+Security
+
+Sensors Perception
+
+Motion sensors 6
+
+Cameras: *
+
+Front door and main hall 9
+
+Collection room 6
+
+Barriers Strength
+
+Front, fire and rear access doors 5
+
+Rear sliding door 6
+
+Skylight 5
+
+Showcases 6
+
+Locks ** Diff. Successes
+Front, fire and rear access doors 8 10
+Rear sliding door N/A (bolted inside)
+
+Showcases 7 7
+
+* The guards must make Perception rolls also, difficulty 5
+(their chance of glancing at the monitor).
+
+** A character must make a Dexterity + Repair roll to
+pick a lock. He must have proper equipment; otherwise, the
+difficulty is increased by three (maximum 10).
+
+12 Storytelling Screen
+
+OL PT DT tiene //,
+
+Che Fomor Guards
+
+‘All che guards have the following Attributes, Abilities,
+Willpower and equipment:
+
+Physical: Strength 4, Dexterity 3, Stamina 5
+
+Social: Charisma 1, Manipulation 2, Appearance 3
+
+Mental: Perception 5, Intelligence 3, Wits 2
+
+Talents: Alertness 2, Athletics 2, Brawl 3, Dodge 2,
+Intimidation 3, Melee 3, Stealth 2
+
+Skills: Etiquette 2, Firearms 3
+
+Knowledges: Law 1
+
+Willpower 6
+
+Equipment: Heavy revolvers with one extra clip
+
+The fomor powers given below can be found in the
+Werewolf rulebook on pp. 251-252.
+
+Guard #1
+
+Powers: Claws and Fangs, Hide of the Wyrm (+3 to soak
+dice), Immunity to Delirium
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+Guard #2
+
+Powers: Eyes of the Wyrm, Immunity to Delirium,
+Mega-Strength (add +4 to Strength)
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+Guard #3
+
+Powers: Fungal Touch, Immunity to Delirium
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+Guard #4
+
+Powers: Berserker, Claws and Fangs, Immunity to De-
+lirium, Voice of the Wyrm
+
+Rage: 5
+Health Levels: OK, -1, -1, -2, -2, -5, Incapacitated
+
+Umbra
+
+Gauntlet Rating: 6
+
+Scraglings
+
+Willpower 6, Rage 9, Gnosis 4, Power 20
+
+Charms: Incite Frenzy (difficulty is target's Will-
+power +2), Materialize, Possession
+
+Scraglings are smaller, weaker versions of Scrags —
+although they are still terrors. They, like Scrags, resemble
+monstrous beasts and run on all fours. The Scraglings will
+not waste Power to Materialize here; they will wait for
+Garou to enter the Penumbra.
+
+|
+
+
+Scene Three: Break-in
+
+The pack is strongly advised not to try for the items during
+the day; so doing would pose a danger to the Veil. Characters
+should try to break in at night. This scene covers this option.
+The Storyteller is on his own if they try it any other way.
+
+To reach the exhibit at night, the pack must bypass the
+security systems within the museum. This is much easier
+said than done. The doors of the American Heritage
+Museum are all locked from within and have cameras
+trained on them at all times. The fire exit stairwells do not
+have cameras and are unwatched, but the doors leading
+from the stairwells are locked from the stair side (they must
+be broken down to get through them).
+
+The best method for circumventing the doors is to step
+into the Umbra and slip past; the Gauntlet rating is 6. Any
+other means of entry may set off silent alarms and notify the
+guards of the pack's presence. The alarms are motion
+sensors (see the Security Chart).
+
+Pack members who try sneaking in through the skylight
+on the roof will find that it is strictly decorative. It has been
+sealed shut since the museum's opening. Forcing open the
+skylight is a noisy process and will alert the two guards
+posted in the room. The skylight is made from acrylic and
+steel, and is not designed to be opened. Breaking the
+skylight requires a Strength of 5.
+
+The motion detectors and electric eyes will notify the
+guards unless the pack members can effectively sneak past
+them without being spotted. Escaping the notice of these
+machines requires a Dexterity + Stealth roll (difficulty 4).
+However, the character must first make a successful Percep-
+tion + Alertness roll (difficulty 8) to spot the sensors in the first
+place. If characters state that they are looking for security
+devices, the difficulty to spot them is reduced by three.
+
+The guards are supposedly watching all of the American
+Heritage Museum, but in truth they have been assigned
+specifically to the Roanoke Collection. At any given point,
+two guards will be in the room, waiting for the other two to
+finish their rounds and relieve them for 15 minutes. The
+guards stand near the main stairs.
+
+Fortunately, the guards are bored and talk to each other
+about anything and everything. The guards are busily discuss-
+ing politics and have become quite heated in their argument.
+
+The last obstacles to be bypassed are the hard acrylic
+cases surrounding all of the Roanoke treasures. These cases
+are almost impenetrable and are locked in place with heavy
+metal bolts that slide into the acrylic and are padlocked in
+place beneath the wooden bases. A Strength of 6 is needed
+to force open the cases, and the alarms placed on these cases
+notify not only the guards, but the police department also.
+The alarms activate only if the case is forcibly lifted from its
+base. The police arrive in five minutes.
+
+The Main Hall: The main hall is filled with posters, a
+Yy gift shop, a water fountain and fire extinguishers. A small
+
+door off to the left leads to the guards' break room. The
+other two guards are likely here, slurping coffee and eating
+
+Wi a Gh ae
+
+donuts instead of walking their rounds. Video monitors are
+also here; the guards occasionally glance at them.
+
+The Umbra
+
+The Penumbra-scape is a dark reflection of the Ameri-
+can Heritage Museum. The halls are barren except for a few
+items, most of them historical objects which participated in
+such momentous events that they left an Umbral trace.
+
+Allof the fetishes in the collection (see below) glow with
+pale, silvery auras. The spear, the stone and the wolf skull
+glow as brightly as a full moon. The only signs of Bane
+activity in this area are the fomor guards, who are revealed
+in all their corrupted glory for any character who chooses to
+Peek at them. They are covered with ichorous, pus-filled
+sores and gaping blisters; their limbs are withered and
+gnarled, and their faces are the pale, bloated masks of
+drowned men. This view will give a character insight into
+their nature, but he cannot affect them from the Umbra
+unless he has a Gift that allows him to do so.
+
+The odds are strongly against the pack obtaining the
+fetishes unnoticed. The best option would probably be to
+sneak through the Umbra. This too has dangers, for two
+Scraglings, smaller versions of Scrags, have made a home in
+the American Heritage Museum, attracted by the same
+artifacts the pack now seeks. "
+
+The Roanoke Collection
+
+Within the collection are several fetishes: the four
+skeletons of the Croatan, the spear and stone, and the
+Crystal Skull. All of these items do indeed have some form
+of power within them: The other three weapons are all
+capable of causing aggravated damage, but otherwise seem
+to be nothing remarkable: predecessors to the Fang Dagger.
+
+Though it would take many hours of research to confirm,
+the fetishes are not Croatan in origin, but Uktena. True,
+some of the pictograms have been forgotten, but they were
+once in wide use among the Pure Ones. The craftsmanship
+is indeed Croatan in nature, but in the elder days the
+Uktena and the Croatan shared the same area.
+
+Honor dictates that these artifacts be returned to the
+Uktena, but some packs may want to keep them. The pack
+does not have to return the fetishes to the Uktena, but if it
+does, each of its members gains Honor Renown (see below),
+and Uktena elders will owe the pack a favor, to be returned
+in the future when the pack needs their aid.
+
+¢ The Spear of Aranakol:
+
+Level 5, Gnosis 8
+
+The Spear of Aranakol is a powerful fetish once used by the
+Uktena to ward off Banes. This fetish inflicts aggravated
+damage. The spear has special powers against Banes, allowing
+them to be attacked when possessing someone on the physical
+place. The possessed person is stabbed by the spear, but is not
+hurt at all; instead, the Bane takes the damage. The fetish
+holder must activate the spear and roll Dexterity + Melee
+(difficulty 6) for this power to work. Damage is Strength +3.
+
+14 Storytelling Screen
+
+Y aetna nica //,
+
+* The Fist of Aranakol:
+
+Level 3, Gnosis 8
+
+The Fist of Aranakol is a red stone that weighs a full
+pound and is attached to a thick rope. It is held in the hand
+and whirled on the rope during combat, worn around the
+waist when not being used as a weapon. The Fist allows the
+bearer to use the Gift: Sense Wyrm. It also inflicts aggra-
+vated damage on minions of the Wyrm (Dexterity + Melee,
+difficulty 7; Strength +1 damage).
+
+® The Crystal Skull:
+
+Level 5, Gnosis 10
+
+The history of the Crystal Skull is long lost, but the powers
+of the skull are many, and all of them are bad. The Crystal Skull
+is a prison for a powerful Bane: Shrawktoori the Reaver. The
+Reaver came to Roanoke Island with the first European
+settlers and immediately set out to cause as much damage as
+possible while opening a pathway to Malfeas. Fortunately,
+Croatan and Uktena were there to fight it. Many a Garou died
+painfully in the battle. Ac last, however, the Reaver was
+captured and imprisoned within the skull of Wyrm-Striker, a
+Croatan Theurge destroyed by the Reaver when it first ap-
+peared. The Reaver still seeks to break free.
+
+The fetish has the following Gifts to bestow: Sight from
+Beyond, Feral Lobotomy, Mindspeak, Dreamspeak, Icy
+Chill of Despair, and Mindblock.
+
+Shrawktoori can hide its influence from most Garou, but
+those who gain five or more successes with Sense Wyrm will
+know not to trust the thing. Each time a character uses the
+powers of the Skull, Shrawktoori may attempt a Gnosis roll
+(difficulty 9). Twenty-five cumulative successes allow
+Shrawktoori to possess and corrupt the user. The possessed
+Garou will immediately attempt to free the Bane from his
+crystalline prison.
+
+Shrawktoori's Traits are as follows:
+
+Willpower 8, Rage 9, Gnosis 7, Power 50
+
+Charms: Airt Sense, Possession, Reform
+
+« The Bones:
+
+Level 2, Gnosis 5
+
+The bones of the skeletons are imbued with magical
+energy. Whenever a Wyrm creature comes within 25 yards
+of them, they will begin to rattle and shake. The skeletons
+donot have to be intact todo this; even two bones will bang
+themselves against each other. The bones are dormant
+now, but if a Garou were to attune herself to them in the
+museum, they would begin to rattle violently, as the pres-
+ence of the fomor guards and Scrags sets them off.
+
+Qenown
+
+If the fetishes are retrieved, the characters gain one
+Glory point and one Honor point each. If the pack returns
+the fetishes to the Uktena, each member gains two extra
+Honor points. The fomori are considered average minions
+of the Wyrm for Glory Renown purposes. Refer to the
+Renown Chart on pp. 190-193 of the Werewolf rulebook.
+
+
+
+ne A"
+
+Che Werewolf
+Storytellers Screen
+
+Second Edition
+
+You're in the middle of running ac bat, and the
+characters start t
+
+a ZA
+
+ay. 9 ry A598 STONECATE IND. BLYD. ISBN 1-5604-113-
+i ak STONE MTN, GA 30083 ii
+ATT TRSTTTT oS TF 05601
+
+Own
+
+PEE Ps ET a iy 7/,
+
+
+To SECOND FLOOR
+
+
+
+
+
+

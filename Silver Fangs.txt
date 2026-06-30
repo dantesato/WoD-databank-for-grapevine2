@@ -1,0 +1,4472 @@
+# File: Silver Fangs.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+(SC)
+Waly
+
+A Sourcebook for Werewolf" The Apocalypse"
+Cribebook 10
+
+|
+
+apap = ff a SS UL
+naa na Ee Ee ee Se SBS BB EEL lUe
+
+HRIS HOWARD
+
+ART BY: MARK JACKSON LETTERED BY: MATT MILBERGER
+
+
+
+
+
+
+
+
+
+1
+
+Credits
+
+Author: Christopher Howard
+
+Developer: Ethan Skemp with Ken Cliffe
+
+Editor: Ken Cliffe
+
+Vice President in Charge of Production: Richard Thomas
+Art Directors: Aileen Miles and Lawrence Snelly
+Layout & Typesetting: Aileen Miles
+
+Art: Andrew Bates, Mike Chaney & Matt Milberger,
+Richard Kane-Ferguson, Alex Sheikman
+
+Comic Book Art: Mark Jackson
+Cover Art: Joshua Gabriel Timbrook
+Cover Design: Aileen E. Miles
+
+‘ATLANTA, GA 3002
+
+Waite Wore] USA
+GANE STUDIO
+
+© 1997 White Wolf Publishing, Inc. All rights
+reserved. Reproduction without the written permis-
+sion of the publisher is expressly forbidden, except for
+the purposes of reviews, and blank character sheets,
+which may be reproduced for personal use only. White
+Wolf, Vampire the Masquerade, Vampire the Dark
+Ages and Mage the Ascension are registered trade-
+marks of White Wolf Publishing, Inc. All rights re-
+served. Werewolf the Apocalypse, Werewolf the Wild
+West, Werewolf Players Guide, Werewolf Storytellers
+Handbook and Silver Fangs Tribebook are trademarks
+of White Wolf Publishing, Inc. All rights reserved. All
+characters, names, places and text herein are copy-
+righted by White Wolf Publishing, Inc.
+
+The mention of or reference to any company or
+product in these pages is not a challenge to the trade-
+mark or copyright concerned.
+
+This book uses the supernatural for settings, charac-
+ters and themes. All mystical and supernatural ele-
+ments are fiction and intended for entertainment
+purposes only. Reader discretion is advised.
+
+Check out White Wolf online at
+
+hitp://www.white-wolf.com; alt.games.whitewolf
+and rec.games.frp.storyteller
+
+PRINTED IN CANADA.
+
+Special Thanks
+
+This is the sort of Special Thanks that a developer hates
+doing. However, for outstanding service that was never
+repaid adequately, we can only offer our heartfelt best
+wishes and our very special thanks to:
+
+Trace "Net Goddess" o'Conner, for unparalleled grace,
+even the second time around.
+
+Paul "The Real Deal" Lepree, for being the jive turkey,
+little man's champion, retail genie and resident psychic.
+May you never lose the Funk, Pauly.
+
+Emory "The Commish" Hester, for singlehandedly tam-
+ing the unruly masses that were Wolf Blight (not to men-
+tion those delinquent customers).
+
+Larry "Skirt" Friedman, for incredible cartography and
+a great sense of style.
+
+Christian "Good Neighbor" Naberhaus, for being easy
+to live with and a lot more amiable than he had to be.
+
+Mike "Insaney" Chaney, for always making sure Were-
+wolf never forgot its badass roots.
+
+Staley "Den Mother" Krause, for being the first to bring
+new life to the offices — literally.
+
+Oh Soon "Giant Among Us" Shropshire, for being
+three times larger than she actually seemed.
+
+Tim "Jet Li"? Byrd, for keeping the Hong Kong fever
+burning.
+
+Elizabeth "Eli" McKee, for not putting up with the
+senseless crap.
+
+Wes "Harold B. Hines" Harris, for taking on Hollywood
+its own self.
+
+Laura "Enforcing the Peace" Perkinson, for bringing a
+little bit of grace to some universes that could use it,
+
+Mark Poucher and Russel Gunther, for doing a thank-
+less and all too often overlooked job. War House forever.
+
+Cymon "Bassmaster" Hight, for taking on some of the
+dirtiest jobs we could possibly throw at him and still being
+able to enjoy fishing afterwards.
+
+And especially to Kathleen "Fianna Girl Scout" Ryan,
+for opening doors for as many as she could, including this
+unworthy soul.
+
+You'll all be missed. May you find better than you
+received from us.
+
+Silver Fangs
+
+el Se ieee //,
+
+
+Contents
+
+Bcrynaenue: Beunpte Llapu
+Introduction: Once and Future Kings
+
+Inapa Ileppas: Cxunetp u Korot
+
+Chapter One: Scepter and Claw
+
+The glorious history of the Silver Fangs
+
+[apa Bropas: Te, hro OrOpacpisaior ‘Tenn
+Chapter Two: Those Who Cast a Shadow
+
+The culture of the Silver Fangs
+
+[hapa Tperba: Uro [Ipuodperér Tor, Kro 3apotoer Bech Mup?
+Chapter Three: What Benefits Jt One to Gain the World?
+The Silver Fangs around the world
+
+[pusoienve [epsoe: Llapexan Pyra
+
+Appendix One: The Hand of the King
+
+The burdens of majesty, and new Gifts and Talens
+
+IIpusoixxenue Bropoe: 3narnpie Huai
+Appendix Two: Nobles All
+
+Ready-to-play character templates
+
+IIpunomenue Tperbe: Cepedpanoe Boticko
+Appendix Three: The Silver Host
+
+Kings, queens and nobles of past and present
+
+Contents
+
+OFLA PS TS TER riley //,
+
+12
+
+14
+
+26
+
+34.
+
+46
+
+D3
+
+64.
+
+Il
+
+
+Y- Ropynneiiiie:
+_ Beuynpie Llapn
+
+_ The nobler a man, the harder it is for him to suspect inferiority in others. ~~ Ss
+. * ¥ a . on
+— Cicero, Ad Quintum Fratrem ey
+
+Kinain' | Se
+
+Blood of my blood, oldect of biards. By the tine you ead the T will & dtad. Yet T brow you usill eave tag
+words, thoug the must tavew the Hadous Curtain tial. I four fox the, m4 wont, ras not Lot me competi, th wod "af
+of Loud Faleon Sa
+
+At the Lal Coun T drank bom th Fidid Chalice, as you wowed me not 4 do. My mind is lie quicedue lppiny
+thou my, efous; gat bth a th pie Helos eat fox pitial weation, I poy that pue gladly.
+
+T sows ove thibes Ketowy laid dove mre fhe a soul . Comiad aloft in the talons of alton, I woud alow"
+the eovliest down and doy. of feyrd, though Tmpegium ord Conod. I eultid in our quctict veto, ond fit 0 touted
+bold the Howoro that axomponis us on ou rrod dowruuoid pial. :
+
+es
+
+es Ue Silo Fors oe mary trys, "UUr oe wowior Rings ard ar tt Hod tay a te ok 1
+101 doulder Gude that ro othe tbe con ox would, dove ti: the ttuin burdens of eadouip ord onewtt" ysiett brown ~6 onl
+Hoa ee te Wea the oldest Fawou, buat Com ob the Rat Wolb. Ue brow the Seuat' of Daath,
+ord ove the wood wudes of Faleon ord Helos. And ww ox quaidions of a fomdul wuet that cow oun tribe's foros until
+"Ths, 1 wsité you, dior bard, thouyh the Hodous Cudain looms lock Actiowon us. THe once g scat' Aral Coon
+<br dou me, ard ult it gou ths wyion's fost' defo oyoinst the ULiym. You, of all people irda wodk.
+© Our attion is dapuaté ux toe 0 door far more cetain ard ameviratt thon dows ory she tile. "We moy wo th foo xy
+only & ww cusohe oycinct the fatal nigitinove of Rubia ord Hovoro. Only then ustl out porter to Gia fe woud, Only, than"
+iu we docu 0 pop ao io ie dun oo ae Of .
+T de contact' rousing ths etter uxll och you, thougl tHe customary Litt bactoe at the Shadow Curtains coves
+
+_ reso ord praowdovna. Ou is a aalll tile and ct will beome walle stil bdow alll the och, me
+© Soul, Hoe At or ad pat foe, Fk att Se id
+—_ bayord the Apocalypw, "Thue we wl wile again n foros ard justia, tn 0 plow use the world is os nus. -Lumayedton + con
+ove Mid me rows, The wal wok of the ~Lpoealypw falls you, ou tide and +5 all otiw Fovou a Foia protict you
+4 bord,
+
+dolas Starok
+NP,
+r oo
+
+Introduction: Once i |
+
+Use the notes os you usll. "They usll tary wow, deison orc cowouie Hom moct of our tik. Fuel thoi tha fall eg
+
+
+We
+
+at
+
+
+The place of the hevo's birth, or the remote land of exile from
+which he returns...is the mid-point or navel of the world. Just as
+ripples go out from an underwater spring, so the forms of the
+universe expand in circles from this source. :
+
+— Joseph Campbell, The Hero with a Thousand Faces. :
+
+History
+
+Celeste, pee,
+Again, / bind myself ina position ustere 7? mudt thark you. ? reab ige that the dre
+
+waa, aa you aa "The flimsieat fabrication for you % ‘danee the edge of
+
+However, 7 could not ignore the dream, in which ? aaus you digpat ehed +
+
+from it that Nicholas was dead, and that hia words had 1 reach ua 2
+" 7 have begun to trandate hia laat message, a3 you delivered it, Mas
+‘ nable to me, written aa they are in hia obaowe code, The reat, unport un
+wretehed Claassied Latin, Stilt, 7 believe Stanock learned much when he drank fe
+Chalice, Only aT heurge of hia power and audacity would have faced the perila of uate
+hetiah of ita kind. oar
+2 will rele hindinga to you, and ot hera, aa we agreed in payment for yor
+tranadat ed ‘Waeketas hist ou tea white vacationing in Cape Cod, "hia pire te
+reftectiona of hia viaon, ate with select passages dareetty trandated from hia epitaph, Ma
+it ia commen knowledge, but will repeat some of the traditional legendato lend form and cont.
+te ha ‘hellen seereta, A
+Ada atusaya 7 will atriveto maintain the detached eye of the academic while trandating Mi
+vision He himadl} aaid he doubled hia sanity: we muat maintain swmerationality w Waaect ats
+legends, Stitt, } fear thia will not be cary, Wiehotas waa my frend, but moe / Vink he waa righ
+
+e—. Ua f natit ude,
+io , pp eword 0f the Ledge of the Sun
+Qe House Uhprurfoe
+
+—<-
+
+On Scepter and Claw
+
+
+aN
+-
+WY?
+
+N\A
+an
+
+awe os
+
+The Dawn of Ages
+
+From the Letters of Nicholas Stanock
+
+We call the first age many things —- the
+
+Dawn of Ages, Spring, the Golden Age — but
+
+in the present's dark realities, many homids,
+
+even a few lupus regard the Dawn of Ages as
+
+something less than real. Yet, in my mind, fresh-
+
+burning with the Firebird's elixir, the first age is more
+real than any other time.
+
+The universe was born in sound and fury. Helios, Gaia
+and all the other First Ones created life and conducted the
+business of gods. Yet of these times I can confirm nothing.
+There are a thousand creation myths; none seem any more
+or less valid for my experiences in the earliest ages.
+
+My first clear memories are of the end of the Golden
+Age. It was still the Dawn, but the smell of death was on the
+wind. A vast darkness enshrouded Gaia. Perhaps it was the
+Wyrm, or even an older evil; my mind still swims at its
+memory. The shrieking blackness rent Gaia's flesh, and
+loathsome beasts bubbled from Her countless wounds. Gaia
+was not without defenders, though. The great animal lords
+drove at the abominations with claw, hoof and talon. Yet
+the blackness continued its attack and Gaia grew weak. A
+cold, vile wind violated Her garden sanctum. The great
+darkness stole Her spirit, secreting it away in the entity's
+lair beneath the World's Navel.
+
+The animals of Gaia rose as one to save Her. Wolf,
+however, was scorned. The other animals called him a
+"mottled mongrel," and banned him from their war party.
+Leaving Wolf behind, the animals attacked the darkness in
+its layer beneath the roots of Yggdrasil, the World Tree.
+The darkness swallowed them whole and spat them out on
+the World Navel's shores. Even after this defeat, however,
+the other animals forbade Wolf to aid them. Finally, they
+bent to Lord Falcon's counsel and let Wolf try, for what else
+could they lose? Wolf stole beneath the World Navel, but
+instead of attacking the great darkness he cloaked himself
+in its own shadows and watched, undetected.
+
+The great darkness made Gaia sing, for such was the
+manner in which it drained Her essence. With each sor-
+rowful note Gaia succumbed further to the blackness.
+Death itself drew near in anticipation, for it was not every
+day that a world died.
+
+Eventually the darkness, absorbed by its foul lusts, grew
+careless of its surroundings. Wolf sprang from hiding and
+clamped his jaws on the being's bilious heart. Darkness'
+bellow resounded beyond the World's Navel, and shook
+the very ground the animals stood on. Yet turn and screech
+as it would, the darkness could not break Wolf's iron bite.
+At last, in fear for its existence, the darkness released Gaia
+to the lands above. Wolf died as he watched Her go.
+
+Wolf hunted in the tenebrous realms of Death for a long
+time. Then, one day, Death spoke to him, saying:
+
+
+matter,
+
+"Though you have dweit here long seasons, not a day has
+passed in Gaia's realm. Such is Her sorrow for you that even I
+cannot hold you against Her wishes. Few who enter the
+Shadowlands return to the sun-lit realms, yet when this passage
+occurs, the laws of fate compel me to confer a gift upon the
+risen."
+
+Then Death showed Wolf the Garden of Secrets, but
+with the command: "Take only one blossom between your
+teeth, and do not release it until you next draw breath in Gaia' s
+warm embrace." Wolf did this and the specter-garden slowly
+melted into the warmth of the World's Navel. Wolfbreathed
+again on that strange and alien shore, a creature reborn.
+
+The other animals marveled at Wolf's deeds. Wolf's fur
+had become snow-white, and Gaia said: "Wolf has died that
+Life may live. Henceforth, Wolf shall know the Secret of Gaia
+and the Secret of Death." Wolf kept these secrets, passing
+them on to only the wisest of his offspring.
+
+a) yon believe the
+
+ACCUSA
+, the earliest times,
+
+£
+: he best, as WAS bur ght as kings
+
+oY int of history,
+of his opinion,
+portrait of bur tripe,
+
+C
+
+Chapter One: Scepter and Claw
+
+ee A yy,
+
+Che Jmpergium
+
+From the Letters of Thomas Abbot
+
+In the earliest times humanity was little different from
+any other beast. With time, however, humanity distin-
+guished itself, discovering strange (and then frighteningly
+alien) technologies such as fire, clothing and spears of flint.
+The frigid winds of the Ice Age (a force of the Wyld)
+spurred the Weaver's influence on humanity. Ultimately
+all Garou noticed man's predilections.
+
+The lupus who would become the Red Talons com-
+plained that humanity hunted wolves without care for the
+ancient pacts forged by our ancestors. The Garou who
+would become the Children of Gaia complained about
+humans' warlike ways. Many female Garou turned on them
+as the earliest matriarchies died; those Garou eventually
+formed the Black Furies. Those: who would become the
+Shadow Lords snarled over everything about humans on
+general principle. | believe the Impergium gave birth to our
+
+' . This i
+cA the tyars And cyere a
+
+teding st»
+nG stock vasa ret-pard cbtumensurate
+
+Respectfully,
+
+Pytr S peaks-the- Pact i
+
+<Stetvard of the Lodge of the Moon
+
+S the history And; i
+Cevays foremost .
+
+L
+
+
+system of tribes. It split us into different principalities, each
+with its own beliefs and agendas.
+
+In any event, each of these prototribes approached us
+with horrific tales of man's growing barbarism. Stanock's
+vision confirms that we were of two minds on the issue. On
+one hand, humanity's growing preeminence over nature
+was a violation of Gaia's balance. Yet were not the Garou
+a bridge between humanity and nature? Half of one world,
+half of another, we faced, perhaps, the hardest decision in
+history.
+
+King Rests-the-Moon, greatest of our rulers, sought out
+Gaia's wisdom. She answered, "Let a predator feed upon these
+creatures, for though they are cherished by Gaia, so too must the
+sacred balance be maintained." The king returned with this
+command, and all the early tribes agreed to enact it. Some,
+such as the Red Talons, did so energetically. Others, such
+as the Children of Gaia and the Glass Walkers, spoke
+against the Impergium's harsh provisions. In the end,
+however, all tribes upheld Gaia's edict.
+
+As each prototribe followed the Impergium, the dis-
+tance between us grew. Noble Silver Fangs, ravening Tal-
+onsand reluctant Children of Gaia enforced the Impergium
+each according to its beliefs. Some culled the herd with
+fang and claw, others through reasonable appeal. The
+Shadow Lords whisper that they carried out a covert war
+against mankind while our tribe supposedly postured and
+remained above the fray. This is a lie, but then lies are what
+the Lords pride themselves on.
+
+Almost all tribes agree on one point: The Impergium was
+successful. Humanity's numbers were reduced; we restored
+Gaia's balance for a time. Yet we were torn. Were these frail
+humans not our Kin as much as were the packs of wolves in
+the forests? Commanded by Gaia, our souls nevertheless
+bled from these early deeds.
+
+Exodus
+
+From the Letters of Thomas Abbot
+
+Despite the Impergium, the Weaver's (and hence the
+Wyrm's) influence grew, albeit more slowly than before.
+Ultimately, three tribes — the Wendigo, Uktena and
+Croatan ~—- decided to depart for new, pure lands. First in
+atrickle, then in a mighty torrent, Garou of the three tribes
+followed the Wyld's path, searching for a land where
+Weaver and Wyrm found no purchase. Their quest led
+them over the bridge that bound what we would know as
+Siberia and Alaska. We Silver Fangs, old even then in the
+Rus, were the last to watch them go. Stanock claims that
+some Wendigo bred with our tribe before parting, leaving
+behind a people (the Siberakh) who embodied the best of
+both tribes.
+
+a
+
+18 Silver Fangs
+
+The Concord
+
+From the Letters of Nicholas Stanock
+
+Was the Impergium genocide by Gaia's command? Was
+Gaia wrong? Our tribe is beholden to so many masters —
+Gaia, Helios, Falcon, Luna — that my faith in any one is
+shaken before all. Do I speak heresy? Certainly there are
+many among us who would say so. Introspection has never
+been a strong point of our tribe, but then it is a scarce
+commodity among the Garouasa whole. Did the Impergium
+last for a thousand years? Two? More? My vision cast no
+light on this matter. Timeless Falcon cares little for such
+human conceits as years or centuries. | can attest to one
+thing, though: as the Impergium began, so did it end, and
+for a reason.
+
+The Impergium was law among the Garou; a matter of
+"national security" to echo an all-too-common modern
+phrase. We Silver Fangs bear culpability for this as much
+as any other tribe does, perhaps more. The Impergium
+temporarily righted the balance between Wyld and
+Weaver, while its bloody excesses turned many Garou
+hearts to the Wyrm. Can any contest this? We slaugh-
+tered the humans, the righteous words of Gaia ever on
+our lips. The Children of Gaia and the Stargazers, to
+their eternal credit, were the first to recognize our
+atrocity. Many of our tribe heeded their council, but not
+enough.
+
+Fortunately the great powers saw our hubris. Com-
+manded by Helios' wisdom, great Falcon counseled truce in
+the high and ineffable courts of the Celestines. Even with
+the Firebird elixir still burning within me, [ will not
+presume to interpret these celestial debates. Still, their
+outcome is not beyond me. A cosmic wrong would be
+righted; the Impergium would end. Lord Falcon himself
+lent wing to the decree, lighting upon the shoulder of
+Queen Viladus, the wisest of our tribe. The monarch
+commanded that, in the name of the Celestines, the
+Impergium would halt immediately. The Children of Gaia,
+the Black Furies and most of the Stargazers heeded the new
+decree. The Red Talons, most Get and many in our tribe
+opposed the Concord. The Shadow Lords, scenting an
+opportunity for power, screamed betrayal.
+
+Finally, however, the Garou could not ignore the will of
+the Celestines. A conclave of all the tribes convened in
+Pangea, where all Garou returned to their true natures.
+Falcon and the other totem spirits presided; the wise
+Firebird-spirits honestly recorded the debate, for such was
+their nature. The tribes debated, though the distinctions
+between tribes blurred in that place. Each spoke of
+humanity's high aspirations or base deeds. In the end, the
+high powers' decision stood firm. The Concord was recog-
+nized, codified and enacted by our tribe alone.
+
+And now humanity spreads like a mad Malthusian tide.
+It grows beyond all control, and spreads the Wyrm's cancer
+with it. Our tribe bears the final glory — or damnation —
+for enforcing the Concord.
+
+The War of Rage
+
+From the Letters of Pyotr Speaks-the-Past
+
+Your latest essay seems to lay blame for the so-called
+"War of Rage" solely on our already overburdened shoul-
+ders. This is not a new accusation, of course. Our detractors
+point to our supposed guilt on this matter at almost every
+opportunity. As I recall, the legends of this time go some-
+thing like this:
+
+"Long ago, an argument arose among the skinchangers about
+who was most important in Gaia's eyes. The Silver Fangs, ‘in
+their pride ,' decided that only they were worthy of leading Gaia's
+defenders. To prove this point the Fangs, unprovoked,-led a war
+of genocide against the other werecreatures. The other tribes,
+ever tractable (as we all know them to be), followed us blindly.
+They did this because they believed the ‘myth' of Silver Fang
+superiority. It was only after the killing ended that the other,
+blameless tribes realized the tragic mistake of this war. As a
+result of our heinous deed, Gaia imposed a penance on our
+tribe."
+
+You suggest that it is this penance that now "drives the
+Silver Fangs mad." Come now, is this the great "truth" that
+you and Stanock expect us to swallow? Are we children?
+
+Forgive me, but the Dover Caern is falling around me by
+ever-so-subtle degrees. | am tired and tact eludes me.
+
+We are both men of learning. Why simplify complex
+and incalculably old legends in such a manner? History
+is invariably more complex than such fairy tales allow.
+(And fortunately so for our academic profession.) Does
+our tribe bear some responsibility for the events sur-
+rounding the War of Rage? Of course, but then so do the
+other tribes and, yes, as do the unfortunate Gurahl,
+Nuwisha, Corax and all the other oh-so-victimized
+werecreatures of antiquity.
+
+The Gurahl and Bastet, ever blindly protective of hu-
+manity, brought the Wyrm's wrath down on us during the
+Ice Age. The Nuwisha's mindless pranks nearly severed all
+skinchangers from Luna's grace. The Corax stole some of
+the Garou's most sacrosanct secrets. | could go on, but lam
+sure you mark my drift. Again, these facts are common
+knowledge among most tribes.
+
+Each of the Garou tribes had bitter complaints about the
+other skinchangers. The Red Talons and others saw them
+as competition for hunting grounds. The Get had many
+unfortunate skirmishes with them. The Stargazers and
+Silent Striders coveted their secrets. We all know of the
+Shadow Lords' hatred for the Corax; the Lords believed the
+wereravens' very existence defamed their totem, Crow.
+There was little need for Silver Fang "hubris" in this matter.
+Still, each of the tribes came to us and, as the alpha-tribe,
+we bad no choice but to comply. On this point Stanock's
+version of events seems to diverge from those of every sane
+Garou historian.
+
+Atrocities were committed by both sides in the war, that
+I concede. That we committed more than the other tribes
+
+Chapter One: Scepter and Claw 19
+
+ia en ienieny //,
+
+
+is preposterous. To further suggest, as you do in your notes,
+that our tribe instigated the war is slander. And to finally
+insinuate that we did so against Gaia's direct decree, as you
+imply, is a monstrous falsehood.
+
+| urge you again to stop this foolish venture. I appeal to
+you on the basis of our friendship, though | know there has
+been little love between us since Anna's death. If this
+petition does not move you, then | appeal to your loyalty as
+a respected athro of our tribe. Stanock's observations are
+extravagant to say the least. Such speculative documents
+endanger your distinguished career. You have always re-
+spected the rules of hierarchy. | strongly urge that you
+follow them now. :
+
+The Ancient World
+
+From the Letters of Thomas Abbot .
+
+The lords of the Garou could not‘help but gain some
+political power in the human world. Although we observed
+the Litany in those days, we had not yet fully established
+the provision about lifting the Veil — at least not until
+Rome. In those days some of our tribe ruled almost as openly
+as human nobles, acquiring temporal power and great
+wealth. A few held power in the earliest kingdoms of Africa
+as well, though almost all left chere shortly after the War of
+Rage. Our power allowed us to hold our own against even
+the great human powers of the time. We flourished in the
+first warm tides of the Aegean World, reigning in Greece,
+Rome and among the earliest Russian tribes. Many of us
+even migrated north and east, establishing a presence in
+the early Indus civilization.
+
+We followed the trade routes, learning much about
+commerce and leadership. We became kings and Kinfolk to
+kings. Still, our prime concern was always maintaining our
+true power among the Garou. We never sought the high
+power in human affairs wielded by other supernatural
+agencies.
+
+Our power in the ancient world ended along with the
+Wyrm-tainted Roman Empire. The nature of our defeat
+there is obscure and Stanock's letters shed little light.
+Rome was our first great retreat, though. Perhaps this
+disastrous event was the first sign of Gaia's punishment —
+divine judgment for our excesses during the War of Rage.
+Certainly we had climbed far, and mostly unimpeded until
+
+that time. We had far to fall.
+
+Byzantium
+
+From the Letters of Thomas Abbot
+
+Our age-old power in Greece and Russia provided us
+much influence over Byzantine affairs. The Wyrm, ever
+restless, battled us often, and after our defeat in Rome we
+had a better grasp of its power. Our influence in the spirit
+world also grew and Falcon provided us with puissant
+allies. The Children of Karnak, a race of warrior-bird
+spirits, were our most reliable confederates. In the early
+
+ei //,
+
+
+A
+
+10th century an unknown Wyrm-mage used a powerful
+fetish, the "Hunger Stone," to ensnare much of Faicon's
+brood, serving it up as a sacrifice to his dark masters. The
+Hunger Stone entrapped many Children of Karnak,
+some Firebirds and other Falcon-spirits. Only the Great
+Flock remained free. This defeat was, in many ways, a
+greater one than was Rome. This blow against Falcon
+struck us at our spiritual core, but the challenge did not
+go unanswered.
+
+As one, our tribe entered the Umbra to find our lost
+spirit-allies. In a place called Peduratus, the third great
+circle of the Malfean spiral, the Armies of Karnak made
+one final stab at freedom. Silver Fangs and warrior-
+spirits joined forces, slaying all Wyrm-servitors that
+dared block their path. Black Spirals, Banes and other
+Wyrm monstrosities gibbered in incoherent madness.
+This was their stronghold, their place of power. Yet the
+Garou's leading tribe had penetrated their malefic con-
+struct. Many in our tribe fell in that great emancipation,
+but in that crucible of blood and fire we forged our
+alliance with Falcon anew. Galliards from many tribes
+still sing about that glorious campaign. It was, in many
+ways, our finest hour.
+
+The Downward Spiral
+
+From the Letters of Pyotr Speaks-the-Past
+
+Enough! More than enough! Your vulgar fictions now
+far outweigh any comic appeal they may have initially had.
+[read your latest squalid tract, the one detailing our tribe's
+so-called "downward spiral." To hear you tell the tale, the
+Middle Ages were not (as every cliath knows) a time of
+great honor and glory for our tribe. They were instead a
+series of "routs, holding actions and forced retreats" against
+the Wyrm. Balderdash!
+
+The Middle Ages was the backdrop for our greatest
+triumphs. Did not King Aaron Everstone use our greatest
+fetish, the newly recovered Silver Crown, to break the
+Black Spirals' grasp of North England? Yet you repeat the
+baseless lies of our lowest Fianna and Get of Fenris detrac-
+tors, who slander that he turned the crown against their
+tribes. Malcontents often repeat these lies, but to hear them
+from a scholar of your former standing gives them new
+credibility in the eyes of the mischievous and foolhardy.
+That Everstone's house fell completely to Harano shortly
+after his acts is an interesting historical coincidence, noth-
+ing more.
+
+You blame anything and anyone, but the truth is self-
+evident to any loyal Silver Fang. The other tribes have
+fallen from their state of grace. Some, like the Stargazers,
+fell only slightly. Others became debased beasts, not wor-
+thy of the name Garou. How far have you fallen, Thomas?
+You exaggerate our failings, real and imagined, while di-
+minishing the great role our tribe continues to play in
+Garou survival.
+
+Chapter One: Scepter and Claw
+
+as etniemey //,
+
+Once more, enough! Our tribe needs wise rulers and
+strong warriors, not such mindless gadfly sentiments as you
+espouse. Some people may misinterpret your motives in
+writing these letters. Some may even consider them trea-
+sonous. Let sleeping wolves lie.
+
+The Rus
+
+From the Letters of Thomas Abbot
+
+Our power in the Byzantine Empire waned, though not
+in as catastrophic a manner as it collapsed in Rome. By the
+millennium's turn many Byzantine Fangs emigrated north
+to Russia, bringing the culture of the Greeks with them.
+The migration was, for the most part, an equitable one
+between Russian and Greek Fangs. Newly made comrades
+after the assault on Malfeas, the Fangs of the Rus welcomed
+their southern cousins. This was the beginning of the great
+alliance between Houses Crescent and Wise Heart, an
+alliance that lasted until the Russian Revolution.
+
+In the years leading up to the second millennium there
+was a great spiritual tumult in the Rus. Vladimir (a distant
+kin of the Get of Fenris) Christianized the land. The
+migration of the Greek Fangs coincided with this event and
+many Garou erroneously praise (or damn) us for the result-
+ant shift in power. In truth, we had little to do with it, but
+that did not prevent us from taking advantage of the
+situation. The newly cemented alliance between the two
+Silver Fang houses was potent and we reasserted our domi-
+nance over the Russian tribes.
+
+Unfortunately Vladimir's ties ro Constantinople
+(through his marriage to a Byzantine princess) drew the
+attention of the Greek vampires: old records give the
+names of Ventrue and Brujah. Ir also attracted the atten-
+tion of even darker, Carpathian vampires, seemingly loosely
+allied with the Shadow Lords. Our tribe fought many
+battles to keep the vampires' influence at bay in the Rus.
+But while we stopped them on the battlefield, they slunk in
+under cover of darkness. Vampiric presence in the Rus
+ultimately resulted in our tribe's greatest defeat.
+
+The Siberakh
+
+From the Letters of Thomas Abbot
+
+I know that discussing the Siberakh (an obscure subtribe
+related to us and the Wendigo) is something of a taboo
+among our tribe. I will again break the rules of protocol, and
+do so.
+
+The Siberakh are among the so-called "pure ones," those
+Garou most unsullied by the Wyrm. They have an affinity
+with the World's Navel unlike any other Garou. The
+Siherakh wandered far afield in the Umbra, cleansing
+places of Wyrm-taint. Some even rumor they maintained
+contacts with the three American tribes after the bridge
+collapsed into the Bering Strait.
+
+
+A
+
+22 7
+
+.
+
+We have not heard from the Siberakh in recent centu-
+ries, but | maintain they still exist. Perhaps they are at the
+forefront of the war going on behind the Shadow Curtain.
+Accurate information about Russia's current plight is al-
+most nonexistent.
+
+In earlier times the Siberakh taught us our greatest lore
+about the World's Navel, and we learned those lessons well.
+(When the other tribes accuse us of "examining our na-
+vels," they do not know how right they are.) If things fall
+apart completely here and in the Penumbra, the World's
+Navel may be where we make our final stand. I only hope
+the "Ronin" Siberakh will aid us then.
+
+The Russian Revolution
+
+From the Letters of Pyotr Speaks-the-Past
+
+Your castigation of our alleged "incompetence" during
+the Russian Revolution shows your true colors at last. [am
+grateful to see that you have stepped out of Stanock's
+shadow for once. That he had no opinion of the 1917
+revolution is disappointing. I had so longed to hear what
+Lord Falcon — king of the air, messenger of Helios —
+would have to say about our Crescent-House colleagues.
+Perhaps fresh insights on Rasputin's "cross-dressing" Silver
+Fang assassin, Felix Yusupov? Your cavalier defamation of
+our greatest heroes does you little credit as a gentleman.
+Still, at least you did not bother to hide behind Stanock's
+
+ali we
+
+Silver Fangs
+
+a .
+
+ANAND
+in 5
+y) ‘
+
+avs
+
+ey!
+
+academic hem this time. The words you wrote were, as you
+said, "yours alone."
+
+You report (truthfully) that the Children of Gaia, the
+most gullible of the Russian tribes, came to our leaders.
+They said they had found a dagger at the Wyrm's belly.
+They claimed they knew of a vampire aristocrat whom they
+could "trust."
+
+The Children petitioned that the vampire had supplied
+them with secret knowledge of the Wyrm's weaknesses.
+The vampire supposedly gave us the information to damage
+his rivals. This, ac least, held true with our knowledge of
+vampiric politicking and scheming. Unfortunately the
+Children reported that the Red Army killed the vampire
+shortly after he delivered this message. 1 am sure this
+appeared all too convenient to some of our tribe; the
+decision to act on the information was not unanimous. The
+Children convincingly swore that the vampire had no sign
+of Wyrm-taint. (Their honesty can be damnably inconve-
+nient at times.) They suggested a course of calculated trust.
+All the tribes, weary of long war, were eager for a chance to
+win with a decisive death-blow. Still, we were not naive.
+
+Some of our seers foresaw disaster, but others promised
+victory. I suppose it was just one of those times when people
+have to make leaps of faith. Ever wary of deceit, the loyalist
+tribes set a trap. Spirit-couriers and the fastest messengers
+sought out every loyal Garou in the region. Werewolves of
+
+L
+
+
+almost every kind arrived by foot, horse and Moon Bridge.
+A fourth of this great force attacked the Black Spiral caern
+of which the vampire spoke; the rest waited in reserve. The
+Children of Gaia reported credible dangers, even relating
+details of what might have been a Nexus Crawler. We
+believed that we had mustered enough force to smash many
+times that threat. No one could have foreseen what hap-
+pened next.
+
+The Black Spiral caern was well-guarded, yet the loyalist
+Garou seemingly took the Spirals by surprise. Powerful rites
+protected the tribes from the labyrinth's corrupting influ-
+ence. On the second spiral, that dedicated to the Beast-of-
+War, the assembled tribes reportedly heard a keening
+sound. "Perhaps," they thought, "this was the Nexus
+Crawler?" It was not.
+
+I know not how, but the Wyrm forces awakened a Zmei!
+I know not which one. (Perhaps Shazear?) There were but
+seven of these monsters in existence, and Silver Fang claws
+had slain one, Sharkala the Cruel, centuries earlier. Unfor-
+tunately the Garou did not have Sharkala's slayers, Yuri
+and Sophia Tvarivich, with them that night. The Zmei
+decimated the war party. Black Spirals and other Wyrm
+creatures poured from the labyrinth walls. | believe there
+were also many Bone Gnawers and Shadow Lords among
+the foul attackers.
+
+All the tribes suffered grievous losses that night, but
+none more so than us. House Crescent lost over a fourth of
+
+its strength, a blow from which it has yet to recover. The
+dragon disappeared and none have seen it since (though
+rumors of the Zmei's ongoing rampage are whispered from
+under the Shadow Curtain). Occult scholars of every tribe
+know of this catastrophe. The event is perhaps the single
+most disastrous in our tribe's recent history. Our power in
+Russia has ended, perhaps forever.
+
+Is this not enough for you?
+
+And if that were not enough, you accuse our tribe of
+another betrayal, a "crime of omission" committed a gen-
+eration later. The Russian Red Talons blamed the Children
+of Gaia when their policy of peaceful engagement failed to
+stop Stalin from testing the first atomic weapon on Russian
+soil. The Talons slaughtered almost every Child of Gaia out
+of revenge. You suggest that our tribe stood by idly, allow-
+ing the slaughter. This is a lie! We did so, you suggest, in
+revenge for the Children's bad council during the revolu-
+tion. You blacken your soul and our tribe's honor with your
+vile slanders. Must you cast disgrace on our tribe at every
+turn? Have you ~~ at last — no shame, sir?
+
+Stanock's letters and your circulation of them dishonor
+our tribe's heroic sacrifices. | will not sit back and watch you
+defame the valiant dead, as is so obviously your intention.
+If you persist in slandering our great tribe, not even your
+connections to King Albrecht will save you. This is your
+final warning.
+
+Apostate, beware.
+
+AMaKréa 191F 2.
+- ~~ »®
+
+
+)
+
+eternal reflections of past glo-
+ries. The other tribes are abandoning
+
+us, tired of our vacillation, our hubris, our dementia. Our
+twa most important houses, Wyrmfoe and Crescent, stare at
+each other across a void of jealousy and mistrust. They were
+nearly at war when the Shadow Curtain rose in 1991. Thank
+Gaia for small favors. Perhaps whomever raised the curtain did
+not wish us to war? (This thought is farfetched, but it gnaws at
+me.) There is obviously some sort of silent war at work within
+the Rus, bur Stanock's words are the first (that I know of) to
+escape Russia's dark shroud.
+
+Dark forces beset our other protectorates, as 1 said. The
+Blood Red Crest wages a losing war with Wyrm-tainted mages
+in India and Asia. Intrigue riddles the Gleaming Eye and
+Austere Howl. Not even the Unbreakable Hearth is as depend-
+able as it once was. No one knows what occurs in House Wise
+
+Heart. (But then, did anyone ever know?) The recent ascension
+The Pr esen t of King Albrecht is one of a few hopeful signs, as are hints at
+From the Letters of Thomas Abbot renewed contact with the fae overlords, the sidhe. Falcon's
+
+active role in delivering Stanock's letters is good news, though his
+direct involvement also means that the Apocalypse is much
+closer than any of us dared imagine. We are not ready.
+One-fourth of our tribe is so sodden with Harano that they
+cannot function. Another fourth are worthless sybarites, revel-
+ing in the coming Apocalypse. The tides of dementia are fast
+eroding our remaining sanity. If this does not stop we will be a
+
+Celeste,
+
+A few final words before I sleep. No more fiery revelations,
+just the coldness of history coming to an end.
+
+Things are moving far too fast for our tribe. The Wyrm
+presses us on every front, in every part of the world. A few of us
+have adapted to the new realities, but many more wallow in
+
+Silver Fangs
+ray none ma ene mr nile //,
+
+
+tribe of no-moons (no offense) before the war starts in earnest.
+Decadence and sorrow are both fertile ground for the Wyrm,
+and growing numbers of our tribe defect to its dark ranks. This
+leaves about half of us alert and willing to wage the Apocalypse
+War, but even that number is rapidly dwindling.
+
+I retire this evening with mixed emotions. Stanock's letters
+both encourage and dishearten me. Visions of dark betrayals
+and grand deeds, Gaia's compassion, the loyalty of Falcon, and
+inimical Wyrm forces churn madly behind my eyelids. If we are
+to survive, we must play to the better angels of our nature. We
+have a great and glorious history, of which we are justly proud.
+This history is not one reflected merely by battles won or Wyrm-
+beasts slain, but by the ideals that drive us. If we are to be worthy
+of our heritage, we must rekindle these ancient fires.
+
+Stanock's letters finally disintegrate into insane and cryptic
+conjuration, telling me little more of worth. Perhaps he was
+mad. Still, ] had the dream and you found the papers. Pyoter's
+last letter had an unquestionably threatening tone, but do not be
+concerned. I may be an old wolf, but my fangs ave still sharp.
+Tomorrow I will go to one of our Kinfolk, a trusted scholar in the
+Arcanum. Perhaps she will be able to aid me in deciphering
+Stanock's arcane scrawls.
+
+I retire now. | will play the new Tchaikovsky CD | bought in
+town last week. The cellophane is still on it. 1 can hear the waves
+through the screen door; the air is agreeably cool. | have not
+eaten much since Tuesday. Perhaps I will have a scotch.
+
+Farewell for now, my daughter in all but name. When next
+] write, I promise to have better tidings.
+
+|
+
+
+ne A
+
+%
+
+Tr napa bropas:
+
+‘le, hro
+
+OropacbiBaior
+eHu (
+
+Philosophy
+
+Consuming hunger of the uncritical mind for what it imagines
+to be certainty impels it to feast on shadows.
+
+—~ Peter Bell, Science and Sanity
+
+Pull up a rock and sit down, cliath. I saw you out there
+earlier; you did well. Martin Rothchild is the name, and
+Summer-Snow says you're of Stockwell's line. Relax. If
+we're going to sit out here in the snow and wait for the next
+Spiral attack, we may as well be comfortable. We've just
+won a respectable victory. Did you see how they scattered?
+Rabbits! It's nights like this that I'm glad to be Silver Fang.
+
+Sit! I have killed a deer, and although no fires are
+allowed right now, I am sure we will make do. Whiskey? I
+see you got a nasty gash on the cheek. Your first scar? You
+should be proud. Except for a Heidelberg scar, you don't get
+much better than a scratched cheek.
+
+Was it from that spider-monkey | saw you chasing near
+the quarry? I thought so. No, they aren't Black Spirals;
+spider-monkeys are fomori and damned annoying ones at
+that.
+
+"What's a fomor...2" You really are new at this. Didn't
+Summer-Snow tell you anything? Though the way things
+blew up yesterday, I guess she didn't have much time. Look
+— your father was a friend of mine years ago, and you
+showed some real guts out there. (In both senses of the
+
+word.) You're obviously Ahroun, and that gives us some-
+thing else in common. We may have a while to wait out
+here. I'll tell you what: Hit me with your best shot. What do
+you want to know?
+
+"What the hell is a Silver Fang" and "How did | get
+here?" Tall order, but 1 can answer the second question
+right away. You are here because you are a Silver Fang.
+That's why you're out here freezing your butt off in the
+snow, and that's why you were going blood-mad and scrap-
+ping with monsters you didn't even know existed a few days
+ago. That's why you tore that creature's throat out with
+your teeth, and that's why you feel an inborn sense of
+nobility and command. The other tribes, they see that
+white fur and they jump, despite what they say about us
+behind our backs. It's instinct. You have the blood of kings
+in you, and the blood of wolves as well.
+
+Now, "What the hell is a Silver Fang?" Very well. What
+do you know about us? .
+
+Hmm. | guess Summer-Snow wasn't completely negli-
+gent, though it sounds like she gave you all the history and
+spooky cosmological stuff without any of the nuts and bolts.
+Typical Galliard. All right, I guess the best place to start is
+with our tribal structure, our laws and some of the factions
+that you may meet. To get the reasons behind all this, give
+Alexandra a call. She's a Philodox; they're good at helping
+people connect the dots. Here we go. Let me know if I lose
+you.
+
+Chapter Two: Those Who Cast a Shadow 27
+
+a en tnteniomnay //,
+
+
+.
+
+Structure
+
+We Silver Fangs learn since birth what it is to be noble
+and Garou, or at least that's the theory. (You, young friend,
+are an obvious exception.) Our athros — teachers — carry
+on a tradition as old as the tribe itself: the transmission of
+our tribe's history through the spoken and written word.
+We are the most literate tribe, with the possible exception
+of the Fianna. (1'll ler Alexandra fill you in on them.) Our
+law is therefore elaborate and legalistic. But behind this is
+a strong appreciation for the spirit of that law.
+
+Many werewolves acknowledge the Celestine Helios as
+the patron of Silver Fang (and so much of Garou) law. The
+Concord, in particular, bears his mark. One of Falcon's
+broods, the Firebirds, was influential in the creation of the
+Concord and the Litany. It is not surprising, theny that
+many forget our tribe is equally beholden to Luna, the
+Celestine of the moon. Because of these loyalties, our tribe
+is sharply divided into two lodges, the Lodge of the Sun and
+the Lodge of the Moon. Most aspects of our philosophy
+revolve around these two groups.
+
+Lodges (Sun and Moon)
+
+The lodges are the primary dividers of our tribe. The
+Lodge of the Sun is somewhat larger than that of the Moon,
+outnumbering it in most of our royal houses by a three-to-
+two margin. Although the lodges are the most significant
+division in Silver Fang society, they are traditionally be-
+nign. They each represent twin ideals: reason and order
+(the Sun), and passion and mysticism (the Moon).
+
+A lodge is mostly a matter of personal philosophy and a
+touch of spirituality, or at least that's how you tend to wind
+up in one. What happens next is a different story. You see,
+the lodges reinforce our ideals of duality: human and wolf,
+right? Same with Helios and Luna. They also play off one
+another politically, especially at moots. You see, sometimes
+the Moon Lodge'll declare a certain fetish, patch of ground
+or tidbit of lore to be "in their province," and therefore
+assert a claim to it. The Sun Lodge does the same. It's part
+jockeying for influence, I'll admit, but it's also making sure
+that things and tasks fall into the hands of those most
+capable of handling them. Just like leaving war to the
+Ahrouns and spirit-talk to the Theurges, right?
+
+Most members of our tribe gravitate to a lodge shortly
+after our Firstings. Membership in a lodge is encouraged for
+homids — lupus are traditionally free to do as they please,
+don't ask me why — and you can't be a member of both. You
+can switch from one lodge to another, but be careful: Doing
+so may reduce your honor in the eyes of the tribe. The
+lodges stage two great shared celebrations on the twin
+solstices. Our Winter Solstice celebration is open to all
+Garou. It's a raucous affair and a good chance to let your fur
+down and learn about the other tribes. The Summer Sol-
+
+
+stice is a time to renew our ties with Helios and Luna, and
+so we don't want outsiders mucking with the sanctity of this
+event.
+
+Now, a king transcends lodges by his very nature; he has
+to be impartial. The lodges are at their most formal, how-
+ever, when they're present in the king's court. This is where
+they really come into play; you see, the Sun Lodge deals
+with affairs of humanity and the physical realm, while the
+Moon Lodge oversees matters of a lupus and spiritual bent.
+Each lodge is represented by a shaman, steward and squire.
+The two shamans are always Theurges and they advise
+kings on the spiritual and physical world. The stewards are
+always Philodox and marshal the tribe's war effort against
+the Wyrm. And the squires are Galliards who oversee the
+defensive forces and keep an eye out for incursions, sort of
+like Caern Warders. The seneschal transcends the two
+lodges and may be of any auspice, although we Ahroun
+have rightly dominated the position since the 1300s. The
+Ragabash like to say we usurped their positions seneschal,
+and there is some hostility between uson this count. So you
+see, a Fang protectorate only really needs six lodge mem-
+bers — but as the lodges gain influence, they' ve attracted
+more Fangs to their ranks.
+
+Both lodges oversee our system of laws and the Litany.
+They also try to maintain the Concord. During meetings
+between the lodges, the Lodge of the Sun places its accou-
+terments at the north end of the meeting place. The Moon
+Lodge takes the south. | hear some of the Eastern houses
+prefer an east-west arrangement. | pity the poor Philodox
+who has to make the seating arrangements at a multihouse
+moot. Our tribe can be a little obsessive with formalities;
+I've seen blood spilled over who gets what chair.
+
+Sun
+
+I am in the Sun Lodge and, as an Ahroun, you will
+probably end up there as well. The Sun Lodge teaches
+order, discipline, harmony, intellect and rationality. We
+are the servants of Helios and maintain strong ties with
+Falcon's Weaver-spirits, the Children of Karnak. Our lodge
+deals with the human world and maintains an intricate
+power structure among our Kinfolk. We are masters of
+politics and commerce, though we primarily control small,
+rural-based corporations. Most of these are trading compa-
+nies, cottage software businesses, communications firms
+and the like. We also influence many museums and pri-
+vately-owned libraries. Galliards and Ahroun tend to join
+our lodge.
+
+Moon
+
+The Silver Fangs of the Moon Lodge seek ecstatic,
+spontaneous experiences. Fangs of this lodge are the ser-
+vants of Luna and maintain strong ties with the Wyld
+Falcon brood, the Talons of Horus. Those of this lodge
+explore the spirit world, traveling far afield in the Penum-
+bra. They deal with the tribe's lupus population, and most
+
+lupus and metis who choose a lodge choose this one. The
+Moon Lodge typically has better occult scholars than we
+do. Like us, they have a fair amount of influence over many
+museums and privately-owned libraries. Theurges and
+Ragabash gravitate toward the Moon Lodge. Philodox are
+split down the middle — as suits them
+
+Martial Tradition
+
+We have maintained a vigorous martial tradition
+throughout our history. Every Silver Fang cliath learns the
+rudiments of military tactics, self-defense and sword play. It
+looked like you got a good start tonight. Most of us are also
+trained with firearms. Despite our tribe's well-deserved
+reputation for honor, we aren't above using the occasional
+"dirty trick" in combat. The Shadow Lords largely underes-
+timate our capacity for martial deception.
+
+Camps
+
+The leadership of the lodges actively discourages the
+formation of private "camps" within the tribe. It does so to
+prevent factionalism, but we have no laws that explicitly
+forbid the existence of camps. The majority of Silver Fangs
+do not belong to any "unofficial" organizations. | urge you
+to be careful about making friends carelessly.
+
+Renewal
+
+The Renewal movement is'a recent phenomenon and
+it's active in both lodges think ir started in House Wise
+Heart, but it's now growi throughout the world. The
+Renewalists are for a spiritual teinvigoration, as espoused
+by people like King Albrecht and King Nayar of the Blood
+Red Crest. They believe the only way for the tribe to
+survive is through some kind of "spiritual rebirth." Ask any
+two Renewalists what that means and you'll get three
+different answers, though.
+
+They have adherents in both traditional and more
+modern circles in our tribe. Yet in some ways they break
+almost completely with our traditions. Many of them
+advocate an increase of Silver Fang Kinfolk through inter-
+marrying with other tribes' Kin. Most in our tribe consider
+this heresy.
+
+American Renewalists have high regard for King
+Albrecht, though he doesn't claim to be one of them.
+While most Renewalists support the current monarchs
+(some more so than others), most Royalists distrust them
+anyway.
+
+Royalists
+
+Most in our tribe are what you might call "small-r"
+royalists by inclination. I remember when I first became
+aware of my Silver Fang heritage. People were in the streets
+protesting the Vietnam War and a host of other things, and
+the old imperialist fogies in my pack were trying to teach me
+
+Chapter Two: Those Who Cast a Shadow 29
+
+ALE OT ET nea //,
+
+
+the "virtues of monarchy." They seemed antiquated as hell,
+but after a while it just seemed to click! We're not human
+nobility, kid. As Silver Fangs, and as Garou, we're defend-
+ers of a gigantic mystical paradigm that | can't begin to
+fathom. ] only buy about half of what the tribal elders sell
+as tradition, but our true nature and purpose are pretty clear
+to me. As for all the trappings and ceremonies — they've
+lasted a long time and there are damn good reasons for
+many of them. Don't be tao quick to judge anything that
+seems strange.
+
+On the other hand, Royalists (with a "big-R") are also a
+specific political group. They generally run the show in our
+tribe, though they would resent being called a camp.
+They're the most interested in restoring our tribe's monar-
+chical influence over the other tribes, and they're the ones
+driving the bus at the moment. Their motivations vary.
+Some are honest traditionalists who believe that Silver
+Fang leadership is necessary to withstand the coming Apoca-
+lypse. Others just crave power. While the Royalists are the
+most powerful force in our tribe, their influence on other
+tribes is waning. There are some Garou in almost every
+tribe who still favor restoring our tribe's preeminence, but
+their number's dwindling.
+
+The Royalists send ambassadors to other tribes regularly.
+[hear they're favorite fall guys in Bone Gnawer folk tales.
+
+Jvory Priesthood
+
+I'll be honest — these Silver Fangs disturb me. | know
+that Death is the left hand of Gaia's balance, but honestly,
+some of these Garou look and smell dead. (But then, some
+Silent Striders strike me the same way.) I'm just not sure it's
+a natural state. Still, in all our legends the First Wolf died
+to save Gaia and consequently learned the "Secret of
+Death." Ever since that time, there has been a small caste
+of Silver Fang Theurges dedicated to preserving this secret.
+The priesthood has members in both lodges. You'll recog-
+nize them if you see them; they and their acolytes wear
+white robes that are covered in death runes from our culture
+and countless others. Or at least that's the story. The runes
+are in an almost invisible silver chread, and few want to get
+close enough to study them.
+
+The Ivory Priesthood is among the scant few Garou with
+access to the so-called Dark Umbra, where ghosts live.
+(The Silent Striders is the other group.) I've heard stories
+of Ivory Priests who can kill with a stare. Apparently they're
+also enemies of the Shadow Lords' Society of Nidhogg.
+(But that's a whole different story.) Despite its sinister
+reputation, the priesthood is one of our tribe's greatest
+weapons against the Wyrm. If you meet a priest, give her
+the proper respect and a wide berth.
+
+Kinfolk Families
+
+Our Kinfolk are an exclusive fraternity to say the least.
+We choose them based on their competence, loyalty and,
+yes, beauty. It is, indeed, good to be the king. Like us,
+however, many of our Kinfolk battle Harano. This has
+
+30 Silver Fangs
+
+ames
+
+lessened their effectiveness in some ways, but it also makes
+them more dangerous to our enemies. Silver Fang Kin come
+from some of the wealthiest and most powerful families in
+the world, but then one look at you tells me you know that
+much already.
+
+Some examples of powerful North American Kinfolk fami-
+lies include the New Orleans Delacourts (of House Gleaming
+Eye), the Rothchilds (an Unbreakable Hearth family that
+made its money as railroad barons in the Old West), and the
+oil-rich Batells. King Albrecht's family is one of the finest in
+New England, and is making a fortune by reintroducing old
+environmentally safe farming techniques. ] understand that
+another of House Wyrmfoe's families pulls strings in the FBI,
+but you didn't hear that from me.
+
+Most of us trace our lineage through both Kinfolk and
+Garou sides, and take our names accordingly. Me, I didn't
+have a Garou parent — don't give me that look, kid, my
+blood's still at least as thick as yours — so I took the family
+Rothchild, If my mother had been Garou, I'd have taken
+her name instead. Keeps things clear, even if some Garou-
+sired Fangs start feeling a little superior. | understand these
+folks grind their teeth whenever Albrecht's name is men-
+tioned. You guessed it, kid — the Albrechts are a fine Kin
+family, but the king doesn't have a Garou parent. Maybe
+he'll breed true, as well, and then you'll have Albrecht
+being a Garou name as well. Confusing? Yeah, a bit, but
+that's what the Galliards are here for.
+
+Che Litany
+
+Royalty does good and is badly spoken of.
+
+— Antisthenes (5th-4th century B.C.)
+
+Our tribe is largely responsible for both the institution
+and observation of the Litany, though the latter role has
+diminished somewhat in recent centuries. Each tribe typi-
+cally administers the Litany as it sees fit these days, but that
+doesn't stop us from "interfering" when other tribal rem-
+edies fail. Many Garou still see us as the Litany's final
+adjudicators, and approach us for guidance.
+
+Garou Shall Not Mate With Garou
+
+Some say our tribe has an obsession with blood purity.
+This is probably true. Few of us, apart from the Renewalists,
+would ever mate with other Garou or Kinfolk from other
+tribes. Ironically, our dwindling gene pool causes many of
+the defects that this tenet seeks to avoid. Breed purity is
+especially important to our tribe's aristocracy, which main-
+tains the most exclusive gene pools.
+
+We've obeyed this tenet scrupulously throughout most
+of our history; metis Silver Fangs were all but unknown
+before the 18th century. Since that time, however, worsen-
+ing situations have led some of us to turn to our own kind
+for comfort and procreation. While these charachs are in
+the vast minority, their number is growing. Offspring of
+these unions are pariahs in most houses, and are particu-
+larly unbalanced.
+
+
+}
+
+i
+
+M)
+
+.g
+
+Ny} NN
+
+Wdtil. N
+
+Fim
+
+Ji.
+e
+
+ih
+
+li
+
+s
+
+w=
+
+Combat the Wyrm Whenever it Dwells
+and Wherever it Breeds
+
+The Wyrm fears us as the Garou's leaders. Despite our
+problems, we still make potent enemies. When we galva-
+nize ourselves into acting as one, we're a war machine
+capable of inflicting devastating damage to the Wyrm's
+minions. When this happens, the other tribes tend to rally
+around us. Unfortunately, they say it's difficult for them to
+tell the difference between a serious Silver Fang assault and
+one of our leader's latest delusions of grandeur. The Wyrm
+and the Shadow Lords seek to confuse the issue, planting
+false rumors against us. Although still strong against attack
+from without, we suffer Wyrm-corruption from within.
+Don't go blathering this to other tribes, though. It's an
+internal matter and one we'll take care of ourselves.
+
+Respect the Territory of Another
+
+This an inviolate provision, simply because all territories
+are technically ours. Our monarchs claim vast swaths of land
+as protectorates. In the past we ruled in deed, administering
+over these territories with the (often) willing cooperation of
+the other tribes. Now our territorial claims fall short of our
+reach. The other tribes have long held exclusive rights to their
+territories; only our most delusional nobles dispute this any-
+more. We have to respect the other tribes' territories for
+practical reasons, and we expect them to behave likewise. We
+still occasionally break up violent territorial disputes between
+other tribes, sometimes by force.
+
+Accept an Honorable Surrender
+
+We adhere toa high tradition of honor in combat, one that
+outsiders often misunderstand. Our codes regarding the accep-
+tance of an honorable surrender are somewhat arcane, but I'm
+sure the elders will drill them into you soon enough. The
+intellectual underpinnings of these codes are similar to those
+of medieval chivalry, though they stem from more ancient
+(and feral) origins. We are keenly aware of the Garou's
+dwindling numbers and usually spare those who surrender
+honorably. Nevertheless, our hubris sometimes prevents us
+from surrendering ourselves, since many consider defeat at the
+hands ofan "inferior" dishonorable. We are, perhaps foolishly,
+less likely to ask for quarter than to give it.
+
+Submit to Those of Higher Station
+
+This provision has been the basis of our authority and
+power for millennia. Garou are, for the most part, hierar-
+chical creatures, and have traditionally deferred to our
+authority as the "alpha-tribe." Our athros teach our cliath
+the traditions of hierarchy and the natural order of things.
+In some respects rank transcends tribal affiliation and blue
+blood. Our tribe views a Silver Fang of any rank to be of
+higher station than a non-Fang of equal standing. Unfortu-
+nately the other tribes don't always see things this way
+anymore, and it occasionally leads to conflict.
+
+31
+
+
+ip
+x
+
+fre
+
+@
+
+Despite our tribe's superiority, our aristocracy does rec-
+ognize the authority of the other tribes' leaders. Misbehave
+in another tribe's caern and its elders will snip your ears just
+like any other cub's. Don't come crying to me if it happens.
+
+The First Share of the Kill
+for the Greatest in Station
+
+Most tribes cede us this right, even today. We may still
+expect the first share of spoils on the strength of our blood,
+though internal tribal rank also plays a role. A Silver Fang's
+claim to the first share is usually equal to that of anon-Fang
+(or in some cases two) who is ranks above him. Contrary to
+Shadow Lord propaganda, we are traditionally generous in
+victory and reward each according to genuine merit.
+
+Ye Shall Not Eat the Flesh of Humans
+
+As the arbiters of the Concord, we enforce this provision
+vigorously. Just so there are no misunderstandings: We will
+strictly and permanently penalize any Garou who violates
+this tenet.
+
+Respect for Those Beneath Ye —
+All Are of Gaia
+
+Despite charges to the contrary, our tribe upholds this
+tenet fairly. In many ways | guess we still consider the other
+tribes our children, unruly but still loved. Call it noblesse
+oblige if you must, but it shapes much of our behavior toward
+
+32 Silver Fangs
+
+our subjects. Even during the height of our power, our hand
+was seldom heavy or unjust. Most in the other tribes realize
+this and, with a few notable exceptions, have not sought
+retribution against us as we have fallen on hard times.
+
+The Veil Shall Not Be Lifted
+
+Asa tribe, we enforce the Veil. However, our record as
+individuals has become increasingly erratic of late. Our
+Harano and isolation have caused some of us to endanger
+the Veil at the worst possible times. We react to such
+breaches with either stern compassion or vengeful retribu-
+tion, depending on the nature of the transgression.
+
+(Do Not Suffer Thy People
+to Tend Thy Sickness
+
+Of all the Litany's provisions, this is the one we tend to
+ignore most frequently. As many outsiders will attest, most
+of us are "sick" in some manner. | don't care what that ad
+campaign says, now is not "a great time to be silver." Mental
+infirmity affects most of us to some degree; we have no
+choice but to tend each other's wounds if we hope to
+survive as a tribe. This has led some outsiders, most notably
+the Get of Fenris, to conclude that our tribe coddles its
+weak. Others, such as the Children of Gaia, approve of our
+actions because they understand our plight. Many of us
+view this de facto violation of the Litany as the civilized
+prerogative of monarchy, superseding more "primitive"
+
+L
+
+
+feral notions of behavior. This might not always sit well
+with your Garou instincts, but it's the way we do things.
+
+The Leader Ma ay Be Challenged
+At Any Cime (During Peace
+
+This is a valid concept, but we support it only to a point.
+A Silver Fang may challenge a Silver Fang during times of
+peace, and other tribes may challenge their leaders. We do
+not extend this right to our position as the leading tribe.
+Our position on this is inviolate and eternal.
+
+The Leader May Not Be Challenged
+(During Wartime
+
+This is a moot point, since the coming Apocalypse puts
+us in a perpetual state of war. Most of the other tribes
+continue to support us on the strength of this tenet, but
+many also secretly believe that we are leading them to
+disaster. Our competitors have sought to use this to turn the
+other tribes against us. There is no shortage of contenders
+for the role of alpha-tribe. The Shadow Lords are the most
+public contenders, but they want it too badly. The Silver
+Fangs may fall, but the Shadow Lords will precede us into
+oblivion. The Get of Fenris are honorable contenders, but
+I believe we need not fear them until the last days of the
+Apocalypse. The Glass Walkers, Uktena and even the
+Children of Gaia have a taste for power, though the last will
+come to pass only if we defeat the Wyrm and enter a new
+Dawn of Ages. One thing in our favor is that no other tribe
+is even remotely qualified to take our place.
+
+Ye Shall Take No Action
+That Causes a Caern to be Violated
+
+Because of past victories, we control a number of caerns
+far out of proportion to our numbers. This affords us certain
+tactical advantages. We therefore enforce this tenet of the
+Litany more stringently than ever.
+
+Our support of this rule is not wholly self-serving. Wyrm
+violation of any Garou caern, even one belonging to the
+Shadow Lords or Glass Walkers, means that Gaia dies a
+little more. Our warriors have fallen in the defense of even
+Bone Gnawer caerns. And that's as it should be; Gaia
+expects no less from us.
+
+Madness
+
+Sometimes accidents happen in life from which we have need
+of a little madness to extricate ourselves successfully.
+
+— La Rochefoucauld, Maxims
+
+I'm not trying to scare you, but I'm not going to sugarcoat
+this, either. Our tribe is going mad and you aren't likely to
+
+be an exception. Oh, there are madder creatures out there.
+The Dancers, as well as the worst vampires, make us seem
+like paragons of stability, but we're slipping away nonethe-
+less. All of us have our moments of lucidity, and many of us
+are rational most of the time. However, very few of us are
+completely whole in mind and spirit.
+
+Few of the other tribes realize how hard we struggle to
+keep our grip on reality. We are a shadow of what we once
+were. There is an old saying: "Those who cast a shadow
+must stand in the light." So it is with us. The darkness in our
+tribe is commensurate with our highest deeds. We know
+the highs and lows of existence in a way that "protected"
+Garou never will. | can only describe our madness as some
+sort of malign undertow. You'll know what | mean when it
+pulls you under.
+
+Some of us are unbalanced from birth, but most of us
+don't experience real problems until after our Firstings. I'm
+sorry, but if you haven't experienced anything yet, you
+probably soon will. When it happens, my advice is to seek
+out another Fang or a Firebird-spirit to "talk you down."
+Barring that, a Child of Gaia, Fianna or Stargazer will do in
+a pinch, but we'll have to deprogram you afterward.
+
+There are a few tricks that you can use to get around it
+for a while. We Ahroun can overcome even Harano with
+Rage when needed. You can't stave it off forever, but long
+enough to get the job done. Our madness makes us more
+susceptible to the Wyrm, but our madness is not of the
+Wyrm.
+
+Our madness may be the product of inbreeding, as most
+Garou believe, but some Silver Fangs figure it comes from
+a deeper, spiritual source. They think our tribe committed
+some terrible sin in the past, and that Gaia decreed madness
+as our spiritual atonement. They believe the only way to
+cure the tribe is to address our transgression somehow. I'm
+not sure which theory is right.
+
+We can also contain, or at least channel, our madness
+through our structure of codes and ceremonies. It is your
+duty to battle your insanity, but dementia can work for you,
+too. Our enemies and competitors rightly fear our madness,
+and that has bought us some time.
+
+What's more, it's the young ones like you, who haven't
+seen too much and haven't fallen to the killing gloom, who
+give hope to even the hoariest and most senile elders of the
+tribe. Yeah, all eyes are on you, young lord. What did you
+expect? You might be the one who finds the way out of our
+private little asylums, or who drives away the Harano once
+and for all. Then again, maybe not. But you still have to try.
+
+Hey, cheer up and have another drink of whiskey, young
+friend. We're not done for yet.
+
+Chapter Two: Those Who Cast a Shadow 33
+
+inion //,
+
+
+
+a A"
+
+] | j1aBa
+
+‘LOT,
+
+NEN
+Tperpa: °
+Yro_ LIpuodperer
+
+ Saporoet Bech &
+Mup?
+
+\
+
+hTO
+
+World View
+
+He that would govern others, first should be the master of
+himself.
+— Philip Massinger, The Bondman
+
+Silver Fangs Around the World
+
+You must be Stackwell's cub. Make yourself at home.
+You may call me Alexandra. Yes, it is Russian, but I left
+there long ago; your house has been good enough to give me
+sanctuary. No, do not concern yourself with the mud on the
+carpets. Mercer will take care of it.
+
+I can tell by your general condition and the whiskey on
+your breath that you have been with Martin Rothchild.
+You aren't the first he has sent to me in this condition. It
+seems I have my work cut out for me. You look surprised to
+see a Fang of my advanced years. Yes, it is true that not many
+of us not live long after 30. Gaia has blessed me with many
+seasons to appreciate her cycles.
+
+But first things first. My Kinfolk will tend to your arm
+and that gash on your leg, and will do something about that
+scratched cheek. You must also bathe and change. Being
+Garou does not give one license for slovenliness. When all
+that is complete, and we have had some lunch, I will begin
+
+your instruction.
+te té
+
+Chapter Three: What Benefits It One to Gain the World?
+
+Ah, much better. Iris seldom disappoints, and you were
+charming company. Come. While they clear away the
+dishes we will walk in the garden. It is a shame that you
+cannot see it in spring, but I still find it delightful in winter.
+The pond is frozen; look how it reflects Luna's grace.
+Perhaps later I will show you the ice-spirits who live there.
+Feel chat icy wind? It cuts you to the bone, but invigorates
+as well.
+
+Ah, and my roses. Look how their thorns glisten under
+the coat of ice. No, don't go down that path! Those roses do
+not like intruders, though they only react violently to
+servants of the Wyrm. They caught a pair of fomori a few
+months ago and gutted them quite cleanly. I removed the
+bodies, of course — fomori make poor fertilizer. | learned
+about plants and their qualities from my tutor in House
+Wise Heart. The house is wise in Gaia's secrets, and I was
+an apt pupil.
+
+This brings us to you, cliath. You have begun a different
+life from any you have ever known. You have new respon-
+sibilities and cannot escape them if you wish to remain true
+to your nature. Here, I shall tell you about the Seven, by
+which | mean the Seven Great Houses of our tribe. I will
+also touch briefly on the lost houses and the other Garou
+tribes who are our subjects and charges. Then, if the hour
+is not too late, | will tell you about some of the other
+creatures abroad in the world. Hardly scratching the sur-
+face, | know, but it shall have to suffice.
+
+35
+
+
+a3:
+
+The 13 Houses
+
+There were once 13 major houses in the Silver Fang
+tribe, as well as several minor ones. Six of the houses
+disappeared or died out over time; the true power of the
+tribe lies with the seven that remain.
+
+The Seven
+
+Seven Silver Fang families currently guide our tribe's
+destiny. A king or queen rules over each house, though in
+the Motherland we called them tsar or tsarina. Each house
+has its own distinct character and often-divergent agendas.
+I fear the political turmoil created by the machinations of
+these houses is reaching a boil.
+
+The Gleaming Eye (Northern Europe)
+
+Many consider members of this house calculating, ruth-
+less and more than a little mad, even by Silver Fang
+standards. It is certainly one of our more enigmatic houses.
+Most members live in France, Germany or the Scandina-
+vian countries. They have ruled with an iron grip since
+before the Roman Empire. They are a power to be reckoned
+with throughout most.of Europe, and the other tribes
+disobey the Gleaming Eye's edicts at their peril.
+
+Some rumor that the family ‘has'somehow fallen to the
+Wyrm, but I believe the opposite is true. My messengers say
+the house has successfully purged the last. of its Wyrm
+elements, but that its leadership is now paranoid that other
+houses are Wyrm- infested, and plots against them. This
+would be consistent with what I know of the house's
+character, which is of a paranoid bent. Alas, this paranoia
+is not unjustified. The Gleaming Eye is one of the two most
+powerful houses (the other being Wyrmfoe), and it has
+begun to lash out at the other houses. So far these instances
+have only resulted in skirmishes with House Wise Heart
+and the Austere Howl.
+
+The Gleaming Eye is on the Shadow Curtain's border
+and fears that what happened in Russia will soon happen to
+it. The house's ruler, Queen Anna de Provence, is a skilled
+Theurge duelist and an enigma. Some say she has faerie
+blood, though I discount these rumors. She is often absent
+from house events, traveling the deep Umbra. Her equally
+enigmatic brother, Calvin de Provence, rules in her ab-
+sence.
+
+The Unbreakable Hearth
+(Canada and American Midwest)
+
+The Unbreakable Hearth was originally a European
+house, centered primarily in Spain, Italy and France. It fell
+on hard times in Europe and its members were among the
+first European Garou to emigrate to the New World. As
+Europeans settled the Midwest and Canada, the Unbreak-
+able Hearth was at their forefront, carving out large terri-
+tories for itself. This sometimes brought the foreigners into
+
+
+conflict with the native Red Talons and Wendigo, though
+this enmity apparently cooled with time. The Unbreakable
+Hearth's main purpose was to bea broker between ourselves
+and the other tribes.
+
+Many European Garou came to the Americas to get away
+from the Old World's kings. Others, however, recognized
+the need to uphold traditional Garou hierarchy in the New
+World. However, Unbreakable Hearth did the unthink-
+able by focusing its attention on urban centers. It now runs
+successful businesses in: majot-metropolitan areas through-
+out Canada and the Midwest. It is an "earthy" house, but
+this has seemingly gained it the genuine respect of most
+other tribes. ar
+
+Once the most solid and reliable of the Seven, the
+Unbreakable: Hearth is now in grave peril. It recently
+suffered major setbacks in Chicago. Additionally, a series of
+attacks by unknown forces destroyed one of its four main
+caerns. Speculation about the attack runs wild. The house
+leader, King Cyrus-the-Bald, has watriors abroad who are
+trying to learn what happened. His advisors speculate that
+Wyrm-corrupted mages, or even the Unseelie fae, may be
+responsible.
+
+The Unbroken Hearth has traditionally had strong
+alliances with House Wyrmfoe and House Wise Heart.
+Recently, however, the house turned insular to protect
+itself from within. Cyrus-the-Bald is a competent king, but
+I hear his situation is rapidly worsening.
+
+The Blood Red Crest
+(Asia and India)
+
+Many think our tribe arose only in the West and in
+Russia. It did not. The Blood Red Crest has been a re-
+spected power in Asia and India for thousands of years.
+Tribe members migrated east with the earliest humans,
+settling in what are now India, Pakistan, China, Burma and
+Vietnam. When European Garou colonized these regions,
+the Crest supported them by breeding with the European
+Fangs' stock. They then went back to running things their
+way, though they incorporated elements of European style
+in their manner.
+
+Named for their ferocious fighting style, members of the
+Blood Red Crest are a small bur potent force in the East.
+They seem to understand the strange shapeshifters and
+stranger vampires that live there, and are certainly the only
+ones of our tribe that have successfully maintained a pres-
+ence in the Orient. They sometimes remark that the
+enemies they face would be unfamiliar to the rest of the
+Fangs; more secrecy, I presume.
+
+Their king, Palmarstan Nayar, is older than he looks. He
+appears to be in his early 30s, but is really in his late 70s. (I
+believe he made a bargain with a Firebird-spirit.) He has
+some Renewalist sensibilities, but is also a staunch tradi-
+tionalist. He is rousing his tribe from the Harano of his
+predecessor's reign. Many Garou compare him to King
+
+Albrecht.
+
+}
+eet ae
+
+Wise Heart
+(Mediterranean and Middle East)
+
+Wise Heart is one of our oldest houses — and the most
+mysterious. | once had a tutor from Wise Heart, but only
+learned a small part of his lore.
+
+As the name suggests, this is, perhaps, our most thought-
+ful house. Wise Hearts are keepers of the Secret of Gaia,
+and have many powerful Earth Gifts. These Garou tend to
+be mendicant, traveling from region to region. They were
+once powerful in ancient Italy and Greece, but their power
+there is a thing of the past. They appear there only sporadi-
+cally now, staging hit-and-run raids on the region's vampiric
+overlords. :
+
+Silver Fangs from. this family also appear in Turkey,
+Georgia, Azerbaijan and Uzbekistan. They recently lost
+one of their oldest bases, the Aral Sea Caern, to a major
+Wyrm advance — the Shadow Curtain' around Russia
+reached out and consumed the sacred place: This is a matter
+of grave importance to-all Garou.
+
+The house's leader, King Tariki, is from an ancient and
+respected Mesopotamian dynasty. He maintains our tribe's
+closest alliance with the Children of Karnak, and has allies
+among a group of witch-Namers with some ties to Gaia.
+King Tariki walks the line between life and death. Despite
+his house's dedication to Gaia, Tariki is a patron of the
+Ivory Priesthood and reputedly knows the Secret of Death.
+He disappears into the Umbra for long periods, appearing
+only occasionally to issue orders to his regent sons. He may
+
+Chapter Three: What Benefits It One to Gain the World? 37
+
+hw
+
+ee
+
+\ wl
+
+
+\
+
+even wander the Dark Umbra. He is an elusive leader; most
+in our tribe do not know which way he will turn next.
+
+Austere Howl (Great Britain)
+
+My agents say the Austere Howl is Wyrm-tainted and in
+a state of near civil war. This was once the most powerful
+and honorable of houses, but its power declined along with
+the British Empire.
+
+Indeed, its fortunes have fallen precipitously in the 20th
+century. I fear the Garou's disappointment with their fate
+turned to bitterness and Harano. They ‘wete ripe for the
+picking and the Defiler Wyrm has sundered their house in
+two. Two kings have died on the throne in the last three
+years, and their current leader, Queen Mary, isa young and
+inexperienced Scottish A . She is the daughter of the
+last king and is trying to rally her house's Bl elements
+against several powerful Wyrm
+
+Both factions.try to kee their power series quiet, but
+word is leaking to the t of the tribe, | hear Queen Mary
+is trying to enlist the aid of Silver Fangs from other houses.
+Few among the common tribes know about the blood bath
+occurring in Silver Fang matiors throughout the protector-
+ate.
+
+Despite its division and dwindling numbers, the Austere
+Howl is still a potent force and has members throughout
+Great Britain. They live primarily in Dover, Bath, Edinburgh
+and Dublin. The house maintains a large caern near Lon-
+don and has a surprising number of them in Wales.
+
+Silver Fangs
+
+a
+
+Wyrmtoe (American Northeast)
+
+House Wyrmfoe is our youngest and claims the Ameri-
+can Northeast as its protectorate. The family is strongest in
+the countryside surrounding Philadelphia, Boston, New
+York and Washington.
+
+The house arose in England, France and Spain in the
+mid-1300s, about a century before the discovery of the New
+World. | am sure the house's emergence caused quite a
+commotion, yet the circumstances behind its foundation
+are unclear. It seems to have been born from the chaos of
+the Inquisition, and appeared at the moment when the
+Garou needed it most. .
+
+Since Wyrmfoe Garou were hailed as heroes by the
+common tribes, the Gleaming Eye and Austere Howl had
+little choice but to recognize their claim to power. The
+elders were, perhaps justifiably, concerned about the up-
+start house's intentions, but need not have worried. Shortly
+after the discovery of the New World, Wyrmfoe left Europe
+en masse. Indeed, as the house left Europe, it drew members
+away from many otk houses, and even from some other
+tribes. These diverse nfluences: are still ac Work within the
+family today. ae
+
+Despite i its early te mphs, House Wyrmfoe has suffered
+Harang more severe! than any other. At first the family
+
+fects a See during the two
+s degraded steadily since the
+
+of Harano ‘appeare.
+world wars, and the family
+1950s.
+
+Jacob Morningkill became king shortly after World War
+Two and was initially a just and vigorous ruler. Many hoped
+that he might restore our tribe's lost spirit and direction.
+During the early part of his reign House Wyrmfoe proved
+adept at getting its Kinfolk into several nascent United
+States and Canadian intelligence organizations. (Few Ga-
+rou realize just how important a role they have played in
+keeping the Veil intact.) Unfortunately King Morningkill's
+sanity faded along with his youth. He and much of his house
+fell into indolent shambles until a Black Spiral pack killed
+him in a sneak attack on his North Country Caern. The
+throne lay empty but contested.
+
+Arkady, a Wyrm-tainted Ahroun from House Crescent,
+was one claimant to the throne. Albrecht Morningkill,
+Jacob's estranged grandson, was the other. | know little of
+what happened next, but Albrecht surfaced with our tribe's
+greatest fetish — the Silver Crown! This naturally assured
+his kingship, and the new king has since reached out to the
+other tribes. Some have even responded, including the
+Black Furies, Children of Gaia, Fianna and Glass Walkers.
+Even our tribe's harshest critics concede that American
+Fangs are "getting their act together." No one knows how
+long this will last, but with the Apocalypse so near it may
+not have to be for long.
+
+4
+
+
+Crescent Moon (Russia)
+
+I was born to this house. How long ago only modesty
+prevents me from revealing. The Crescent Moon is the
+oldest Silver Fang house still in existence, though House
+Wise Heart and the Blood Red Crest contest this claim. We
+were the deciding voice in both the Impergium and the
+Concord, and led the War of Rage. We ruled with strength
+and wisdom for thousands of years, our lineage leading back
+to the Dawn of Ages. Yet some believe that as our glory
+soared, something dangerous took root. Perhaps it was a
+seed planted during the War of Rage or by excesses during
+the Impergium, but they consider House Crescent the
+source of our tribe's "original sin."
+
+Despite these caveats, most concede that we were one of
+the Wyrm's fiercest enemies. Great House Crescent names
+such as Aleking Axeclaw and Queen Viladus tower in
+Garou legend. We imprisoned Koshchei the Wyrm Talon,
+freeing Gaia from its blight. In more recent centuries Yuri
+and Sophia Tvarivich (along with Garou from other tribes)
+slew the Zmei Sharkala, one of the Wyrm's most powerful
+servitors. Yet with each victory, the Wyrm returned stron-
+ger than before. Indeed, its constant attacks almost broke
+our house after World War One.
+
+Now House Crescent "rules" over a despairing, perhaps
+doomed land. The Wyrm has turned most of Russia into a
+wasteland. Vampires undid our power in the human world
+during the Revolution, unwittingly signing their own death
+warrant when the Shadow Curtain rose in 1991. House
+Crescent and the other Russian Garou fought fiercely, but
+lost the war against the Wyrm when Russia's supernatural
+borders were sealed.
+
+Most in my house prefer to tell stories of past glory rather
+than attend the present menace. Our ruler, Tsar Nicholai
+Ivanovich, was delusional and paranoid, even more so than
+Jacob Morningkill. He dissolved the Lodge of the Sun,
+banishing its members to other countries (for which many
+of them are now grateful). The king's Silver Claw pack still
+supported him before we lost contact with Russia, as did the
+Get of Fenris, but even they were losing patience with our
+failing monarch. When last seen before the Shadow Cur-
+tain fell, he was directing grand offensives with nonexist-
+ent troops.
+
+The fall of House Crescent is one of the great tragedies
+of this age. Crescent Garou are on their last legs, staggering
+beneath the twin yokes of hubris and Harano. Even before
+the Shadow Curtain fell, some were turning to the Wyrm.
+That was in 1991. Who knows what has happened since
+that time? The other houses attempt to find out, but so far
+there is little news, and what we do hear is disturbing. Most
+believe the tsar must be dead by now. Many think he
+brought the house crashing down with him. My only hope
+is that his niece Tatiana has somehow taken the throne.
+
+The Lost Houses
+
+Our tribe had many houses, great and small, in our most
+glorious days. Most of these died out, disappeared into the
+Umbra or slipped into obscurity. Of these, we still remem-
+ber six.
+
+Conquering Claw (Mediterranean)
+
+The Conquering Claw was an honorable but warlike
+house, and was the only Silver Fang family to thrive in
+imperial Rome. While other Garou fled the city, the
+Conquering Claw embraced the Pax Romana. The Garou
+reasoned that if the Concord was truly right, then a well-
+positioned power could use the mighty empire to guide and,
+when necessary, pacify the human race.
+
+Many consider their efforts to have been a noble failure.
+Roman vampires overwhelmed them. They regained some
+of their prestige in Italy by forming banking families, but
+could never escape the Harano that descended after defeat
+in Rome. In the end the Claw's martial tendencies turned
+inward, undoing the house during the Renaissance. A few
+claimants to this line surface periodically, but none have
+protectorates.
+
+The Unknown (Russia and Europe)
+
+None of us know, or wish to know, the name of the house
+that died during the War of Rage. No history records its
+name. Most modern Garou consider the house a fairy tale
+or more Shadow Lord slander.
+
+One legend concerns the house's role in the extermina-
+tion of an entire skinchanger race. Other tribes are evasive
+when discussing this period. Certainly all Garou of that age
+were guilty of a great crime, but in a war of horrors this
+house went beyond the pale. Hunting the last of a dying
+race for sport, the creatures' cruelty knew no bounds. They
+were almost certainly Wyrm-corrupt. Most believe that
+Gaia, outraged, expelled them from the Earth in a natural
+disaster, many say a storm.
+
+The Jee Pack (Morthern Europe,
+Russia and America)
+
+{ remember stories of the Ice Pack from my childhood in
+Russia. Many lupus Silver Fangs ran far afield from their
+Kinfolk, especially in the Scandinavian countries and
+northern Russia. | believe some even passed over the
+Bering land bridge at the time of the Exodus, and played a
+small role in Wendigo legends.
+
+The Ice Pack supposedly lives apart from the rest of us,
+though it evidently maintains cordial relations with north-
+ern Red Talons. Most Garou see it as a pack of phantom
+white wolves that tears at the Wyrm with steel reeth, and
+disappears onto invisible Moon Bridges. Certainly the
+Wyrm-spawn of the north seem to fear the pack like few
+
+Chapter Three: What Benefits It One to Gain the World? 39
+
+
+A
+
+{ me 4 ——
+
+ae OA
+
+others. Rumors of its extinction spread from time to time,
+but the Ice Pack always resurfaces in spectacular fashion to
+lay these rumors to rest.
+
+The pack had no part in the War of Rage, and has
+seemingly the Harano that too often grips the rest of our
+tribe. They are, perhaps, the purest of us all. Legends say
+that lupus who join this pack become free of their madness.
+Silver Fang lupus are often drawn to the Ice Pack, some-
+times traveling thousands of miles to find it.
+
+Winter Snow
+(Great Britain, France and Holland)
+
+The Winter Snow is another example of our tribe's
+failures, one that many modern Garou point to as evidence
+of our tribe at its worst.
+
+During the 17th century, King Aaron Everstone sought
+the Silver Crown to battle the Black Spiral Dancers that
+plagued his kingdom. When he found the crown he alleg-
+edly became drunk with power, turning it on the Get of
+Fenris and Fianna to force their obedience. War broke out
+among the three tribes. Everstone's madness eventually
+lifted, but too late. His house was victorious, but without
+the other tribes the Black Spirals swarmed throughout
+much of England. The king and his house faded away,
+suffering from Harano and remorse. Some say members of
+the Winter Snow now live in the Deep Umbra, transformed
+into sorrowful silver birches, forever denied the Summer
+
+Lands.
+
+The Silver Spiral
+
+The Silver Spiral is not a true house, but a generic term
+for any Silver Fang who has joined the Wyrm. Some of our
+tribe have gone over to the Wyrm since the fall of Rome
+and have formed an elite cabal among the Wyrm's ranks.
+Fortunately these traitors are rare.
+
+When a Silver Fang treads the Black Spiral labyrinth,
+the Wyrm makes a high place for him. These traitors bring
+their own brand of madness to the Black Spirals, and are
+sadistic even by that tribe's twisted standards. Traitors'
+leadership skills and knowledge of our defenses have proven
+invaluable to the Wyrm, though Wyrm creatures of low
+status apparently fear and distrust these generals.
+
+The Silver Spiral draws most of its recent initiates from
+House Crescent and the Austere Howl. In accordance with
+the Litany, eating human flesh is one of our absolute
+
+shibboleths. Thus the Wyrm forces new Silver Spirals to
+eat human flesh during their rites of passage. Some develop
+a permanent taste for it. It is our sacred duty to wipe these
+abominations from Gaia's face.
+
+The Golden Sky
+
+Our Philodox disagree as to which family is older, the
+Crescent Moon or the Golden Sky. Most acknowledge,
+however, that only one survived.
+
+Y
+
+
+The Golden Sky was our tribe's greatest pride. It was to
+the Silver Fangs what we once were to the other tribes, or
+so the story goes. The house embodied all the highest
+virtues of the warrior-monarchs of Gaia. They were brave,
+honorable and just. They led the tribes in war and peace,
+losing an occasional battle, but never the other tribes'
+respect. Legends describe them as the closest family to
+Falcon and Helios; there was always a rivalry between them
+and the Luna-consecrated House Crescent. This rivalry
+apparently erupted into bloodshed more than once, but
+then the Golden Sky disappeared.
+
+No one knows what happened to the Golden Sky. They
+and their Kinfolk vanished almost overnight, distributing
+their worldly goods among the other Garou before they left.
+Most believe they migrated into the Deep Umbra on a
+secret errand for Falcon. Stories of their passing have come
+from as far away as the Aetherial Realm and Arcadia Gate.
+Some believe the Golden Sky have been preparing and
+purifying themselves for the Apocalypse, that their return
+is imminent. Most Garou consider these sentiments
+
+more colorful examples of our tribe's dementia.
+
+The Garou NYation
+
+Not the least of the qualities that go into the making of a great
+ruler is the ability of letting others serve him.
+
+— Cardinal Richelieu, Political Testament
+
+Our power has diminished significantly in recent centu-
+ties, but the other tribes still look to us for leadership.
+Despite our partial abdication of these responsibilities,
+there are many reasons why we maintain our power. No
+other tribe has our experience, nor our natural affinity for
+command. Few wish for such a burden, and those who do
+(namely the Shadow Lords) are so villainous that the other
+tribes would never give them the crown.
+
+Yet it is no secret that our leadership has fallen on hard
+times. The lesser tribes judge each other less harshly, while
+holding us toa higher standard. Still, as they judge us, so too
+may we cast judgment upon them. The listing of one's
+friends and foes has always been a prerogative of the crown.
+
+Black Furies
+
+The Furies are by turns gentle and loving, scholarly and
+introspective — and the bloodthirsty Maenads of antig-
+uity. If you are on their side, this ferocity is an undeniable
+advantage. The Furies are aware of the stakes in our fight
+and do not take prisoners. Most of them seem to think of
+our tribe as some sort of "antiquated patriarchy." It's our
+system of kingdoms, I suppose. This is a notion they usually
+discard once they meet a few female Silver Fangs, though.
+We have had a long and often mixed history with this tribe.
+Nevertheless, it has sided with us more often than not,
+thank Luna.
+
+
+@one Gnawers
+
+The Wyrm is strongest in the cities and sewers where the
+Bone Gnawers live, yet they survive. This may be a testa-
+ment to their evolutionary fitness, but one must realize that
+survival alone is not enough. If they diminish what they are
+to stay alive, then they become something less than human
+ot Garou. They are also a danger from a practical stand-
+point. Their destitution and survival-at-any-cost mental-
+ity make them prime candidates for corruption by the
+Wyrm or our tribal rivals.
+
+It is only natural that they, who inhabit the lowest rung
+of Garou society, resent we who inhabit its highest. They
+have always resented us, despite our efforts to improve their
+regrettable condition. Perhaps I am uncharitable. As the
+Apocalypse draws near, more Fangs will have to get their
+paws dirty. When this happens we may well have to depend
+on the Bone Gnawers' dubious goodwill.
+
+Children of Gaia
+
+Many see the Children of Gaia as a tribe without
+blemish. If we measure good intentions alone, perhaps this
+is true. They, like us, are a reminder that a better world is
+possible. But if we cannot question their motives, their
+judgment is another matter. We are at war with an intrac-
+
+ath NY
+
+[7
+
+table and inimical foe. Perhaps there was once a "Wyrm of
+Balance," but no longer. The forces we battle do not need
+compassion, understanding or healing, only a klaive to the
+jugular. The Children have their place, but as events in
+Russia prove, it is not in our war council.
+
+Fianna
+
+This worthy if unpredictable tribe reminds us why we
+fight. As nobles and builders, we have always understaad
+and patronized the Fianna in their art. They have an
+appreciation for the higher virtues that few but we can
+comprehend. Their beautiful melodies soothe our troubled
+brows as few other things can. (This makes unscrupulous
+Fianna very dangerous to us.)
+
+Still, there are more practical reasons for keeping faith in
+this admirable tribe. The first is, admittedly, its potential as
+anenemy. When King Everstone turned against the Fianna,
+their satires turned many of the other tribes against us. We
+must not underestimate their value as propagandists. A
+Fianna song has far more power to move the Garou spirit
+than does the most cleverly wrought Shadow Lord slander.
+Perhaps more important is the Fianna's connection to the
+fae, particularly the nobility. If we are to reforge our ancient
+ties with the sidhe, the Fianna will be indispensable.
+
+\%
+
+il
+
+iy
+
+
+Get of Fenris
+
+The Get of Fenris have been our most valued allies and
+most persistent competitors. We understand and respect
+their martial prowess. We are one of the very few tribes who
+can go toe to toe with them, and we have clashed with them
+before. Inevitably these battles pit our finesse against their
+sheer brute strength. The jury is still out on which is more
+effective. Our tribe realizes there is little to gain and
+everything to lose in such skirmishes. We can no longer
+take their loyalty for granted, but do not have anywhere
+else to go.
+
+Many Get now consider us mere figureheads. Let them.
+They do not understand our methods and a figurehead still
+has worth in their limited tactical view of things. They will
+continue to support us, and we will continue to guide their
+actions. You could not ask for a better or more loyal friend
+than a Get. Despite occasional rhetoric to the contrary, the
+tribe's leadership realizes that we are their only hope.
+
+Glass Walkers
+
+The Weaver constitutes one-third of the Triat, yet only
+one of the 13 tribes dedicated to Gaia knows much about
+it. There is a reason for this ignorance, of course. The
+Weaver causes many of our problems. It stultifies and
+imprisons Gaia ina glistening web of steel and glass, paving
+the way for the Wyrm. Ifthe Wyrm is triumphant, however,
+the Weaver will ultimately fare no betrer than the Wyld.
+The fragile constructs of humanity cannot long withstand
+the Wyrm's corruption, except in the most diminished
+capacity. The Glass Walkers realize this and battle the
+Wyrm in their own way. Our tribe has lived in cities and
+dealt with the Children of Karnak enough to realize that
+there is some logic to the Glass Walkers' plan.
+
+Not even the most Weaver-enthralled Garou created
+the cities, but merely learned to adapt to them. The
+technological genie is out of the bottle and we Garou are
+too few to change this, despite what the Red Talons think.
+The Wyrm often enslaves Weaver-spirits, yet few have
+sympathy for these poor creatures as the spirits are blamed
+for the Wyrm's ascendance. However, if properly em-
+ployed, the geometric hegemony of the Weaver can be just
+as dangerous to the Wyrm as the cleansing powers of the
+Wyld. If nothing else, it is tactically sound to ally with
+Garou who know something of these forces.
+
+Red Talons
+
+Many in our tribe believe the Red Talons are of no
+concern because they are "not sophisticated enough to plot
+against us." A tribal rather than a breed prejudice, I sup-
+pose, since we hold our own lupus in such high regard.
+Though a Red Talon would tear your throat out for saying
+so, the tribe is of an ideological bent. The Talons long for
+areturn to the Impergium and the control — or elimination
+— of humanity.
+
+Chapter
+
+They are more disciplined and intelligent than they first
+appear. They wiped out the Russian Children of Gaia and
+we did not lift a hand against them. Despite our basic
+philosophical differences, they have rarely seen fit to chal-
+lenge our rule. Therefore, respect their autonomy. In the
+days before the Apocalypse, they are the last martial bellow
+of the dying Wyld, a primal force of nature. Fortunately the
+lupus of our Ice Pack have seen fit to deal with them for us.
+But, of course, this does not prevent individual Talons from
+challenging our rule when we violate their traditions. They
+have never completely forgiven us for our cessation of the
+Impergium.
+
+Shadow Lords
+
+If the Shadow Lords are the "dagger at our throats," it is
+one of iron, not silver. They twiddle their mustaches,
+entertain a philosophy of "villainy as a virtue" and scheme
+to take our rightful place as leaders of the Garou. They
+overestimate their power and cleverness. They underesti-
+mate our resolve and knowledge of their tricks. We know
+them of old.
+
+The other tribes may have lost some respect for us over
+the centuries, but not enough for them to place their fates
+in the hands of these Wyrm-addled fools. The Lords under-
+estimate and scorn the other tribes at every turn, viewing
+each as an enemy or a tool. How, then, do they think to win
+the tribes' loyalty if they overthrow us?
+
+We can always depend on the Shadow Lords to seek a
+dishonorable advantage in times of crisis; they can always
+depend on us to send them scuttling back to their lairs. If
+the Silver Fangs fall, it will nor be because of the likes of the
+Shadow Lords.
+
+Having said all this, remember that even an iron dagger
+can cause pain. Never underestimate the Lords' propensity
+for deception. They, like us, are political creatures and not
+without resources. If a Shadow Lord speaks, question his
+motives — repeatedly. They are in a unique position to
+cause mischief, at least until we expose them once and for
+
+all.
+Silent Striders
+
+The Silent Striders know the Secret of Death, as we do.
+Perhaps they are our masters in this arena. They maintain
+far more of a presence in the Dark Umbra than we do, and
+know many more of its secrets. Death is part of Gaia's
+balance, and we understand the Striders better than most
+tribes do, in this regard at least.
+
+Their mendicant nature takes them to the far corners of
+the Tellurian, making them one of our most experienced
+tribes. They have been both trusted councilors and perni-
+cious gadflies. Despite their dark demeanors, they are
+dedicated enemies of the Wyrm; we need have no fear on
+this front at least.
+
+Additionally, our House of the Wise Heart controls
+something which the Silent Striders desire: access to their
+
+
+A
+Ly
+
+Egyptian homeland. Our spirit-allies, the Children of
+Karnak, guard the oldest known temple to Helios in that
+land. We are not without influence there. The lore we
+attempt to bring the Striders from Egypt ameliorates any
+jealousy they may have for our access to their native land.
+As the Apocalypse nears, Silent Strider presence is neces-
+sary to reawaken the lost secrets of the oldest Garou
+homelands.
+
+Stargazers
+
+The Stargazers have always maintained a distinct degree
+of freedom from our rule, more so than even the Striders, for
+who can govern the spirit? We are the Stargazers' spiritual
+brothers in many ways. Both our tribes wrestle with the
+high philosophies of morality: the paths of Helios and
+Luna.
+
+Yet there has always been an unspoken jealousy in our
+tribe for their superiority in these spheres. What comes
+naturally to us because of celestial favor, they have learned
+through aptitude and rarefied spiritual experience. Many of
+them also have a serenity and peace of mind that we will
+never know. Disgusting, isn't it? Unshackled from the
+burdens of command, they have explored realms as dispar-
+ate as philosophy, the martial arts and the Deep Umbra. We
+understand the Stargazers as well as any other tribe could,
+but they are still an enigma.
+
+And, speaking of which...
+
+Uktena
+
+The Uktena are a riddle wrapped in a mystery inside an
+enigma. They are as elevated a tribe as the Stargazers or the
+Silent Striders, and almost as irascible as the Shadow Lords
+-— an unfortunate combination. Thank Luna they have
+never turned their eye toward the crown.
+
+Their main concern is the spiritual realm, a fact that
+makes them dangerous enough. They are highly secretive
+and generally rebuke any overtures we make to them. They
+acknowledge our leadership after a fashion, but seldom
+come under our sway, helping or harrying us as they see fit.
+There seems to be little evidence of Wyrm-taint on them,
+but then they may be adept at hiding such things. When
+push comes to shove, they usually cede to our authority.
+Watch, wait and try to cultivate the Uktena.
+
+Wendigo
+
+The Wendigo are extremely deadly when aroused. We
+learned that the hard way during the colonization of the
+New World. Ironically, they do not seem to hate us as much
+as many other European tribes do. Most of them really are
+what they appear to be: wise if somewhat tragic.
+
+Despite their reputation as "Pure Ones," the Wendigo
+are not without faults or spiritual wounds. Their past
+defeats have left many of them bitter and full of Harano.
+Wyrm-toxins such as alcohol and tobacco are widespread
+among them. The Wendigo are honorable in their way, but
+this makes them no less dangerous to us. If they turn against
+us, their anger will surely be cold and unrelenting as the
+winters of our homeland.
+
+The Others
+The Kindred
+
+Vampires are our natural enemies, and most serve the
+Wyrm. We will neither forgive nor forget their perfidy in
+Russia. Without question, these creatures are not to be
+trusted. ~
+
+Unfortunately there are times when we, as leaders of the
+Garou, must meet with vampires on civilized terms. De-
+spite their debased state, not all vampires are an equal
+threat to the Garou. We cannot afford to waste our strength
+against them all in useless melees when there are greater
+threats abroad. Most of our meetings with them are in-
+tended to establish territorial boundaries.
+
+If you must deal with vampires, those called Ventrue are
+your best bet for a civilized discussion. | am loathe to call
+them our counterparts, but they are of the aristocracy and
+follow traditional rules of engagement. Many of them have
+some sort of honor code, but beware of the distinctions
+between a leech's honor and that of the Garou. Even an
+"honorable" vampire will construct a rationale to betray
+you if he thinks it serves his cause.
+
+Mages
+
+Look to the Triat if you want to fit the thousand-and-one
+mage factions into a familiar paradigm. Individual Namers
+draw their powers from many sources, but most fall into one
+of three major political categories. There are servitors of
+the Wyrm called the Nephandi. These Wyrm-mages have
+formed unwholesome alliances with the Black Spiral Danc-
+ers and are almost certainly a force behind our enemies in
+Pentex. They have harried our line for millennia. Our
+feelings toward them run a short spectrum from deep hatred
+to utter loathing.
+
+The Technocracy isan extremely potent cabal of Weaver-
+magi. They are foes of the Nephandi and seek to employ the
+Weaver as a bulwark against the Wyrm. Unfortunately the
+Wyrm is adept at corrupting the Weaver. Can't they sense
+that they are building their own mausoleum? Their Weaver-
+spun, ultraconformist views also brand us, and other super-
+natural creatures, as "reality criminals." We do not fit their
+
+Silver Fangs
+
+ete ian emiemay //
+
+
+ty
+
+antiseptic world view. Mages of this order seek to erase us
+from the Tellurian to enforce their notion of reality.
+
+The third force in this triat represents the Wyld in so
+much as it is the "wild card" in the mage wars. These
+"Tradition" mages have varying agendas and powers, but
+some of them have been our allies in the past. The witches
+and shamans among them often prove to be friends of Gaia;
+some even travel the Umbra and ally with spirits, which
+implies they share some of the Mother's grace.
+
+The Restless
+
+Neither I, nor anyone else in this tribe, would presume
+to speak for the Ivory Priesthood on this matter. Our tribe
+has more contact with the restless dead than any other
+except the Silent Striders, but still we know little. | think
+we have all felt the chill in the Penumbra when the Restless
+pass. The Apocalypse ripples through the Dark Umbra.
+Let's leave it at that.
+
+Changelings
+
+In ages past we parleyed with the Seelie nobility, mon-
+arch to monarch; we rarely crossed swords, even in the
+worst of times. We can work with these people. Our best
+hope for reforming these ancient links lie with the Fianna.
+Several sidhe ambassadors recently visited King Albrecht's
+caern. | am hopeful for a breakthrough.
+
+Unfortunately, where there are Seelie, there are Unseelie.
+The Unseelie fae are twisted in spirit and often in form —
+yet they do not always stink of the Wyrm so much as the
+Wyld. Nevertheless, if you are familiar with Celtic mythol-
+ogy, the fae also battled an inimical race of monsters called
+the Fomorians. These creatures' name and physiognomy
+are too close to the Wyrm's fomori for comfort. If the
+Fianna know anything about this they are reticent to share
+it, and the Fianna that chooses restraint is enough of an
+oddity to worry me.
+
+Chapter Three: What Benefits It One to Gain the World? 45
+
+
+
+ne A"
+
+LY,
+
+pisiovkKeHHe
+| leppoe:
+‘Lapckasa Pyka'
+
+The Silver Fangs draw on traditions almost as old as
+humanity itself. Their totem, Falcon, while remote and un-
+knowable, is still more accessible chan the totems of many
+other tribes. Falcon and his brood have become more active of
+late, reinvigorating the hard-pressed tribe. This section pro-
+vides information on the Silver Fangs' tribal weaknesses,
+Abilities, Gifts, rites, Fetishes, Merits and Flaws.
+
+Tribal Weaknesses
+
+The first Werewolf Tribebook introduced an optional
+rule: Tribal Weaknesses. These are quirks that each mem-
+ber of a particular tribe possesses due to some characteristic
+of the tribe — in this case, the madness caused by the Silver
+Fangs' decline. These rules are completely optional, but
+can help draw a character's tribe more into focus. For
+additional rules on Tribal Weaknesses see the Werewolf
+Storytellers Handbook and other Tribebooks.
+
+Derangement
+
+Silver Fang blood is not as pure as it once was, perhaps
+due to years of inbreeding with limited numbers of Kinfolk.
+Each Silver Fang has a Derangement, regardless of the
+degree of Pure Breed she possesses. Metis sometimes possess
+multiple Derangements, but the Storyteller shouldn't force
+a player to take more than one Derangement as punish-
+ment for choosing a particular breed.
+
+Generally speaking, when a Silver Fangis inastressful situation,
+the Storyteller can call for her player to make a Willpower roll;
+
+failure indicates that the Garou is overcome by her madness
+(usually for the duration of the scene). This is usually highly
+inconvenient for the werewolf, although it does make for prime
+roleplaying opportunities. If the player likes, she can spend a
+Willpower point to ignore the demands of her Derangement fora
+turn. The following is a list of sample Derangements; players and
+Storytellers are welcome to devise more.
+
+Amnesia — The Garou forgets who she is in highly
+stressful or traumatic situations.
+
+Ennui— The Garou with this Derangement bores easily
+and is often completely jaded. Not even the most intense
+emotions or events faze her.
+
+Intellectualization —- The Garou analyzes everything
+compulsively and blocks out as many emotions as possible.
+When the supernatural shatters this fragile world of facts,
+the rationalist loses all control. This Derangement is suf-
+fered predominantly by members of the Sun Lodge.
+
+Isolation — The werewolf distances herself from her
+companions, becoming reticent and uncommunicative.
+She will not communicate with even her packmates in any
+fashion more complicated than a terse wave or surly grunt.
+
+Manic-Depression — The manic-depressive suffers from
+wild mood swings ranging from total bliss to complete despair.
+
+Multiple Personalities —_ The Garou has a number of
+different personalities and may switch his name as each come
+to the fore. Nature and Demeanor may also change during
+times of great stress. Some personalities may even behave as if
+
+Appendix One: The Hand of the King 47
+
+
+they belong to different tribes or auspices. Most Garou look on
+victims of this disorder more compassionately than humans
+do, perceiving it as a sign of Luna's touch.
+
+Obsession — Garou with this Derangement tend to
+latch onto someone or something and the object becomes
+the focal point of life.
+
+Paranoia — The Garou sees the Wyrm's influence in
+everything and wonders why others can't see it too. Perhaps
+the Wyrm has corrupted them as well...
+
+Perfection — The perfectionist works hard to keep
+everything in her life precise at all times. She uses all of her
+energy to prevent things from going wrong and may frenzy
+if things don't go as she plans.
+
+Power Madness — Garou with this Derangement must
+have control and dominance over others.
+
+Regression — Garou with this Derangement tend to
+revert to childlike behavior during times of.extreme stress.
+
+Vengeful — If someone "wrongs" a Garou with this
+Derangement, he becomes obsessed with retribution.
+
+Merits and Flaws
+
+Notable H eritage
+(2 pt Garou Ties Merit)
+
+You come froma ‘distinguished family, even by Silver Fang
+standards. Your family epitomizes the high ideals of your tribe
+by word and deed. This is not Pure Breed; the noblest families
+may be of humble birth. Most Garou who know of your family
+respect it. Youare at -1 difficulty to all Social rolls dealing with
+Garou who are aware of your family's reputation.
+
+This Merit also confers noble titles on Silver Fangs from
+countries with monarchical traditions. In countries such as the
+United States, Garou may be members of the "first families,"
+and are on all the social lists. This Merit does not confer any
+property. Few Garou still recognize the heraldic aspects of this
+Merit, but a title and noble family name go a long way toward
+impressing other monarchical groups in the World of Dark-
+ness (including the Ventrue, sidhe and Children of Karnak).
+
+Hubris (3 pt Psychological Flaw)
+
+Hubris is not just overconfidence, but overweening pride
+and arrogance. You view the "lesser tribes" with a haughty and
+judgmental stare. They, in return, are "jealous and petty" when
+dealing with you. You believe that you have a great destiny,
+that the Celestines blessed you upon birth. This may be true,
+but youare still asnob. Most Garou consider youan egotistical,
+self-centered elitist; even other Silver Fangs chastise you for
+your presumption. You suffer all the penalties of the Over-
+Confident Flaw (see The Werewolf Players Guide), but
+receive no points for that Flaw. What's more, your arrogance
+makes you unpopular and you suffer +2 difficulty on all Social
+rolls when dealing with "social inferiors."
+
+Silver Fangs
+
+Harano (5 pt Flaw)
+
+Garou of any tribe may suffer from the dread associated
+with Harano, but Silver Fangs are particularly noted for
+carrying this great weight. Harano is an inexplicable gloom
+and inexpressible longing for unnamable things; some say
+it is caused by contemplation of Gaia's suffering. Garou
+who suffer from Harano are prone to depression, lassitude
+and sudden mood swings. They may not act at all or may
+explode into intense but ill-advised activity.
+
+A player whose character suffers from Harano must
+make a Willpower roll each scene; if the roll fails, the Garou
+plunges into Harano. While a Silver Fang suffers from
+Harano, his perceptions are distorted, and all Dice Pools are
+reduced by one. If the Willpower roll botches, the character
+acquires a temporary Derangement (see below).
+
+Those who suffer from Harano may also have moments
+of lucidity with the expenditure of a Willpower point. This
+
+_ lifts the gloom for as many hours as a character has perma-
+
+nent Willpower. Harano may also be dispelled with some
+Gifts (again, see below). Harano is not necessarily perma-
+nent — extraordinary Silver Fangs may free themselves
+from its grip after exceptional travails.
+
+Some Garou believe that the Silver Fangs' burden of
+Harano is greater than others' because the Fangs in some
+way did more to cause Gaia's suffering than did the other
+tribes. Proposing such a theory is enough to provoke a
+violent response from some Fangs; most are wise enough to
+keep silent on this matter.
+
+Abilities
+Silver Fangs do not receive new Abilities, but the Story-
+
+teller may wish to apply an optional rule to reflect the Fangs'
+long traditions and practiced techniques of klaive-dueling.
+
+Melee (Optional Fencing Rules)
+
+The Silver Fang tribe possesses an unusually high number
+ofklaives. Some of the world's greatest swordmasters are Silver
+Fangs, and have a fencing style uniquely their own. Some
+Western Fangs choose to use more slender klaives, while some
+Eastern Fangs use weapons with a slight curve to the blade.
+Still, most Fangs favor the traditional style ofklaive and Grand
+Klaive that has endured for millennia.
+
+Silver Fang tactics tend toward grand, sweeping thrusts,
+favoring offense over defense (-1 difficulty to all sword attacks,
+-] die when parrying or dodging in hand-to-hand combat). If
+the Storyteller decides to allow this rule, the individual player
+decides whether her character uses this style.
+
+Gifts
+
+Silver Fangs receive their Gifts from a wide and some-
+what eclectic array of sources. The spirit-teachers listed
+here are from Werewolf: The Apocalypse and Axis Mundi:
+The Book of Spirits. -
+
+
+General Gifts
+
+* Eye of the Falcon (Level One} — This Gift allows the
+Garou to see long distances with the acuity ofa falcon. It is
+taught by any of Falcon's brood.
+
+System: All visual Perception, Alertness and long-
+range weapon rolls are at -1 difficulty. This Gift costs one
+Gnosis point per scene to use.
+
+* Ice Dance (Level One) — The werewolf can move on
+ice and snow with supernatural grace and speed.
+
+System: The player spends a Gnosis point to activate this
+Gift for one day. This is a Gift of balance; Philodox are
+especially adept at this art. All Dexterity rolls are -1 difficulty
+while on ice or snow (-2 for Philodox), and a Garou can run
+at normal speeds through even the deepest snow and on the
+slickest ice. A Philodox running on ice can double his normal
+speed. An Ice Elemental teaches this-Gift.
+
+¢ Reason (Level Two) — The Silver Fang who uses this
+Gift may temporarily free himself from Harano and De-
+rangements. This Gift may also be used to partially defend
+against all sanity-endangering attacks. Examples of such
+attacks include the Galliard Gift: Headgames, the Malkavian
+Dementation Discipline and invasive uses of Mind magick.
+A Firebird-spirit teaches this Gift.
+
+System: The player must spend a Gnosis point and roll
+Willpower (difficulty 7). The Garou overcomes all mental
+dysfunctions for a number of scenes equal to the number of
+successes rolled. All psychic attacks against the Garou's sanity
+are reduced by one die. If the player botches the roll, the
+character's dementia becomes painfully intense for a day.
+
+* Talons of Falcon (Level Three) — This deadly Gift
+turns the Garou's claws into impaling weapons, allowing her
+to cut muscle, bone and sinew as if it were paper. Combined
+with the Gift: Razor Claws, this is a truly devastating attack. A
+falcon of the Great Flock teaches this Gift.
+
+System: The player spends one Gnosis point and makes the
+usual Dexterity + Brawl roll to attack. The Garou makes a
+screeching sound like that of a bird of prey as she strikes. The
+attack does Strength +3 damage and all healing powers (such
+as Mother's Touch) are at +1 difficulty to treat the wound.
+
+© The Secret of Gaia (Level Five) — When the Great
+White Wolf died to save Gaia, he learned her secrets. The
+nature of the actual "Secret of Gaia" is obscure, but few
+question that the Silver Fangs have a deep and ancient
+connection with the Earth Mother. This Gift is a powerful
+aspect of this relationship.
+
+The Garou who uses this Gift becomes completely aware
+of her immediate vicinity in vivid detail. The Fang is aware
+of the area's topography, wildlife and the local spirit popu-
+lation. The Silver Fang also becomes aware of Gaia's
+condition in the area, but in a very general sense — Gaia
+is pained, feels trapped, whatever.
+
+An avatar of Gaia teaches this Gift, but only to the worthy.
+Silver Fangs of any auspice may learn it, but it is most common.
+among Theurges and those of House Wise Heart.
+
+System: The Secret of Gaia is a more powerful version
+of the Theurge Gifts: Spirit Speech and Pulse of the
+Invisible. The player rolls Gnosis (difficulty 7) and spends
+one point of Gnosis to activate this Gift. The Garou
+becomes preternaturally aware ofa one-mile radius for each
+success, almost becoming part of it. The Garou can auto-
+matically see into the Penumbra and all Perception rolls are
+at -3 difficulty. Furthermore, all local non-Wyrm spirits are
+well-disposed toward the character, granting +2 on all
+Social rolls involving them. Finally, one extra die is added
+to all Dice Pools (save those involving combat) while the
+Garou is in the higher state bestowed by this Gift.
+
+The Gift's effects last one hour for each point of permanent
+Gnosis the Garou possesses. If the player botches the roll, the
+character becomes acutely aware of Gaia's agonies and suc-
+cumbs to the most severe pangs of Harano for an entire scene.
+
+Sun Lodge Gilts
+
+These Gifts are restricted to members of the Sun Lodge and
+are not taught unless a Fang proves loyalty to the lodge with
+some particularly virtuous deed, or exhibits the virtues that the
+lodge upholds. Fangs who drift between lodges are not looked
+upon favorably, and are almost never taught these Gifts.
+
+* Truce of Helios (Level Two) — Helios is, among
+other things, a spirit of reason and diplomacy. Garou who
+follow him are often skilled diplomats. This Gift helps
+ensure that the other side at least listens to the Garou's
+words. Helios is also an honorable Celestine; the Silver
+Fang may not use this Gift as a ruse to gain momentary
+advantages (gain time to set an ambush, for example). A
+Garou may learn this Gift from one of the Childrer of
+Karnak or from a Firebird-spirit.
+
+System: The player must roll Charisma + Etiquette
+(difficulty 7). If successful, the Silver Fang negotiates under
+a spiritually enforced flag of truce. All those whom he
+negotiates with must make Willpower rolls (difficulty 9,
+two successes needed) to attack the Garou. The truce lasts
+one hour for each success rolled. If the Silver Fang breaks
+the words of the truce, the effects of the Gift end and will
+never work on the same target again. Additionally, the
+Silver Fang loses three points of temporary Honor. This
+Gift costs a Gnosis point to use.
+
+© Honor Pact (Level Three) — The Honor Pact is another
+Gift of diplomacy. All participants must enter into the pact
+willingly. Those who participate exchange blood (most often
+by cutting their palms open) and swear oaths to Falcon.
+Spiritual bonds connect participants, and they may not work
+against each other's interests in any way. (The Storyteller has
+final say in what constitutes this edict.) Packmates bound by
+this oath are highly resistant to the tendrils of the Defiler
+Wyrm. The Children of Karnak teach this Gift.
+
+System: Three temporary Gnosis points must be spent
+by each participant, while four must be spent by the user of
+this Gift. The players must also make a Charisma + Rituals
+roll (difficulty 7).
+
+Appendix One: The Hand of the King 49
+
+a RY,
+
+
+Previous rivalries or differences between pactmakers are
+greatly lessened, reducing the difficulties of all Social rolls
+among themselves by -2. All attempts by agents of the Defiler
+Wyrm to corrupt those under an Honor Pact are at +2
+difficulty. Garou who invoke this Gift but who frequently
+squabble or fight destroy the Gift's effects over time.
+
+The effects of the Gift last forever or until a participant
+breaks faith. The person who does so suffers five Health
+Levels of aggravated damage (as he is rent by the spirit-
+talons of Falcon), and is marked as an oath-breaker (as the
+Stone of Scorn rite).
+
+Moon Lodge Gifts
+
+Moon Lodge Gifts embody the different aspects of Luna's
+personality. They represent both the waxing and waning
+cycles of the moon, and delve deepe: ‘into Luna' s mysteries
+with each Rank. The Gifts listed represent a waning
+cycle, with the Rank 1 Abroun € eth Lc
+power and the Rank 5 Ragabash Gift at the! ighest. The
+also reverse (waxing) cycles of Moon Lodge Gifts, with appro-
+priate Rank 1 Ragabash and Rank 5 Ahroun Gifts. (This book
+
+waxing cycle with Gifts of appropriate levels.) Waxing and
+
+Giftisalways Rank 3. (Thusa waxing cycle would be Rapabash
+1, Theurge 2, Philodox 3, Galliard-4 and Ahroun 5.)
+
+Garou of any auspice may learn any of these Moon Lodge
+Gifts, but lose one die from their Dice Pool when activating
+Gifts intended for other auspices.
+
+¢ Full Moon Cleansing (Ahroun, Level One) — This
+Gift allows the Garou to shake off Harano by overpowering
+it with Rage. (The Gift does not dispel Derangements.)
+Many Silver Fang Ahroun learn this Gift, regardless of
+lodge. Blood-warrior spirits teach this Gift. To learn it, the
+Garou must kill the spirit in-ritual combat and then burn it
+in an Umbral fire, smearing herself with its ashes.
+
+System: The player must spend one point of Rage and
+make a Rage roll (difficulty 7) for the character to activate
+this Gift. The Gift's effects last for one scene.
+
+* Gibbous Moon Song (Galliard, Level Two) — When
+used by Fangs of other auspices, this Gift makes the Garou
+more adept at social situations. It makes Galliards loquacious
+and silver-tongued in the extreme. Galliard moon-dancers
+who use this Gift draw upon the moon's mysteries to cast
+complementary light on their every action. The Galliard
+naturally draws people's attention. A "social Gaffling" of the
+Great Green Cheese Spirit (a traditional Bone Gnawer ally)
+teaches this Gift. This fact is scandalous to most Silver Fangs.
+
+System: To learn this Gift, the Garou must best the spirit
+in a word contest (Wits + Enigmas, difficulty 8). The player
+spends a point of Gnosis for the Garou to use this Gift. All
+Social Skills are -1 difficulty for the duration of the scene.
+Galliards who use this Gift are -3 difficulty on all Social rolls.
+
+into. water). 4
+
+doesn't contain such a cycle; the Storyteller is free to. create a
+
+waning Theurge and Galliard Gifts alternate between Ranks
+2 and 4 depending on the cycle, while the half-moon Philodox
+
+* Half-Moon Mnemonics (Level Three) — Luna's
+Philodox aspect is the teacher of ways and the keeper of
+memories. The Garou who learns this Gift may recall any
+moment with crystal clarity, freezing it forever in her mind.
+The Garou may then study the moment at her leisure,
+coming at it from almost any angle. Silver Fang Philodox
+are forever replaying captured memories, and thus seem
+especially distant to others. A Sea-spirit teaches this Gift;
+the Garou hears indistinct water-spirit voices throughout
+her training. Ideally, the Silver Fang stares into water when
+using this Gift to recall a memory.
+
+System: The player must spend one point of Gnosis for
+the character to "photograph" a moment, and must make a
+Wits + Alertness roll, difficulty 6. If the Garou attempts to
+access the memory later, the player must make an Intelli-
+gence + Oceull difficulty 7; 5 when the Fang is loaking
+means the image disappears forever,
+in the Garou's memory. A Fang may
+have no more mem es "on file" than her permanent
+
+~~ Gnosis score, but may "dump" unwanted images at will.
+
+® Crescent Moon Fata (Level Four) — Garou with this
+Gift can examine the tapestry of fate itself, carefully dis-
+
+"cerning individual threads to learn something of an object's
+"past or destiny.
+
+- System: To learn this Gift, a Garou must best a potent
+
+spider or firefly Jaggling of Moira (a moon Incarna). The
+
+challenge is usually a contest of arcane game-craft (Wits +
+Occult or Enigmas; difficulty 9; 7 for Theurges). If the roll
+is botched, the Jaggling becomes offended and leaves,
+stealing three temporary Gnosis in the process.
+
+The player must makea Perception + Enigmas roll (difficulty
+5) and spend a point of Gnosis to activate this Gift. The Garou
+sees one "thread" per success. The Storyteller should be inven-
+tive, though somewhat cryptic, in relating visions of fate. The
+Garou may see the fate of a given person, place or thing. (A
+Garou with four successes could apply one thread to four
+separate targets, or all four threads to one target.) The Garou
+may see into the past or future (character's choice); to see into
+both, two threads must be applied to the same target. A thread
+grows indistinct the further it stretches into the past or future.
+How far the Garou sees depends on how many successes are
+applied in either direction. One success allows him to see
+several hours into the past ora few minutes into the future. Five
+successes applied in a single direction may allow the Garou to
+see several days into the future or hundreds of years into the past.
+
+® New Moon Legerdemain (Level Five) — This no-moon
+Gift represents Luna's deepest mysteries. Garou who invoke
+this Gift attract and command dozens of invisible, minor
+trickster spirits (strangelings, chimaera and Wyldlings). The
+creatures dance maddeningly around the Garou in the Penum-
+bra, protecting her from harm, but causing consternation
+among those in the area. The spirits play tricks on everyone
+around them, saving their most dangerous pranks for the
+Garou's enemies. However, the nature of this Gift only allows
+the spirits to be summoned at night.
+
+Silver Fangs
+
+( ee //
+
+
+System: An avatar of Luna herself teaches this Gift, and
+learning it puts a Garou in Luna's service forever. Only
+Garou who perform a great service in Gaia's name may
+learn this Gift. It costs a permanent point of Gnosis to
+learn, and the spirits it attracts stay with the Garou until
+she dies. Although the spirits generally like "their Garou,"
+they do not always listen to her orders and may even play
+minor pranks on her. (Furthermore, those who fail to keep
+their spirits in line may suffer penalties to Social rolls.)
+Keeping one's spirits under control should be roleplayed,
+but should not interfere too much with the game.
+
+The spirits are semidormant most of the time, playing only
+the occasional halfhearted prank. They become genuinely
+active during a New Moon or when the Garou wishes it. To
+awaken the spirits requires a Gnosis roll (difficulty 6), and the
+player must spend one Gnosis point. The spirits awaken for
+one night per success. The Garou may also put them back to
+sleep until needed again with the expenditure of another
+Gnosis point and with another roll (two successes are needed).
+
+When activated, mischievous spirits beset all the Garou's
+enemies in a 25-foot radius, pinching and tripping them.
+Alt rolls made by the Garou's enemies are at +2 difficulty,
+and their Dice Pools are reduced by two. The spirits can also
+steal one item from one enemy in a given battle, as long as
+that enemy is in the Umbra. The nature of the item is
+completely random (Storyteller's discretion), but usually of
+
+little worth. The creatures may or may not show their
+treasures to their Garou, depending on how they regard her.
+
+Some powerful creatures (Jagglings or Incarna) may
+temporarily disperse a Garou's spirits by spending Gnosis.
+Otherwise, the spirits fade away completely during the day.
+
+Rites
+
+Rite of the Honorable Oath (Honor)
+
+Level One
+
+A somewhat less potent version of the Gift: Honor Pact,
+this rite allows the Garou to swear a binding oath of
+allegiance to another being. The ceremony involves the
+Silver Fang swearing to perform a single task, while giving
+a small but valued item to the recipient. (The player also
+spends a Gnosis point). . ~
+
+If the Silver Fang keeps her word and attempts to fulfill
+the mission to the best of her abilities, she gains four points
+of Honor, regardless of the mission's success. Failure to
+diligently pursue the oath destroys the iter and results in
+the loss of two permanent Honor points. Most Garou know
+about this rite and are far more apt to trust a Silver Fang
+who takes it. Pressing a Fang to do so is very bad form (-2
+temporary Honor for asking).
+
+The recipient of the oath should return the object undamaged
+to the Silver Fang upon successful completion of the mission.
+
+
+Enter Dark Umbra (Mystical)
+
+Level Three'
+
+Only a Death's Breath-spirit may teach this rite, and
+only Silent Striders and members of the Ivory Priesthood
+may practice it. To perform the rite, the priest must purge
+himself of all sins and Harano. (This usually requires a day
+of fasting and meditation.) During the day of purification
+the Garou must also contemplate the thought of dying.
+
+The player spends a Gnosis point and makes a Willpower
+roll (difficulty 7) or the character risks plunging into a deep
+death-obsessed Harano for the rest of the scene. If the roll is
+successful, the Garou sees a Death's Breath-spirit around
+twilight and must let it breathe into his mouth. The Garou
+feels an icy-cold chill shoot through his being. The Garou may
+now enter the Dark Umbra (also known asthe Shadowlands;
+see Wraith: The Oblivion) and appears asa dark patch in the
+Penumbra. The Garou may stay there until the next morning.
+
+Talens
+Death Dust
+
+Gnosis 6
+
+This is che same Death Dust as described in Werewolf:
+The Apocalypse, but in the hands of a member of the lvory
+Priesthood its power increases greatly. When an acolyte of
+
+death sprinkles the dust over a recently dead body (up toa
+
+week old), she can not only speak with the dead spirit, but
+
+can force it to speak truthfully. The player rolls the Talen's.<:
+Gnosis (difficulty 6) versus the spirit 's Gnosis (or Pathos if
+
+you have Wraith: The Oblivion):
+
+Falcon Arrows
+
+Gnosis 6
+
+These arrows are tipped with silver and fletched with
+falcon feathers. All Archery rolls made with them are -1
+difficulty. Despite their silver tips, these arrows cost the
+archer no Gnosis penalty to carry.
+
+Luna's Bullets
+
+Gnosis 5
+
+These are normal silver bullets that are bathed in the
+ephemera of Falling Star-spirits. Luna's Bullets have been
+made for almost every type of gun in existence, though .38-and
+.45-caliber ammunition is the most common. Such bullets are
+slightly warm to the touch. Unlike normal silver items, these
+are a small burden on a Garou's Gnosis. The Garou may carry
+up to six bullets before suffering a Gnosis penalty. (The penalty
+is -1 Gnosis for every two bullets over six, rounded up.)
+
+Ly,
+
+Cotems
+Merlin (Cotem of Respect)
+
+Background Cost: 4
+
+Merlin is not the largest of hawks, but he is still swift and
+fierce. He is something of an underdog's champion among
+totems, counseling that the greatest in size are not always the
+greatest in spirit. Merlin responds well to courage, and encour-
+ages his followers to strike intelligently rather than ferociously.
+
+Traits: Followers of Merlin gain +3 Brawl and +2 Dodge
+when confronting enemies larger than themselves. They
+may also call on three extra Willpower points per story.
+
+Ban: Merlin's Children may never kill birds of prey, or
+their spirits. Even Wyrm-tainted raptors must be caught
+and purified if at all possible. ~
+
+Wyvern (Totem of War)
+
+Background Cost: 5
+The serpentine Wyvern is sometimes a herald of war and
+unrest, warning of approaching trouble. He despises the
+Wyrm greatly, and is not above using dirty tactics when
+doing battle with corruption, Many Silver Fangs consider
+Wyvern to be a somewhat savage totem, but his guidance
+is often popular among young, angry Fangs.
+
+Traits: Wyvern's Children receive +2 Alertness, +2
+Primal-Urge and dearn the Gifts: Sight from Beyond and
+Call of the Wyld.
+
+- Ban: Wyvern hates seeing caerns defiled, and charges
+hisfollawers to defend caerns. whenever asked, even if the
+
+sacred sites belong to rival tribes or other Changing Breeds.
+ Wyvern's followers may never'‘liberate" caerns from "lesser
+
+shapeshifters."
+
+Heron ( Totem of Wisdom)
+
+Background Cost? 5
+
+Heron isan curious spirit, and her long beak is often probing
+into affairs that others would like to keep quiet. She is graceful
+and wise, and chooses only packs that exemplify her standards
+of purity, elegance and inquisitiveness.
+
+Traits: Heron's Children receive one point of Wisdom.
+They also gain +3 Enigmas, and may add three dice toany Dice
+Pool that involves cleansing or purifying something or some-
+one in Gaia's name (the Rite of Cleansing, for instance).
+Finally, Heron teaches her followers the Gift: Open Seal.
+
+Ban: Heron requests that her followers discover and lay
+bare secrets at least once a moon. These secrets must be
+revealed to the entire sept at least, and must also be of some
+importance — discovering a Kinfolk's secret infatuation is
+of little import, but revealing a vampire's savings account
+number might suffice.
+
+Silver Fangs
+
+[POE Ps ET Tie ET TR tinny //,
+
+
+° ae A"
+
+AG
+
+1 | pusiovKeHue
+Bropoe:
+SHaruple haa3né
+
+As diverse as members of any other tribe, Silver Fangs
+share a bond of blood, nobility and madness. Most are
+marked by an ingrained sense of superiority, as they are by
+an aura of power and confidence. Even those tribes that fear
+and distrust the Fangs reluctantly admit to a feeling of awe
+in their presence. When an imperious Silver Fang matter-
+of-factly speaks of her tribe's favor with Gaia and duty to
+their "subjects," even the most cynical Bone Gnawer may
+feel a twinge of abiding respect.
+
+\
+True nobility is exempt from fear.
+~~ Shakespeare, Henry VI
+
+Bur although the Silver Fang elders are typically the very
+picture of solemn regality, it is the cubs who are the
+lifeblood of the tribe. Every inch as noble as their forebears,
+the young Silver Fangs are in addition filled with a vitality
+all too rare among their elders. Not yet shackled by the
+Sisyphean weight of Harano, still mostly lucid of mind and
+spirit, the cliaths of Falcon's tribe bring a vivacity to their
+tasks that awes their elders. They are the hope of their tribe,
+the last chance for the Fangs' revitalization. Theirs is a
+responsibility almost beyond measure, but the young nobles
+will do no less than accept their duty.
+
+Appendix Two: Nobles All 53
+
+aay 1 /
+
+y
+
+Monkeywrencher Terrorist
+
+, Quote: Did you hear about the bombing at our Manchester plant? Shocking!
+When will this horrible "monkeywrenching" end?
+
+Prelude: A jack-of-all-trades, you earned a senior degree in chemistry and
+studied other sciences heavily before deciding that the academic life wasn't for
+you. You joined the navy shortly afterward, where you experienced a
+somewhat belated First Change while in port in Argentina. It took some
+time for your tribe to recover you, and before you were even formally
+introduced to your Uncle, you'd already learned about Pentex the hard
+
+way. However, your foul experiences with the Wyrm-corporation
+
+only steeled your resolve, and not long after your Rite of Passage, you
+in decided to carry the war to its source.
+/ With your science background it was easy to land a job at
+Magadon, helping to churn out the never-ending stream of phar-
+maceutical Wyrm-disease. Since joining you have spied, de-
+stroyed files and planted bombs in two high-priority facilities.
+
+You've even arranged to introduce cleansing spirits into some
+
+Bane medicines. Medicine that actually helps people? How
+
+novel.
+
+AY : -
+well Concept: You're currently playing a dangerous game, quietly
+tripping up Pentex while taking full advantage of their gener-
+ous salary and excellent benefits program. Your
+Monkeywrencher allies get quite a bit of use out of the
+information you feed them. Risky? Who cares! The Silver
+Fangs have been dead weight long enough. It's about time
+your tribe got off its silver-plated arse and got to work.
+Roleplaying Hints: So you're a little obsessed; it's under-
+standable. Pentex is just a big world-devouring corporation
+backed by alien entities from the Deep Umbra. Noth-
+ing to get "obsessed" about there. The Fangs may have
+the history, but from your vantage point several other
+tribes are doing a lot more to hit the Wyrm where it
+lives. Hell, you've known Glass Walkers, even Bone
+Gnawers who have done more than most Silver Fangs.
+Your blood may be blue, but you try to downplay this,
+blending in with the crowd. The Silver Fang aristocracy is
+dying fast and being replaced by Wyrm-fetid corporate tyranny.
+Still, not even the greatest corporate entity can stand with
+someone like you chopping away at it. Timber!
+
+Equipment: Chemistry set, .45-caliber pistol, plastic explo-
+sives, spy camera, portable shredder
+
+
+CO) TaAILDER FANGS —(QCC).
+
+Breed: oméd
+
+Name:
+Lodge: Sua
+Camp: enesal
+
+Auspice: Ragabash
+House: Alastere Heel
+
+Pack Name:
+Pack Totem:
+Concept: Cerpeyate Spy
+
+weer ALA Attributes am mncmeELovatownsr
+
+Physical
+Strength e@e000
+Dexterity ©0000
+Stamina_____ ss @@000
+
+wre ALAA fyi
+
+Talents
+Alertness @0000
+Athletics 00000
+Brawl 00000
+Dodge Qo0000
+Empathy 00000
+Expression. 00000
+Intimidation 00000
+Primal-Urge__ 00000
+Streetwise @@000
+Subterfuge @eee00
+Backgrounds
+Lb ies @0o000
+Ceutacts @ee60
+Pure Preed @ee00
+PRoescurces @e@000
+PRQites @0000
+
+Gifts
+
+Eye ef the Faleca
+
+Social Mental
+
+Charisma @ee00 Perception. @0e0@00
+Manipulation @@e000 Intelligence Py yy Ye)
+Appearance__ Ss @O0000 Wits ©0000
+
+iti es wwe cen amram Loadiornar
+
+lit Knowledges ~
+
+Animal Ken 00000 Computer © e000
+Drive @@e000 Enigmas 00000
+Etiquette 00000 Investigation 00000
+Firearms e@e000 Law @0000
+Leadership 00000 Linguistics @0000
+Melee 00000 Medicine 00000
+Performance 00000 Occult 00000
+Repair. @0ee00 Politics @0000
+Stealth e0000 Rituals @0000
+Survival @0000 Science Cheorcotin ©0000
+
+Gifts
+
+Oyen Seat
+
+Let severd€ ow
+
+wae GK EnOWN
+
+Glory
+@eooogagdqgaadd
+OOOOOOUOOOO
+
+Honor
+oo0o0goagQ0 0000 0
+OOOOOUOOUOOU
+
+Wisdom
+@e@eoooagaddsd
+OOOOOUOOUOUOO
+
+"7 Rage Ml "/ Health <A
+eeo00000000 Bruised C
+oooooooooo Hurt 10
+
+Injured . UO
+wera 44 GOSS amaameed Wounded 2. O
+e@eo00000000 ve 25
+ripple -
+QNOOOOOOOOU Incapacitated  O
+— Willpower -—~ Weakness am
+DERANGEMENT:
+eevee o0o000n0
+Obsession
+
+OOOOOOOOUN
+
+aa einieay //,
+
+|
+
+
+ee 7 eee
+Angel of Death
+
+Quote: Field Report (August 17): The fomor took over three hours to die. The Wyrm's presence diminished remarkably during
+the last 20 minutes before death. Interesting...
+
+Prelude: Death always seemed to whisper to you from just beyond the corner of your
+eye, even when you were just a child. Your pet cat died when you were four years
+old, and you dug its body up a week later to see what it looked like. Your family
+was well-to-do, respected Kin; however, your grandfather, an ranking Ivory
+Priest took especial interest in you. Hoping that you'd eventually Change and
+follow in his footsteps, he lent you strange books and teased you with cryptic
+riddles. With his encouragement and patronate, you were an adept occult scholar
+by age 13. Even the high school Goths you casually associated with saw you as
+something different: a predator among prey, a wolf among sheep dressed in wolf-
+skins.
+
+It was your senior year when your fate came for you. The week before,
+you'd been an eerily respectable "spooky death-chick;" now you were
+something truly different. You were complete at last. Now, a year after your
+Firsting, you are an acolyte in the Ivory Priesthood, an ardent scholar of
+Death's secrets.
+
+Concept: The Ivory Priesthood is ideal for a person like you. While
+almost everyone, tribemates and packmates alike, considers
+your fixation on death to be morbid (or even profane),
+you're actually quite happy most of the time. You see
+death for what it is: a natural and fascinating part of
+existence. The priesthood has shown you certain things,
+but not yer taught you any of its deep secrets. You
+strive to prove yourself worthy for such enlighten-
+ment.
+
+Roleplaying Hints: Despite your interest in Tha-
+natos, you do not casually disregard the prerogatives of
+life. There is an order to the universe: a time to live and
+atime to die, as the saying goes. You may observe the
+death of innocents, but you only kill creatures that
+have been corrupted by the Wyrm. After every
+battle you take copious notes and samples for
+later analysis.
+
+Equipment: Klaive, biology kit,
+business suit, lab coat, glasses, lap-
+top computer
+
+\
+
+Name:
+Lodge: Meen
+Camp: Doory Po xiesthood
+
+Breed: 4emed
+Auspice: Thearge
+House: Gleaming Ege
+
+CC) aI LDER FANGS —(CC).
+
+Pack Name:
+Pack Totem:
+Concept: Theurye Duelist
+
+rer LAE Attributes momma Lovatrnar
+
+Physical
+Strength e@e0e00
+Dexterity eee080
+Stamina___— OOOO
+
+eA. Abi
+
+Talents
+Alertness @e@000
+Athletics @eee@00
+Brawl @e0ee00
+Dodge @e0000
+Empathy oo0000
+Expression 00000
+Intimidation @e@000
+Primal-Urge @e000
+Streetwise o0o0000
+Subterfuge _.00000
+
+B ackgrounds
+Fetish, ©0000
+Lure Fareed @ee00
+Resources @0000
+RRQites @0000
+00000
+
+bute
+
+Social Mental
+
+Charisma @@000 Perception @@000
+Manipulation @0000 Intelligence @0000
+Appearance___ ss @@@OO Wits ©0000
+
+itle 5 swear Caravans
+
+iit Knowledges~
+
+Animal Ken 00000 Computer @0000
+Drive 00000 Enigmas @0000
+Etiquette 00000 Investigation @0000
+Firearms 00000 Law 00000
+Leadership 00000 Linguistics 00000
+Melee e0e0e00 Medicine 00000
+Performance 00000 Occult__ Thanateleyy @@@00
+Repair 00000 Politics 00000
+Stealth @@e@000 Rituals 00000
+Survival 00000 Science Wleerelegy _@@@00
+
+Gifts
+
+Cue ef the Faleea
+
+ges nance mee orarnar
+
+Gifts
+
+Lersuasion
+
+ease COotar
+
+woamanin OP ONOWN i
+
+Glory
+
+rye
+[ye
+L]e
+[Jo
+Clo
+[Jo
+[Jo
+Clo
+Clo
+
+:
+g
+
+[je
+[ jo
+[Jo
+L]o
+L]o
+Clo
+Cle
+[lo
+
+ce ce
+| i ee oe
+[ jo
+[Jo
+[Jo
+[Jo
+Clo
+Cle
+Cle
+Clo
+
+cn I Tosser ermmsrommcen nance laratornar
+
+@e@e@e0000000
+DHOOOOOUOOOO
+
+eeeee0000d0
+OOOOOUODOUOO
+
+"/ Health ———aew
+
+Bruised
+
+Hurt -|
+Injured -|
+Wounded 2
+Mauled 2
+Crippled 5
+Incapacitated
+
+Weakness ——aiw
+
+OOOOO00O
+
+—- Willpower --*~
+
+e@eeo0000000
+OOOOOOOOOO
+
+DERANGEMENT:
+UVatellectualization
+
+|
+
+
+Jce Dancer
+
+Quote: Have you ever seen a vampire try to fight on ice? It's
+really quite funny.
+
+Prelude: You were born in the countryside of Quebec.
+Your father was a Vietnamese-Canadian Stargazer; your
+mother, a French-Canadian Fang Philedox, making you
+metis in both senses of the word. Your mother brought you
+up in her tribe's traditions, and taught you Silver Fang
+rituals until those vampire bastards killed her during a
+raging ice-storm. You have since spent your life walking the
+edges between the many strange influences of your life. You
+walk between cultures — East and West,
+human and wolf — with equal facility. we
+
+You assumed your tribal duties al-
+most out of desire to escape the burning
+hatred you hold for vam-
+
+pires. You learned the YS.
+
+joys of athletics at an) ~ ™ L-= . i
+early age; fencing and ~ x N
+skating were your favorites, and are > is
+now you don't even need to " mg 17
+
+wear skates anymore.
+
+Many believe you will
+
+be a paramount
+
+keeper of the ways
+
+one day, just like
+
+your mother. Yes,
+
+you are metis — /}
+
+but even that
+
+can be forgiven.
+Concept: Asa
+
+young field opera-
+
+tive for the tribe's
+
+judiciary, it is your
+
+duty to ensure that the
+
+Garou obey the laws of Gaia
+
+and Helios. Some Garou from
+
+other tribes may consider you
+
+58 LO
+
+the "heavy hand of Silver Fang tyranny," but you are far
+more stringent about enforcing the law among Silver Fangs.
+One must put one's own house in order first. You do act
+capriciously at times, especially where vampires are con-
+cerned. Few Garou dare to go into vampire-ridden Montreal,
+but you have. Let the hunt begin.
+
+Roleplaying Hints: You usually speak and act in a
+friendly but reserved manner, and are precise in dress and
+comportment. You are prepared for violence, but typically
+strive to accomplish things in a civilized manner. You are
+usually methodical and precise in your calculations, rarely
+making errors.
+
+But when the ice coats the city (as it did on
+that night long ago), you become another
+person. When the world is sheathed in ice,
+your blood burns with a lust for revenge.
+
+The world slows to a crawl — cars,
+people, vampires. You move
+through this stop-motion
+world as a silver blur.
+
+The tribal elders
+continue to caution
+you about your
+obsession.
+
+They predict
+
+your doom if
+you. con-
+tinue your
+war — but when
+
+cannot hear their
+words.
+
+Equipment: Ice skates,
+klaive, mother's Falcon pendant
+Metis Deformity: Bestial Re-
+flection
+
+the ice falls you |
+
+
+CO)-; LDER FANGS —(CT)
+
+Name: Breed: 7/\czés Pack Name:
+Lodge: een Auspice: J%cledex Pack Totem:
+Camp: ene House: (los od Red Crest Concept: €Cdyeaplher wy
+
+Physical Social Mental
+Strength e@e000 Charisma e@e000 Perception ©0000
+Dexterity ecoe5e Manipulation @0000 Intelligence__ © @@00
+Stamina____ OOOO we Ahkeio. eee00 Wits ©0000
+
+1 *
+
+Calents skills Knowledges-
+Alertness, 000 Animal Ken 00000 Computer, 00000
+Athletics Skaters 00000 Drive Oo0000 Enigmas ©0000
+Brawl oo0000 Etiquette____ @@000 Investigation OO0000
+Dodge 00000 Firearms 00000 Law C0000
+Empathy. revererere) Leadership @e0000 Linguistics _@@000
+Expression, __ 90000 Melee @ee00 Medicine 00000
+Intimidation 00000 Performance @e0000 Occult @0000
+Primal-Urge @0000 Repair. 00000 Politics 00000
+Streetwise @0000 Stealth ry Y vere Rituals @e8000
+Subterfuge 00000 Survival eee@00 Science 00000
+
+Backgrounds Gifts Gifts ,
+Fetish ©0000 Create Element
+[2ure reed @@0@00 Pee Dance
+PRikes @0oo000 Sense CO geen
+00000
+Oo0000
+a= Renown am "4 Rage lot " Health ~~
+co00 es 0000 eeee000000 Bruised U
+OoOoOooouoooo OOOO fe og
+njure -|
+Honor wren Ly G05 )S omemmet lense Wounded » O
+@e@ee@aeoaooaddaddd Mauled o
+OOOOOOUOUON egeeeonoo0000 ee 2 5 L
+. ri -
+onooooodeed -_ bs
+—- Willpower -—*~ Weakness
+DERANGEMENT:
+mommies Rank nine @ OOO BO00000
+a nooooooooo
+
+
+Blue Blood Manipulator
+
+Quote: What? You say Count Voightis really a vampire and you want me to help kill him?
+It sounds diverting.
+
+Prelude: Born at the heart of the tribe's European aristocracy, you grew up with
+every advantage. Yours was a world of very private schools and careful etiquette
+lessons; there you and your fellow Kinfolk students heard endless
+lectures on the great and glorious history of the Silver Fangs. Even
+sO, you were uninspired. All the talk of past victories bored you
+
+beyond reason. You prayed every day that you would make the
+change, that you would become Garou, so you could get out and
+say goodbye to every last inbred one of them. ;
+
+Someone answered your prayers. Your First Change was
+celebrated throughout your family, but the enthusiasm didn't
+last forever. You soon displayed a certain lack of follow-
+through, a most depressing character trait for a stubbormtribe.
+Tired of the disappointed stares of your Kin, you set out on your
+own to find something more stimulating.
+
+Concept: Your family tree goes back almost as far as the
+
+Progenitor Wolf; Silver Fang blood doesn't get much more
+
+pure than yours. Someone with your breeding should be a
+
+warrior-hero of Gaia, but your parents were always disap-
+
+pointed by your performance. You've discovered that your
+
+greatest talent was manipulating other people to fulfill
+
+your needs. You have enough money to last a dozen
+
+_ lifetimes, so you travel distractedly around the world,
+
+/ looking for excitement that appeals to your jaded
+
+palate.
+
+5 Roleplaying Hints: Your moral lapses make you
+
+/ something of an outcast in your house, but there are
+
+( people in other tribes who are always happy to do
+t
+
+things for you. With your looks and breeding, few
+people question your motives or competence.
+Despite your lack of "moral rectitude," you are
+careful to avoid compromise to the Wyrm. Bore-
+dom and ennui are one thing; being eaten by a
+Wyrm-beast is quite another.
+Equipment: Custom suit, jeweled cigarette holder, .45 automatic with
+silver bullets, passport
+
+™
+
+
+Name: Breed: "caud Pack Name:
+
+Lodge: Sun Auspice: Galliard Pack Totem:
+
+Camp: eyalists House: Gleaming Eye Concept: ered Aristectat
+W074 Attributes nec Loratiornar
+
+Physical Social Mental
+
+Strength @0000 Charisma @e000 Perception @e@000
+
+Dexterity eee00 Manipulation e0eee0 Intelligence eee@00
+
+Stamina @@000 ~— Appearance eooen 3 Wits ©0000
+
+SA Ab efe,e
+ee A ilities ee Saw ae
+Talents Skills Knowledges~
+
+Alertness 00000 Animal Ken 00000 Computer. Oo0000
+
+Athletics oo000 Drive 00000 Enigmas 00000
+
+Brawl oO0000 Etiquette____ ee@e00 Investigation 00000
+
+Dodge e@000 Firearms @e@000 Law @e000
+
+Empathy. @@000 Leadership @0800 Linguistics 00000
+
+Expression e@e@e00 Melee o0000 Medicine 00000
+
+Intimidation. @@e2e@00 Performance _ 00000 Occult O0000
+
+Primal-Urge 00000 Repair. O0000 Politics e@000
+
+Streetwise 00000 Stealth @0000 Rituals 00000
+
+Subterfuge e@e@e00 Survival 00000 Science 00000
+
+B ackgrounds Gifts Gifts
+
+"Allies @@000 anrvbent Fleasve
+
+Centacts 00000 WT \indspeak
+
+Lute. lhe Ste ed. eeee@0 Oersuasion
+
+PRescurces eeeee
+
+00000
+
+—A4
+
+a ae
+
+woven GRE NHOWN
+
+Glory
+
+[]@
+
+ce
+| Lio 6Ce 6
+
+Honor
+
+Cle §=6ftfe
+Cle fo
+[Jo
+[Jo
+[Jo
+[lo
+Clo
+Clo
+
+[Jo
+[ Jo
+[Jo
+Lo
+Cle
+Clo
+
+Wisdom
+
+ce
+Le
+[Jo
+[Jo
+[Jo
+[ Jo
+Clo
+mie)
+Clo
+
+=
+S_
+
+@e@eeeo00000n0
+OOOOOOOOOO
+
+e@e@eo000000d0
+OOOOOOOOCU
+
+7 /aP
+
+"/ Health ————~
+
+Bruised
+
+Hurt -]
+Injured |
+Wounded 2
+Mauled 2
+Crippled 5
+Incapacitated
+
+Weakness Come
+
+OOOOO00D
+
+ae Willpower A
+
+e@ee@eo00000n0
+OOOOOOOOOO
+
+DERANGEMENT:
+Canuc
+
+
+Russian Kesistance
+Guerrilla
+
+Quote: The land screams beneath the Old One's blackness.
+Prepare for a slow death, Wyrm creature.
+
+Prelude: This has always been a place for wolves. You
+were born on the icy tundra, and cared for by the pack. As
+you grew, you learned that your pack was but one of many,
+all carefully avoiding one another's territory — but despite
+the potential competition, you usually ate well. The alpha
+of your pack was a strong, almost impossibly intelligent
+wolf, and it was she who watched you change under the
+light of the full moon.
+
+Now you have joined your true pack, the one you were
+meant for. Like every geneta-
+tion before you, you lope across is
+the icy tundra of Siberia, scour-
+ing Mother Gaia clean of the
+Wyrm. Not once have you
+questioned your purpose —
+the land is the
+land, and must
+be protected.
+You could not
+imagine compro-
+mising this.
+
+Concept: The humans in your tribe call your pack a
+"house," but then they have so many strange ways. You
+recognize that you are different from most of the other lupus
+Garou; your white fur alone marks you as the chosen of
+Gaia. Still, on the Wyld paths, there is little room for the
+
+uman ways of rank. The word of your pack's alpha is
+authority enough for you. You listen to what the Red
+Talons and the other wolf-Garou say, and they in turn
+acknowledge your pack's place in the Wyld. So it is, so it has
+always been.
+
+Roleplaying Hints: The freezing northern winds blow
+through your thick coat, but you are not cold. The moon's
+light turns the snow beneath your feet into a thousand
+pinpricks of light. This must have been how the old ones
+felt, when a wolf could run for an entire season without
+seeing sign of Wyrm or Weaver. Now these forces choke
+the Wyld beneath a blanket of poison and concrete. But
+
+not unchallenged. You run with your pack
+rj and the Red Talons, killing the Wyrm
+wherever you find it.
+Equipment: Nothing.
+
+
+CO) AAILDER MANGS —(CC).
+
+Name: Breed: Zajsus Pack Name:
+Lodge: ene Auspice: Adrcun Pack Totem:
+Camp: ene House: Che D, Vee fOnck Concept: Avenger of Gaia A
+ee ee ee
+Physical Social Mental
+Strength. ry Y yore) Charisma @@e000 Perception ©0000
+Dexterity ep e8e8e0 Manipulation @0000 Intelligence__s_s— © @@O re)
+Stamina___—— © 00 eh Taio, ece00 = C Wits ©0000
+* e s
+Calents Skills Knowledges"
+Alertness @e@000 Animal ken @e@e00 Computer 00000
+Athletics @@000 Drive 00000 Enigmas e@e000
+Brawl e@e@e00 Etiquette 00000 Investigation @0000
+Dodge @0000 Firearms 60000 Law 00000
+Empathy__ Leadership. 00 Linguistics O00
+Expression 00000 Melee 00000 Medicine _..._ 00000
+Intimidation e@@000 Performance _ 00000 Occult e0000
+Primal-Urge e@ee@00 Repair oo0000 Politics 00000
+Streetwise O0000 Srealth @@e@000 Rituals @0000
+Subterfuge ee OOOOO Survival e30ee@00 Science 00000
+Backgrounds Gifts Gifts
+Leeutacts @@000 Full VW \ecn Cleansiuae
+Last Life @ee00 Peeiabtened Senses
+Lure " Sreecd @eee@0oo PRaxer Blaes
+00000 Seuse Cyray
+00000
+meme Renown ans "4 Rage is "/ Health -————~
+cocoons oo000 eeeae0000n0 Bruised a
+HoOoooouodooO OoOoOoOooooeao fut ta
+njur -|
+Honor werner 14 GNosis smnmnaowr Wounded 2 O
+eoooooaoaao0od0 led o
+OOOOOOOOUOU es5ua5n e0000dn ae -2 5 L
+. ripplec .
+Wisdom DNOOOOOOOO incapacitated" O
+needed a
+——— Willpower Weakness me
+DERANGEMENT:
+By wns Rank com eeceee00o00d Feel
+técw
+OOOOOOOUOO ees
+
+
+a AA"
+
+71 pUJIO;KeHHe
+‘[perpe:
+
+_ Cepedparoe
+BovCKO
+
+VES
+
+Despite what any others may think of them, the Silver
+Fangs have always been a tribe of champions. Nobility is
+their food and drink; responsibility is their raison d'etre.
+Even the lowliest Ragabash of the tribe can trace his
+ancestry back to martyrs, kings and heroes — such is the
+regal bloodline of the Silver Fangs.
+
+Silver Fang Galliards have perhaps the heaviest duty
+among the Moon Dancers of the tribes; theirs is the unen-
+viable task of recounting the deeds of almost innumerable
+tribal heroes. Grimfang, Jacob Morningkill, Tsarevich
+Nikolai, Loba Carcassone, White-Sky-Rising, Katarina
+Thousand-Howl, Daniel Heartshire, Riva Sun's Daughter
+— these are but a few of the names that stir awe and
+inspiration in the hearts of Fang cubs.
+
+It naturally follows that with such high tribal standards,
+it becomes all the more difficult to stand ouc from one's
+fellows and forebears. The struggle for Renown is foremost
+in the minds of many Silver Fangs — and yet the greatest
+rulers and most tragic heroes have sometimes arisen with
+never a thought for their own glory. These first among lords
+are often driven by a sense of duty they could not explain
+if asked, but that the wisest elders always recognize.
+
+The following Silver Fangs are champions among cham-
+pions, or notably touchy subjects in the chants of the Moon
+Dancers. One way or another, they have distinguished
+themselves from the illustrious ranks of their tribemates.
+The Garou that is noteworthy among Silver Fangs is
+noteworthy indeed.
+
+A
+|
+
+
+Felix VYusupov
+
+Although Kinfolk and not truly a Silver Fang, Felix
+Yusupov has nonetheless earned a certain fame of his own,
+much to the embarassment of his tribe. The young aristo-
+crat was married to Tsar Nicholas II's niece, the Princess VA
+Irina, and wished to serve the tribe by killing the advisor
+Rasputin, whom he suspected of being a Wyrm-pawn.
+History records that he lured Rasputin into a trap by
+promising him an interview with Irina. Yusupov had to
+both poison and shoot the mad monk before he died, and
+threw the man's body into the icy Neva River. Yusupov
+escaped execution for the deed because he was too popular
+(and well-protected). The tsar banished him to his home
+estates in South Russia.
+
+The Russian poet, Alexander Blok, marveled that the
+bullet that killed Rasputin was "fired not by a revolution-
+ary, but by a crypto-fascist and a fop." Historians also note
+that Yusupov was a cross-dresser. Silver Fangs bristle at
+such "perceived" eccentricities. What should have been a
+Silver Fang victory has become something of an embarrass-
+ment for the tribe. The fact thar there are at least two
+vampires and a mage who claim to be Rasputin haunting
+the World of Darkness further compounds this embarrass-
+
+uri and Sophia
+varivich
+
+Of all che heroes of ald Russia, perhaps the best known
+are these brother and sister Silver Fang warriors. As rulers
+of the Crescent Fang, the two protected all who were true
+to them. The Garou, and hence the Rus, prospered under
+their wise and just reign. They slew all the great Wyrm-foes
+of their time, and few dared oppose them.
+
+One day word of the Wyrm-dragon, Sharkala the Cruel,
+came to the siblings. The Zmei killed all about it, laying
+waste to Mother Russia. Leading a pack with members from
+several tribes, Yuri and Sophia hunted the dragon, with the
+aid of the vampire, Durga Syn. Finding the Zmei, they
+struck at it with fang and claw, but the dragon, in its death
+throws, bit back and killed the two nobles. Their bodies
+were burned and their ashes thrown to the Russian winds,
+scattering their spirit and fame throughout the world.
+
+tL
+
+
+tribes quietly accorded honor to their fallen, and spoke no
+more of the happenings in the West. The tales of their
+heroes of the time were carefully learned by a few Moon
+Dancers in the sept, so that none would forget. But in the
+Garou's pride, these stories were not told to more than a
+handful of Galliards out of the following generations, and
+so the true tale of Isaiah Morningkill's deeds remains a
+shameful secret among the proud Silver Fangs.
+
+Collette Delacourt
+
+Collette Delacourt of the Gleaming Eye was
+the most pure-bred Silver Fang the house had seen
+
+in two generations. Her birth was marked by a total
+eclipse. Her New Orleans house spared no effort in her
+upbringing, training her for great things to come. Ry her
+Firsting at age 15 she appeared to be surpassing expecta-
+tion. Many Garou outside her tribe also liked her; she
+befriended Uktena, Fianna and Bone Gnawers alike. Her
+disappearance, then, caused a quake throughout her house
+and beyond. The local septs launched a massive hunt. They
+eventually found most of her body floating in a swamp,
+riddled with Wyrm-corruption.
+
+ment. Satirists from several tribes (most notably the Fianna)
+allude to the "Yusopov incident" as a comic example of
+Silver Fang foibles.
+
+Isaiah Morningkill
+
+One of the more recent Garou heroes, the father of Jacob
+Morningkill is rarely mentioned in ballads. Although the
+canny Theurge comported himself with nothing but dig-
+nity in life, and brought much honor to his tribe, most
+werewolves are ashamed to even speak of the deeds sur-
+rounding Isaiah and his life.
+
+Isaiah was born in the nineteenth century in the North
+Country protectorate. However, the political maneuverings
+at the time were anything but gentle, and when Isaiah
+offended the sept's Caern Warder, he was "encouraged" to
+go elsewhere to carry on Gaia's fight. Mournfully leaving
+his wife behind, he set out to the West, to investigate
+reports of strange upheavals in the local Penumbra. He was
+not to return alive.
+
+Although recent generations have been largely unable
+to discover the full story of Isaiah Morningkill, they have
+uncovered this much: Isaiah learned of powerful evils
+stirring in the West, evils that many European Garou had
+unwittingly awakened in their struggles with the Pure
+Ones. The backlashes on the spirit world were terrible, and
+were only calmed a decade before the turn of the century.
+Ashamed to admit their role in the troubles, the European
+
+(a
+
+
+There is no shortage of suspects in Collette's murder.
+These include the Black Spirals of two caerns in the area,
+agents of a local Pentex nuclear power plant (Atlas Inter-
+national), and even the Sabbat. The Gleaming Eye, how-
+ever, blames the Shadow Lord's Society of Nidhogg (see
+Shadow Lords Tribebook). The Shadow Lords vociferously
+deny Nidhogg involvement, but few Garou (unsurprisingly)
+believe them. The destruction of the Society of Nidhogg
+has practically become a sacrament of Gleaming Eye. The
+house and the society are virtually at war with each other.
+Other tribes fear that skirmishes may draw them into the
+conflict. Several Louisiana packs are joining forces to find
+out who really killed Collette Delacourt.
+
+Celeste Walks-the-
+Spira-Backward
+
+Celeste Walks-the-Spiral-Backward is a powerful and
+enigmatic member of the Gleaming Eye. As a powerful
+Ragabash, she is pulled by the invisible influences of the
+moon in startling ways. Celeste is a servitor of Luna and
+silently kills numerous Wyrm creatures in Luna and Gaia's
+
+SA
+
+names. Celeste is a shadowy figure in Silver Fang society.
+Wyrm-spawn throughout the world attribute horrific tales
+of slaughter to her, and fear her like few others. Some tell
+stories about how, trapped at the center of a Black Spiral
+labyrinth, she walked it backward, thereby destroying it
+completely. Many scoff at the impossibility of this story, but
+her honorific "Walks-the-Spiral-Backward" has stuck.
+
+Widely traveled, Celeste has contacts in almost every
+land and tribe. She is an instrumental figure in coordinat-
+ing the Silver Fangs' global war effort.
+
+King Albrecht
+
+The great-grandson of King Jacob Morningkill of House
+Wyrmfoe, King Albrecht is a new kind of Silver Fang
+monarch. After his grandfather exiled him, Albrecht wan-
+dered dispossessed among the common tribes for a number
+of years. During that time he mixed with Garou from such
+tribes as the Black Furies, Stargazers, Wendigo and even
+the Bone Gnawers. In his quest for the Silver Crown, he
+battled Black Spiral Dancers and traveled to the farthest
+reaches of the Umbra. He was skinned alive by the Spirals,
+but the power of the Silver Crown saved his life and
+seemingly cured him of his Harano.
+
+While few Silver Fangs dispute Albrecht's right to rule,
+some do look askance at his methods. Ignoring his critics,
+Albrecht has sought to unite the disparate tribes of his
+
+Host 67
+
+
+protectorate. Many of his detractors attribute this to his Since his coronation, Albrecht has used his newfound =
+commoner sympathies and decry the "cult of personality" power to launch a number of successful attacks against the
+
+that surrounds the newly ascended king. Others, however, | Wyrm. The Wyrm-spawn in the region surrounding his
+
+attribute his partial success at rallying other tribes to his _ protectorate is on the defensive once again.
+
+ability to evoke a long-lost feeling for the Silver Fangs:
+
+L
+
+Oe
+68 Silver Fangs
+
+
+ow'reall expecting some kind of frilly
+speech about n :
+
+‘You krowe what? The Silver Fangs are not going
+0 ne all tod sous exe thing,
+
+Silver Fangs Tribebook includes!
+
+© The majest
+
+(tertfat

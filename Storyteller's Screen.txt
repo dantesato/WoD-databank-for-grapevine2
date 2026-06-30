@@ -1,0 +1,360 @@
+# File: Storyteller's Screen.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+
+CL@SE C@mBAT ITIANEUVERS
+Maneuver Traits Accuracy Difficulty Damage
+Block Dex + Brawl Special Normal (R)
+Clinch Str + Brawl Normal Normal Str (C)
+Disarm Dex + Melee Normal +1 Special
+Dodge Dex + Dodge Special Normal (R)
+Hold Str + Brawl Normal Normal (C)
+Jab Pistol Dex + Melee Normal Normal Weapon +2
+Kick Dex + Brawl Normal +1 Str +1 or 5
+Parry Dex + Melee Special Normal (R)
+Strike Dex + Brawl Normal Normal Str or 4
+Sweep Dex + Brawl/Melee Normal +] Str (K)
+Tackle Str + Brawl Normal +1 Str +1 (K)
+Weapon Strike Dex + Melee Normal Normal Weapon
+(C): The maneuver carries over on successive turns.
+(K): The maneuver causes Knockdown
+(R): The maneuver reduces an opponent's attack success.
+All attacks made using Brawling do Bashing damage, except when striking the head.
+All attacks made with Melee do either Bashing or Lethal damage depending on the weapon used.
+
+RANGED C@mnBAT ITIANEUVERS
+Maneuver Traits Accuracy Difficulty Damage
+Automatic Fire Dex + Firearms +10 2 Weapon
+Multiple Shots Dex + Firearms Special Normal Weapon
+Strafing Dex + Firearms +10 +2 Weapon
+3-Round Burst Dex + Firearms +2 +1 Weapon
+Two Weapons Dex + Firearms Special +1/off-hand Weapon
+
+IMELEE \X/ EAPONS
+
+Weapon Damage Difficulty
+Sap Strength + 1B Normal
+Club Strength + 1B Normal
+Knife Strength + 1L Normal
+Saber Strength + 2 L Normal
+Katana Strength + 3. L Normal
+Axe Strength + 3 L Normal
+Butterfly Knife Strength + 2L +1 in pairs
+Nunchaku Strength + 2 B +1 in pairs
+Tonfa Strength + 1B -1 to Block
+Sai Strength +1 L -2 to disarm
+Fighting Chain Strength +2 B +1
+
+"B" denotes a weapon that does bashing damage. "L" denotes a weapon that does lethal damage.
+
+Lyf fy Ti OAR el ‘t 1 1" eee 1 res vel AG f
+
+
+Damage Conceal
+Revolver, Lt. ( .38 Special) 4
+
+Revolver, Hvy (.44 Magnum) 6
+
+X-5 Protector (revolver) 6 (or special)
+Pistol, Lt. (9mm) 4
+
+Pistol, Hvy. (Colt .45)
+
+X-5 Protector* (semi-auto) (or special)
+
+Taser
+
+Rifle (30.06)
+
+SMG, Small* (Ingram Mac-10)
+SMG, Large* Uzi (9 mm)
+
+Assault Rifle* Steyr-Aug (5.56 mm)
+Shotgun (12 Gauge pump)
+
+co
+
+20
+20
+Compound Bow** 30
+Shuriken 5 Special
+Damage: Indicates the damage dice pool. All firearms, bows and crossbows do lethal damage, except tasers, which do only bashing
+damage.
+
+Shotgun (12-Gauge semi-auto)
+Crossbow
+
+Re eK We WwWwwne ns wR WD Ww
+
+VPZAAAZAe Zot Se wos
+
+NANO ODAD A
+
+Range: This is the maximum normal range in yards. All ranged weapons can be used at twice this range, but such long-range attacks |
+» are at +2 difficulty.
+
+Rate: The maximum number of bullets or short bursts that the gun can fire in a single turn. This rate does not apply to full-auto or spray
+~ attacks, only one of which can be made in a normal turn.
+
+Clip: The number of shells a gun can hold. The +1 indicates that a bullet can be held in the chamber, ready to fire.
+
+‘Concealment: P = Can be carried in a pocket; J = can be carried ina jacket; T = can be hidden in a trenchcoat; N = impossible to conceal
+
+#5 yards is also the maximum range at which a taser can be used.
+
+* Indicates the weapon is capable of three-round bursts, full-auto and sprays.
+
+** Indicates that this weapon requires a minimum Strength 3 to use.
+
+EXPERIENCE C@sTs HEALTH
+Trait Cost Health Level Dice Pool Penalty Movement Penalty
+New Ability 3 Bruised 0 Character is bruised a bit, but he suffers no
+New Sphere 10 penalties from damage.
+Willpower new rating Hurt - Character is hurt superfi-cially, and he suffers
+Ability new rating x2 no movement hindrance.
+Attribute new rating x4 Injured Character suffers minor injuries, and his move-
+Specialty Sphere new rating x7 ment is inhibited mildly (halve maximum
+Other Sphere new rating x8 conn speed). " |
+: Wounded - Character suffers significant damage, and he :
+Arete new rating x8 ‘
+may not run (though she may still walk). AL
+Berkground Seen Mauled - Character is injured badly, and he may only Fi |
+hobble about (three yards/turn). rr
+Crippled - Character is catastrophically injured, and he yas a
+may only crawl (one yard/turn). » ,
+Incapacitated Character loses conscious-ness from the pain ri a
+( <7 and trauma. No actions are possible. F a}
+\ Dead Tag ‘im, bag 'im, notify his next of kin. ‘
+W :
+
+par ee
+5 at ad
+
+us
+
+me ety yg i ee ee bf a g |
+te we SEC WEY SWAY SUM Seg OP OP Ma eBay! Te
+ed EE aq 1'N yf *. atal, Ls o
+
+te " j *
+
+git -
+Y
+
+
+
+Ms = My, oy & oe J amaa\
+— y \) mee .* | SF
+— ry ee
+4
+
+TMAGICAL DIFFICULTIES
+
+(Maximum modifier: +/-3. Minimum difficulty 3, maximum 9. Extra modifiers add to threshold, requiring extra successes.)
+
+Activity Difficulty Modifier
+a! Researches lore on subject before using magic -Lto-3
+' i I _ Has item resonating with target's essence (sympathetic magic) -Lto-3
+t Hy __ Near a Node -Lto-3
+v4 Uses a specialty focus -l
+
+Uses a unique focus -l
+
+Uses a focus when it's not required -l
+
+Extra time spent on each step of magic (Spending several turns for one roll instead of one tun) 1
+
+Spending Quintessence -] perpoint, maximum of -3 to final difficulty
+Appropriate Resonance (personal or from Tass) -l .
+
+Opposed Resonance (personal or from Tass) +1
+
+Distant or hidden subject +1
+
+Fast-casting +1
+Mage distracted : +1 to +3
+Mage in conflict with Avatar +1 to +3
+Domino effect #1 to+3
+Outlandish or greater feat +L to +3
+Surpassing a necessary focus +3
+
+Successes Require
+Simple feat 1
+
+(lighting a candle by touch, enhancing-your senses defending yourself from a mental attack with Mind)
+
+ndard feat 2
+
+(creating a small fire at range, sensing someone else with Mind or Life magic, healing yourself)
+
+Difficult feat 3
+igniting a flammable object at range, reading or affecting someone's emotions with Mind magic, transforming yourself)
+
+Impressive feat 4
+
+. (Blasting someone with fire, forcing someone to perform an action, altering someone else's shape in a minor way)
+
+ighty feat 5-10
+owing down a wall, altering someone's psyche, conjuring a fantastic living creature)
+© Outlandish feat 10-20
+
+Blowing apart a car, turning a small mob into drones, binding a potent spirit) "a
+© Godlike feat 20 and up, upy ty
+
+(Blowing up a building, putting a whole city to sleep, rewriting your own Pattern permanently)
+
+DAMAGE AND DURATION
+
+Scoring Damage: Each success expended to score damage inflicts up to two levels of damage. For Mind attacks, this damage is bashing; for most other
+Spheres, it's lethal. Charged with Quintessence, it's aggravated. Forces attacks inflict one extra level of damage automatically,
+
+Scoring Duration: Each success expended on duration extends the duration beyond instant/ one turn. One additional success extends the duration
+toascene; two extra successes, a day; three extra successes, a full story; four extra successes, six months; five extra successes, the Storyteller's option. Scoring
+double the normal successes required for a complete success on the Effect may make it permanent, at the Storyteller's option.
+
+Scoring Area: Affecting a Pattern other than the mage himself requires a success. Each additional Pattern affected after the first requires an extra
+success. Affecting a large area requires additional successes at the Storyteller's discretion. A giant ball of flame is harder to make than a simple, single bolt
+of fire.
+
+Example of Total Scoring: A mage scores four successes on a vulgar fire blast. Two successes are used for damage, so it inflicts five levels of
+aggravated damage (four for the successes, one for a Forces Effect, aggravated for fire). One success is used because it's affecting a target other than
+the mage, and the last success is used to strike an additional target. Two targets are struck, each taking five levels of aggravated fire damage.
+
+j t i UMe | ‘ ny © 5 Ts. ee
+oe Lee =: i hig
+
+
+
+DIFFICULTY AND SUCCESS EXAITIPLES
+
+ao sa quick list of some simple difficulty ratings.
+
+Easy (jumping a narrow creek)
+Four Routine (changing a tire)
+Five Straightforward (installing mod-erately user-friendly
+
+software)
+Six Standard (firing a gun in combat)
+Seven Challenging (picking a high quality lock)
+Eight Difficult (rebuilding a wrecked engine block)
+Nine Exceptionally difficult (picking a high quality loc!
+with improvised tools)
+DEGREES @F SUCCESS
+
+Marginal (keeping a car running until you can get it into
+; the shop)
+Two Successes Moderate (making an interesting but pedestrian
+speech)
+
+Three Successes Complete (fixing something so that it's good as new);
+Four Successes Exceptional (writing a top-selling novel) »
+ive or More Successes Phenomenal (giving a performance that people will
+
+remember for many years)
+
+C@RRESP@NDENCE RANGES
+Successes Range Connection
+One Line of sight Body sample
+Two Very familiar Close possession or companion
+Three Familiar Possession or casual friend
+Four Visited once Acquaintance or object used once
+Five Described location Briefly touched or met ob-ject or person
+
+Six+ Anywhere on Earth no connection
+
+GAUNTLET
+_ Area Difficulty Successes Needed
+Node 3 One
+Deep Wilderness Two
+; Rural Countryside Three
+
+ost Urban Areas Four
+Downtown Five
+Technocratic Lab* 9 Five+
+
+* Note that Technocratic Dimensional Science treats such an area
+as a Node.
+The Gauntlet may vary by up to two points due to local conditions.
+PA haunted, abandoned lot in the middle of the city at night has a lower
+Gauntlet than the rest of downtown, while a carefully trimmed and
+maintained woodland inside of a biodome has a higher Gauntlet.
+Actually reaching across the Gauntlet or stepping into the spirit
+world causes one level of aggravated damage for each failure on the die
+© roll. See the Spirit Sphere for details.
+
+om
+‘
+
+| © How does your Effect appear?
+
+© © Does your mage's paradigm support the form of the
+
+_¢ How much effect did your magic have?
+
+© successes, and check your remaining success.
+
+die
+Sb: ig 1 errs Lae]
+
+WHAT D@ YOU W/ ANT Te De,
+AND How?
+
+¢ What Effect are you attempting to do and how?
+¢ What is your character doing, within his or her
+paradigm, to make it happen?
+
+© How long does it take?
+
+De Yeu KNew Hew Te De IT?
+
+© Does your mage have the appropriate Sphere knowl-
+edge?
+
+© Does your mage need any mundane Abilities to help?
+
+Effect?
+
+DID Y®U.SUCCEED?
+¢ Roll your character's Arete versus the appropriate
+difficulty:
+Coincidental: Highest Sphere +3
+Vulgar without Witnesses: Highest Sphere +4
+Vulgar with Witnesses: Highest Sphere +5
+
+¢ Add or subtract any modifiers, upto +/ -3
+© Spend Quintessence and/ or Willpower, if desired
+¢ Check the number of your successes
+
+© Check thresholds and remove successes
+¢ Repeat for extended Effects
+
+\W/HAT HAPPENED?
+
+¢ Did the target resist your Effect? Remove their
+
+© Did you succeed? Assign the Effect, and take any
+appropriate Paradox (one per highest Sphere level for
+vulgar Effects, plus one if there are witnesses).
+
+© Did you fail? If you did but didn't botch, take any
+appropriate Paradox, and watch the Effect fizzle.
+
+© Did you botch? If so, assign the Paradox appropriate
+to a botch instead of the normal amount.
+
+Coincidental Botch: Gain one point of Paradox
+per dot in the highest Sphere used.
+
+Vulgar Botch without Witnesses: Gain one point |
+of Paradox for botching + one per dot in the highest
+Sphere.
+
+Vulgar Botch with Witnesses: Gain two points /
+of Paradox + two points per dot in the highest Sphere.
+
+© Did you get more than five points of Paradox? If so,
+the Storyteller might roll for Backlash.

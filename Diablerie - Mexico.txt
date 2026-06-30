@@ -1,0 +1,4123 @@
+# File: Diablerie - Mexico.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+Awaken ing
+Diablerie: (Mexico
+
+By NIGEL FINDLEY
+
+
+A rat crept softly through the vegetation
+
+Dragging its slimy belly on the bank
+
+While I was fishing in the dull canal
+
+On a winter evening round behind the gashousi
+
+Musing upon the king my brother's wreck
+
+And on the king my father's death before him.
+T.S. Eliot The Waste Land
+
+Pictr lowered the limp body of his drained Vessel to the pavement
+of the noisome alley. He licked the last traces of blood from his
+
+Yes. He could feel the thin vite of his victim as a churni
+incorporated into himself. Refreshing strength flowed through his
+limbs until his very skin began to tingle. He raised his eyes from the
+crumpled body of the would-be mugger — how foolish the boy had
+been to choose as his intended victim a farmore lethal predator — and
+smiled at the cloud-streaked moon hanging distended over the high
+rooftops of Chicago. His eye teeth — his killing teeth — were still
+extended, and glinted evilly in the cold moonlight.
+
+Something glittered at his feet —the mugger's switchblade, with
+which he'd threatened to take his killer's life. How foolish the
+weapon had seemed to Pietr. How y he had brushed it aside,
+before reaching in to shatter the youth's jaw witha single, hideously
+strong blow. He laughed as he kicked the weapon aside.
+
+The exhilaration of the fresh vite was a thin siren-song in Pictr's
+ears. Even though it had tasted thin, only slightly stronger than water,
+itstill carried with it its full curative and restorative powers. That was
+interesting, Pictr noted, and valuable. Even though his tastes had
+become somewhat ... jaded by his recent diet, the blood of mere kine
+could still serve him. Yes, interesting, and good. Although he would
+continue in his set path, secking out and draining those Elders foolish
+enough to leave themselves vulnerable, Diableric was not Pictr's sole
+course of action. The kine could support him in time of need, as they
+always had in the past.
+
+His tongue and lips tingled — burned, almost — with the memory
+of the last time he had drunk Kindred vite. In France, it had been.
+Through his research, he had unearthed the Haven of an Elder. By
+cunning and courage, he had overcome the creature's defenses, and
+drained that Vessel dry. His heart pounded, and his spirit leapt as he
+recalled the fierce joy of the Inspiration, the piercing death-yet-not-
+death of the Rebirth. How he longed to taste once more the savage,
+hot blood of his own Kindred ...
+
+It was that longing that had brought him at last to this city. Here,
+his research had told him, he would find a prize beyond price — one
+of the Kindred who knew the ancient blood-magic, the Ritual of the
+Bitter Rose. And with that Ritual — when Pietr had obtained it, by
+whatever means it might take — the Diabolist would gain powers that
+would elevate him to near-godhood. He would become the ultimate
+threat to the Camarilla, and the ruler of all the Kindred.
+
+With a harsh laugh of exhilaration and anticipation, he vanished
+into the night.
+
+
+Credits:
+
+Written by: Nigel Findley
+Editing: Rob Hatch
+Development: Andrew Greenberg
+Layout: Sam Chupp
+
+Production: Josh Timbrook
+Maps: Brian Blume
+
+Art: Sam Inabinet, John Cobb, Seri Mohm, Josh
+Timbrook, Richard Thomas
+
+Cover: Jeff Starling
+Back Cover: Chris McDonough
+
+Vampire: The Masquerade™ was created by Mark
+ReinsHagen
+
+Dedication:
+
+This book is dedicated to all the characters who died
+in the playtesting of this story.
+
+Ty 735 PARK NORTH BLYD.
+Goge SuTe 128
+CLARKSTON, GA 30021
+USA
+
+GAME STUDIO
+
+© 1997 White Wolf Publishing, Inc. All rights reserved.
+Reproduction without the written permission of the publisher
+is expressly forbidden, except for the purposes of reviews, and
+blank character sheets, which may be reproduced for personal
+use only. White Wolf, Vampire the Masquerade, Vampire the
+Dark Ages and Mage the Ascension are registered trademarks
+of White Wolf Publishing, Inc. All rights reserved. Aion,
+Werewolf the Apocalypse, Wraith the Oblivion, Changeling
+the Dreaming, Werewolf the Wild West, Diablerie and/Awak-
+ening are trademarks of White Wolf Publishing, Inc. All rights
+reserved. All characters, names, places and text herein are
+copyrighted by White Wolf Publishing, Inc.
+
+The mention of or reference to any company or product
+in these pages is not a challenge to the trademark or copyright
+concerned.
+
+This book uses the supernatural for settings, characters
+and themes. All mystical and supernatural elements are fic-
+tion and intended for entertainment purposes only. Reader
+discretion is advised.
+
+Check out White Wolf online at
+
+heep://www.white-wolf.com; alt.games.whitewolf and
+rec.games.frp.storyteller
+
+PRINTED IN THE UNITED STATES OF AMERICA.
+
+Special Thanks To:
+
+Mark "Next Week" Rein-Hagen, for his efforts to
+get Werewolf out to playtesters in time.
+
+Stewart "Judge Automaton" Wieck, for being so
+Dreddful in four square.
+
+Ken "Fisherman" Cliffe, for not finding his fauna
+among the local flora.
+
+Josh "Whine, Whine, Whine" Timbrook, for hav-
+ing to abandon The Masquerade at 2 a.m.
+
+Andrew "Bring ‘em back alive" Greenberg, for
+saving Josh and Wes from all those bloodthirsty
+Georgia peaches and getting them home by their bed
+time (whine...whine...whine)
+
+Wes "Fixer" Harris, for bringing his waterpump
+bill from $280 to $20.
+
+Sam "Dark Foe" Chupp, for tuming evil while
+worming his way to the kingship.
+
+Rob "Hypochondriac" Hatch, for saving up all his
+illness until he came to work for us.
+
+Chris "Walkies" McDonough, forknowing how to
+get us worried in Werewolf.
+
+Travis "Hunt and Peck" Williams, for getting his
+Ars Magica work done so close to the deadline.
+
+Brian "The Whiz" Blume, for cranking on some
+jammin' cartography.
+
+CHAPTER ONE: INTRODUCTION
+Carter Two: DIABLERIE; A Discussion
+CHAPTER THREE: THE WANDERER
+
+CHAPTER Six: CONCLUSION...
+
+
+
+Inaroduction
+
+We do not merely feed upon the Mortals; some of us feed
+upon one another. Some do it out of need; they can no
+longer survive on the thin mortal vite. But others do it out
+of desire, for they seek the power of their elders. The war
+between my people is a cannibalistic and horrific conflict
+indeed. The young hunt the old, not for wisdom, but for
+power.
+
+—Critias, Clan Brujah
+
+concluding the story, of tying up loose ends and bringing the
+dramatic flow of the story to a suitable close.
+
+Awakening is a supplement for the Vampire: The
+Masquerade storytelling game. Within it, you will find
+information on one of themore powerful Methuselahs in the
+New World — Mictlantecuhtli, known to many as The
+Wanderer — and details about his resting place. Lying in
+torpor, he represents a treasure almost beyond price for
+
+THE STORY
+
+ambitious Neonates (and what Neonates are not ambi-
+tious?). So greatare his age and the potence of his blood that
+by incorporating a powerful ritual with the drinking of his
+
+Diablerie is a one-chapter story for Vampire, intended for
+agroup of 3-6 Kindred. Itisa stand-alone story, with nodirect
+links to any other Vampire supplements.
+
+vite, not one but several Neonates could advance in Gen-
+eration!
+
+Of course, nothing of value ever comes easily, and the
+
+worth of a prize can be measured by what price those who
+desire it would risk to obtain it. The price that must be paid
+
+for this prize is great indeed. Any Kindred who attempt to
+attain the goal must face the very real risk of being extin-
+
+guished, of facing the death that they thought would never
+come for them.
+
+For the Wanderer does not sleep unprotected. Far from
+it. His defenses have destroyed uncounted Kindred over the
+two millennia and more that he has lain in Torpor. What
+matter a handful more?
+
+CONTENTS
+
+Diablerie consists of six chapters. The first chapter
+serves as an introduction and explanation of the rest of the
+book. Chapter 2 offers a discussion of the practice of
+Diablerie, or the Amaranth. Chapter 3 provides back-
+ground material on Mictlantecuhtli, the Wanderer, including
+his history and capabilities. Chapter 4 contains suggestions
+for how to involve the Neonates in this story and ways in
+which the Storyteller can drop the hints that will lead them
+on to their appointment with destiny. Chapter 5 describes
+the Wanderer's Haven, a Mayan pyramid located in the
+Quintana Roo province of Mexico's Yucatan peninsula, as
+well as information on its many defenses — living, inani-
+mate and undead. And finally, Chapter 6 discusses ways of
+
+Introduction 7
+
+How To Use Tuts Book
+
+This supplement can be used in two ways. First, itcan be
+used merely as background information. The book provides
+the Storyteller with important background on the practice of
+Diablerie — the game mechanics, particularly with refer-
+ence to when Kindred drink the vite of exceptionally old and
+powerful Vampires, and the philosophy and body of beliefs
+that the Kindred have built up around the practice over the
+millennia. It also describes one of the greatest of the
+Methuselahs, Mictlantecuhtli, who has lain in torpor since
+before the time of Christ. Although the location of his resting
+place is known to few — if any — so great was his power that
+Mictlantecuhtli is probably the core of many myths and
+legends among the Kindred. Storytellers, then, can use this
+supplement for information on Diablerie, and for "deep
+background" that they can release in hints and rumors, to
+enhance and deepen the atmosphere of the Chronicle.
+
+Second, if the nature of the Chronicle is suitable,
+Mictlantecuhtli the Wanderer can be presented as a target for
+Neonate characters bent on acquiring power through
+Diablerie, the drinking of an Elder's blood. Since the
+
+Wanderer is so old and so powerful, he represents an
+opportunity for several player characters to advance in
+Generation. Here, the rules on Diablerie itself take on more
+immediate significance, as do the details on the Wanderer's
+Havenand the precautions he has taken to protect himself. In
+this case, the Neonates must "run the gauntlet" if they wish
+to drink of Mictlantecuhtli's vita.
+
+TrE-INS
+
+There are no direct tie-ins between this supplement and
+any other product for Vampire ... apart from the Vampire
+tulebook, of course. While Awakening could be used in a
+Chronicle based on earlier Chronicles, suchas Ashes to Ashes
+and Chicago by Night, the events in this supplement are so
+far removed from Chicago and Gary that there will be little
+connection with matters in Illinois and Indiana (unless the
+Storyteller decides otherwise, of course; suggestions for
+such complications can be found in Chapter 6). Of course,
+Kindred from Chicago may journey with the Neonates to
+Mexico —to assist them, hinder them or just observe, as the
+case may be. Otherwise, Awakening can be considered a
+stand-alone product.
+
+8 Awakening
+
+VDiablerie;
+
+X Discussion
+
+The bigger the cap, the bigger the pealin'
+— Ice Cube, Steady Mobbin'
+
+Diablerie is the name that the Kindred apply to draining
+the vit of another Vampire, driving the victim to the Final
+Death as his very life force, and the potence associated with
+it, is transferred to the Diabolist. Regardless of the fact that
+most Kindred consider it a foul and perverted act — and of
+the Sixth Tradition's condemnation of any Kindred who
+would slay another — Diablerie is practiced by, and touches
+on, Vampires of all generations.
+
+There are many who think that the later Generations of
+Kindred — those of Fourth and subsequent Generations —
+were created for one purpose, and one purpose alone: to feed
+the hunger of their Sires. After all, it is known that as
+Kindred attain ages in excess of a millennium, the vita of
+mortal Vessels becomes too thin to support them as it once
+did. Some Kindred extrapolate from this that the true
+Antediluvians — those of the Third Generation, and Caine
+himself, should he still exist — would be unable to gain any
+sustenance from mortal blood. They could survive only by
+feeding from Vampiric Vessels. The Antediluvians knew
+that this would occur, and — before they slipped into Torpor
+— they made sure sufficient Vessels would await them on
+their Awakening. Inessence, then, according to this view the
+entire population of the Damned, so concerned with its own
+
+petty squabbles and rivalries, are nothing buta Herd awaiting
+the resurrection of the Antediluvians. If this is the case, then
+Gehenna is something truly to be feared ...
+
+It must be admitted that not many of the Kindred believe
+this (or admit that they believe it, perhaps). Even if this
+apocalyptic view is not the truth, there certainly have been —
+and probably still are — Vampires who sire Get for the sole
+purpose of later feeding on them. Most Kindred view this
+kind of situation with a deep personal revulsion, possibly
+because it would be too easy for them to imagine the horror
+of being such a Get. How would it be — particularly for a
+
+natural hunter such as a Vampire — to realize that one's
+inescapable destiny is to become the prey of the Sire who
+created one? Certainly, the fact that such Get are bound to
+their Sire by Blood Bond would partially mitigate the horror,
+but still some of the terrible knowing would remain.
+
+Then, too, there are the few "rogue" Elders who have
+developed a taste for the blood of their Kindred, even though
+the vite of mortals would still support them admirably. The
+ecstasy, or Rapture, associated with the moment when a
+Vessel meets the Final Death must be addictive indeed. Why
+else would Elders, who could gain no concrete benefits from
+feeding on Neonates, risk extreme consequences to do so?
+Obviously, Neonates— the prime targets for such Diabolists
+because of their relative weakness — are among the most
+fervent when itcomes to bringing rogues to face the Prince's
+judgement.
+
+Conversely, of course, there are many "younger" Licks
+— those of the later generations — who covet the vita of
+their Elders for the very real boons it would bring them.
+Most ambitions of this type remain ambitions, since by their
+nature any Kindred of earlier generations are much more
+powerful; however, there are those Neonates and Ancillas
+who do hunt their Elders for their blood. Through cooperative
+action, through trickery, or simply through falling on an
+Elder in Torpor, such Diabolists have sunk their teeth into
+enough victims to make the fear many Elders feel toward
+their Progeny a reasonable thing.
+
+Many Elders take reasonable caution much too far of
+course, letting itblossom into paranoia and hatred. There are
+those Elders whose outspoken concern that the Ancilla will
+shatter the Masquerade is merely a cover for their fear that
+those same Ancilla will one night come to drink their vite.
+
+Tales among the Kindred tell of those few ambitious
+Vampires who hunt the greatest prize of them all: the vita
+
+Diablerie: A Discussion 9
+
+of the Antediluvians themselves. Most of the Damned
+believe these stories to be nothing more than folk tales, with
+no truth to them whatsoever. After all, the Havens of the
+Antediluvians are hidden so well that none may find them.
+
+But still the stories recur, accompanied by whisperings
+about Neonates who have somehow determined the locations
+of those hidden Havens. Those individuals who have acted
+on this knowledge have — so the stories tell — never
+retumed to Kindred society. Does this mean the Antediluvians
+(or the protections with which they would have hedged
+around their Havens) have destroyed these challengers? Or
+have the Neonates joined the Antediluvians, in one sense or
+another? To most of the Damned, this possibility does not
+bear thinking about ...
+
+THE PROCESS
+
+The basic process of Diablerie is as described in Vampire.
+First, the Diabolist must totally drain the Blood Pool of the
+Vampiric Vessel. When the Vessel's Blood Pool reaches
+zero, she slips into Torpor. Thereafter, the Diabolist must
+roll Strength, with a difficulty of 9. For each success, the
+Vessel loses one Health Level. This represents the draining
+not of blood, but of the Vessel's very life force, that which
+animates his undead body, and its transference to the Diabolist.
+
+Kindred refer to this stage of the process as "Inspiration" or
+as the "Fire Within". Once the Diabolist has drained all the
+target's Health Levels, the Vessel passes into the darkness of
+the Final Death. And, if the Vessel is of an earlier Generation
+than the Diabolist, then the feeder advances (at least) one
+Generation, gaining all of the associated benefits. This is a
+very simple description. Although accurate, it misses some
+of the most significant elements of Diablerie.
+
+Specifically, it has nothing whatsoever to say about the
+sensations involved in drinking the vit of another Kindred,
+and their consequences. These sensations must be extreme,
+to explain those Vampires who feed upon Vessels of later
+generations.
+
+The initial stage of Diablerie, the Feeding, is when the
+Diabolistis actually draining blood from the Vessel. Vampiric
+vitz is as different from mortal blood as blood is from water.
+The sensations of drinking such hot, potent vite are often
+almostoverwhelming. The Diabolist experiences transports
+of ecstasy unlike any sensation he or she has felt before.
+
+If the Feeding is euphoric, then the experience of the
+Inspiration, or the Fire Within, is transcendent. Once the
+Vessel is drained of blood, the Diabolist begins absorbing
+the very life force of the victim. To the feeder, it seems she
+is still drinking blood, but blood so pure and powerful that it
+could well be liquid fire. She feels a burning within her own
+veins, spreading outward from her throat and through her
+entire body. This burning is indescribable: pleasure so
+piercing it becomes agony, or pain so sweet it becomes
+ecstasy. Diabolists say that throughout the Inspiration, they
+can hear a sound like the tolling of a great and distant bell,
+slowing down and diminishing in volume until, at the
+moment the Vessel suffers the Final Death, it falls into
+silence.
+
+Andatthatinstant, the ecstasy of the Inspiration blossoms,
+almost impossibly, to even greater heights. So wracking is
+this pleasure that the Diabolist is incapable of muffling a cry
+of exaltation. Diabolists refer to this moment as the Rebirth.
+Somewhat predictably, the magnitude of these sensations
+depends on the Generation of the Vessel; the earlier his
+generation, the more intense the sensations,
+
+On the other side of the equation, the Vessel undergoes a
+profound experience as well, although not a pleasant one by
+any means. During the Feeding, the Vessel — if conscious
+— is able to fight back in any way possible. At the moment
+that the Vessel's Blood Pool is reduced to zero, however, he
+becomes totally paralyzed. It is as if he slips into Torpor,
+exceptthatheis completely and horribly conscious throughout
+the Inspiration that follows, butis unable to doa thing to stop
+it. As the Vessel's life force begins to leave his body, he is
+Possessed by terror, and a panic that no reason can hold at
+bay. As the Vessel loses Health Levels, and the Final Death
+approaches, this panic grows until it is all-encompassing.
+Even for those Kindred who seek the Final Death, Diablerie
+is the most horrible way of attaining it that can be imagined.
+
+10 Awakening
+
+————————— =
+CONSEQUENCES
+
+So overwhelming are the sensations associated with
+Diablerie that they can have very real, physical consequences.
+For the Diabolist, there is a chance of Frenzy, which arises
+from the sheer magnitude of the experience. To avoid
+Frenzy, the Diabolist must make a Self-Control roll against
+adifficulty of 12 minus the Generation of the Vessel. (Thus,
+ifthe Vessel is of the Tenth Generation, the difficulty is only
+2; if the Vessel is Third Generation, however, the difficulty
+is 9!) If the Diabolist fails the roll, he suffers Madness (the
+usual result of a Conscience Frenzy); so great was the
+ecstasy that the Vampire will try anything to regain it. If the
+Self-Control roll is botched, however, the Vampire gains a
+Terror Derangement; the experience was so literally over-
+whelming that it has shaken the Diabolist's sanity.
+
+Further, the Diabolist must make a separate Self-Control
+roll against a difficulty of 7 minus the Vessel's Generation.
+If this roll is failed or botched, the Diabolist gains the
+Derangement, Delusions of Grandeur. This is in addition to
+any Derangement gained through Frenzy.
+
+It is possible that the Vessel may survive the experience
+ofDiablerie. Perhaps the Diabolistis dragged off or destroyed
+before she can drain all of the Vessel's Health Levels. Once
+the Inspiration has begun, however (that is, once the Vessel
+has reached zero Blood Points) there is a very real risk that
+the Vessel's sanity has been shaken by the terror of the
+experience. The Vessel must make a Courage roll against a
+difficulty of 4 plus the number of Health Levels drained.
+(For example, the Diabolist drained 4 Health Levels before
+he was stopped. The Vessel's Courage roll is against
+difficulty 8.) On a failed roll, the Vessel gains a Terror
+Derangement; ona botch, he gains two Terror Derangements.
+
+BENEFITS
+
+Rise in Generation
+
+The Vampire rulebook states that only one character can
+rise in Generation by drinking the vite of a senior Kindred.
+For millennia, most Kindred thought this to be an absolute
+truth. Most Vampires "knew" fora fact that only the Kindred
+who actually drained the last Health Level from the victim
+would experience the Rebirth.
+
+However, during the occult Renaissance that occurred in
+Europe during the latter half of the 19th Century, members
+of Clan Tremere discovered that this "truth" was in fact just
+another of the many myths surrounding the Undead. There
+is a way in which more Kindred can experience the Rebirth,
+and advance in generation, from the vita of a single victim
+of Diablerie. A very specific technique must be employed
+for this to work, however. This technique became known as
+the Ritual of the Bitter Rose.
+
+Itis interesting and important to note that the discovery of
+the blood-magic incorporated into the Ritual of the Bitter
+Rose did not come as a surprise to all Vampires. There were
+those (few and far between) who had heard myths and
+legends telling of ancient days when Diablerie was more
+widely practiced: harsh and dark days, well before the
+dawning of the Christian Era. Back in those deadly times,
+certain myths related, many of the Elders knew the secrets of
+the blood-magic now called The Ritual of the Bitter Rose...
+or at least some of the secrets. The myths told of great
+Damned thaumaturges throughout the world who had some-
+how developed blood-magic rituals of immense power. One
+such mythical thaumaturge was known only as "The Wan-
+derer." Today, few believe the myths and legends, and fewer
+consider the Wanderer to be anything but a fictional figure.
+
+Myths aside, once they had developed the Ritual of the
+Bitter Rose, Clan Tremere decided to keep their new
+knowledge inviolably secret. This was for several reasons.
+
+One was fear. If it became known that multiple Kindred
+could experience the Rebirth from a single victim, how
+much moreattractive would the practice of Diablerie become
+forthe Anarchs? Until that time, one of the major limitations
+on the practice of the Amaranth was that normally only a
+strong band could hope to defeat an Antediluvian, and then
+
+{> Sen) 924307
+
+Diablerie: A Discussion 11
+
+
+only one member of that band could benefit from the act.
+Jealousy, and the very real consideration that participants in
+such a move would risk the Final Death for something that
+would benefit only one of their number, held many back.
+The Elders of Clan Tremere quite reasonably feared that if
+knowledge of the Ritual of the Bitter Rose became wide-
+spread, the risk to their august persons in the form of roving
+bands of Diabolists would drastically increase.
+
+The second reason, of course, was a desire for personal
+power, and power for the Clan. Knowledge that the Ritual
+of the Bitter Rose existed could, the Elders believed, be used
+as a major bargaining chip in the infighting and squabbling
+that dominated the Camarilla at the time. If need be, it could
+be a powerful weapon. The Seven Elders, based in Vienna,
+could — if the necessity presented itself — tur to Diablerie
+themselves, using the Ritual to so advance their own gen-
+eration so that none could stand against them.
+
+Unfortunately, that plan — if such vague ideas could in
+fact be termed a plan—came to naught. To this day, nobody
+within Clan Tremere knows how it came to pass, but the
+secret of the Ritual of the Bitter Rose got out. Other
+members of the Camarilla learned that the Ritual existed,
+and took the Tremere to task both for developing the blood-
+magic in the first place, and for trying to keep it themselves.
+In response to the overwhelming pressure from the other
+members — escalating, at times, to threats of destruction by
+acoalition of the other Clans — the Seven Elders grudgingly
+destroyed all records of how the Ritual is performed. Those
+who developed the Ritual, and those within the Clan who had
+subsequently leamed of it, were either destroyed or had their
+memories wiped clean by the Seven Elders. As far as the
+Camarilla knew, the Ritual of the Bitter Rose had effectively
+ceased to exist.
+
+Somewhat predictably, this belief turned out to be little
+more than wishful thinking. As many other groups have
+discovered down the corridors of history, destroying
+knowledge once it has been gained is much more difficult
+than developing it in the first place — so much more difficult
+that it might well be impossible. Rumors of the Ritual of the
+Bitter Rose had begun to circulate through the length and
+breadth of Kindred society. Although nobody admitted to
+knowing how it might be performed, it could not be denied
+that knowledge of the Ritual's existence was no longer a
+secret.
+
+Today, it is thought that no more than half a dozen
+Vampires know how to perform the Ritual of the Bitter Rose.
+How they gained this forbidden knowledge remains amystery.
+Perhaps when the Seven Elders of the Tremere destroyed all
+records of the Ritual, someone within the Clan preserved
+some writings on the topic. Or perhaps the "mind-wiping"
+magics used to obliterate the knowledge failed in some
+cases. Or, maybe, the Seven Elders did not carry out the
+complete eradication they described to the Camarilla, and
+saved records for themselves — records which were sub-
+sequently stolen or otherwise disseminated. At the present
+
+12 Awakening
+
+time, the Camarilla considers possession of a description of
+how the Ritual is to be performed to be identical, in the face
+of the Traditions, to be equivalent to actually performing
+Diablerie, and thus punishable by death.
+
+‘There are many Anarchs whoare searching forknowledge
+‘about the Ritual of the Bitter Rose. Exactly how they plan
+touse this knowledge, if they should gain it, is not precisely
+known ... although the Elders are sure they can make an
+unpleasant guess.
+
+Even the Ritual of the Bitter Rose has serious restrictions
+when it comes to elevating multiple Kindred through
+Diablerie. With Kindred of Fourth Generation or later, the
+Ritual is generally useless, in that even with its use only one
+Diabolist can experience the Rebirth and subsequent el-
+evation. The only exceptions lie in the case of extremely —
+and abnormally — powerful Vampires, or those who are
+exceptionally old. The vite of a Fifth Generation Kindred
+wlio is highly skilled at Thaumaturgy, or who is two millen-
+nia or more old, might have sufficient potence to raise two
+or perhaps even three Diabolists in Generation through the
+use of the Ritual.
+
+For Generations earlier than Fourth, the number of Di-
+abolists who can benefit through the Ritual increase. An
+average Third Generation Kindred would have sufficient
+
+potence to elevate three Diabolists; an average Second
+Generation Kindred (if such still exist) could theoretically
+elevate nine Diabolists. In the case of Kindred of the Second
+and Third Generations, relative power and age must also be
+taken into account, as with Vampires of later Generations.
+
+The Ritual of the Bitter Rose (Level
+Three Ritual)
+
+The Ritual allows multiple Kindred to experience the
+Rebirth and to elevate in Generation from the blood of a
+single Diablerie victim. (As discussed above, the number of
+Kindred who can be elevated depends on the Generation and
+power of the victim.) The procedure is as follows.
+
+First, a single Diabolist must feed on the vite of the
+victim, draining all of the victim's Blood Points, and all but
+one of his Health Levels. (The experiences andconsequences
+of this Inspiration are detailed above.) Then, when the
+victim is reduced to a single Health Level remaining, the
+Diabolist must stop drinking. So euphoric is the experience
+of the Fire Within that stopping itrequires an immense effort
+of will: the Diabolist must make a Self-Control roll against
+a difficulty of 10 - the victim's generation. If the Diabolist
+fails or botches this roll, she drains the victim's last Health
+Leyel and alone experiences the Rebirth and elevation.
+(There is no further consequence of a botched roll unless the
+Storyteller wants the botcher to attack her comrades after the
+Rebirth.)
+
+The heart of the victim must then be cut out using a dagger
+forged of coldiron. This brings the victim to the Final Death.
+The heart is placed in a clean earthenware bowl, where it is
+
+WF seni 42-038
+
+crushed to a pulp using a mortar of marble, and mixed with
+a small amount of red wine. To this mixture is added the
+residue of an alder stake that has been burned toash, Finally,
+one pint of pure water is added to the concoction. Tradition-
+ally, this water must come from an untainted mountain
+stream, although contemporary experiments have proven
+that distilled water will work just as well.
+
+The character performing the ritual must make an Intel-
+ligence + Occult roll against a difficulty of 6 (the Storyteller
+should make this roll secretly). All characters wishing to
+experience elevation must then drink of this concoction. If
+the roll is a success, each drinker (up to the maximum
+number of Kindred specified in the previous section) expe-
+riences Rebirth, and is elevated by one Generation. If the
+character performing the Ritual fails the roll, the concoction
+is inert, and no character is elevated. If the character botches
+the roll, the concoction is rendered extremely poisonous,
+inflicting three aggravated wounds on the drinker. The
+number of wounds suffered is decreased by one for each
+success the character achieves on a Stamina + Fortitude roll
+against a difficulty of 5, but only if the drinker has Fortitude.
+(Yes, this makes the Ritual a calculated risk. But what great
+boon can ever be gained without at least some risk?)
+
+There are many unsubstantiated yet recurring rumors that
+sometimes the Ritual of the Bitter Rose has gone decidedly
+and horribly wrong. Many rumors tell of a failed Ritual
+destroying the potence of the vite totally and utterly, while
+there are some that describe cases where the vitz's potence
+has been drastically increased. In these latter cases, the
+
+Diablerie: A Discussion 13
+
+supernormally potent vite has elevated Diabolists by more
+than one Generation, although usually at great cost: the
+draught has inflicted hideous aggravated wounds on the
+drinkers, and has sometimes caused the Diabolists to suffer
+extreme and unusual Derangements. There are also tales of
+Diabolists spontaneously bursting into flame and being
+destroyed on drinking the treated vita. It is not known
+whether this was caused by a severe failure in the Ritual, or
+whether the potence of the vite was so increased as to be
+deadly to a drinker of relatively late Generation.
+
+There are also rumors — again unsubstantiated — that
+vite treated by the Ritual can somehow be stored. Thus
+those Diabolists present can benefit by the blood of an
+Antediluvian, but any blood remaining can be kept potent to
+be used by others at a later date. There are even rumors that
+claim thata single Diabolistcan store portions of the Ritually
+treated blood and drink them later, elevating one Generation
+each time. Most Kindred who understand at least a little
+about the workings of the Ritual claim that this latter story is
+nothing but wishful thinking. The vite, these "experts"
+claim, must be quaffed immediately on the completion of the
+ritual, and any stored blood will immediately become inert
+and useless. Still, however, there are many who believe that
+the Ritual can be used in this manner. How much more
+valuable, then, does the Ritual become. Theoretically, if this
+Tumor is true, then a single determined Diabolist might
+produce from a single victim of the Third Generation enough
+treated draughts to elevate himself by a full three Generations.
+Those who believe this rumor claim that its denial by those
+
+who understand the Ritual is simply a self-serving act with
+no other real significance.
+
+Whatever the truth of the matter, it cannot be denied that
+the blood-magic involved in the Ritual of the Bitter Rose
+remains largely mysterious, and highly risky to those who
+would try to gain by it.
+
+Curative Powers
+
+Although notall Kindred believe them to be true, there are
+tales that of the curative powers of vitz taken from Vampires
+of Fourth Generation or earlier. These tales relate that this
+vite, if stored in airtight vials or flasks, can be drunk by
+Vampires as healing draughts. Further, this blood is said to
+beefficacious against even aggravated wounds. And finally,
+it is claimed that the vite can also temporarily raise a
+Vampire's strength and physical prowess. The same tales
+tell, however, that the potency of such stored blood remains
+only for a short time, even if it is kept from contact with the
+air.
+
+It is only rarely that a Vampire of Fourth or earlier
+Generation is actually drained of vita, of course, and those
+who have achieved such a thing would rarely speak of it.
+This explains why so few among the Damned know for
+certain the truth or falsity of these tales. In fact, most of them
+are true, at least in part.
+
+Healing
+
+The blood of a Vampire of Fourth or earlier Generation
+can act as a kind of healing draft if quaffed by a Vampire.
+One Blood Point will heal a number of Health Levels equal
+to five minus the Generation of the Vessel. (Thus, drinking
+one Blood Point from a Third Generation Vessel would heal
+two Health Levels.) This vite can either be quaffed from a
+vial or flask —as described later — or directly from the body
+of the Vessel. If a wounded Vampire is drinking the vite
+directly from the Vessel, she can decide whether or not she
+wants to experience the healing properties of the draught. If
+0, a Blood Point used to heal is not added to the feeder's
+Blood Pool. Note that the feeder cannot "split" the effects —
+i.e., using one Blood Point to heal incompletely, and adding
+all other Blood Points to his own Pool. If the Diabolist
+decides to heal at all, he is healed totally; any Blood Points
+only partially used for that purpose are lost. (For example,
+a Diabolist who is Mauled (-4) drinks five Blood Points from
+a Third Generation Vessel, and decides to heal himself.
+Each Blood Point heals two Health Levels. The first point
+heals two Health Levels, raising the Diabolist to Injured (-2);
+the second point raises him to Bruised. A third point heals
+the remaining one Health Level. The Diabolist can add only
+two points to his Blood Pool.)
+
+To have this additional healing effect, the blood must be
+drunk directly from the Vessel, or from a suitable container.
+Even if she fully replenished his Blood Pool by feeding from
+
+14 Awakening
+
+‘an Antediluvian, a Diabolist can only heal one Health Level
+for each point spent from her own Blood Pool. In other
+‘words, once the vite has been absorbed into the Diabolist's
+body, it is no different from her own blood in its effective-
+ness.
+
+Increasing Physical Attributes
+
+A Diabolist who drinks one point of blood directly from
+a Vessel or from a suitable container can raise any one of her
+Physical Attributes by an amount equal to 6 minus the
+Generation of the Vessel, for the duration of the scene.
+(Thus, if the Vessel is Fourth Generation, the Diabolist can
+drink one point of blood and raise any Physical Attribute by
+two.) These increases cannot be split between Attributes; all
+of the points of increase from one Blood Point must be
+applied to the same Attribute. A Blood Point drunk and used
+this way is notadded to the drinker's Blood Pool. A Vampire
+can use only one Blood Point per turn in this way. The same
+tules apply as with healing once a Vessel's vite has been
+added to a Diabolist's own Blood Pool.
+
+Aggravated Damage
+
+Blood from an Antediluvian of Fourth Generation or
+earliercan heal aggravated damage if drunk directly from the
+Vessel or from a suitable container. One point of blood can
+immediately heal one Health Level of aggravated damage;
+the Blood Point used this way is not added to the Diabolist's
+Blood Pool.
+
+Only one Health Level of aggravated damage can be
+healed this way in any 24-hour period. If a Vampire drinks
+and uses another Blood Point for this purpose less than 24
+hours after the last such use, she loses an additional Health
+Level; this is aggravated damage.
+
+Preservation
+
+It is possible to collect vit from a Methuselah or Ante-
+diluvian and store it in vials or flasks, and toexpectittoretain
+its efficacious qualities. Any amount of blood can be stored
+inthis way, but vita drunk after being stored is lost at the rate
+of one point per day (this is figured after the character marks
+off the one Blood Point Kindred lose normally each day).
+Remember, one Blood Point from a Fifth Generation
+Methuselah might represent several ounces of liquid, while
+one Blood Point from a Third Generation Antediluvian
+might be a single drop!
+
+Only glass containers can be used to store the blood. Each
+container must be totally empty, must have been washed out
+with rainwater before use, and must never have been used for
+another purpose. Once the blood is decanted into the
+container, the container must be closed with an airtight
+stopper. If the stopper is removed, allowing air to reach the
+blood within, the vit loses its efficacy in less than five
+seconds (long enough for a Vampire to drink it, but just).
+
+$e F2-0310
+
+CONSEQUENCES OF
+DIABLERIE
+
+In all but the most extreme subsections of Kindred soci-
+ety, Diablerie is considered one of the most heinous of
+crimes. But what risk does this represent if the criminal
+carries out his actions without being caught in the act?
+Unfortunately for would-be Diabolists — and fortunately
+for those Elders who depend on the threat of social sanction
+as a deterrent — there are several ways in which other
+Kindred can sense that an individual has perpetrated Diablerie.
+
+Firstly, the Thaumaturgy Path The Taste of Blood will
+definitively tell the user whether or not the subject has ever
+drunk the blood of a Vampire of earlier Generation. This
+"taint" is permanent; even millennia later, a Diabolist can be
+detected in this way. If the Diabolist has drunk the vite of
+a Vessel of his own Generation or later, the taint is not
+permanent, but obeys the time limit discussed below.
+
+The aura of a Vampire who has practiced Diablerie is
+tainted with flickering rays of black; this taint lasts for the
+time limit discussed below. Any Kindred capable of seeing
+the precise color shade of an aura — requiring two successes
+with the Auspex power Aura Perception —can see the black
+tinges. Not everyone automatically understands what it
+represents, of course ... although many Elders certainly do!
+
+Diablerie: A Discussion 15
+
+
+Finally, any other Kindred coming into close contact with
+a Diabolist may sense "something wrong" about the indi-
+vidual. This requires a Humanity check against a difficulty
+ofone-third the number of months since the Vampire practiced
+Diablerie (round fractions up) multiplied by the Generation
+of the Vessel. If the Diabolist has fed from more than one
+Vessel, the check should be made for the incidence that gives
+the lowest difficulty; further, the difficulty is decreased by
+one for each incidence of Diablerie in the past 12 months.
+(For example, a particularly dedicated Diabolist has per-
+formed Diablerie four times in the past year; the most recent
+incident, six months ago, saw him draining the life force of
+a Fourth Generation Methuselah. The difficulty for any
+other Vampire to detect the "taint" is equal to 4 — one-third
+the number of months since the incident (6 + 3) times the
+Generation of the victim (4) minus the number of incidents
+in the past year (4).) Vampires who make this roll do not
+sense much more than a vague discomfort, a feeling that
+there is something unpleasant about the Diabolist. Most
+Kindred will not understand exactly what the feeling means,
+although some Elders might be able to interpret it correctly.
+
+Note that the results of The Taste of Blood or Aura
+Perception are considered by most Princes as proof of
+Diablerie. The queasy feeling discussed in the preceding
+paragraph may be indicative, but it certainly is not proof.
+
+Time Limit for Detection
+
+The taintona Vampire's "soul" that arises from Diablerie
+is permanent only with regard to a Vessel of earlier Gen-
+eration, and then only with respect to The Taste of Blood.
+The other "stains" are temporary.
+
+If the Vessel was of an equal or later Generation to the
+Diabolist, The Taste of Blood will discern the taint only
+within 40 weeks minus the Generation of the Vessel. This
+is also the time that the black flecks remain in a Diabolist's
+aura.
+
+Laws AGAINST
+DIABLERIE
+
+Tothe vast majority of the Damned, Diablerieisconsidered
+to be against the all laws, natural and otherwise. The Sixth
+Tradition is a specific injunction against the destruction of
+other Vampires in most cases. Depending on interpretation,
+only a Sire has the right to destroy his Progeny, or only the
+
+Prince has the right to destroy Kindred in his territory junior
+tohim. Whichever is the correct interpretation, it is obvious
+that the Sixth Tradition automatically excludes those inci-
+dences of Diablerie when a Vampire drains the life force of
+a Vessel of earlier Generation. Based on the Sixth Tradition
+alone, most Princes will call a Blood Hunt against any
+Kindred proven guilty of Diablerie.
+
+Interpreting the Sixth Tradition strictly, it would seem
+that Sires are free to perform Diablerie upon their Progeny
+if they so wish. Most Princes, however, promulgate strict
+laws forbidding any form of Diablerie. Again, the perfor-
+mance of Diablerie against such a law can be punished by a
+Blood Hunt.
+
+There have been tales of Princes who themselves have
+created Progeny simply to serve them as Vessels. This is
+allowed according to a strict reading of the Sixth Tradition,
+and obviously such Princes would not bring in laws forbidding
+Diablerie, or would place themselves above such laws. Even
+a powerful Prince who acts in this way does so at significant
+personal risk. Most Vampires believe the words of a
+Tremere Elder, Troius, who once wrote, "The laws against
+Diablerie are unwritten on paper or parchment, but they are
+graven on the heart of every Kindred." The vast majority of
+the Damned find the concept of Diablerie as repugnant, and
+will refuse to associate with a known Diabolist. If Diablerie
+is against the laws of the local Prince, many Kindred will
+respond by turning the known Diabolist over to that Prince
+for judgement. If there are no such laws, or if it is the Prince
+himself who is the Diabolist, certain Kindred may take
+matters into their own hands. Kindred traditions contain
+several stories of unofficial Blood Hunts, where "lynch
+mobs" of outraged Vampires hunted down aknown Diabolist
+and brought him to the Final Death in punishment for his
+crime. Even the most powerful of Princes will fall if all
+Kindred within his territory turn against him.
+
+Whether or not there are any local laws forbidding
+Diablerie, the Inconnu have been known to take unilateral
+action against Diabolists. This kind of action on the part of
+the Inconnu could simply spring from fear that the Diabolist's
+next victim might be one of their own number. Alterna-
+tively, it could be intended as a kind of "object lesson", to
+discourage other would-be Diabolists, and to prevent the
+"taint" of Diablerie from spreading throughout Kindred
+society. The fact that many such "removals" are widely
+discussed after the fact hints that the Inconnu has actively
+disseminated information, which in tum lends credence to
+the "object lesson" theory.
+
+16 Awakening
+
+a Che Wanderer
+
+When green buds hang in the elm like dust
+And sprinkle the lime like rain
+Forth I wander, forth I must
+
+And drink of life again
+
+— A.E. Houseman
+
+Still they called him a god. It would have been humorous,
+had it not been so tragic. They worshipped him for his
+powers — very real powers, not the overblown hyperbole of
+the people's myths — and they envied him. The priests, first
+among his worshippers, frequently begged him for the boon
+of immortality. (Who knows how they first guessed that he
+had the power to grant it?) From the outset he had refused,
+which had angered them. He knew — even though they
+believed he did not — that at the heart of most of the rituals
+supposedly dedicated to him were attempts to gain directly
+what he would not give them.
+
+He had never granted the priests the boon they sought,
+though he had fed upon them from time to time. But that was
+not to say he had Sired no Progeny. It was just that he had
+chosen simple peasant farmers on whom to bestow the
+Embrace. Certainly, he could justify his choice in other
+ways, but he had to admit the truth if only to himself. He had
+chosen them purely as a slap in the face to the oh-so-
+deferential priests; he had given them immortality, while
+denying it to the priests.
+
+Those Progeny he had sired rewarded him with their total,
+unquestioning loyalty. But still they thought him a god,
+which prevented them from giving him what it was he really
+
+wanted — friendship. The moment that he had realized this
+was the moment he began considering repeating the mur-
+derous journey that had brought him to this place, but this
+time from south to north. Impossible though it may have
+seemed to him at the time, he had to face the possibility that
+he was the only true and free-willed Kindred in this area of
+the world. (He was not counting his Progeny as such; their
+life-long indoctrination in obedience to the priests and the
+gods put true free will forever beyond their reach.)
+
+The journey ... again? His will quailed at the thought.
+The first time had brought him face to face with the Final
+Death more times than he cared to recall. And he had been
+stronger then. His own Sire had never hinted at such a
+possibility, but it certainly seemed age was weakening him.
+Even the two or so centuries he had spent in this place
+seemed to have leached energy from his body. His physical
+strength seemed undiminished; the weakness he felt en-
+croaching was more of the soul than of the body. For the
+hundredth —or the thousandth —time he considered simply
+falling upon the priests that so bedeviled him, draining them
+to husks but not offering them the Embrace they so coveted.
+Killing them all — all but his loyal Progeny, of course — in
+his own very personal image of Gehenna. But then he
+
+Ura
+
+The Wanderer 17
+
+discarded the idea. Unworthy it was... but also too exhaust-
+ing to even contemplate.
+
+Sleep. Perhaps that was what he needed. A century ortwo
+— or even more — of sleep. To rest his soul as every
+morning's sleep rested his body. Yes, that was the answer.
+
+But that answer simply posed more questions. Where?
+Where could he sleep undisturbed? He had found himself
+incapable of merging with the earth. He had no choice but
+to find another Haven that might survive for centuries
+undisturbed. But where? He looked around him idly.
+
+Angular geometric shapes were silhouetted against the
+sky, black and deeper black. He smiled slowly. Yes, that
+was the answer. Within a few weeks he could make the
+necessary preparations.
+
+And then he could rest.
+
+THe Mayas
+
+"Maya" is the name applied to a group of related Indian
+nations or tribes belonging to the Mayan linguistic stock,
+
+who lived in the Mexican states of Campeche, Chiapas,
+Tabasco, Veracruz and Yucatan, as well as portions of
+Guatemala and El Salvador. Traditional history relates that
+the Mayan civilization began in the 7th Century BC. The
+multiple Mayan tribes enjoyed political unity between AD
+200 and 600, the period commonly called the Old Empire.
+Another period of importance and power was the New
+Empire, between AD 1000 and 1200. A time of wars with
+the Toltecs and later with the Aztecs, and growing internal
+dissention weakened the Mayan Empire. With the Spanish
+conquest in the 16th Century, the Mayan empire effectively
+came to an end, even though it took the Mexican government
+until 1901 to conquer the last independent Mayan commu-
+nity. Today, Mayan stock — short, dark and muscular, with
+broad heads — make up the majority of the peasant popu-
+lation in their former territories.
+
+During its heyday, the Mayan civilization produced some
+remarkable architecture, of which greatruinsexistthroughout
+the region. Major ruins can be found at Chichen Itza,
+Mayapan, Palenque and Uxmal. In some areas, the forest is
+now so thick that it is vaguely possible major ruins may exist
+that have yet to be discovered. (In fact, as will be discussed
+later, this is the case with the ruins of Tzental.) Most of these
+sites comprise pyramidal mounds, often topped by temples
+or other buildings, grouped around open squares or plazas.
+The pyramids are builtin successive steps, unlike the pyramids
+of Egypt, with steep staircases running up one or more sides.
+Most of these pyramids have cores of rubble or broken
+limestone mixed with mortar, which are then faced with cut
+stone blocks. As a consequence, most — but not all —
+pyramids of this type had no internal chambers or rooms.
+
+MICTLANTECUHTLI,
+"THE WANDERER"
+
+The man who would later be known as Mictlantecuhtli
+was born in the Pacific Northwest in the year 67 BC, ina
+small fishing settlement situated near the natural harbor that
+would eventually become the city of Vancouver. His true
+name was Mictantecle, a member of the native American
+tribe that would, centuries later, take the name Musqueam.
+At the time of Mictantecle's birth, they simply called
+themselves "the People" ... as did most tribes in the region.
+
+Mictantecle was born into a hard life, and he grew up
+quickly. By the age of 15, he was more than five-and-a-half
+feet tall — taller than his father — and very muscular. By
+dint of his skill as a fisher anda hunter, the band chief granted
+Mictantecle permission to marry his only daughter. This
+was a signal honor, particularly since the band chief had no
+sons, and was already in his early forties — an incredibly
+advanced age or one of the People. It seemed obvious to all
+that within a handful of years Mictantecle would find him-
+self in the position of chief, probably before he was 20.
+
+18 Awakening
+
+The Stranger
+
+Itwasin Mictantecle's 16th year that the stranger arrived.
+Nobody knows where he came from; he spoke a language
+even the band elders had never heard before. Even though
+he seemed unable to learn the language of the People — and
+the People, predictably, were disinclined to learn his — he
+managed to ingratiate himself with Mictantecle's band. He
+achieved this through an eloquent language of gesture, and
+through an almost supernatural ability to sense what people
+were thinking. The People valued strength and speed in a
+man, and the stranger was well endowed with both; in fact,
+he far outstripped everyone else in the band in both of these
+attributes. Mictantecle — and others — came to envy him
+his prowess, so much so that they were undismayed by the
+fact that the stranger was seen only by night, and seemed to
+vanish during the daylight hours.
+
+‘The young Mictantecle, in fact, found himself obsessed
+with the mysterious stranger. Even though the youth found
+something disturbing about the older man — particularly
+when the stranger's troublingly steady and cold gaze settled
+on him — he spent many nights following the mysterious
+figure. To Mictantecle's surprise, the stranger seemed
+undisturbed by this attention. Even though they never
+exchanged a single word — impossible, because of the
+language problem — Mictantecle came to believe that the
+stranger liked him, or perhaps respected him, in some way.
+
+‘The stranger had been living in the People's village for
+several months when the first strange event occurred.
+Mictantecle had been following the silent figure through the
+nighttime forest outside the village, but had lost sight of his
+quarry. Disgusted, the youth struck off through the forest in
+the direction in which he thought his home lay. He was
+passing through a clearing when he heard a voice speak
+clearly; the voice said the one word guaranteed to strike fear
+into the youth: "Grizzly." Mictantecle had been told many
+times by his elders that the correct thing to do when one
+encountered a grizzly bear was to collapse to the ground and
+play dead. In the night-black forest, alone, Mictantecle
+forgot his training, however, and broke into a run. Behind
+him he heard a roar, and a crashing in the underbrush. The
+cold realization of impending death washed over him.
+
+Even at this point he could possible have saved his own
+life by dropping and lying still. But the adrenalin was in his
+bloodstream, and he fled through the forest in panic, as he
+heard the bear quickly closing the gap behind him.
+
+His recollection of that flight would always be hazy —
+perhaps fortunately so. When the bear first struck at his back
+with its massive paw, the impact was enough to send him
+tumbling. He screamedas the grizzly'sclawsripped through
+the flesh of his back and side. He rolled, and fetched up
+against the bole of a great tree. The flash of agony was gone,
+and his torn back was cold and numb. As he lay, watching
+the black mass of the grizzly rear up over him, Mictantecle
+knew that the wound to his back was mortal, even if the bear
+did not strike at him again.
+
+Butit seemed that the bear would strike again. Mictantecle
+closed his eyes, and braced himself for the blow that would
+certainly end his life.
+
+That blow never fell. Lying there, unable to move,
+Mictantecle heard the bear's angry growls take on a new
+pitch, a tone that he could only describe as puzzled. He
+opened his eyes.
+
+A tall, thin figure stood between him and the bear. It was
+the stranger, standing like a statue, his cold stare locked with
+the bear's gaze. The bear fell silent, tilted its head on one side
+quizzically. Then it lowered itself heavily to all-fours again,
+and shambled off into the night. As the stranger knelt beside
+him, the shock overcame Mictantecle and he fainted.
+
+When he came to himself again, it was still night, but he
+was now in a small cave near the village. His back was no
+longer numb; in fact, the throbbing pain was enough to make
+him cry out. The stranger was kneeling beside him, and laid
+acold hand on the youth's forehead. Atthe touch, the agony
+in his back seemed to ebb slightly.
+
+"You are dying." The words sounded clear and crisp, and
+Mictantecle knew the stranger was speaking to him. Yet the
+
+The Wanderer 19
+
+mysterious figure's thin, white lips were not moving. It took
+Mictantecle some seconds to realize that the words had
+sounded directly in his brain —and, further, that the warning
+about the grizzly had been communicated to him in the same
+way. He looked up into the hard eyes of the stranger, anda
+new fear washed over him, colder than the mere fear of
+death.
+
+"Youare dying," the stranger repeated voicelessly. "Would
+you accept that? Or would you live?"
+
+The choice at first seemed meaningless to Mictantecle.
+Such was the philosophy of the People that death was
+inevitable and would come to all eventually, with no choice
+involved. But the steady gaze of the stranger seemed to tell
+him that this was a very real choice he was being offered.
+Even though his back was flayed to the bone, and his spine
+broken, he had to believe that the stranger could somehow
+grant him the boon of life.
+
+"T would live," he gasped out, the salt taste of blood in his
+mouth.
+
+The stranger nodded silently, and bent forward.
+
+Mictantecle fainted at the start of the feeding. He would
+never remember the sensations of his Embrace.
+
+20
+
+Damned
+
+When he came to himself once more, he was alone. The
+sky was pink; at first he thought it was dawn, but then
+realized it was sunset, and knew he had slept a full day. He
+Tose cautiously, found his back free of pain, and seemingly
+unwounded, although his clothes hung in shreds across his
+shoulders. As he made his way back to his village, he
+somehow knew, deep in his soul, that he would never see the
+stranger again.
+
+He almost faced the Final Death at his first sunrise.
+Having returned to the village and suffered the weeping
+attentions of his wife and mother, both of whom had thought
+him dead, he prepared to join the fishermen who would be
+going out with the dawn. But as dawn approached and the
+sky lightened, he felt his skin itching and stinging painfully
+with the pinkening sky. Embarrassedly claiming sickness,
+he returned to his place in the wooden longhouse to sleep.
+The logs of the longhouse were not perfectly seated, how-
+ever, and there were many small gaps. When the sun rose,
+its first rays shone in through one of those gaps, and fell on
+Mictantecle's bare hand. The light pierced his flesh-like
+lances, and he screamed with the pain, as bright and strong
+
+Awakening
+
+SER %2-0310
+
+
+‘had plunged his hand into a cookfire. He spent the
+that first day wrapped like a cocoon in many blankets.
+of the folk tales of the People described individuals
+"passed through the Land of the Dead" and emerged
+
+but unscathed. Mictantecle quickly decided that
+
+was what had happened to him. The fact that the sunlight
+‘painful — and perhaps lethal — to him seemed to be a
+
+ingly, at the next sunset, Mictantecle slipped away from his
+village, never to return.
+
+Without any guidance whatsoever from his Sire — who
+was, somewhat predictably, of Clan Gangrel — it took
+Mictantecle months to discover the abilities and limitations
+that his new form had given him, and years after that to
+discover his true nature. For the first year or so, he subsisted
+purely on the blood of animals, even though he felt almost
+overwhelmingly drawn to taste the vite of the mortals he
+sometimes saw moving through the nighttime forests which
+had become his home.
+
+His first taste of human blood — and his first Frenzy —
+came when he felt himself drawn to approach a fishing
+village very much like his home. The fishermen and hunters
+were sitting around the cookfire, singing and telling folk
+tales very much like those Mictantecle grew up with. Ap-
+parently he came too close, because two hunters reacted to
+his presence. They must have sensed something moving in
+the trees around the village; they took their spears, and came
+searching for him. Even though he realized that discretion
+would be the best choice, Mictantecle's pride was still
+strong, and he refused to back down before their threat.
+Instead, he stayed still, expecting them to just pass him by.
+
+Butone of the hunters seemed able to sense Mictantecle's
+presence. Unerringly he drew near to the Vampire's hiding
+place, and started probing the underbrush with his wooden
+spear, Somehow Mictantecle sensed that this wooden shaft
+represented a very real danger to him. Fear, mixed with
+proud anger, made him leap at the hunter. His initial
+intention was solely to disarm the man, but so fast were the
+hunter's reaction that he sensed the Vampire's leap and
+swung his spear around fast enough to tear Mictantecle's
+side. The pain—coupled with hunger —triggeredaFrenzy.
+Mictantecle tore into the hunter, breaking his bones and
+drinking him dry, then hunted down and drained his partner.
+When he emerged from Frenzy, Mictantecle found himself
+gore-spattered and sated. Horrified as never before by the
+true nature of what he had become, he slunk off into the
+night.
+
+Setting Out
+
+It took Mictantecle years to come to terms with his "life"
+as one of the Damned, years during which he tried to track
+
+down the stranger who had been his Sire. Perhaps his Sire,
+as is the way of the Gangrel, had intended to return to meet
+Mictantecle when he had "matured" as a Kindred. But
+something had obviously prevented this, for Mictantecle
+never saw the stranger again. Occasionally the Neonate was
+sure he "heard" distant echoes of his Sire's mental speech,
+but he was never able to track them down.
+
+As a mortal, Mictantecle had never felt any desire to
+travel; for him, the meaningful universe consisted solely of
+the oceans and forests around his village. In his new form,
+however, his curiosity about the greater world about him
+steadily grew. Perhaps the Gangrel heritage had something
+to do with it, but whatever the reason Mictantecle became a
+wanderer. It took him decades to cross the region that would
+eventually be Canada. On the Atlantic coast, he met for the
+first time more of his kind — other Kindred derived from an
+unnamed ancient who had somehow made the perilous
+crossing from Europe. These Kindred were of very different
+mortal backgrounds from Mictantecle, and none were of
+Clan Gangrel. For these and other reasons, Mictantecle
+never felt comfortable with them. He did, however, leam
+much more about the nature of the Damned; he also gained
+considerable skill at learning new and different languages.
+
+After a decade or two, he heard the wild geese calling
+again, and continued his wandering — south, this time. He
+Started his journey making good speed, but as years turned
+to decades, he began to slow down. Even though he felt little
+kinship with the Atlantic coast Kindred, now he found
+himself missing their company. There were no Kindred in
+the areas through which he travelled — or, if there were, he
+did not find them. Buthis pride was still strong, so he pressed
+on.
+
+By the time he reached the Gulf Coast, Mictantecle had
+been a Vampire for almost two centuries. Even though his
+body showed no sign of aging, in his soul hehad begun to feel
+ancient. But still he continued.
+
+His journey took him across a river that would centuries
+later be called the Rio Grande, and south into Mexico.
+Again, there were no Kindred, and Mictantecle began to feel
+he would always be alone. In retrospect, he realized during
+this period that his solitude — in terms of those of his kind
+— had unhinged his lonely mind.
+
+Incentral Mexico, near what would become Veracruz, he
+encountered an Indian tribe calling itself the Huastecs.
+There were no Kindred among him, but by now even the
+company of mortals seemed of great value to him. His
+vaguely formed intention was to live among them, learning
+their language, and pretending to be one of them.
+
+Unfortunately for him, the Huastecs had some previous
+experience with Vampires. (Presumably, another of the
+Kindred had passed through this region in the past, and the
+Huastecs stillremembered the depredations of this creature.)
+Somehow the priests recognized him for what he was, and
+brought down upon him the wrath of the whole tribe. By
+night, volunteer warriors willing to die dogged his steps; by
+
+The Wanderer 21
+
+day, the women searched for whatever Haven he had scraped
+outfor himself. Itwas only through sheer luck that Mictantecle
+managed to survive. More cautiously now, he pushed on
+south, and then turned northwest onto the Yucatan penin-
+sula.
+
+Arrival
+
+By this point, Mictantecle's sanity had definitely fled. In
+retrospect, he may well have developed a death wish, be-
+cause he showed himself to the natives of the region — the
+Mayas — and even demonstrated his true nature to them.
+Had the Mayas been like the Huastecs, he would have been
+destroyed. As it was, however, they welcomed Mictantecle
+among them, revering him for his powers, seemingly un-
+concerned about his dietary predilections. In later years,
+Mictantecle could not recall his first decade among the
+Mayas, or his "ascension" to the state of godhood ...
+
+Thus the Mayas quickly came to worship the Vampire as
+a god —a cruel and terrible death god, of course, but a god
+nonetheless. They were unable to pronounce his true name,
+and so bastardized it into Mictlantecuhtli (Mikt - Jahn - te -
+kut' - li:), and it was as Mictlantecuhtli that he would
+thereafter be known. He tried to explain to them where he
+had come from, but his grasp of the language was still
+incomplete. His explanation of having come from the north
+was misinterpreted as his having come from the north star,
+and this tradition continued despite his attempts to change it.
+(in fact, this misunderstanding was perpetuated and
+overgeneralized such that many later legends describe all
+Mayan gods as having come from the stars.)
+
+The Vampire had arrived in the Yucatan just before the
+beginning of what historians class as the Old Empire of
+Mayan culture. He was able to see civilization rise around
+him to heights that his contemporaries among the People —
+now all long dead — could never have even imagined. The
+town in which he had settled, called Tzental, grew into a
+great city, and the priests raised pyramids and temples
+dedicated to the great god Mictlantecuhtli.
+
+Slowly Mictlantecuhtli's sanity returned, and he realized
+that his existence in Tzental was as close to paradise as one
+of the Damned could expect. He was revered as divine,
+which meant that anything he wished was acceptable simply
+because he wished it. He never had to hunt; each night, if he
+wished it, the priests would bring him a Vessel on which to
+feed, and on the night of the new moon they would bring him
+two score or more sacrifices from among his worshippers.
+His priests and his worshippers were obedient to his every
+wish. Interestingly enough, he discovered that his priests
+were actually highly skilled in the occult arts.
+
+Blood Magic
+
+Although the priests of the Mayas specialized in forms of
+thaumaturgy little used by the Kindred, such as fertility and
+
+astrology, they had considerable skill in blood-magic.
+Somewhat predictably, Mictlantecuhtli found himself fas-
+cinated by their studies, and dedicated himself to learning as
+much as he could of their abilities. Most interesting of all,
+he discovered that the priests knew a magical ritual, involv-
+ing wood ash, pure water, and the heart of a victim, that
+seemed to concentrate the potence of a Vessel's blood,
+making it even more delicious than usual and endowing it
+with mildly narcotic properties.
+
+Over the years, Mictlantecuhtli learned much concerning
+the practice of thaumaturgy. Some of the rituals performed
+by the priests he could use unchanged; others, however,
+required him to significantly redraft the procedures to align
+with his Vampiric nature. He recorded his learning and the
+results of his research in a codex, a great book in which he
+wrote using a combination of Mayan characters and the
+simplistic symbols used by the People of his home. Over
+time, heresearched and further refined the ritual that increased
+the potency of blood, until it became the centerpiece of the
+written work that would eventually be called the Codex of
+the Damned.
+
+The Stranger, Part II
+
+Even though hissanity had retumed tohim, Mictlantecuhtli
+still felt the familiar weariness deep in his soul. This
+weariness was only increased when his priests began peti-
+tioning him — always in the most respectful ways possible
+— to grant them the boon of immortality. For his own
+Teasons, he refused to bestow upon them the Embrace,
+however. Soon thereafter he discovered that the priests were
+performing blood sacrifices of their own, with the obvious
+goal of achieving immortality without the intercession of
+their "deity." Mictlantecuhtli found this inexplicably ag-
+gravating, and swore to himself that he would never Em-
+brace the priests. Thus he spent his nights restless, with no
+one he considered an equal, no one he could respect and no
+one who could relieve his boredom.
+
+Then, one night as Mictlantecuhtli studied in his cham-
+bers, he felta presence behind him. Turning, he sawa figure
+more horrid than a corpse leaning against a stone wall. Then
+the same "mind speech" which his master has used and he
+himself had leamed rang out in his head.
+
+"You are the Wanderer," it said. "Others have spoken of
+you with respect. I would learn what it is they found so
+fascinating. Talk to me."
+
+Every night fora month the two spoke. At first overjoyed
+by the opportunity which had come from nowhere,
+Mictlantecuhtli soon found the other's thoughts worrisome,
+The Nosferatu (for that is what he called himself) spoke of
+agreat war among the Kindred, a war between goodandevil.
+When the Nosferatu asked him to come fight on his side,
+Mictlantecuhtli knew fear for the first time since fleeing the
+Huastecs. To be caught in such a Jyhad was the only thing
+
+22 Awakening
+
+"hecould picture worse than his isolation. Thus he plotted the
+‘death of his new companion.
+Tt came on the night of the Mayan sacrifice to him.
+Micilantecuhtli presented the newcomer to his worshippers
+_ asanother god, and demanded that they both have sacrifices.
+ Mictlantecuhtli drank first and, when the Nosferatu bent to
+fake his victims, leapt at his throat. The battle was as quick
+asitwas deadly. Mictlantecuhtli had ensured his visitor was
+thirsty before the sacrifice, and he managed to channel the
+power his own recent feeding had given him. Soon
+Mictlantecuhtli heard bells tolling, and then it was over.
+Overcome by the Rebirth, he fled back to his chambers,
+where he spent the remainder of that night, as well as the next
+12.
+
+The Weariness
+
+After the first night, Mictlantecuhtli found the glories of
+the Rebirth fading from his memories. He felt stronger in
+body, but his act against one of his own kind left him feeling
+far weaker of spirit. Additionally, when he finally found the
+strength to leave from his chambers, he discovered the story
+of what he had done was being spread among the Mayas by
+his priests. They told the people he had slain a demon who
+had come to destroy them. Horrified that his act of infamy
+and treachery against one who had offered him friendship
+
+had becomea legend of good versusevil, Mictlantecuhtlifelt °
+his hatred of the sycophantic priests grow. As a form of
+revenge against them, he Embraced several of the peasant-
+farmers who worshipped him, thus snubbing his priests.
+These Neonates were totally and unquestioningly loyal to
+him, but so constrained were their minds by tradition that
+they could never give their "god" the friendship he wanted.
+
+Over a period of several years, Mictlantecuhtli experi-
+mented with drinking the vite of his Neonates, even going
+so far as he full practice of Diablerie. (He felt few qualms in
+taking from them the immortality he himself had bestowed,
+and the Neonates themselves would gladly do anything for
+him, even die.) He also experimented with "enhancing"
+their vitae using the thaumaturgic ritual he had developed.
+Over time, he discovered that this ritual had even stronger
+effects on Vampiric vite than it did on human blood. As
+usual, he recorded his results in his codex. Although he was
+of course unaware of it, Mictlantecuhtli's research had
+elucidated many of the principles on which the Ritual of the
+Bitter Rose would eventually be based.
+
+The Lupines
+
+During this period, Mictlantecuhtli discovered that there
+were other inhuman creatures in the region — not Kindred
+such as himself, but Lupines. Perhaps it was because
+Mictlantecuhtli had never been taughtabout the "traditional"
+enmity between Vampires and Werewolves, or perhaps it
+was his Gangrel heritage. Whatever the reason, he estab-
+lished amicable and respectful relations with the Lupines of
+the region. In fact, over the decades, the tribes of Lupines
+came to consider Mictlantecuhtli as their liege, and even
+paid the city of Tzental tribute!
+
+The stability of having an immortal "divine" ruler strongly
+benefitted the city of Tzental. It climbed the ladder of
+civilization faster than anywhere else in Mayan territory;
+and, as other Mayan cities began to slip downhill around AD
+600, Tzental remained at the apex of culture. By this time,
+however, Mictlantecuhtli had been a Vampire for over six
+centuries, and his soul-weariness was becoming intolerable.
+He needed to sleep.
+
+In the year 615 he made his decision. He would sequester
+himself away in the pyramid that bore his temple, and enter
+Torpor for a century or two. When he rose, he expected that
+he would feel rejuvenated. His people, his tributary Lupines,
+most particularly his loyal Get—all bowed to his will. After
+all, he was a god, and if a god wanted to sleep beneath his
+temple for hundreds of years, who were they to say anything
+against it? The priests resisted, but Mictlantecuhtli solved
+that problem by decreeing that they would share his centu-
+ries-long sleepas well ... butonly after he'd Dominated them
+into magically warding his Haven.
+
+Mictlantecuhtli's Get begged to share his sleep too, and he
+gladly granted them their request. After all, when he was
+
+The Wanderer 23
+
+Teady to arise he would have to have someone loyal to him
+available to feed him the vitz he needed to revive.
+
+And so it was on Midsummer Night, 615, with great
+ceremony, that Mictlantecuhtli the God of Death descended
+into special chambers beneath his temple prepared specially
+for this purpose. He was accompanied by his willing Get,
+and by his less-than-willing priests. At the hour before
+dawn, the great stones were moved into place to close the
+entry. And Mictlantecuhtli slept.
+
+Tzental Falls
+
+Over the next decades, the travails that had caused the fall
+of the cities elsewhere in Mayan territory also affected
+Tzental, and the great city slipped back from its peak. For
+centuries the stories of "the Sleep of Mictlantecuhtli" con-
+tinued, and the inhabitants of the Tzental region awaited his
+return,
+
+But Mictlantecuhtli did notreturn. Around the year 1000,
+the New Empire arose, but the new growth of power failed
+to affect Tzental. The great city began to decay, and the
+forests encroached on its wide plazas and triumpharies.
+Slowly but surely the people moved away, until the relent-
+less jungle had totally conquered the great city. By the time
+the Conquistadors arrived in the 16th Century, Tzental had
+been forgotten, and the god Mictlantecuhtli had become a
+figure of myth and legend, with no more reality than other
+Mayan deities like Kukulcan, Quetzalcoatl and Itzamna.
+
+To this day, Mictlantecuhtli sleeps, presumably undis-
+turbed. Virtually the only thing that hints at the truth of the
+legends concerning the "god" is a scrap of poetry, translated
+from the Codex Tro (an old Mayan document):
+
+Cold is bone and iron thew,
+
+Old when stone and earth were new,
+
+In chambers measureless and deep,
+
+The Wanderer sleeps his silent sleep
+
+Alone, but not forgot.
+
+Beasts in man-form guard their lord,
+
+Eyes that watch by night (Here the fragment ends].
+
+Mictlantecuhtli
+Sire: ?
+Nature: Survivor
+Demeanor: Leader
+Generation: 4th
+Embrace: 51 BC (born 67 BC)
+Apparent Age: Late teens
+
+Image: About 5 feet 7 inches, with broad shoulders,
+broad head, and very well-developed muscles. His skin is
+naturally golden-brown and somewhat leathery. His hairis
+shoulder-length, black and straight. His eyes are dark, and
+alive with intelligence. As a Gangrel, his appearance in-
+cludes animalistic carry-overs from his Frenzies: his inci-
+sors and canine teeth are pronounced, his finger- and toe-
+nails resemble the claws of a beast, and the backs of his hands
+and feet are covered with black pelt that does not look at all
+human.
+
+Roleplaying Hints: You speak no modem languages,
+but your manner makes it clear that you are used to wielding
+power and enjoying instant obedience. You will not hesitate
+to fight if you believe your life is in danger.
+
+Haven: The central pyramid of Tzental.
+
+Notes: Mictlantecuhtli's traits reflect the many years he
+has spent in torpor. If he survives his encounter with the
+characters, add 2 dots to each of his physical Attributes and
+1 tohis Perception. His sixth level of Animalism allows him
+to communicate with a group of animals as long as they are
+of the same species.
+
+Puissant Shield
+
+This level four ritual establishes an invisible kinetic
+shield around the caster, at a distance of one foot, which
+blocks all inanimate projectiles — bullets, thrown knives,
+etc. Such projectiles visibly deflect from the shield. This
+shield cannot stop a character — mortal or Kindred — from
+closing and meleeing with the caster, nor has itany effect on
+amelee weapon (a spear, perhaps) in the grip of an attacker.
+Neither will it stop the effects of Thaumaturgy or other
+Disciplines. Fire, air, sunlight, water, etc. will all pass
+unaffected through the shield.
+
+Establishing the shield requires one minute of concentra-
+tion while the caster blows on a strip of cowhide and it lasts
+for one hour. Mictlantecuhtli has focused the essence of this
+ritual on a hollow crystal he wears ona leather throng around
+his neck. All he (or anyone) has to do is blow on the crystal
+and the shield will protect him.
+
+Quenching the Lambent Flame
+
+Mictlantecuhtli learned the basics of magical practice
+from his priests, but extended their teachings with his own
+research, which allowed him to develop abilities more
+Suitable to his Vampiric nature. When he was considering
+retreating into torpor, he intuitively understood that his
+Vampiric attendants — the peasant farmers he had Em-
+braced — were of a sufficiently high Generation that they
+would be unable to subsist for long on the blood of animals.
+Since it was his intention to keep these attendants within the
+pyramid with him, as personal bodyguards and servants, he
+developed this ritual to solve the problem.
+
+24 Awakening
+
+
+increases the effective Generation of a Vam-
+Blood Pool and all other characteristics are
+
+ritual takes one hour, during which time the subject
+¢ motionless — or be immobilized — in the center of
+‘drawn with his own blood. If the subject is willing,
+
+oll peered With an unwilling subject, however, an
+nielligence + Thaumaturgy roll against the subject's Will-
+
+Ig scm that no Kindred would ever submit will-
+ily to this ritual. In point of fact, however, there are some
+ges to being of a later Generation — most notably
+
+Physical: Strength 6, Dexterity 5, Stamina 6
+
+Social; Charisma 5, Manipulation 3, Appearance 3
+
+Mental: Perception 6, Intelligence 9, Wits 8
+
+Talents: Alertness 7, Brawl 8, Dodge 7, Empathy 6,
+Intimidation 8, Leadership 9
+
+Skills: Melee 5, Stealth 4, Survival 5
+
+Knowledge: Linguistics 3
+
+Disciplines: Animalism 6, Auspex 2, Celerity 3,
+Dominate 2, Fortitude 5, Potence 5, Presence 3, Protean 2,
+Thaumaturgy 5 (Taste of Blood 5, Movement of Mind 5,
+Lure of Flames 4)
+
+Rituals: Quenching the Lambent Flame, Puissant Shield,
+
+any others you want him to have.
+° Ji yan ata Virtues: Conscience 0, Self-Control 3, Courage 3
+‘society based on power — like Kindred society in Chicago Humanity: 0
+_— that Generation and physical prowess is a significant 2
+Willpower: 9
+The Codex of the Damned
+
+Mictlantecuhtli recorded the details of his
+
+thaumaturgical research in a book that came to be
+known as the Codex of the Damned. The Wanderer
+kept the codex close to him at all times — not really
+from fear that anyone would take it, but simply to
+protect it from accidental harm. He also kept its
+contents secret.
+
+Many of the priests in Tzental were investigating
+blood-magic themselves, trying to finda way of making
+themselves immortal like Mictlantecuhtli. They knew
+their "god" was exploring realms of thaumaturgy that
+might help them, and so they decided to gain access to
+the Wanderer's codex. Using their magical abilities,
+they brainwashed one of Mictlantecuhtli's mortal aides
+into helping them.
+
+Every day for months, when Mictlantecuhtli lay
+asleep, sheltered from the burning rays of the sun, the
+aide brought the Codex of the Damned to the priests.
+Unable to translate the mysteries of the codex directly,
+the priests copied it symbol for symbol, so that they
+could decrypt it at their leisure. Mictlantecuhtli never
+learned that the priests had made a copy of his precious
+codex. For their part, the priests were never able to
+translate the codex into something they could compre-
+hend or use.
+
+When Mictlantecuhtli descended into the pyramid
+to slip into Torpor, the mortal priests were imprisoned
+in the stone crypt along with him. With the priests
+dead, the copied codex passed from owner to owner.
+Although they were unable to decipher it, the codex's
+owners protected it for generations.
+
+How the codex left the Tzental area is unknown, but
+leave it did. Still untranslated, a copy of the codex
+appeared in Zurich during the Renaissance. Other
+copies — more or less corrupted by repeated sloppy
+copying — appeared elsewhere around the world.
+
+Nobody knows who first translated the codex. Some
+Kindred believe it was the Seven Elders of Clan Tremere
+who managed the feat, using the contents of the codex
+to develop the Ritual of the Bitter Rose.
+
+There are thought to be two true translated copies of
+the codex still in existence. One, translated into Latin,
+is thought to rest with Clan Tremere. The other,
+translated into English, has vanished from Kindred
+ken.
+
+False translations appear from time to time, attracting
+flurries of interest. These false translations are all
+useless, however.
+
+The Wanderer 25
+
+
+Chapter Pour:
+
+Ipvolving the Neonates
+
+Before the Neonates can visit the Tzental pyramid and
+encounter Mictlantecuhtli the Wanderer, they must discover
+" theexistence of both. Certainly, the Storytellercould simply
+
+tell the players what he or she wishes them to know, then let
+
+them proceed from there. Taking this one step further, the
+
+Storyteller could even begin the story with the characters
+already in Mexico, near to the ruins of Tzental. This option
+denies both players and Storyteller one of the more interesting
+aspects of this story, however: actually getting from wherever
+the Chronicle is taking place to the Yucatan without being
+unmasked or destroyed along the way. Itis therefore much
+more appropriate for a one-shot story that is not part of an
+ongoing Chronicle.
+
+Further, if more than one character is to benefit from
+performing Diablerie on Mictlantecuhtli, the Neonates will
+have to learn about the Ritual of the Bitter Rose. Again, the
+Storyteller has several options here. Firstly, she can just
+declare that one of the Neonates — probably a Tremere —
+has learned the Ritual from his Sire. Alternately, the Sto-
+ryteller can allow the Neonates to learn the Ritual from any
+of the more powerful Kindred they may know in their home
+
+I couldn' t help it.I can resist everything except temptation.
+— Oscar Wilde, Lady Windermere's Fan
+
+city. A more dramatically satisfying means of allowing the
+Neonates to learn the Ritual of the Bitter Rose is through the
+Codex of the Damned, discussed in the preceding chapter.
+Following is a brief list of ways in which the Storyteller
+can introduce the material in this story, and engage the
+interest of the players (as well as of their characters).
+
+PLANTING THE SEEDS
+
+In an ongoing Chronicle, it is a relatively simple task for
+the Storyteller to drop hints that will, over time, build up into
+a body of myth and clues that the Neonates will be unlikely
+to ignore or resist. As was described in the chapter on
+Diablerie, there are recurring legends circulating throughout
+Kindred society concerning the resting places of the
+Antediluvians and those Methuselahs who have sunk into
+Torpor themselves.Throughout the course of play, the
+Neonates should hear a number of these — true and false —
+mentioned casually, in passing, or for other reasons by
+characters in the Chronicle.
+
+Involving the Neonates 27
+
+One or more of these legends should mention a mythical
+Vampire figure known variously as the Ancient or the
+Wanderer, who is claimed to have walked throughout North
+America over a period of several centuries. Different
+tellings of this legend should have significant variations: in
+one the Wanderer was destroyed around the time of Christ;
+in another the Wanderer is equated directly with Caine
+himself; in yet another the Wanderer is said to lie in Torpor
+somewhere in Mexico or Central America.
+
+THE Lure or MExico
+
+After the myth of the Wanderer has been firmly planted in
+the Neonates' minds, they should stumble across something
+thatconfirms the myth's historicity. If you are using Chicago
+by Nightas the basis for your Chronicle, then youcan use the
+following plotline. If youare not using that supplement, then
+this sequence can easily be adapted for any city. There are
+three Kindred in Chicago who have heard the same rumors
+and myths as the Neonates. Possibly unlike the Neonates,
+these other Vampires have determined to their satisfaction
+that the Wanderer actually does exist. The three Kindred in
+question are all described in Chicago By Night; they are
+Johann Weltmann, Erichtho, and Wendy Wade. These
+individuals do not know much, just that there is enough
+evidence to convince them a Methuselah lies in Torpor
+somewhere in Mexico or Central America. They have
+checked all the sources of information available in Chicago
+— in other words, the sources that the Neonates will prob-
+ably seek out — and will have informants (possibly Domi-
+nated) in place to inform them if anyone else seems inter-
+ested in the same material.
+
+Once these powers have learned the Neonates are follow-
+ing the course of their own research, they will probably try
+tocontact them. Their major motivation is to discover if the
+Neonates have learned anything of value that they them-
+selves have missed. They will be extremely subtle when it
+comes to finding this out; they do not want the Neonates to
+believe they are on the trail of anything important. If the
+Neonates know nothing new — which is the most likely
+situation —they will then try to convince the young Kindred
+that any rumors they may have heard about the Wanderer are
+just that: rumors. Again, they will be extremely subtle in
+this.
+
+The most likely reaction is that the Neonates will come to
+believe that there actually is some truth to the rumors. After
+all, if the myths were meaningless, why would important
+Kindred like Weltmann, Graves and Wade be so interested
+in convincing them not to waste their time?
+
+The Archaeologist
+
+There is one individual in Chicago who knows a lot about
+myths and legends concerning Mictlantecuhtli, the God of
+Death. Heisa mortal, an old man called Samuel Clearwater,
+
+who lives on 58th Street near the University of Chicago,
+Clearwater is the Midwest's premier expert on the Mayan.
+culture, and on its folklore. He has researched many myths
+revolving around the God of Death, and has become con-
+vinced that they must be based on some historical event or
+personage. Of course, as a mortal, he knows nothing of the
+Kindred, and it would never occur to him to guess that
+Mictlantecuhtli was actually a Vampire.
+
+At one time or another, Weltmann, Graves and Wade
+have all visited Clearwater, to expand their knowledge of
+Mayan folklore. The old man was glad to be of whatever
+help he could — not much, unfortunately. All he could do
+was confirm to them that there was something interesting —
+historically and mythographically speaking — about
+Mictlantecuhtli.
+
+If the Neonates are serious about investigating Mexican
+folklore, they will eventually be referred to Clearwater.
+Although most "conservative" historians believe the old
+man to be eccentric to the point of senility, they cannot deny
+that his knowledge of such matters is encyclopedic.
+
+The most logical tack for the Neonates to take is to contact
+Clearwater by phone, and arrangea meeting. He will answer
+simple questions to the bestof his knowledge over the phone,
+but if the Neonates ask more complex questions, he will
+insist they visit him so that he can show them certain entries
+from books in his library.
+
+Unfortunately for the Neonates — and for Clearwater
+himself —Wendy Wade has been keeping a close eye on the
+old academic. She will know that the Neonates have con-
+tacted him, and will decide that it would be best all around
+if Clearwater were not available as a resource for the player
+characters.
+
+When the Neonates arrive at Clearwater's house, they
+find him dead — stabbed through the heart with a Mayan
+ritual dagger from his collection. When Wade killed him,
+she did not drink his Vitae, so there is no direct physical
+evidence that a Vampire did the deed. The Neonates can
+leam a little more by using the Psychometry power of
+Auspex on the dagger. The difficulty is 5, and the number
+of successes the character rolls determines the amount of
+information gained, as follows:
+
+1 success At the time that Clearwater last touched
+the dagger (when it was driven into his heart) his aura was
+mottled, rapidly shifting between violet, brown and silver,
+indicating a mixture of fear, confusion and sadness.
+
+2 successes The owner of the dagger was Samuel
+Clearwater himself, age 72.
+
+3successes At the time of his death, Clearwater was
+confused: he thought he was alone in his house, when a
+figure seemed to appear out of nowhere and stabbed him.
+
+4 successes The character receives a mental "snap-
+shot" of theevent, The individual who killed Clearwater was
+awoman, buther features are very indistinct (Clearwater did
+
+28 Awakening
+
+not have time to notice more). Her eyeteeth are slightly
+extended, indicating she may well have been a vampire.
+
+Ssuccesses Clearwater acquired the dagger on a trip
+to the Chichen Itza ruins in the Yucatan.
+
+Note that the only important revelation here is that
+Clearwater was killed by a Vampire.
+
+Again, the fact that someone is trying to stop the Neonates
+from learning more about the Wanderer should confirm to
+them that there is actually some truth to the myths and
+legends they have heard.
+
+If the Storyteller wants to make life a little more interest-
+ing— and challenging — for the Neonates, the police can
+arrive on the scene scant minutes after the Vampires reach
+Clearwater's house (Wendy Wade called in an anonymous
+report of the academic's murder). The Neonates will have to
+be quick if they want to avoid getting arrested for killing
+Clearwater.
+
+If they take the time to search Clearwater's house, they
+will find a photocopied tract from a research book lying on
+the hall table (Clearwater copied this to give to the Neonates
+when they arrived). It is the fragment of poetry from the
+Codex Tro quoted at the end of the last chapter. Scrawled
+beneath the fragment, in Clearwater's handwriting, is the
+notation:
+
+Wanderer = Mictlantecuhtli
+
+AT |
+
+FURTHER RESEARCH
+
+This should give the Neonates something more on which
+to base their research. The next step might be for the
+Neonates to hit the libraries or the on-line data sources. With
+the hint from the Codex Tro to guide them, they should have
+little difficulty digging up further information. Neonates
+with any Skills that incorporate some research-related
+components — such as History, Computer, Investigation,
+etc. — would be able to find in a library or on-line database
+the fact that the Mayans had a death god by the name of
+Mictlantecuhtli (this would require a Skill check with a
+difficulty of four). A little more digging (another Skill check
+with a difficulty of five) would turn up a description of the
+"mythical" god Mictlantecuhtli that would seem to imply
+that the real subject of the myths was actually a Vampire.
+Further research — and yet another Skill check, this time
+with a difficulty of 6 — would reveal that worship of the god
+Mictlantecuhtli was at its peak during the Old Empire of the
+Mayan civilization, and centered around the city of Tzental
+in the Yucatan, the ruins of which have yet to be found. At
+the Storyteller's option, further research —ina wide number
+of different areas, requiring considerably higher difficulties
+
+Involving the Neonates 29
+
+—could give the Neonates further clues as to the exact
+location of Tzental.
+
+THE STRANGER
+
+The Neonates can gain further clues about the resting
+place of the semi-mythical Wanderer from a new Kindred
+who comes to town. He is a stranger, known to no one in
+Chicago (or in Gary, for that matter), and nobody has the
+faintest clue as to his origin. He initially avoids all contact
+with any of the Chicago Kindred, eventually making careful
+—almost furtive —contact with the Neonates while they are
+pursuing their research into the Wanderer and the Yucatan.
+It seems that the stranger has learned of their interest in the
+topic, and wishes — like Wendy Wade and the others — to
+leam how far their work has progressed. Unlike Wade et al,
+his intention is not to prevent them from reaching their goal,
+butto actually help them ... and, perhaps, receive some help
+in return.
+
+Initially, the stranger will do whatever he can to discern
+the Neonates' progress — and motives for proceeding —
+without telling them anything about himself. After he has a
+rough idea of how far they have gotten, however, he will
+introduce himself as Sheaffer, and tell them that he has
+information that may be valuable to them in their search. He
+will try to arrange a meeting with them the next night at his
+temporary Haven, a rooming house in Evanston. The
+Neonates will almost certainly press him about what he can
+tell them. He will not divulge anything right away, insisting
+that they meet him as he requests; he will tell them, however,
+that he has personal evidence that the object of their search
+actually does exist, and that he knows the Wanderer' resting
+place. He will tell them no more. Although the Neonates
+mightnot believe it at first, Sheaffer's circumspect behavior
+does not hide some covert plan. In fact, he fears for his very
+existence.
+
+The Codex of the Damned
+
+Comes to Chicago
+
+As mentioned in the preceding chapter, there is thought to
+be one correct copy of the book in which the Wanderer
+
+©)
+
+wD 97) FH,
+
+Gay
+
+recorded his thaumaturgical research. In point of fact, itis"
+now in the possession of the Vampire who calls himself
+Sheaffer. He purchased it from another Kindred who was
+unaware of its value; who had in turn received it from a friend
+to hold for safe-keeping. This friend was sent to the Final
+Death under mysterious circumstances, so Sheaffer's con-
+tact kept his possession of the Codex secret to all but Kindred
+he trusted. Sheaffer has, so far, been unable to retrace the
+path of the Codex beyond the first two links of the chain,
+
+A Malkavian with some theoretical knowledge of Thau-
+maturgy, Sheaffer has analyzed the text. Combining the
+Codex's contents with mythical descriptions of the Ritual of
+the Bitter Rose, Sheaffer has reconstructed the research that
+Jed to the original development of the Ritual. He has added
+his conclusions to the book as marginalia written in a tight,
+precise hand.
+
+Sheaffer has no intention of ever performing the Ritual,
+He has no desire for power or advancement; all he cares
+about is the advancement of knowledge.
+
+In addition to the contents of the codex, Sheaffer has tried
+to divine its origin. Although multiple translations and
+paraphrasing have pressed much of the "cultural subtext"
+from the work, Sheaffer has found enough clues to convince
+him that the original was written in ancient Mexico or
+Central America. He believes, although he is not totally
+certain, that the writer was a Mayan — perhaps priest. The
+marginalia he has scrawled in the Codex contain these
+conclusions as well.
+
+Sheaffer has come to Chicago to continue his research.
+He learned that Samuel Clearwater was reputed to be the
+person who could best help him out. Unfortunately, as
+described earlier, Clearwater was killed (If the Storyteller
+decides not to involve the Neonates in that complication,
+Wade killed the academic to prevent him from speaking with
+Sheaffer, and the characters may have learned about it
+through normal news sources.). Furthermore, Sheaffer has
+come to realize that he is being followed. It is obvious that
+his "shadow" is one of the Kindred — nobody else could
+manage it — and he concludes, quite reasonably (although
+incorrectly) that the Vampire on his trail also murdered
+Clearwater.
+
+Sheaffer
+
+Sheaffer is a Malkavian, and so suffers a major derange-
+ment. Fortunately, perhaps, his derangement is Intellectual-
+ization, which does not prevent him from functioning in
+night-to-night life. In fact, the derangement is only a slight
+exaggeration of Sheaffer's mortal personality.
+
+He was fascinated by knowledge in all its forms, but
+history and philosophy held special fascinations forhim. He
+would have happily spent his entire life researching some
+piece of esoterica far beyond the grasp — or interest — of
+
+30 Awakening
+
+e. Unfortunately, he was foolish enough to wan-
+wrong part of Los Angeles, and was cut down in
+shooting. The last person he saw before his
+‘was a strangely-dressed old man with wild eyes and
+
+Power and wealth are nothing, except when they can
+toenhance discovery (e.g., to buy new books). He
+‘destruction, but mainly because the Final Death would
+an end to his researches.
+Sire: ? (awandering Malkavian, never known to Sheaffer)
+Generation: 10th
+Embrace: 1944 (born 1910)
+_Apparent Age: Mid 30s
+Image: A short, slender man with thinning sandy hair.
+__ Behind thick glasses his eyes look weak and watery.
+Roleplaying Hints: You are much more interested in
+knowledge than in anything else. You have learned that
+sometimes it is valuable not to let on everything you know
+... but you have never learned how to conceal it.
+Haven: No permanent Haven in the Chicago area.
+Temporary Haven is a cheap rooming house in Evanston.
+
+The Diabolist
+
+In fact, the Vampire following Sheaffer is a Brujah called
+Pietr, a dedicated Diabolist driven by a lust for power. He is,
+strictly speaking, 12th Generation, but he has advanced to
+become effectively Ninth Generation by drinking the blood
+of Elders. He learned about Mictlantecuhtli the Wanderer
+
+a
+he AMiribut 5
+Physical Social Mental
+‘Siro 90000 Chartam e000 Teneptin se000
+Dexerty e000 Mant so000 Seoee
+‘Stamntna_ 20000 Appearance ee200 Wiis 20000
+fe a Abilities:
+Talents ‘Skills Knowledge
+‘Acting 00000 Animal Ken 00000 Ireanemcy___ 00000
+: 0000 Huet ‘0000
+Sent peoee | Pca eevee
+Dag eeo0 Nee
+iy 0000 | Mink
+Totten 000 Reval
+Leadership-———o0000 Secu
+= feoo00 Stealth
+Sibertge 0000 Suva feovon Scene eeeeo
+ea
+Advantag. =
+Disciplin Backgrounds Virtwes
+"Reo wieee0o, outs eeee0 Conscience, 99900
+—<——— ‘coeoo Sovoe  SclfControl___see00
+<== .c0c00 ————— covce Cage 0000
+e—— =>
+fe-Other Traliseee fe Tlumanityeee tee Iealth
+eeeee > Ind
+S888 ee eeeeevvn Lp
+——— ove AG
+00000 teem Willpower eet ‘Wounded 5
+2 Mauled 4
+toe —Combai—aet- © © 0 0000000 Ciypied § 0
+=e DOCGOOOOOO frewnetioted 0
+
+stee=Lxperienceneet
+
+ste=Dlood Poolmme
+0000000000
+
+‘Autiace YP) Aes 19 Discince:} Dacroon $ Vitex 7 Freie Pine 15 (7)
+
+from his own sources, and immediately travelled to the
+Yucatan to drink the Antediluvian's Vitae. As it was,
+however, he was defeated and almost destroyed by
+Mictlantecuhtli's defenses. Among other injuries, he bears
+hideous scars from the claws of one of the Wanderer's loyal
+guardians. He came very close to the Final Death at that
+point, and just managed to flee. Unfortunately, he did not
+manage to keep his sanity intact. He suffers from an
+Obsession with tracking down the Ritual of the Bitter Rose
+and learning to perform it. When hecan do so, Pietrbelieves,
+he will be able to increase the potency ofa Diablerie victim's
+Vitae, giving him enough power to go back and destroy the
+Wanderer. (This is not particularly logical, but Obsession
+rarely makes much sense. In fact, of course, he is focussing
+on his search for the Ritual to avoid dwelling on his close
+brush with destruction in Mexico, and his overwhelming
+fear of facing it again.)
+
+Pietr has learned that the Codex of the Damned may
+contain enough background material for him to learn how to
+perform the Ritual of the Bitter Rose. He has also learned
+that an English translation of the Codex is in the possession
+of a Kindred named Sheaffer, and that Sheaffer has come to
+Chicago. What better opportunity to acquire the Codex?
+
+Involving the Neonates 31
+
+Dead End
+
+If the Neonates go to Sheaffer's rooming house as
+arranged,they find a horrible sight awaiting them. A body
+lies in the middle of the floor, burnt totally beyond recognition,
+with a blackened and charred stake still protruding from his
+chest. It is, of course, Sheaffer himself. Evidently someone
+immobilized Sheaffer with the stake, then left the curtains
+open so that the rays of the morning sun would destroy his
+body. The room has been torn apart, as though someone
+were searching for something. There is no way of discover-
+ing whether they found it or not. (In fact, it was Pietr, looking
+for the Codex. As it turns out, the book was not in the room,
+and Pietr was foiled.)
+
+The Neonates might investigate the scene of the crime.
+The room's door is locked, but the window is unlatched and
+slightly open, The room is on the third floor of the four-story
+building. Climbing into the window from below or above
+would have been difficult for a mortal, butrelatively easy for
+a Vampire.
+
+Ifa Neonate tries Psychometry on the stake, the difficulty
+is 6. They can discover the following information:
+
+1 success The subject — Sheaffer's killer — has an
+aura of pale purple and green (in other words, an angry and
+obsessed Vampire).
+
+{= VAMPIRE:
+Pietr
+
+"Adiribute:
+Soctal
+Chartana
+Moniplation
+Appearance
+Abililies:
+Stalls Knowledge
+Antal Ken, 00000 00000
+Dave 000 rr
+
+Mental
+Remeplion. 29000
+weligence
+
+2000 Wilt
+
+x
+t
+
+Virtues
+Cnecience___s8000
+
+SelEControl, 20900
+
+00000 Conwnge. see00
+
+x
+Fee 5 od
+HeeOther Traltsre  Fee—Lumaniy—eet -f—Tealth ae
+
+=
+
+woses eee ev00000
+
+sfeme—Combat—aret-
+a es
+
+Htere= Willpower mot
+eeeceee0v00
+ooooooo0000
+
+Incopnettated! O
+
+sFere=Lxperiencemeet
+"toe Dlood Poole :
+
+0000000000
+
+‘Nuits 7180 Abies: 119 Diwipline: 3 Uacronie 5 Viwex: 7 Teabie Foa 15 (AZ)
+
+2successes The subject is Pietr— male, and oral
+years old.
+
+3successes The subject was thinking of great gain, of
+how he would get what he most wanted once Sheaffer was
+out of the way.
+
+4successes The subject climbed in the open window
+last night, stunned the surprised Sheaffer with a blow to the
+head, and then staked him so the light of dawn would fall on
+him.
+
+Ssuccesses The subject picked up a piece of wood on
+the street and sharpened it into a stake.
+
+Pietr
+
+Pietr will say nothing about his background; in fact, he
+suffers from traumatic amnesia after a run-in with a
+Methuselah several decades ago. His greatest goal, with
+which he is Obsessed, is acquiring the Codex and learning
+how to perform the Ritual of the Bitter Rose.
+
+Note that Pietr has performed Diablerie on a Seventh
+Generation Elder within the last six months. The Neonates
+may well be able to detect this "taint" on his aura, or
+otherwise sense that he is a Diabolist.
+
+Sire: ?
+
+Nature: Conniver
+Demeanor: Visionary
+Generation: 9th
+Embrace: 1907 (born 1880)
+Apparent Age: Late 20s
+
+Image: A muscular man of average height with black
+hair and dark eyes. His head and face are hideously scarred.
+
+Roleplaying Hints: You never let on everything you
+know. You are a master at subtle hints, insinuation and
+leading statements,
+
+Haven: No permanent Haven in the Chicago area.
+Temporary Haven is a condemned church.
+
+32 Awakening
+
+The Codex
+
+‘Two days after Sheaffer's death, an envelope arrives in
+the mail at one of the Neonates' Havens. The envelope is
+from Sheaffer, and contains both the Codex and a map of
+Mexico. In fact, on his last day of existence, Sheaffer
+believed that the Vampire following him was planning him
+harm. Itseemed logical to the scholar to protect his research
+from theft. He knew nobody he could entrustit to in Chicago
+...exceptfor the Neonates. His plan, of course, was toregain
+
+the book from them when things had settled down. Thus, the
+Codex was not in Sheaffer's room when Pietr came to call.
+
+The Codex includes Sheaffer's marginalia as described
+earlier. On the map, a line has been drawn between two cities
+in the Yucatan — Campeche on the west coast of the
+peninsula, and Chetumal on the east coast, right on the
+Guatemalan border. Near the middle of the line is a black
+dot, next to which is scrawled the word "Tzental". This
+should be the final clue the Neonates need to locate the
+Haven of Mictlantecuhtli the Wanderer.
+
+Involving the Neonates 33
+
+
+Chapter Five:
+Che Pyramid
+
+This chapter describes Mictlantecuhtli's Haven and its
+various defenses — living, unliving and inanimate.
+
+PHYSICAL LOCATION
+
+; Mictlantecuhtli's pyramid is located in the center of the
+ancient Mayan city of Tzental. In the centuries since
+Mictlantecuhtli went into Torpor, Tzental has been forgotten
+by historians and by the natives of the region. After
+Mictlantecuhtli's disappearance, the city was deserted, and
+soon thereafter it was swallowed by jungle so thick that the
+tuins cannot be spotted from the air.
+
+Tzental is located almost exactly halfway between the
+towns of Campeche, on the west coast of the Yucatan
+peninsula, and Chetumal, on the east coast, right on the
+Guatemalan border. Both towns have airports, if the Neonates
+decide to risk travelling by plane.
+
+There are no roads through the jungle that lead to Tzental.
+The nearest settlement is the small town of Dzitbalchen, in
+the Campeche province. From Dzitbalchen, Tzental is a
+tough 35-mile hike through jungle so dense that machetes
+are absolutely required to make any progress whatsoever.
+Neonates would be well-advised to hire — or Dominate —
+native guides to help them find their way tothe city. Survival
+skill will be of vital importance; even though Vampires will
+be largely unaffected by conditions that could kill mortals,
+the journey to Tzental will still be an incredibly difficult and
+taxing one.
+
+Protection is not only dead, but damned.
+— Prime Minister Disraeli, Life of Disreali
+
+Travelling the Jungle
+
+The jungles of the Yucatan which surround the lost city of
+Tzental are heavy going for any traveller. For the Kindred,
+
+The Pyramid 35
+
+who cannot travel by day, the journey can be even more
+arduous,
+
+First, navigation is a significant problem. There are no
+landmarks, and it is almost impossible to navigate by fol-
+lowing topographic features like ridge-lines. Even with a
+compass, it is frighteningly easy to become lost, simply
+because the direct route is frequently impassable due to
+heavy concentrations of trees and underbrush. Travellers
+must frequently detour from their route, and are sometimes
+led miles out of their way.
+
+Second, the undergrowth is frequently so thick thata route
+must be hacked out using machetes. Travellers often find
+that their rate of progress decreases to one mile per hour or
+even less. Even where conditions are better, speeds greater
+than four miles per hour are almost impossible to attain.
+
+Then there are other risks. Predators like jaguars prowl
+the jungles at night. Although they will only rarely attack
+Kindred once they have recognized them as such, predators
+will sometimes leap from the trees above onto passers-by,
+and inflict damage before the beasts realize that their prey is
+actually something unnatural.
+
+If the Kindred have managed to protect themselves from
+the rays of the sun — by the Invulnerable Weakness ritual,
+perhaps — the high daytime temperature of the jungle still
+poses a significant risk. Vampires have no need to drink
+water, and most are incapable of doing so. This means that
+they cannot sweat normally to moderate their body tempera-
+ture. Unless the Kindred can find some other way of
+combatting the heat, protracted exposure to high tempera-
+tures causes them to lose both Strength and Dexterity tem-
+porarily.
+
+When the temperature is above 100° F — which it
+frequently is in the Yucatan — a Vampire can normally
+survive unscathed for as many hours as he has points of
+Stamina (If he is engaged in strenuous activity — such as
+cutting a path through heavy jungle— however, this "grace
+period" drops by as much as half). After this period, the
+character loses one point each from Strength and Dexterity
+per hour (two points per hour of strenuous activity). If the
+character reaches 0 in either Strength or Dexterity, he must
+immediately sleep. Lost points are regained at a rate of one
+— in each of Strength and Dexterity — per two hours of
+sleep. This sleep costs the Vampire a Blood Point just as
+does normal sleep.
+
+Tue City or TZENTAL
+
+Atits peak, the city of Tzental housed 10,000 people, and
+covered several square miles. Most of the buildings were
+wood or light stone construction, and have not survived to
+the present day. The center of the city was reserved for the
+priest class, except on days of important ceremonies when
+worshippers were allowed to fill the central concourses.
+
+The "temple region" was centered around the Pyramid of
+Mictlantecuhili, from which four wide avenues extended
+along the cardinal points of the compass. Around the central
+pyramid were smaller pyramidal buildings: the Pyramids of
+the Sun, the Moon, the Earth and the Sky.
+
+Tzental has been totally swallowed by the forest, so the
+city is invisible from the air. The paving stones of the four
+cardinal avenues have been broken up by centuries of plants
+growing through them and tree roots spreading beneath
+them, but the radial layout can still be discerned. All of the
+pyramids are covered in vines, moss and other growth,
+making them appear as large, green alluvial humps. The four
+minor pyramids are 200 feet high, and their square bases are
+200 feet ona side. The Pyramid of Mictlantecuhtli is 300 feet
+high, and 300 feet on a side.
+
+The Subordinate Pyramids
+
+The four "subordinate" pyramids are built along standard
+Mayan lines. Their cores are rubble and broken limestone,
+faced with stone blocks. They once had small temples,
+shrines and altars atop them, but they have no internal
+chambers.
+
+As with most Mayan pyramids, these were created in two
+major steps. First, the builders created a huge pile of earth
+and rubble in the approximate shape they wanted the com-
+pleted pyramid to take. Then they constructed the outside of
+the pyramid using slabs of stone as facing. This stone was
+transported to Tzental from quarries many miles away. The
+stone facings on the pyramids are only two or three feet
+thick; beneath the stone is rubble. Thus, Mayan pyramids
+are very different in construction from the Egyptian pyra-
+mids, which are built from huge blocks of dressed stone.
+Unlike Egyptian pyramids, the Mayan constructions generally
+have no interior chambers, since the standard building
+technique does not allow for this.
+
+The facing stone is elaborately carved, with religious
+symbols, scenes from myth, and representations of the gods
+to whom the temples were dedicated. Over the centuries, of
+course, much of the embellishment has been weathered
+away. The stone is pitted and discolored, and only the largest
+features of the carvings still remain visible.
+
+The Central Pyramid
+
+At first glance, the central pyramid appears to follow the
+same design paradigm as the other four, simply on a larger
+scale. In fact, however, the Pyramid of Mictlantecuhtli was
+builtover and around previously existing stone buildings. In
+other words, typical Mayan buildings were constructed from
+blocks of dressed stone. When they were complete, rubble
+was piled on top of them. Finally, when the pile of rubble and
+earth was complete, the pyramid was faced with stone as
+usual.
+
+36 Awakening
+
+HLYV4 SHL JO dIWVaAd
+
+The Pyramid
+
+
+These buildings are now chambers and rooms within the
+tubble of the pyramid's core. Contrary to most people's
+perceptions, the entire pyramid is not networked with pas-
+sages and chambers; in fact, only a small percentage of the
+space is taken up with rooms. (Of course, the pyramid is 100
+yards on a side, so there is a lot of space ...) There is one
+ground-level entrance connecting these chambers to the
+outside. Details of the pyramid are provided in a later
+section.
+
+History of the Pyramid of
+Mictlantecuhtli
+
+When the Wanderer first reached Tzental, there was no
+central pyramid. Instead, the four smaller pyramids — the
+Pyramids of the Sun, the Moon, the Earth, and the Sky —
+framed a central plaza. This plaza was used for certain
+religious pageants, as well as for sporting events. It was only
+after Mictlantecuhtli had arrived — and had been "recog-
+nized" as a god — that plans were discussed for building a
+central pyramid.
+
+Throughout his journeys, the Wanderer had seen many
+fascinating structures: giant wooden longhouses with many
+rooms; temples and sanctuaries built into the living rock,
+either carved out over decades, or constructed from already-
+existing caves. In his still slightly insane state, the "god"
+Mictlantecuhtli demanded that his followers build him a
+similar sanctuary — a Haven all his own. Although the
+construction that their god demanded was like nothing they
+had ever done before — a pyramid with internal chambers?
+— the people set to with a will. Within several years, the
+Pyramid of Mictlantecuhtli, with its hidden chambers, was
+complete. The Wanderer took it as his Haven.
+
+As the tide of Mictlantecuhtli's madness turned, he added
+new features to his Haven. The ground level he converted
+into a temple, a place where the priests could come to meet
+with their "god." The smaller sublevel, or basement, he
+reserved for himself as his personal retreat.
+
+Circumstances changed for Mictlantecuhtli, and so did
+his mind and intentions. He Sired Get — peasants, loyal to
+their god—as vengeance against his priests. He also began
+to experiment with thaumaturgy, and expanded his skills.
+Now the lower level became more than his personal sanctuary;
+it also became something of a thaumaturgical laboratory.
+
+Over the decades, a soul-sick weariness fell upon
+Mictlantecuhtli, and he began to look on his Get somewhat
+differently. Instead of simple symbols of his feelings toward
+his priests, now he came to view them as creations — as
+tools, as weapons. Tools and weapons must be honed, he
+decided. Using his newfound thaumaturgical skills, he
+created tests for his Get — tests that would plumb the depths
+of their souls and show their true mettle.
+
+No one knows how many of Mictlantecuhtli's Get were
+destroyed by his tests. Those who managed to survive them
+
+were refined by the experience — tempered, as a
+blade is tempered by heat and cold oil. They
+Mictlantecuhtli believed, much more worthy to survive, ;
+to serve him.
+
+And then the soulsickness became deeper and
+overwhelming. The Wanderer decided that the only logical
+choice was to retreat into Torpor and rest. Once more, he
+refashioned the interior of his pyramid, this time for the
+purpose of protection, of defense. He feared that invaders,
+perhapsallies of the Nosferatu, might break into his sanctuary
+and destroy him. Initially, his fear was focused on mortals
+—warlike nations invading the Yucatan region. Butthenthe
+Lupines who lived in the area (discussed below) warmed him
+that other Kindred might one day come seeking his resting
+place. Using his magical prowess, he created arcane
+protections designed specifically to ward his Haven against
+those of his own kind.
+
+With the final changes complete, Mictlantecuhtli sur-
+rounded himself with his retinue — both willing and unwilling
+—and ordered that the pyramid be sealed. Within, in peace
+at last, he rested.
+
+—
+
+Lost Cities
+
+Some may wonder why the city of Tzental has never been
+found by explorers or archaeologists, or why the natives of
+the region have never reported it. There are several very
+good reasons.
+
+The jungle in the vicinity of Tzental is exceptionally
+heavy —not impassable, but very difficult to traverse. The
+City is totally overgrown, making it impossible to spot from
+the air (certainly, survey satellites with ultraviolet and infrared
+cameras — and perhaps even down-looking radar — could
+spot the ruins, but there has never been any reason to train
+those high-technology devices on this area of the Yucatan).
+Without some very good reason, nobody would consider
+struggling through the heavy vegetation.
+
+It is possible that some explorers have stumbled upon
+Tzental, but failed to survive to tell their tales. As described
+below, there is a small "tribe" of Lupines (werewolves) in
+the area, and these may well have killed any mortals who
+have wandered into the area.
+
+As for the natives, the entire region of Tzental is considered
+an area of extremely ill omen. No one alive today knows
+why this taboo might have arisen, but conversely nobody
+questions it. The natives simply stay away from this region
+of the jungle. Various anthropologists have picked up on this
+taboo, but have concluded that the evil omens actually arise
+from the fact that the region is a breeding ground for malaria
+and other diseases. (Some anthropologists might have
+questioned this conclusion and investigated, but — again,
+thanks to the Lupines— none have lived to discuss the
+matter.)
+
+38 Awakening
+
+THe LupPINES
+
+Centuries ago, when Tzental was at its peak,
+‘Mictlantecuhtli established amicable and respectful relations
+with the Lupines who lived in the area. The Lupines, in fact,
+‘sworea binding oath to protect the interests of Mictlantecuhtli
+‘against outsiders (the fragment of poetry from the Codex Tro
+hints at this).
+
+Lupines, if nothing else, are creatures of their word.
+Although their agreement to protect Tzental from outside
+marauders dates from the second century, they still consider
+it to be in force today — regardless of the fact that 17
+centuries have passed and that Mictlantecuhtli himself has
+been in Torpor for over 1,300 years.
+
+During the decline of Tzental, the Lupines transferred
+theirloyalty and responsibility from the city to Mictlantecuhtli
+himself. There are only two Lupines still in the region —a
+mated pair, resembling aged natives — but they believe
+wholeheartedly that it is their right and their duty to allow
+their liege lord to sleep uninterrupted for as long as he likes.
+
+The Lupines are suspicious of mortals. In the past, when
+there were more Lupines in the vicinity, the creatures would
+kill anyone who wandered into the region. Now things are
+
+different. Although isolated, the Lupines understand that the
+world has changed since their ancestors swore their oath to
+Mictlantecuhtli. Channels of communication are almost
+magically swift. Before, the world at large would never even
+realize that explorers had gone missing in the Tzental region.
+Today, however, mysterious disappearances would attract
+to the area the very attention the creatures wish to avoid.
+
+Therefore, rather than killing mortalson sight, the Lupines
+would watch them closely for signs of interest in
+Mictlantecuhtli's Haven. If they were to evidence any such
+interest, the Lupines would try to lead them away or perhaps
+drive them off, all the while being very careful to make the
+events as unremarkable as possible. Only if no other option
+was open would they slay mortal explorers, and even then
+they would try to find some way of avoiding notice. (Perhaps
+they would drag the bodies elsewhere, leaving them to be
+found. This way, anyone following up ona "lost expedition"
+would conclude that the explorers died elsewhere, thus
+diverting attention from the Tzental area.)
+
+Kindred visitors, however, are a totally different case.
+Their agreement with Mictlantecuhtli has not diminished the
+Lupines' traditional enmity toward Vampires, and the
+creatures would gladly destroy any of the Damned who
+stumble upon this place. The Lupines would gladly destroy
+one or two Kindred who reached Tzental; if the creatures
+believe that they could overpower a group of Vampires, they
+would attack and fight to the death.
+
+Although they consider the discharge of their oath more
+important than their lives, the Lupines are realistic. If there
+are more Kindred than they can defeat, they will use other
+means. In human form, they will approach the Kindred, and
+volunteer to serve as guides ... and then, of course, lead them
+far from Tzental. Alternatively, they may carry on guerilla
+warfare against the explorers, destroying their camps, kill-
+ing their guides and porters, and generally doing whatever
+they can to drive the Kindred off. If they can, they will split
+up the group, and attack any stragglers. If intruders enter the
+pyramid, the Lupines will not follow, but will set up an
+ambush and await their reemergence.
+
+Although relatively primitive, the Lupines are not stupid,
+and should representa very real danger to the Neonates when
+they visit Tzental. The Lupines will use stealth to observe
+the actions of the Neonates, possibly learning where they
+have set up their temporary Havens. Since the Lupines are
+able to operate by daylight, the easiest way they have to
+destroy the Vampires is to find them in their Havens during
+the day!
+
+The Lupines of Tzental are the descendants of Mayan
+peasants, and retain that appearance in human form. They
+live a simple existence in the Tzental region, frequently
+engaging in banditry. They each have a bolt-action hunting
+rifle and a handful of shells. The Lupines speak Mayathan,
+the traditional language of the Mayas, as well as pidgin
+forms of English and Spanish. Refertothe Vampire rulebook
+for more information on Lupines.
+
+The Pyramid 39
+
+{>= VAMPIRE ——}
+Lupines
+
+x
+
+Law 00000
+
+Virtues
+
+Disciplines "
+Conecience____98000
+
+‘eoeeee
+00000
+
+SclfControl____see00
+
+Conny seoee
+
+Fee ot
+
+Fee Humanity—eh teal
+
+Beet =
+
+eeeeevv00
+cS: Ht 40
+
+inet 2
+Wounded 3
+Mauied 4 O
+Crippled &
+Irenpociiated 0
+
+Aoe= Willpower
+
+eveceeee0
+oooo000000
+
+‘00000
+seme—Combat—mone
+
+[Reve [nies] arog
+
+store=Experience mat
+
+are
+
+‘Aue: 780 Abies: LYS Deipins: 3 Rackgrome 3 Vote 7 Pesto Foi: 15 C70)
+
+stee=Blood Poolmmet
+0000000000
+
+Lupines
+
+Image: About 5'6", squat and powerful, with cinnamon-
+colored skin and black hair.
+
+Roleplaying Hints: You don't speak English well, and
+you hate Vampires!
+
+Itis conceivably possible that the Neonates might capture
+a Lupine and interrogate him or her. Under suitable ques-
+tioning, a Lupine might be forced to admit that the great god
+Mictlantecuhtli — an ancient Vampire — lies in Torpor
+beneath the central pyramid of Tzental. The Lupine suspects
+that there will be fairly elaborate defenses to protect the
+sleeping Mictlantecuhtli, but cannot even begin to speculate
+on their nature.
+
+Vampires and mortals have come to Tzental before,
+presumably seeking Mictlantecuhtli. In all but one case, the
+Lupines drove them off or destroyed them. Less than a
+month ago, one Vampire, accompanied by a ghoul, managed
+to get by them and enter the central pyramid. The Lupine's
+oath prevented them from following, so they waited outside
+for the pair to reemerge. Reemerge the Vampire did...
+fleeing as though the very devil were at his heels. He was so
+torn and mangled as to be almost unrecognizable. His aspect
+was so hideous that it shocked the Lupines into inaction for
+long enough for him to make his escape (This intruder is
+
+Pietr, the Diabolist described in Chapter 4.). The ghoul
+never re-appeared, and the Lupines assume that he has been
+destroyed.
+
+‘When they approached the central pyramid, the Lupines
+found that the intruder had removed the heavy stone blocks
+that closed the entrance. They replaced these to block the
+portal once again.
+
+THE PYRAMID OF
+MICTLANTECUHTLI
+
+Unless otherwise specified, all walls within the pyramid
+are of the same dressed stone blocks that face the outside of
+the pyramid. The floors are paved with flat slabs of the same
+stone. Ceilings are about twelve feet high (unless otherwise
+specified), and walls are about a foot thick (refer to the rules
+in the Vampire rulebook; breaking through such a wall
+would require a dice pool of 13).
+
+There isno artificial light within the structure (of course!).
+In general, the air is still, dry and musty, about 70° F (day and
+night), and redolent with the odor of decay — mainly
+vegetation, but with a trace of something else.
+
+Entering the Pyramid
+
+There is one entrance to the chambers within the pyramid,
+halfway along the northern side of the base, at ground level.
+Mostof the pyramid is covered with tangled lianas and other
+plant growth; this webbing of vines has been torn away from
+the area of the entrance.
+
+The entrance itself is a square doorway, 10 feet high but
+only three feet wide. Large cubic blocks of stone have been
+piled like children's blocks to close the entrance. There are
+eightsuch blocks, each about two feet ona sideand weighing
+1,500 pounds. The blocks are positioned in such a way that
+there are gaps between them; these gaps range from less than
+an inch wide to about six inches,
+
+Refer to the Vampire rulebook for rules on feats of
+strength. Of course, the Neonates do not have to dead-lift the
+blocks; there are many other ways of removing them, but
+they will take time — time the Kindred may not have if they
+are being attacked by Lupines, for example.
+
+The Mayas never learned how to build arches, either for
+doorways or ceilings. Instead, they created overheads by
+stacking blocks of stone in a step-wisé manner; the blocks
+offset toward each other on each layer until they finally met
+at the top. This led to high ceilings and doorways, with
+narrow rooms and doors. Most surfaces were carved showing
+naturalistic and mythical figures of people and animals. On
+the outside of the pyramid, these carvings have largely
+weathered away. Within, however, they are untouched by
+theelements. Inside Mictlantecuhtli's pyramid, the carvings
+
+40 Awakening
+
+9b
+
+&
+The Pyramid
+
+: st
+
+
+depict Mayans at work and at worship. A recurring motif
+depicts priests, with elaborate headdresses, holding large
+goblets. (These, of course, contained the blood of human
+sacrifices.) There are no direct representations of the God of
+Death, Mictlantecuhtli, except as specified below. Some of
+these carvings were embellished with red and green dyes,
+but over the years the colors have faded. All stone surfaces
+are medium grey — rough and gritty.
+
+The interior of the pyramid is claustrophobic, even with
+the high ceilings. The floors are earth or stone. Much of the
+stonework is covered with moss and lichen-like growth.
+
+A Note on Frenzies
+
+Any Kindred is going to find the exploration of an ancient
+pyramid — particularly one that is haunted and the Haven of
+a Methuselah — a frightening and emotionally-charged
+experience. The Neonates will be under extreme emotional
+tension, making it significantly more difficult to resist
+Frenzies. To reflect this, increase all difficulty numbers for
+resisting Frenzy by one (This increase has already been
+taken into account in the difficulty numbers quoted in this
+chapter. For potential Frenzies caused by other events not
+specifically described below, the Storyteller should keep the
+penalty in mind.).
+
+Ground Level
+
+1. Entrance Corridor
+
+The portal from the outside is only three feet wide;
+immediately within, however, the corridor widens. In the
+light of the Neonates' torches, the floor seems to writhe and
+shift. After a moment, the characters realize the corridor is
+home to dozens of rats. These rats will try to avoid the
+Vampires; the Vampires, for their part, may want to use the
+rats to sate their hunger.
+
+2. Mosaic
+
+A mosaic of incredibly intricate design covers the south
+wall. Using multi-colored stones, some little larger than
+grains of sand, it illustrates how the city of Tzental looked in
+its heyday. Above the central pyramid is a depiction of the
+"god" Mictlantecuhtli, a dark-haired, dark-skinned man
+drinking from a golden goblet. The liquid in the goblet is
+dark red, and could be either fine wine or blood.
+
+The intricacy of the mosaic is such that no human could
+ever have constructed it; itis obviously of Vampiric creation.
+The mosaic is so intricate, in fact, that it can have a hypnotic
+effect on Kindred. Any Vampiric character who so much as
+glances at the mosaic must make a Willpower roll against his
+or her Perception + Auspex (the difficulty for Toreadors is
+two higher). Ona failed roll, the character is entranced by the
+mosaic and will remain motionless, staring at it in wonder,
+until he is dragged away by companions, or his view of the
+
+mosaic is blocked. On a botch, the character will be
+catatonic; this condition will last for 10 minutes after t
+character can no longer see the mosaic.
+
+The mosaic was originally created by Mictlant
+Get. Its hypnotic qualities are a consequence of the level
+detail, not something that the designers strove to achic
+from the outset.
+
+3. Cleansing Fonts
+
+Each alcove has a stone font that used to contain pure"
+water. Now they contain dust, rat skeletons, and the bloodless
+bodies of one or tworats. The fonts are carved from the same
+igneous rock as the rest of the pyramid. They have square
+bases, and stand about three feet high. Shallow, circular
+depressions have been carved into their tops. When the —
+pyramid was used as the temple of Mictlantecuhtli, priesis —
+and Mictlantecuhtli's Get would use the water here to
+ritually cleanse themselves before passing deeper into the
+chambers.
+
+4. Priests' Room
+
+There are six perfectly-preserved male bodies, lying
+peacefully on the floor. All are dark-skinned and dark-
+
+42 Awakening
+
+, wearing short linen robes. So well preserved are they
+
+‘look as though they might just be sleeping. In fact,
+aclose examination will show that all have been
+of blood through wounds in their throats. These are
+of some of the priests who Mictlantecuhtli de-
+‘would share his repose in the pyramid.
+0 of the priests, while alive, had such powerful wills,
+upon death their spirits remained to haunt this room.
+Their hatred of their god — who denied them the boon of
+ortality, and who in fact decreed that they should die
+he went into Torpor — remains, and has grown over
+the centuries. Now, however, their hatred has generalized
+and turned to madness. They hate and envy the living — or
+who can still move freely and experience the world.
+Driven by this undying hatred, they will fall upon any
+intruder — mortal or Kindred — who enters, gibbering and
+screaming their hatred all the while.
+"These spirits are totally incorporeal, appearing as trans-
+parentapparitions. They havea "touch" attack which allows
+them to drain Willpower. They attack with seven dice
+against the victim's Wits + Dodge. Every success drains one
+Willpower point from the victim. If the victim has Fortitude,
+the drain can be resisted by a Courage + Fortitude roll with
+atarget of 9. For every success, one less Willpower point is
+
+The spirits cannot be harmed by any attack, whether
+physical, mental or magical. The only way to destroy the
+spirits is to burn their physical bodies to ashes. Instead of
+fighting them, the Neonates can simply avoid them by
+leaving the room; the spirits have bound themselves to their
+bodies and unable to leave the room, even to pursue the
+objects of their hatred.
+
+In life, the priests spoke only Mayathan, and have had no
+opportunity — or desire — to learn any other language since
+their deaths.
+
+5. Dart Traps
+
+Each symbol represents a square slab of thin stone on the
+floor of the corridor. The stone has been covered with a thin
+layer of dirt and soil, making it difficult to notice they are
+different from the rest of the corridor (characters may make
+a Perception + Wits roll against a difficulty of 7 to notice the
+stones). If a weight of more than 80 pounds is applied to the
+stone, the trap is triggered. Ten sharpened wooden darts —
+each about six inches long, and wickedly barbed — are fired
+from holes in each wall, creating a lethal "crossfire" in the
+corridor. The holes are small, less than 1/4 of an inch in
+diameter, and are worked into the carvings on the wall to
+make them harder to spot. Noticing the holes requires the
+characters be studying the walls and make a Perception +
+Wits roll against a difficulty of 8.
+
+Acharacter who triggers the trap by standing on the stones
+will be struck by 2-20 darts, each of which has a damage
+rating of 1. The target of these darts can only dodge if he or
+she has previously spotted the holes in the walls (whether or
+not the character has realized their significance), After they
+hit, the darts combine to do their damage. Thus, if acharacter
+was hit by 10 darts, she would take 10 dice of damage.
+
+Once the traps have been triggered, they cannot be reset.
+Obviously, since the stone slabs — the pressure sensors —
+are only 10 feet wide, the easiest way to avoid the traps (for
+Kindred, at least) is to jump over the area.
+
+‘These traps were installed long after the remainder of the
+pyramid was completed. In fact, they were among the final
+additions to the structure, created just before Mictlantecuhtli
+retreated into his Haven to slip into torpor.
+
+6. Pool of Blood
+
+In the center of the room isa shallow pool surrounded by
+alow stone lip a foot high. When the civilization of Tzental
+was at its peak, blood drained from human sacrifices was
+brought here and poured into the pool as a symbolic offering
+to Mictlantecuhtli (symbolic because the "god" rarely if ever
+drank the Vitae so delivered). Mictlantecuhtli appreciated
+the symbolism: the life-blood of his worshippers brought
+here into the heart of his temple.
+
+One of the results of the Wanderer's thaumaturgical
+research was a ritual designed to prevent the putrefaction of
+
+The Pyramid 43
+
+blood. Mictlantecuhtli used this blood-magic to make the
+symbol of the pool of blood eternal.
+
+Over the centuries, however, the power of the magic has
+faded. There is still blood in the pool, to a depth of three or
+fourinches. However, ithas partially putrefied: the top half
+inch has decayed and dried into a red-black crust. Beneath
+this protective crust, the rest of the blood is protected from
+oxygen and hence from putrefaction. The crustis brittle, and
+will crumble if any weight of more than a couple of pounds
+is applied to it.
+
+The presence of the blood has filled the room — and only
+this room — with the rich, strong smell of vite. It is so
+intense that any Neonate with 5 or fewer Blood Points must
+make a Conscience roll against a difficulty of 7 to avoid a
+Madness Frenzy. If the crust is broken to expose any of the
+fresh blood before the characters enter the room, the diffi-
+culty increases to 8.
+
+Characters are free to replenish their Blood Pools from the
+pool of blood; there is more than enough blood here to sate
+several dozen Neonates. (Trying to take the blood out of the
+room — in a canteen, for example — will not work. The
+magical preservation is limited to this room alone. As soon
+as the blood leaves this room, its age catches up to it and it
+instantly putrefies.)
+
+$= VAMPIRE"
+
+7. Robing Room
+
+It was here the priests of Mictlantecuhtli robed them-
+selves before conducting ceremonies in his honor. The
+entire western wall is a sheet of silver metal polished to
+mirror-brightness. A spell has been cast on the metal mirror
+so that any Kindred who looks in it will see not his own
+image, but the image of the Beast within him: a hideous, red-
+eyed, slavering monster with blood-dripping fangs. Any
+Kindred viewing herself in the mirror must make a Con-
+science roll against a difficulty of 6 or lose one point of
+Willpower. On a botch, she loses one point of Humanity,
+
+This "revealing mirror" was one of the major psychologi-
+cal tests Mictlantecuhtli used to "temper" his Get. Since they
+saw their Beasts every time they robed for a service, they
+could never forget their true nature. With repeated exposure,
+however, the psychological trauma — the cause of the
+potential Willpower loss — diminished. Eventually, theGet
+were able to face their Beasts undismayed.
+
+The mirror also has an effect on mortals. A human who
+looks in the mirror sees himself as a decaying corpse —
+again, a representation of his true nature. This reminder of
+mortality was a cruel jest that Mictlantecuhtli's mortal
+priests had to face whenever they robed for a ceremony.
+
+8. Mosaic Room
+
+All four walls of this room are covered, from floor to
+ceiling, with intricate mosaics and Mayan hieroglyphic
+
+Anto
+
+x
++
+
+Virw
+
+Coneedence
+
+Sel Control 90000
+
+Conmage 0000
+
+a 9
+
+Fo-Other Traitsre — Foe—Tlumanitymee AH eal
+
+° @000000000 Baie =O
+
+tet 40
+
+yfwed 2-0
+
+0000 tame Willpower aot Wounded 3 0
+4—Combat——t- © © ©0000000 Gaia * 5
+gooooooo00 Ineapneitated
+
+sFoe=Experiencemse
+"t—Blood Poolmt
+
+‘Asia 757 Abii 1905 Dipl: 3 Dokaroode'$ Vie: 7 Fete Few 15 72M)
+
+44 Awakening
+
+‘The intricacy of this work is nowhere near as great as
+in area 2, so the hypnotic effect does not recur. If a
+leonate can read the hieroglyphs, they relate the history of
+
+" Theroomis occupied by a single ghoul, Anton. This is the
+‘Poor creature who accompanied Pietr the Vampire into the
+pyramid. Pietr was badly mauled by Mictlantecuhtli's de-
+fenders, but the attendant Vampires did not destroy this
+ghoul. Instead, they have allowed him to cower within the
+" depths of the pyramid, fearing the sounds of their move-
+‘ments. (This, they decided, was an even crueller punishment
+_ forhis trespasses than destroying him.)
+
+‘The ghoul was already slightly insane when he accompa-
+nied Pietr to Tzental; now he has lost all touch with reality.
+Tn the weeks since his arrival here, he has felt the pangs of
+hunger for both food and blood as the potence of Pietr's
+bloodin his veins has begun to fade. He knows, instinctively
+through his madness, that unless he drinks the Vitae of a
+Kindred again soon, he will become fully mortal once more
+... and then he will die. He is too afraid of the Vampiric
+attendants of Mictlantecuhtli to attempt to feed from them,
+but any other Vampire who enters the pyramid is another
+story.
+
+Ifthe Neonates' have lights or make noise, the ghoul will
+be warned of their approach, and he will hide himself around
+the corner just within the room. As the Neonates approach,
+he will fling himself upon the closest character and try to
+drink his or her blood. The ghoul is by now so insane that he
+will fight until he is destroyed.
+
+Anton
+
+Image: A wild-eyed man in torn clothes, hair awry,
+gibbering with fear, madness and bloodlust.
+
+Roleplaying Hints: Scream wildly, and attack the Neo-
+nates in a frenzy.
+
+9. Fire Traps
+
+The dotted line diagonally crossing each corner is a
+tripwire three inches off the ground. If the tripwire is pulled,
+a square, barred cage — seven feet high and open at the
+bottom — drops from the ceiling, trapping within it the
+character who triggered the trap. The cage has a large stone
+slab on top of it and weighs approximately 1200 pounds,
+requiring a dice pool of 9 to lift it. Bending the bars — to
+allow the victim within the cage to escape — requires a dice
+pool of 6.
+
+Once the cage has fallen, the floor beneath it bursts into
+magically-created flames. These flames start at about 6
+inches in height, and increase in height by one foot each tum
+until —after the seventh round — the cage is filled with
+flame. The fire lasts a total of ten rounds, then vanishes.
+
+The victim in the cage must make a Stamina + Fortitude
+roll to resist damage from the fire, against a difficulty of 5.
+On turns one and two, the fire inflicts one wound per turn; on
+turns three through five, it inflicts two wounds per turn; and
+onturns six through 10 it inflicts three wounds per turn. Note
+that this is aggravated damage.
+
+Apart from the damage — which is deadly enough — the
+situation of being trapped within a fire-filled cage is im-
+mensely terrifying to a vampire (or to anyone else!). Each
+turn, the victim must make a Courage roll against a difficulty
+of 8 or enter a Terror Frenzy — a potentially lethal devel-
+opment, since a victim in Frenzy can do little to save himself!
+
+Obviously, once the trap has been triggered, it cannot be
+reset. Again, as with the dart trap, the easiest way to avoid
+the danger is to notice the tripwire and step over it. The fire
+traps were installed immediately before Mictlantecuhtli
+
+went into Torpor to protect him from those who would
+invade his Haven.
+
+10. Mirrors
+
+The dotted line crossing the corridor represents a floor-to-
+ceiling mirror of metal, polished on both sides. The mirror
+issix feet wide ina 10-foot-wide corridor, meaning that there
+is a gap of two feet on either side — enough space for
+individuals to slip by. The metal is soft, and bullets will
+
+The Pyramid 45
+
+penetrate it (successful damage dice are reduced by 10),
+(Note that the mirrors are intended merely as aggravations
+for the Neonates, and were originally intended to give the
+pyramid's defenders warning as to the invaders' location,
+Now itis quite likely characters will open fire on lights they
+see ahead of them — unaware that they are their own lights,
+reflected in the mirrors — thus wasting precious bullets.)
+
+11. Pit Trap
+
+This is another 10-by-10 foot pit, 10 feet deep, concealed
+by a magical illusion of floor. Characters watching the floor
+ahead gain a Wits + Occult roll against a difficulty of 8 to
+notice that the image of the floor shifts slightly, somewhat
+like a mirage. The illusion vanishes as soon as a material
+object passes through the plane of the floor.
+
+As soon as an object weighing more than 100 pounds
+lands on the floor of the pit, a cubic block of stone justa little
+less than 10 feet on a side is released from the ceiling,
+Theoretically, this stone should drop free, instantly crushing
+anyone inside the pit, and completely filling it. Over the
+centuries, however, earthquakes have shaken the pyramida
+little out of alignment. When the block is released, it falls
+about four feet, then stops with a loud grinding noise,
+dropping rock dust into the pit. The block is too heavy to
+remain stuck like this for long, however. The Neonates have
+two turns in which to pull one or more of their number out of
+the pit; at the end of the second tum, the block of stone falls
+free and slams into the pit. The top of the block is approxi-
+mately level with the corridor floor.
+
+A 10-by-10-by-10 block of stone weighs on the order of
+90 tons. Any character caught beneath this block when it
+falls is Extinguished, and any equipment they may be
+carrying is unrecoverable.
+
+12. Shrine of Friendship
+
+When Mictlantecuhtli reached his agreement with the
+Lupines, the treaty was sealed with the exchange of items of
+value to both sides. Mictlantecuhtli bestowed upon the
+Lupines items of worked gold, which the werewolves have
+secreted somewhere safe. In return, the Lupines gave to
+Mictlantecuhtli four huge emeralds.
+
+In this room there are four stone pedestals, carved from
+the same grey rock as the rest of the pyramid. Each pedestal
+bears an emerald the size of a man's fist, each of which is
+worth approximately $200,000 to the right buyer.
+
+Mictlantecuhtli placed the gems on display here largely as
+a reminder to his followers of the binding treaty with the
+Lupines. He also thought they would serve to remind his
+mortal priests that there was more to the world than they
+knew, and that he had ties to forces they did not understand.
+
+Further, the gems represented yet another test — for both
+his Get and his mortal priests. Obviously, the gems were
+incredibly valuable, and thus a significant temptation. He
+
+46 Awakening
+
+e in finding out whether greed would outweigh
+‘of punishment, and prompt his followers to steal the
+
+ Symbolically, Mictlantecuhtli thought it would be fitting
+ch lapse in self-control were punished —at leastin part
+further loss of self-control, to bring home to the thief
+enormity of his or her weakness. Thus he cast various
+yerful rituals, in the form of a curse, on the stones.
+"Anyone who carries one of these stones on their persons for
+~ more than six hours is subject to this magical curse.
+
+_ Foramortal, the curse manifests itself as progressive loss
+~ ofself-control, leading quickly to homicidal rages with little
+~ {ono provocation. For a Vampire, each six hour period the
+character keeps one of the stones on her person, she tempo-
+marily loses one point of Self-Control. When the character's
+Self-Control score reaches zero, she immediately and auto-
+matically Frenzies. The character can terminate the Frenzy
+by making Willpower rolls as normal, but when the Frenzy
+ends she automatically gains a Rage Derangement. Lost
+Self-Control points return at a rate of one point per day,
+starting the day after the character has disposed of the stone.
+
+it inflicts are considered Aggravated Damage. A character
+using Psychometry can learn that this weapon was created by
+Mictlantecuhtli himself and bestowed as a gift upon a loyal
+servant.
+
+The room and the crypt were constructed as a personal
+Haven for Mictlantecuhtli's favorite attendant.
+
+15. "Empty" Room
+
+‘When the Neonates first entered the pyramid, their lights
+and the sounds of their movements alerted a Vampire atten-
+dant who was in this room to their existence. Using Obfus-
+cate, he conceals himself in the northeast corner of the room.
+If detected, he will fight to the death to destroy the intruders.
+If the Neonates do not spot him immediately, he will follow
+them, attacking from behind when their attention is else-
+where (pushing one or more characters into the various traps,
+for example).
+
+Before Mictlantecuhtli entered Torpor, this room was
+used as a small "chapel", a room in which ceremonies of
+lesser significance were performed.
+
+B. Robing Room
+
+‘This is another room where the priests of Mictlantecuhtli
+robed themselves before conducting ceremonies in his honor.
+‘The entire eastern wall is a sheet of silver metal polished to
+mirror-brightness. A spell has been cast on the metal mirror
+so that any Kindred who looks in it will see an image of
+himself consumed in flames, dying in agony. Any Kindred
+who views himself in the mirror must make a Courage roll
+against a difficulty of 6 or lose one point of Willpower. On
+abotch, the character loses two points of Willpower.
+
+This magical mirror was created as yet another way of
+tempering Mictlantecuhtli's Get: by facing them with one of
+their greatest fears, he intended to develop their courage.
+
+14. Crypt
+
+Inthe center of the room isa low bier of intricately-carved
+limestone on which lies a motionless male figure. Like the
+bodies in room 4, he is dark-skinned and dark-haired, wear-
+inga white linen robe. This figureis, in fact, the most trusted
+of Mictlantecuhtli's Vampire attendants (see Dramatis Per-
+sonae below for statistics), currently lying in light Torpor.
+He is currently down to only two Blood Points, not the four
+Blood Points as stated below for the other attendants, and the
+scent of Kindred Vitae — whether from wounds suffered by
+the Neonates, or just the faint odor secreted by their skin —
+will be enough to rouse him. If unfamiliar Vampires —i.e.,
+the characters — approach within six feet, he will rouse
+instantly and enter Frenzy, falling upon the stranger and
+trying to drink her blood. He will continue to Frenzy until he
+is destroyed, or until he has drunk eight Blood Points.
+
+This attendant has a knife in a sheath athis hip. This knife
+has been imbued with magical powers, so that any wounds
+
+The Pyramid
+
+16. Corridor of Fire
+
+This hallway is magically warded against Kindred. Mor-
+talscan pass through it unhindered; when a Vampire reaches
+
+
+the middle of the corridor, however, flames burst from the
+walls in a silent concussion of fire and fill the entire hallway
+for a period of one turn. Any Kindred within the hallway
+suffers two Health Levels of damage; victims can roll
+Stamina + Fortitude against a difficulty of six to resist this
+damage. After the fire has been triggered once, the warding
+is totally discharged and Vampires can traverse the corridor
+safely.
+
+Acharacter with senses heightened by Auspex is entitled
+to a Perception roll against a difficulty of eight. If he
+achieves one or more successes, he senses an aura of magical
+power blocking the hallway, although he gains no more
+information about what that power might be capable of
+doing. The only way a Vampire can traverse the hallway
+without triggering the warding is if he or she is wearing —
+not carrying — one of the black stone rings wom by the
+Vampire attendants of Mictlantecuhtli.
+
+17. High Priest's Tomb
+
+Lying on a low stone bier in the center of this room is
+another perfectly-preserved, dark male figure. This was, in
+life, the high priest of Mictlantecuhtli. There is a wound in
+his throat, and his body is drained completely of blood.
+Around his neck, on a fine gold chain, is a black stone
+pendant in the shape of a rayed sun, about as big as a man's
+palm. A character who uses Psychometry on this pendant
+will sense that it is imbued with faint magical energy,
+although the nature of its powers — if any —is unclear. This
+
+Discipline will also indicate that it was the high priest
+himself who imbued it with its magic.
+
+During his life, this black sun symbol was indicative of
+the man's position as high priest of Mictlantecuhtli. Assuch,
+itallowed him to gain entrance to the "god's" Haven on the
+sub-level of the pyramid, and this was a matter of great pride
+to the man. Even death was unable to eradicate the priest's
+pride in what the pendant represented.
+
+If anyone removes the pendant from around the priest's
+neck, his spirit will manifest itself as an insubstantial figure,
+and attack whoever possesses the pendant. This spirit has a
+"touch" attack which allows it to drain Willpower. It attacks
+with eight dice against the victim's Wits + Dodge. Every
+success drains one Willpower point from the victim. If the
+victim has Fortitude, the drain can be resisted by a Courage
++ Fortitude roll with a target of 9. For every success, one less
+Willpower point is lost. In addition, the spirit has a three
+rating in the Lure of Flames aspect of Thaumaturgy.
+
+The spirit cannot be harmed by any attack, whether
+physical, mental or magical. The only way to destroy it is to
+burn the priest's body to ashes. Unlike the other spirits in
+room 4, this apparition is not bound to this room, and will
+pursue the Neonates until it or they are destroyed.
+
+Originally, before the construction of the lower level, this
+room was Mictlantecuhtli's personal Haven. As his soul-
+weariness grew, he became concerned that other Kindred
+might seek him out and attempt to destroy him. Using his
+growing Thaumaturgical prowess, he enchanted the Corri-
+
+48 Awakening
+
+2uunig ‘f UeLIg AQ 3661 IYBLAdOD soiydess,
+
+i
+:
+
+
+dor of Flame as a defense mechanism. Since he and his Get
+needed free run of the entire pyramid, he created the black
+stone rings as tokens of passage to prevent the fire trap from
+harming those who had a right to be in the chambers.
+
+Sub-Level
+
+On this level the floors are all packed earth, and the
+ceilings are much lower — no more than seven feet. Again,
+there is no artificial lighting.
+
+18. Hall of Fear
+
+This room has been enspelled with powerful magics
+affecting the mind of any Kindred who enters. As soonas the
+characters enter this room, their minds are possessed by its
+enchantment. Each character suddenly finds himself alone,
+or so it seems; to each character, it appears that the others
+have suddenly vanished, and that he is alone in this room
+(This will probably require that the Storyteller handle each
+player individually, in private.).
+
+Once he is alone, the character is faced by a physical foe
+who embodies what the character most fears. The Nature
+chosen by the player for the character might well give the
+Storytelleraclue. A Bravo might be faced by an even bigger
+bully than he is; a Deviant by a representative of authority;
+a Plotter by someone who knows all his secrets and will tell
+them to the world. If the character's Nature or behavior does
+not give the Storyteller a clue, something generic — like a
+humanoid being consisting entirely of flame, or one who
+burns with the light of the sun — would be appropriate.
+
+No matter what appearance this foe takes on, its Physical
+Attributes and combat skills are exactly the same as the
+character (although the player should not know this). The
+foe immediately attempts to make the character Frenzy, in
+whatever way seems the most effective: insults, taunts,
+attacks on the character's deepest fears, or perhaps even
+outright physical attack. The foe knows everything about
+the character, and so knows his or her weaknesses. (This is
+because the foe is actually a manifestation of the character's
+own subconscious fears and death-wish.)
+
+If the foe enters combat, it uses its teeth and claws. The
+character must fight it hand-to-hand; the only weapons
+allowed to the character are melee weapons that have some-
+how been imbued with magical powers. The characteris free
+touse Celerity, Fortitude or Potence (if he has them) to better
+his odds against the foe, but neither combatant can use any
+other Disciplines.
+
+The character fails the Test of Fear if he is driven to
+Frenzy. If this happens, the wounds he suffered are healed,
+but he permanently loses one point of Courage. A character
+reduced to zero Courage can never again resist a Terror
+Frenzy. (This loss is in addition to any consequences of the
+Frenzy itself.)
+
+character, and is up to the Storyteller.) Once the |
+defeated, it vanishes, and any wounds the characte
+
+porarily gains one point of Courage and one pointof!
+ity; these temporary points last for 12 hours, a reward'
+character conquering his fear.
+
+Each character must experience this encounter the
+time he or she enters this room. From the point of view of
+character standing outside the room, watching another
+acter, the encounter is invisible and instantaneous. Ont
+moment the character in the room is normal, the next
+she could well be in Frenzy, with no immediately apparent
+precipitating factor.
+
+Obviously, Mictlantecuhtli created this room — and the
+Hall of Dark Dreams and Hall of Victims described below—
+as part of his campaign to test and temper his Ki
+followers.
+
+19. The Jaguar Door
+
+This is a heavy door carved from a beautiful amber-
+colored wood. Worked into the door is an intricate carving
+of the face of a jaguar. The two eyes are highly-polished
+black stones that catch and reflect any light that fallsonthem, —
+The work is so intricate and beautiful that the jaguar almost
+seems to be alive.
+
+Any character who examines the carving closely must
+make a Willpower roll against her Perception (possibly
+modified by Auspex). On a failed roll, the character is
+entranced by the carving and will remain motionless, staring
+at it in wonder, until he is dragged away by companions, or
+his view of the carving is blocked. Ona botch, the character
+must make a Self-Control roll against a difficulty of five or
+fly into a Rage Frenzy. If a character has been entranced by
+the carving, the Storyteller should make a note of it.
+
+On the other side of the door, a creature is prowling: a
+jaguar that has been turned into a ghoul by the Vampire
+attendants (see below). Thiscreature will attack intruders on
+sight, and will fight until it is destroyed. Any character who
+has been entranced by the jaguar door must make a Courage
+roll with a difficulty of seven when attacked by the jaguar
+ghoul, or Frenzy. The sounds of combat will immediately
+summon the Vampire attendant from room 20 to join the
+fray.
+
+The Jaguar
+
+Strength 5, Dexterity 5, Stamina 4, Alertness 5, Brawl 4,
+Dodge 5, Potence 3, Celerity 2. It attacks physically with a
+bite and aclaw attack each turn. In both cases it attacks with
+six dice; difficulty is five for bite and four for claws. A bite
+inflicts damage 7, while a claw attack inflicts damage 6.
+
+50 Awakening
+
+0. Storage Room
+"Once a storage room, this is now used as a Haven by the
+attendant to whom the jaguar ghoul is Blood
+Ifthe attendant defeats any intruders, it will be here
+
+hee retreats to tend any wounds he has suffered.
+
+1]. The Hall of Dark Dreams
+
+The enchantment cast on this room affects the minds of
+"any Kindred who enter it, in much the same way as did room
+18. Again, each individual to enter suddenly believes
+himself to be alone ...
+
+But only fora moment. Suddenly he is surrounded by
+insubstantial images of people from his past who witnessed
+‘or otherwise were aware of his greatest failures. Maybe the
+shades surrounding him were victims of these failures, or
+caused them. In any case, the shades start taunting the
+character about the failures, laughing at him and deriding
+him, trying their best to totally humiliate him. The character
+is unable to do anything physical to stop the taunting; the
+shades are completely insubstantial and cannot be harmed in
+any way. Any attempt to physically harm them will auto-
+matically fail, giving them yet another thing to taunt the
+character about.
+
+‘This is a good opportunity for roleplaying. The Story-
+tellershould pull embarrassing incidents out of the character's
+—~ipast, and ridicule the character's — not the player's —
+
+actions. The ridicule will continue until the character
+realizes the shades are playing on her sense of self-doubt,
+and decides to steadfastly ignore the taunting, or stands up
+for her actions in a forthright and honest way. At this point,
+the player should make a Perception + Empathy roll against
+adifficulty of 7. On a successful roll, the character tempo-
+rarily gains one point of Self-Control; this temporary gain
+lasts 12 hours, a reward for confronting self-doubt. On a
+failed roll, she permanently loses one point of Self-Control,
+and must immediately make a Self-Control roll — using her
+new level — against a difficulty of 6 or fly into Frenzy. On
+abotch, the character Frenziesand gainsaRage Derangement. A
+character reduced to zero Self-Control can never ag
+inresist a Rage Frenzy.Each character must experience this
+onfrontatio
+
+the first time she enters this room. Again, from the point
+of view of a character standing outside the room, watching
+another character, the confrontation is invisible and instan-
+taneous.
+
+22. Hall of Victims
+
+In this room, Kindred undergo another mental test in
+which they mustcome to terms with the many deaths on their
+conscience. The set-up is similar to that of the previous
+room: each Kindred who enters the room suddenly finds
+himselfalone, then an instant later is surrounded by shadowy
+figures of his many victims. These insubstantial shapes wail
+
+and cry, blaming the character for sending them to the hell
+they currently inhabit. The shades swarm around the char-
+acter, buffeting at him and blocking his vision. There is no
+way of physically attacking these shapes or driving them off.
+They will notlisten to his justifications or his anger, and react
+as though they simply don't hear him.
+
+After this has continued for a short time — during which
+the player should be encouraged to roleplay his character's
+reaction — require a Perception roll against a difficulty of 6
+(possibly modified by Auspex). On a successful roll, the
+character spots the figure of a child, standing motionless just
+beyond the chaos of the swirling shapes. This child, staring
+wide-eyed and fearful, looks exactly as the character did
+when he was a child. The character must now make a Wits
++ Empathy roll against a difficulty of 6. If the roll is
+successful, the character realizes that — in some way — this
+small figure is the child that he once was, frightened and
+horrified now by what he has become. The child needs to be
+accepted and welcomed, the character senses.
+
+It is up to the player how his character responds to this
+child. If he reacts in any accepting or nurturing way —
+hugging it, speaking soothingly to it, greeting it as a lost
+friend, etc. — he has passed the test. He temporarily gains
+one point each of Conscience and Humanity; this temporary
+gain lasts 12 hours, a reward for coming to terms with his
+own lost innocence.
+
+If the character fails either roll, or reacts negatively to the
+child, he instantly and permanently loses one point each of
+Conscience and Humanity, and must immediately make a
+
+The Pyramid 51
+
+Conscience roll —using his new level —againstadil
+of 6orfly into Frenzy. Onabotch, the character Frenziesand
+gains a Madness Derangement. A character reduced to
+Conscience can never again resist a Madness Frenzy,
+
+Each character must experience this confrontation the
+first time he or she enters this room. Again, from the point
+of view of a character standing outside the room, watching -
+another character, the confrontation is invisible and instan-
+taneous.
+
+23. The "Black Sun" Portal
+
+The door is heavy and strong, carved out of light-colored _
+wood. Carved into the door is an emblem of a multi-rayed
+sun (the same symbol as that worm around the neck of the
+priest in room 17); this sun symbol is almost three feet in
+diameter, and is stained black. Inset into the center of the sun.
+is a smaller copy of the symbol, about the size of a man's
+palm, made of polished black stone. (This stone symbolis
+exactly the same size, shape and material as the priest's
+pendant.) Psychometry will indicate to a character that this
+stone symbol — but not the door as a whole — is imbued
+with magical energy. (If the character has already assayed
+the priest's pendant symbol, on a Perception + Occultroll he
+can recognize that the patterns of magical energy in both
+symbols are virtually identical.)
+
+The door has no handle or doorknob, and is securely
+locked from within. There is no apparent locking mecha-
+nism, however, and no keyhole. (Thus it is impossible to
+"shoot out the lock".) Breaking down the door requires a
+Dice Pool of 5 (see page 145 of the Vampire rulebook), but
+the commotion will definitely give everyone within room 24
+one turn (at least) to prepare for action.
+
+In fact, the door is magically secured, and the symbol that
+the priest from room 17 was wearing as a pendant is the key.
+Ifthe rayed sun symbol from the pendant is placed in contact
+with the similar symbol set in the middle of the door, the door
+will unlock and silently swing open. The Kindred — and
+other creatures — within room 24 will be surprised and
+unable to act for one turn.
+
+This magical portal is the last defense Mictlantecuhtli
+Created to guard his resting place. He recognized that when
+heawoke from Torpor he would need assistance in regaining
+his strength, and so designed a door with a magical lock,
+rather than a portal only he could open from the inside.
+
+24. Mictlantecuhtli's Haven
+
+WW The room has a 12-foot-high ceiling, and the floor is
+
+y paved with slabs of the same stone that makes up the walls
+
+| and ceilings. Much of the wall-space is covered with
+
+(3 ) ¥ intricate mosaics. (This is human work, and hence has no
+EZ | y hypnotic or magical effect.) The room is lit by two bronze
+
+braziers set on stone pedestals. In the center of the room is
+a low stone bier on which lies a sallow-skinned, dark-haired
+
+52 Awakening
+
+figure wearing a long black robe, bedecked with gold jew-
+elry; this figure is Mictlantecuhtli himself.
+
+Standing beside Mictlantecuhtli is a Vampire attendant,
+wearing the familiar white robe. He has a "black sun"
+symbol — like the one worn by the priest interred in room 17
+—worn as a pendant around his neck. In addition, he has a
+knife in a sheath at his hip. This knife is similar to the one
+possessed by the attendant in room 14, in that any wound it
+inflicts is considered Aggravated Damage. The attendant
+has self-inflicted wounds at his wrists, and Mictlantecuhtli
+has blood on his lips and chin.
+
+If the Neonates have opened the door silently, then they
+will catch the attendant in the midst of his activity: carefully
+feeding Mictlantecuhtli blood from his wrists to re-establish
+his own Blood Pool. (This was a dangerous activity, but the
+Methuselah managed to avoid Frenzy during the early stages
+of the process.) The attendant will be surprised for one tum
+when the door swings silently open; on the next turn,
+however, he will leap to the attack. The turn after,
+Mictlantecuhui will slowly sit up and stare at the Neonates
+with eyes that look blood-red in the firelight.
+
+If the Neonates had to break down the door, the attendant
+within will be alerted to their presences. As soon as they
+open the door, the attendant will fall upon them. On the next
+turn, Mictlantecuhtli will sit up and stare at the Neonates.
+
+The stare of a Methuselah like Mictlantecuhtli is a terri-
+fying thing to behold, even without factoring in his Domi-
+nate and Presence disciplines. This is particularly so since
+the Neonates were probably expecting to find him safely in
+Torpor when they arrived to drink his vite ...
+
+Presumably, the Neonates will be armed with guns, and
+will start pumping rounds into the attendants, As soon as
+Mictlantecuhtli sees this and realizes that the strange objects
+in the intruders' hands can inflict damage at a distance, he
+will establish his Puissant Shield (see Chapter 3) to protect
+himself. He will then enter the fray, using his powers to their
+besteffect. Each timea Neonate is wounded, Mictlantecuhtli
+must make a Conscience roll against a difficulty of 5 or
+Frenzy.
+
+If the Neonates manage to defeat Mictlantecuhili, they
+can drink his ancient and potent vita.
+
+Mictlantecuhtli wears gold rings, chains, bracers and
+earrings worth about $50,000 on the open market. Further,
+around the Methuselah's neck hangs a large iron key on a
+fine chain. This is the key to the treasure room, room 25.
+
+25. Treasure Room
+
+The door is securely locked. The key to this lock hangs
+around the neck of Mictlantecuhtli himself. The door can be
+broken down; this requires a Dice Pool of 4.
+
+Within this room are some of the treasures of
+Mictlantecuhtli. The walls are painted unrelieved black,
+while the ceiling and floor are painted blood-red. Clay
+effigies of various mythological creatures stand about the
+floor. These range in size from a foot-high representation of
+alion-headed dragon toa full-size replica ofa jaguar. Sofine
+isthe workmanship that the figures almost seem alive. These
+effigies range in weight from about 20 pounds up to several
+hundred pounds, and would prove valuable to the right
+
+The Pyramid 53
+
+meeTuneasieeieccuaea ppenare rai vee
+
+fe oo |
+
+oT
+
+I
+
+: te
+
+buyers ... if the Neonates could find some practical way of
+moving them out of the pyramid.
+
+On a wooden stand is a large circular plaque of beaten
+gold, The plaque is three feet in diameter, and bears a
+representation of a Mayan calendar. Weighing about 350
+pounds, the plaque is worth almost $2 million dollars.
+
+Mounted on a wooden frame is a finely-woven cloak in
+black and blood-red. Psychometry will show that the cloak
+is imbued with magical energy. In fact, the wearer of the
+cloak can use the power Puissant Shield, drawing on the
+power of the cloak and not on the wearer's own Thau-
+maturgy skill; in fact, the wearer can use this power whether
+or not he has any rating whatsoever in Thaumaturgy. To use
+the power, the character must simply concentrate. The
+player then rolls five dice — the power rating of the cloak —
+against a difficulty of 6. The Puissant Shield lasts two turns
+foreach success achieved. If the player fails this roll, he must
+then make a Courage roll or fly into Frenzy. On a botched
+roll to use the cloak, the character automatically Frenzies,
+
+and automatically gains a Terror Derangement. Obviously,
+the cloak is very powerful and extremely useful, but it
+represents a very real risk.
+
+The Neonates should be forced to be very creative to get
+these "treasure" items out of Mexico. The Mexican govem-
+ment has strict regulations about taking archaeological arti-
+facts out of the country. While these regulations can be
+circumvented — through judicious bribery, for example —_
+itis not easy, and could well subject the Neonates to serious
+tisk of discovery.
+
+Dramatis Personae
+
+Vampire Attendants
+Sire: Mictlantecuhtli
+Nature: Fanatic
+Demeanor: Fanatic
+Generation: 13th
+Embrace: c. 575 AD
+Apparent Age: Mid 20s
+
+Image: Short and muscular, with golden skin and black
+hair, dressed in white robes. Each wears a ring of black
+stone. After more than a millennium wandering the pyramid
+in the dark, they can find their way around perfectly with no
+light. (Specifically, they know exactly where the traps are
+and avoid them.)
+
+Roleplaying Hints: You don't talk, you just attack
+intruders and destroy them or die trying.
+
+VAMPIRE:
+Vampire Attendants
+
+Mixibute:
+
+Mental
+
+SeiFControl
+
+Conny
+
+sto Humaniiyat
+
+ee00000000
+stom Willpowermeot
+
+eevceeeo00
+doooooo000
+
+see Combia eet
+
+ae esate!
+
+pericnceneet
+
+ste=Blood Poole
+0000000000
+
+Aina 7A Abi: 0 Dine 3 Race § Vint 7" Fels ene 13 ORAM)
+
+54 Awakening
+
+Conclusion
+
+There can be several interesting consequences of this
+i. If the Neonates succeeded in drinking the Vitae of
+ctlantecuhtli, then one — or perhaps more, if they used
+Ritual of the Bitter Rose — will have advanced in
+ion. To have defeated Mictlantecuhtli, they would
+have had to destroy or drive away his servitors within
+pyramid, which means that there will be no Kindred left
+complicate the unlife of the Neonates in the future.
+lers can certainly add such complications if they
+of course. Some suggestions are provided in a later
+section.)
+The Neonates might not have succeeded, however. They
+might have been driven off, or outright destroyed, by
+"Mictlantecuhtli, his servitors and his other defenses. If he
+" has not been destroyed, Mictlantecuhtli will continue the
+slow return to full activity and power that he has begun.
+_ When he feels healthy once more, he will emerge from his
+pyramid, possibly with the intention of reestablishing a
+Mayan empire in the Yucatan with him as its divine leader
+(The Mexican government would not look too kindly on this,
+ofcourse. Neither would the Inconnu, since Mictlantecuhtli's
+actions would probably be a severe threat to the Masquer-
+ade.). If he survives, Mictlantecuhtli's future plans are
+entirely up to the Storyteller. Should the Neonates have been
+driven off rather than destroyed, they might decide that it is
+their duty to see the Wanderer eliminated, and try to gain
+assistance from other Kindred they know. A surviving
+Mictlantecuhtli can be the center of many future stories.
+
+The Return of Pietr
+
+Pietr, the Diabolist who destroyed Sheaffer in Chicago, is
+obsessed with the idea of drinking Mictlantecuhtli's Vitae.
+It is possible that he learned of the Neonates' journey to
+Tzental, and followed them. His hope in this was that they
+would fail in defeating the Methuselah and be Extinguished,
+but that they would weaken the Wanderer's defenses in so
+doing — weaken them sufficiently for him to finish what
+they started.
+
+If the Neonates have defeated or driven off the Lupines
+from outside the pyramid, there is no reason why Pietr could
+not be waiting in ambush for them to emerge. Even if they
+
+have already destroyed Mictlantecuhtli, Pietr has much to
+gain from destroying them — namely, access to whatever
+treasure they might have found within the Wanderer's Ha-
+ven. If he is waiting in ambush, Pietr will have armed
+himself with —at the very least — a powerful hunting rifle.
+He could also have hired or Dominated unscrupulous mor-
+tals to help him gun down his rivals.
+
+Complications
+
+The Storyteller can make many changes and add count-
+less twists to this story. Following are several simple
+suggestions that Storytellers can use as "seeds" from which
+to build their own complications.
+
+Perhaps other Kindred from their home city are on the trail
+of the Neonates, attempting to head them off before they can
+drink the Vitae of the Wanderer, or planning to destroy them
+should they succeed. The possible motives behind this are
+various. The pursuers might be Elders, or even members of
+the Inconnu, who wish to stamp outall Anarchs who perform
+— or even plot to perform — Diablerie. Alternately, they
+may be Anarchs who fear the Neonates will become direct
+threats to their plans, or the pursuers might have the same
+intention as Pietr: letting the Neonates operate as unwitting
+"point men", tripping the defenses of Mictlantecuhtli's
+pyramid and then moving in themselves to drink the
+Antediluvian's blood. (If Pietr is waiting for the Neonates
+outside the pyramid, this could lead to a three-way battle.)
+
+Even after the Neonates have succeeded, the story does
+not have to be over. Some of the Kindred from their home
+city (especially if itis Chicago) might have figured out what
+the Neonates were planning when they went to Mexico, and
+could well have passed on their conclusions to the Prince.
+The Neonates could return to find a full-scale Blood Hunt
+awaiting them. Even if nobody knew beforehand what their
+intentions were, if they return to Chicago having drunk the
+vita of a Fourth Generation Vampire, many Kindred will
+detect the "taint" of Diablerie on their souls, and react
+accordingly. The Neonates could well discover that their
+efforts have earned them not only an advance in effective
+Generation, but the undying animosity of Chicago's entire
+Kindred society!
+
+Conclusiom 35

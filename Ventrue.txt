@@ -1,0 +1,3856 @@
+# File: Ventrue.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+A Sourcebook for VAMPIRE:The Masquerade"
+
+
+THY KINDRED'S
+
+Et PER
+
+BY ANDREW GREENBERG
+
+
+Power, like a desolating pestilence,
+Pollutes whate'er it touches.
+— Percy Bysshe Shelley, Queen Mab
+
+
+Freedom? You babble to me of freedom? You,
+who dance to the strings of puppeteers so vile and
+so manipulative that you would destroy every sym-
+hol of your old existence at their slightest twitch?
+You, whoscream and fight and brawlall night long,
+draining not only mortals but the mortal world
+until it has nothing left to give?
+
+You deserve no freedom. You deserve only
+contempt. Where were you when we built this city?
+Where were you when we battled the Sabbat?
+Where were you when the nights promised noth-
+ing but treachery and blood? Freedom belongs to
+those who earned it. For you, the only freedom is
+death.
+
+
+Credits:
+
+Written by: Andrew Greenberg
+
+Edited by: Robert Hatch
+
+Layout and Typesetting: Kathleen Ryan
+
+Art: Joshua Gabriel Timbrook, Eric Hotz, Jost Amman,
+Tobias Stimner, Geofroy Tory, Oronce Fince, Albrecht
+Durer, and Jan van Eyck.
+
+Art Director: Richard Thomas
+Front Cover Art: Timothy Bradstreet, Grant Goleash
+
+Cover Design: Lawrence Snelly
+
+Scanned by Heliodoro
+
+Edited by Ivan Krenyenko
+
+Powered by Margaret Thatcher
+Compressed by Dumbo the Elephant
+
+Special Release for RPG BOOKZ & SCANS
+the one and only Direct Connect Hub
+available at ( bookmark this adress )
+
+rpgbookz.dyndns.org
+
+Better use Dc++ to connect there by the way
+
+ys 4598 STONEGATE IND. BLVD.
+heat, STONE MTN., GA 30083
+
+GAME STUDIO
+
+©1994 by White Wolf, Inc. All rights reserved. Re-
+production without the written permission of the publisher
+is expressly forbidden, except for the purpose of reviews.
+Vampire: The Masquerade and Clanbook: Ventrue are
+trademarks of White Wolf, Inc. All characters, names,
+places, and text herein are copyrighted by White Wolf,
+Inc. Order of Hermes (Mercury) is a trademark of Wiards
+of the Coast, Inc., are from the Ars Magica™ game, and are
+used with permission. Ars Magica is a trademark of Wizards
+of the Coast, Inc.
+
+The mention of, or reference to any company or
+product in these pages is not a challenge to the trademark
+or copyright concerned.
+
+Because of the mature themes involved, reader discre-
+tion is advised.
+
+Special Thanks to:
+
+Josh "The Hammer" Timbrook, for turning out the righteous
+White Wolf Magazine art in that warlike British style.
+
+Sam "Vacation Man" Chupp, for following the wind when
+his Wraith duties were done.
+
+Chris "Tales of Nassau" McDonough, for filling us in on the
+colorful details of his boating expedition.
+
+Michelle "Sock Her" Prahler, for spending her Sundays
+running around, kicking a ball and aggravating that weekend
+headache.
+
+Ben "Big Debts" Monk, for learning just how much he owes
+Andrew and Ken as a result of avoiding the gym.
+
+Stephan "Chainsaw" Wieck, for discovering that Street
+Fighter had gone an eensie bit over its page count.
+
+Aileen "Ever So Coordinated" Miles, for wearing just the
+right outfit for every character she plays.
+
+Larry "Don't Tell Them Who | Really Am" Schnelli, for not
+letting us publish his real name.
+
+Word from the White Wolf Game Studio
+
+Okay, you've taught us a lesson. No matter what we
+try, we can't get you to send in SASE's with your
+letters and questions. For you we are starting up "Ask
+White Wolf," a regular column in White Wolf
+
+Magazine. Any rules questions and such we get will be
+answered there. If you want a personal answer or
+Writers Guidelines, you must still send us a Self-
+Addressed, Stamped Envelope (SASE).
+
+4 Clanbook: Ventrue
+
+7
+
+15
+
+25
+CHAPTER FOUR: VENTRUE TEMPLATES
+37
+
+Contents 5
+
+SOR.
+
+OY nee
+4
+
+A, Ns _ NAR 2
+
+
+TYSEPAS OR NES RN EPA,
+
+VX
+SS
+
+Is it possible to succeed without any act of betrayal?
+— Jean Renoir, My Life and My Films
+
+What rare emotions tonight creates in me! One could almost believe that | was
+alive again. Later tonight I will lead you through this anniversary of your rebirth —
+the last anniversary under my care. You have already prepared your own havens;
+tomorrow they become your homes. You will always be welcome in this old country
+club of mine, but now I shan't have to listen to your obnoxious, incomprehensible
+
+"Butthole Sur fers," while you in turn will not be "tortured" b y the transcendent
+y Yy
+beauty of chamber music.
+
+You know, I envy you in this endeavor. You've always expressed your amaze-
+mentat the wealth I've accumulated and the powerI've acquired. While both would
+have helped me immeasurably in the past, I must admit that the cliché about the
+getting being more enjoyable than the having is quite true. For the rest of eternity
+(Caine willing), I'll remember my battles against the Malkavian Sabado, which
+ended with me in control of Dobbs Industrial and him in the Dobbs blast furnace.
+Ordering about the current CEO is nothing in comparison to that strange and
+invigorating feud.
+
+My dear, I never told you how close I came to the Final Death during those
+dangerous nights. The last fight against Sabado would have ended much differently
+had I not been able to call on the assistance of Jason Summers and his Scottish
+ghouls. It was they who monitored Sabado's ties to the Inquisition and managed to
+turn that organization against him.
+
+Thadn't planned to turn this brief note into one of my "interminable and inane"
+lectures (yes, | overheard you talking to Carlos — perhaps I was a bit long-winded
+in criticizing your taste in vessels), but an interesting point has sprung to mind. You
+
+8
+
+Clanbook: Ventrue
+
+have no doubt heard me rail against certain members of our
+august clan. Lady Anne in particular has been a thorn in my
+side, what with her constant insistence on protocol and strict
+adherence to tradition. The fool would not recognize a business
+opportunity if it bit her on her skinny, pale...never mind. I find
+myself using your rude little colloquialisms far too often.
+
+Despite my personal feelings for Lady Anne, however,
+were I given the choice of her aid or that of Bernhard (by the
+way, thanks to my actions that old chantry leader is now a
+Tremere lord, but that story merits an entire letter in itself),
+who shares many of my feelings and goals, I would not hesitate
+to choose Lady Anne. It has nothing to do with her position as
+Prince of London; it has nothing to do with the allies she would
+bring with her. It has everything to do with the fact that she is
+a Ventrue, and that is the only fact which matters.
+
+Thave told you about the ties that bind our clan, but you
+have never directly experienced this miracle. Our clan may
+well comprise the most desperate collection of conniving
+backstabbers one will ever find, but they are our conniving
+backstabbers. There is nothing in the world like the sensation
+of realizing that, even when the night is at its darkest and all
+seems lost, you could rally an army to your side with but a word.
+
+Imagine yourself driven from your haven by Sabbat,
+forced to flee to terra incognita, and then hunted even there.
+This is exactly what happened to my own sire in the century
+preceding my Embrace. Trapped in Oslo, he pursued a rumor
+just as the Black Hand pursued him. With the evil sect's
+devilish murderers hot on his trail, he found the Boar's Tusk
+Inn and sought sanctuary within. The Boar's Tusk, as ru-
+mored, provided haven for three of our kind. They met your
+grandsire's pursuers on the field of battle. They never hesi-
+tated in their duty, though they knew that even should they
+prove victorious, the cost would be high indeed. Such was the
+case. All the combatants suffered grievous wounds. The
+Sabbat destroyed one of our clan that night, and another has
+yet to rise from torpor. Nonetheless, Clan Ventrue was
+victorious that night, and because of its members' sacrifice,
+you and I are now immortals.
+
+Make no mistake — we may call all vampires Kindred,
+but only other Ventrue are of our kind. You have asked me
+many times why I chose you for the Embrace, and I have given
+you all the stock answers — the need for an assistant, your
+business acumen, your ability to persuade and maneuver
+others, my fear that you would have become stifled and
+withered under the influence of your chauvinistic, short-
+sighted boss— but one reason stood out above all others, one
+reason I have never before told you. You were Ventrue years
+before | ever met you.
+
+Thave no questions about your loyalty. I have no doubts
+about your trustworthiness. I saw that side of you when I first
+encountered you at your bank. Despite your obvious dissatis-
+faction with your job, despite the fact that your superior had
+implied that very morning that the only way for you to
+advance in the company was horizontally, you fought my
+attempts to procure the information I needed. I wanted the
+
+business secrets you possessed, the clues that would show me
+why your financial conglomerate was so interested in my
+pharmaceutical investments. You resisted me for longer than
+I thought possible.
+
+Despite the fact that the outcome was never in doubt,
+despite the fact that I could have used any of a million
+stratagems to obtain the information I wanted, you impressed
+me. It took me a long time to arrange your transferal to a
+division where I could keep a closer eye on you; it took me
+longer still to earn your trust. As I witnessed your integrity
+and character firsthand, 1 became more pleased with my
+choice — you were someone with whom | could happily share
+eternity, someone who could fulfill all the duties inherent to
+membership in Clan Ventrue.
+
+Indeed, the longer I studied you the more sure I became
+of this fact. I watched you nightly, following your every
+movement. My ghouls videotaped you by day, and I viewed
+the tapes on those nights when I did not actually watch you
+in your bed. You know that my taste in vessels runs toward
+those who consider themselves actors, just as you prefer those
+long-haired boys who call themselves musicians. Yes, I tend
+to become fixated on a few thespians ata time, but my feelings
+for you far surpassed what I feel for them.
+
+When the night for your Embrace finally came, and I had
+ensured that no forces would turn the prince against you, I
+entered your cluttered condominium. I remember how you
+tose from your small bed, clad only in a cotton T-shirt, intent
+on defending your honoratall cost. The unease I felt at draining
+the blood of someone not an actor disappeared at that moment,
+and I knew you were destined to become my childe.
+
+I remember watching in rapt fascination as you dressed
+at my command. You tried to fight my mesmerism through-
+out the limousine ride to my country club. You listened in
+disbelief as I told you about vampires and our clan, and your
+eyes grew wide as you realized that what I said was true. When
+I finally Embraced you in the garden behind the club, I took
+all your blood from you and then returned it. From that
+moment on you have been a Ventrue, body and soul.
+
+Thope that some night you discover the great pleasure of
+creating your own childe, for only then will you understand
+how proud you have made me. You have aided me incompa-
+rably in both business and politics, and your ability to deal
+with anarchs has proved invaluable. I remember how you
+managed to convince Dirtman and his anarch gang to turn
+that Gangrel Diabolist over to us. I especially enjoyed that
+line of yours: "I know you can't trust us. It's just that you have
+even less reason to trust anyone else."
+
+Ah, the poor anarch fools. For all their blustering, posing
+and whining, they understand neither what they fight nor what
+they fight for. They cry, "Freedom!" without knowing what
+freedom really is. They scream, "Oppression!" without realizing
+what oppression really means. When they demand freedom
+they are really calling for equality, something they in no way
+deserve. None of them could bear the burden of true freedom —
+even their secret allies in the Sabbat could not do that.
+
+eS]
+
+Chapter One:The Eternal Book
+
+9
+
+10
+
+Clanbook: Ventrue
+
+The truest form of freedom is not a liberation from the
+demands of some person or institution, be it the Camarilla, a
+clan or sire, but a freedom to do something, to accomplish
+one's fondest dreams. The members of our clan have striven
+for this, and occasionally we see some transcendental glim-
+mer of this freedom. The more we create, the more we can
+create, and hopefully our efforts will ultimately complement
+one another.
+
+Your anarch acquaintances seem to feel otherwise, for
+they maintain that freedom means keeping anyone from
+making them accomplish anything. So long as their Grail is
+a freedom from everything, they trap themselves in far
+stronger snares than we could ever weave. The less they
+accomplish, the less they can accomplish. They destroy their
+own potential in these senseless battles, for even when they
+win their coveted freedom (as they believe they have in Los
+Angeles), they squander the opportunity.
+
+Instead of using their newfound license constructively,
+consolidating and strengthening the mortals and institutions
+around them, they continue to fight amongst themselves,
+each demanding that no one else hinder his own petty whims
+and vices. All the while they remain oblivious to the fact that
+the only way they can become completely free in this manner
+is by subjugating everyone else —a goal even the most power-
+hungry Ventrue would reject.
+
+To address that subject: My dear, no matter what you
+may hear from that diverse little coterie you associate with,
+no Ventrue is bent on world domination. Also, no matter
+what similarities our kind may bear to the Tremere, we are
+not interested in raising our clan to global dominance. Even
+when we had the chance, during the Roman Empire, we did
+not do those things that would have allowed us the rule of the
+entire world. While I hardly have firsthand knowledge of that
+time, I know that we opened the Empire and Rome itself to
+all types of Kindred. Even Brujah found haven in the Eternal
+City, despite that clan's horror stories of ruined Carthage
+which they had created and we destroyed.
+
+Our goal far supersedes mere dominion. Instead, our
+purpose is twofold. First, we strive to battle those hidden
+beings of incredible power who do seem intent on ruling the
+world. I have seen their hand at work, though I could not
+hope to tell you whose hand (or claw, or talon) it was. There
+are Secret Masters at work, Estranza, and their goals are even
+less altruistic than ours is perceived as being. They want all
+the beings of the world, immortal or mortal, Lupine or fey, at
+their beck and call. Should their plans succeed, we shall all
+become their pawns, with as much free will as termites. Why
+they want this I cannot tell you, for their true purposes are as
+unfathomable as those of the stars themselves.
+
+I suspect that one or some of these Masters are vampires
+but that most of them are other types of beings. As you have
+no doubt already realized, we are not the only immortals in
+this universe. I have heard of mummies who die and are
+reborn, mages who quaff potions of vitality like we drink
+vitee, Lupines who remember a time before the wolf had been
+
+domesticated, and even spirits which have flitted through
+the ether since the time of the first protozoa. I would fear any
+such beings, and fear twice as much the idea that there exist
+entities even more powerful than they.
+
+In any case, combating them is but the first of our goals.
+We would be as negligent as the anarchs themselves if our
+only purpose was negative and our sole duty was to be an
+antithesis. Instead, we have a second, far more constructive
+role in this world. We Ventrue enjoy a gift that mortals (and
+young vampires) cannot imagine. While mortals, mortal
+institutions and even mortal societies are doomed to disap-
+pear and eventually be forgotten, we live on forever. There
+exist Ventrue who remember the Second City — I have met
+one. No doubtat least one exists who remembers the First City.
+
+I don't mention this merely to impress you. Far more
+impressive is what the continuing line of Ventrue symbolizes.
+There is another hand at work on this planet, my dear. It is
+far more subtle and far more concealed than that of the Secret
+Masters. It operates far in the background where no mortal
+could hope to perceive it, but it is there nonetheless. I've
+heard many names for it— Caine, the Universal Subconscious,
+Gaia, God and others — but none of these does it justice.
+
+What has transpired on this planet is not the work of a
+few great individuals. It is the unfolding work of history, the
+continuing evolution of all sentient beings. It is tradition,
+destiny, custom and convention. Just as a child cannot
+understand the rules of her parents, neither can an individual
+hope to comprehend the course of civilization. Anarchs, too
+blind even to understand the rules of the Camarilla, have not
+a prayer of understanding the ebb and flow of time, yet this
+tide embodies the heart of immortality.
+
+Estranza, it is our immortality that defines us more than
+any other aspect of our nature, be it vampirism, our Disci-
+plines, our wealth or even the Beast itself. As immortals we
+can see that great Truth — that we are merely a part of
+something far greater. We are an important part, butstill only
+apart. We are eternity's guardians. We exist to do all that is
+within our power to see that this evolution continues. We
+have seen much, but there is far more to be seen. Should the
+Secret Masters have their way, all will be lost to stagnation and
+entropy. Should we succeed, however, our reward will be ...?
+
+Oh well, I see that I have written for far longer than I
+intended. Carlos is calling me to say that my suit has been laid
+out and that I need to hurry if I am not to be late to your
+Embrace Night festivities. Please accept the following docu-
+ments among your Embrace Night gifts. Some of them came
+from my own sire; others have come into my possession by
+chance, exchange or even outright theft. You will receive the
+rest of your presents at the party tonight in the Ritz-Carlton
+ballroom. That Jaguar and long-haired driver you found in
+front of the country club tonight are but the least of them.
+
+Your Loving Sire,
+
+Chapter One:The Eternal Book
+
+
+cm
+WY
+
+. {ill
+sg
+
+
+CHAPTER TWO:
+
+THE DISTINGUISHED
+HISTORY OF CLAN
+
+Indeed, history is nothing more than a tableau of crimes and misfortunes.
+— Voltaire, L'Ingénu
+
+We Venttrue have never believed the maxim that history is written
+by the victors. After all, if that were true, why are there so many
+versions of the same stories? Instead, Ventrue who argue this point
+believe that history has been written either by the survivors or, more
+likely, by the losers, for there have never been any winners.
+
+Most of us accept what follows as the most valid history we know,
+but are willing to accept that our own myths and legends may be
+nothing more than well-constructed lies. Still, until we hear otherwise,
+these are the facts we will espouse. After all, these are the facts that
+make us feel good.
+
+
+G
+
+THE FIRST NIGHTS
+
+Yes, my dear friend, it has always been so. Our
+founder, the first of what have come to be called the
+Antediluvians, has always assumed responsibility for the
+actions of his weaker brethren, just as we do tonight.
+Sired on Caine's orders by the one whom legend has
+named Enoch or Lamech, Ventrue became Caine's first
+advisor and constant companion.
+
+He sat at Caine's side as Caine oversaw the growth
+of the paradise known as the First City. Originally a place
+of mud houses and open fires, it grew into a monument
+to all that the Kindred can accomplish. Without the
+benefit of modern machinery, the First City soon boasted
+marble towers spiring to the heavens. Caine's own
+palace shone with gold, and the beauty of his main
+courtyard has never been paralleled.
+
+The finest craftspersons of that ancient age created
+artworks the likes of which this planet has never again
+seen — simple but glorious, reflecting the unchecked
+promise and hope of that time. Caine himseif turned the
+garden into a crowning masterpiece, using both magic
+and skill to evoke his own vision of penultimate beauty.
+To walk in the garden was to walk in paradise.
+
+Still, our sire realized that all was not as it should be.
+After Caine's childer began siring the rest of the Third
+Generation, Ventrue saw lines of worry begin to crease
+Caine's unchanging face. Our founder beseeched Caine
+to speak of his fears, but at first Caine would not respond.
+Then the First Immortal spoke as though entranced.
+There, sitting amid the towering monuments of the First
+City, Caine revealed his dream of the future, wherein
+horror and catastrophe beset the world. Floods and
+earthquakes, volcanoes and disease would all strike.
+
+Ventrue found it impossible to believe these stories, but
+Caine continued, His own childer would survive, but the
+mortals would be devastated by the destruction. Then they
+would seek someone to blame, and the childer of Seth
+would hunt the childer of Caine, using powers of fire and
+faith to drive us from our havens and destroy us one by one
+until all the immortals were no more.
+
+Then Caine fell silent, and Ventrue sat stunned until
+he gathered the courage to ask his question. Then he
+hesitatingly asked his grandsire that which we all fear —
+"Is this future engraved in stone, unchanging and un-
+changeable?"
+
+Caine looked out over everything he had created
+and quietly replied, "I do not know."
+
+Sharing Caine's view of the gleaming vista that was
+Enoch, our clan founder could not believe that such a
+horror could occur. All his existence he had known
+nothing but peace and prosperity in a land where mortal
+and immortal lived without conflict. Had such words
+been spoken by anyone but Caine himself, our ancestor
+
+14 Clanbook: Ventrue
+
+Ventrue would have dismissed them out of hand. Spo-
+ken by the Father of All, however, they tore at his soul,
+and he wished he could claw his ears from his head
+rather than hear of such horror.
+
+Caine continued. He told our ancestor that we were
+not the only supernatural beings on this planet. He spoke
+of beastmen and deadmen, sorcerers and fey — beings
+with whom the undead would wage terrible, eternal
+war. And waiting in the shadows beyond these beings
+are far more powerful masters, and these masters cannot
+coexist. For all their power, these masters are afraid —
+afraid of each other and of those forces that even the
+masters Cannot comprehend.
+
+These masters see the undead as threats, for we were
+capable of surviving outside of their wars. We could work
+with humans as none of them could. Where the beastmen
+could only subjugate humanity, where the sorcerers must
+always live apart from their fellows, where the dead and
+faeries could be nothing but alien beings, we were as much
+a part of the mortals' world as were the sun and the moon.
+
+When Ventrue was again alone, he could do nothing
+but ponder these words. When his beautiful lovers came to
+him, he sent them away. When the artisans who decorated
+his palace sought to show him their latest works, he ordered
+them out of his presence. Alone he sat, spending night after
+night in contemplation of Caine's words.
+
+Finally, after three weeks and two nights, he left his
+Palace with a new determination. From that night on he
+would do everything in his power to keep this tragedy from
+occurring. Should it occur despite his best efforts, he would
+strive with all his might to lessen the damage. He would see
+to it that one night mortal and immortal threw off the
+shackles of the masters and freed themselves for all eternity.
+
+THEJYHAD
+
+Ofcourse, one cannotsay that our clan founder did not
+contribute in some way to the devastation which destroyed
+the First City. He began to gather those tools that might help
+him combat the masters, and the other Antediluvians took
+note. Ventrue's magnificent palace, once a museum for the
+most beautiful art, a building where every inch had been
+meticulously constructed in as awe-inspiring a style as
+possible, became a fortress. Here Ventrue gathered items of
+power, both natural and artificial.
+
+Such relics as the Tapestry of Blood, the head of
+Medusa, the claws of Fenris, the Faerie Bridge and
+Oromazus' Mist littered the palace. To safeguard them,
+Ventrue used his awesome ingenuity to design an
+underground sanctum that no creature could penetrate.
+All this his Kindred saw, and they worried.
+
+One night, when the moon filled the sky with silver,
+four of Ventrue's brethren approached the palace.
+"Ventrue," cried out she who is now called Brujah, "why
+have you taken those items that should belong to us all
+and hidden them away?"
+
+ai
+
+"My dear sister," Ventrue replied, "Il but protect them
+from those who would steal them from us all. W/hen the
+time has come, we shall all use these tools to recreate the
+
+world."
+
+"Ventrue," cried out he who is now called Set, "you
+should share those items with all of us so that we might
+
+use them as we will."
+
+"My dear brother," Ventrue replied, "if | did so, they
+would be wasted and lost, and when we need them we
+shall not have them. When the time has come, we shall
+
+all use these tools to recreate the world."
+
+"Ventrue," cried out he who is now called Tzimisce,
+"you spend all your time alone or with Caine. Are you
+
+trying to turn our Grandsire against us?"
+
+Now our sire saw the true motive behind their visit.
+Jealousy had begun to fester in their hearts, and Ventrue
+saw it as a sign that the masters had begun to work their
+evil magic. Maybe if Ventrue had lowered himself then,
+begging and pleading with the four, he could have
+averted the holocaust to come. But he was Ventrue, first
+among the Third Generation, and debase himself to his
+
+younger brothers and sisters he would not do.
+
+THE SECRET MASTERS
+
+Many Ventrue firmly believe that powerful forces
+manipulate the world for their own sinister purposes.
+The Antediluvians are a part of this near-omnipotent
+coterie, but they compose only a fraction of the whole.
+Ventrue know that some powerful mages have existed
+for centuries, and those Kindred with more extensive
+occult backgrounds have heard of incredibly powerful
+spirits who manipulate werewolves, other spirits and
+mortals.
+
+Ventrue have used many names to describe these
+Masters. Starets, Incarna, Occultae Reginae, Ourani,
+Gigantes, Dzevas and other appellations have been
+applied to them, but the Ventrue have used the term
+"Secret Masters" since the late 1700s. While the Ventrue
+
+can only speculate why the Secret Masters do what they
+do, and cannot point to any concrete proof of their
+existence, they have enough circumstantial evidence to
+satisfy themselves. They see mighty beings acting in
+inexplicable ways, doing things for reasons they cannot
+fathom, and begin looking for the puppeteers.
+
+For instance, recent events in Chicago have drawn
+the Ventrue like moths to a flame. Supernatural battles
+involving vampires of all types, werewolves, spirits and
+mages have caused incredible upheaval in that city.
+Nobody knows just who was responsible for what, though
+accusatory fingers point everywhere. While these sorts
+of conspiracy theories may seem paranoid, this Ventrue
+belief does not stem from one single incident. Instead,
+the Ventrue can point to similar inexplicable events
+throughout history.
+
+VN pl
+hte iv" 14
+
+eg
+
+——
+
+SESS
+
+———-
+
+Chapter Two: The Distinguished History of Clan Ventrue
+
+15
+
+RAREFIED TASTES
+
+All vampires know of the Ventrue feeding restric-
+tions. Many find them constant sources of amusement.
+"Have you heard about Abraham the Ventrue? He can
+only feed on his female third cousins while in a Lincoln
+Town Car parked on the railroad tracks — and all his
+relatives died during the French Revolution." The
+Ventrue, however, take pride in their exclusivity.
+
+Many like to point to these limits as symbolic of the
+clan's rarefied tastes. Any vampire can go around drain-
+ing the bums down by the wharf. As the Ventrue see it,
+they seek out those worthy enough to donate their
+blood. Other Ventrue believe their feeding habits de-
+veloped as a safety mechanism. Because the Ventrue
+keep aclose watch on their herds, they can be sure that
+the blood is untainted by disease, magic or the blood of
+others. No Ventrue will admit that these restrictions are
+a curse or handicap.
+
+Some astute observers believe the restrictions origi-
+nate much deeper in the Ventrue psyche. These amateur
+psychologists note the Ventrue passions for both mar-
+tyrdom and control. They see Ventrue feeding habits as
+outward manifestations of these conflicting drives and
+symbols of the clan's repressed lusts. By focusing their
+feeding on specific groups, the Ventrue not only get the
+satisfaction of feeling as though they are selflessly de-
+priving themselves, but they get to focus their obsessions
+on one select group.
+
+Whatever the case, there is little doubt that the
+effects are psychological, though they date back to the
+clan's earliest nights. No matter what the situation,
+Ventrue will not drink the vitae of mortals other than
+their chosen type. Indeed, they will reflexively refuse to
+swallow if such is force-fed to them. Ventrue can drink
+from any other vampire, and they can overcome their
+limits to drain a deserving mortal for the Embrace.
+Additionally, a given Ventrue's specific weakness can
+change over time, though Storytellers should only allow
+this as a result of extreme changes in the character's
+personality, such as higher or lower Humanity or a
+dramatically different Nature.
+
+"My dear brother," Ventrue replied, "| do what | do
+for the good of us all. When the time has come, we shall
+all use these tools to recreate the world."
+
+He turned to the one who is now called Nosferatu,
+expecting the questions to continue, but Nosferatu
+merely smiled. Then the four departed, though Ventrue
+knew things could never again be as they had been.
+From that night on Ventrue prepared himself for war
+with his own kind, all the while hoping they would
+become his allies once again but knowing that this
+meeting had hastened the end.
+
+16 Clanbook: Ventrue
+
+When the infamous flood struck, and Caine sepa-
+rated himself from his childer, our founder was the last to
+look upon him. "Father of All," he sobbed, "will you not
+stay with us? Without you, we will have no one to lead
+us, Without you, there will be no one to resolve the petty
+conflicts and calm the angered souls. Without you, the
+Kindred can do naught but fall to war amongst themselves.
+Without you, all hope of defeating the masters is lost."
+
+Mighty Caine looked at Ventrue and, for the first time
+in ages, smiled. We may never know the exact words the
+First Immortal spoke unto our ancestor, but we do know
+that when Ventrue returned to his Kindred, he was the only
+one prepared to direct the rebuilding that was required, He
+supervised all the Kindred, even his own sire, during the
+creation of the Second City, and even though he knew that
+it would fall some night, he devoted all his energies to it.
+
+Here he hid the mightiest artifacts that he had
+rescued from the First City. Here he buried a clay pot filled
+with the Vitee of Caine. Even when the city fell, and
+Ventrue was forced to flee, he knew these treasures
+would be safe, ready to be used by all the Kindred when the
+time is right. Some say this is why the Nosferatu delve
+beneath the earth — they still seek these relics of antiquity.
+
+THE VAST MIGRATION
+
+After the fall of the Second City (and we all know why
+that happened}, vampires spread across the planet. A
+few headed north into the vast forests. A few more went
+south into the deep jungles. But most stayed near the
+civilized lands, moving east and west into the river valleys
+and along the coastline.
+
+Vampires visited all ancient races of humanity, but
+some civilizations benefited from exceptional levels of
+Cainite involvement in their affairs. These included such
+lands as the island empire of Crete, the lands of Assyria,
+the cities of Sumer and, of course, the kingdoms of
+Egypt. During the earliest nights we Ventrue were active
+in all these lands, but not in the same leadership roles we
+fill today.
+
+In those years we allowed other Kindred to take the
+vanguard while we followed a more reserved approach.
+Like the early Christians, we believed that the day of
+reckoning was near. Caine would return to lead us in
+battle against the Secret Masters, and from that night
+and henceforth, Earth would again be a paradise. We
+saw our tasks to be recording and preserving, keeping
+Caine's dream alive until he could return to fulfill it.
+
+Of course, some Ventrue became involved in the
+politics of the "ancient" world. By the time of the Persian
+Empire, we were immersed as deeply as anyone. Not
+until the time of the Roman Republic, however, did we
+take our place at the forefront of vampiric culture.
+
+Ea Adapa
+
+Ventrue vampires arrived with the Etruscans who
+conquered the Italian peninsula in the eighth century B.C.
+According to legend, 13 vampires, led by the Ventrue
+Tinia, controlled the Etruscans. While Tinia lay in torpor,
+her own childe led a revolution that overthrew the Etruscan
+rulers of Rome. This childe, Collat, eventually reached a
+compromise with his sire and became the ruler of Rome.
+
+Collat and his sire do not appear in further myths,
+though a reference to a beautiful Etruscan vampire who
+met her death in Asia Minor does bear a resemblance to
+Tinia. The renowned Ventrue Camilla became the leading
+vampire in Rome and remained the most prominent
+Ventrue in the world until the time of Nero.
+
+For centuries, Camilla's main opponents in the city
+were mages, not other vampires. Camilla worked ex-
+tremely hard to bar other clans from the city, and as the
+Roman Republic spread, so did our clan's influence. By
+the third century B.C., we controlled most of Italy, and
+Camilla stood out as the most influential of us all.
+
+Two centuries earlier, members of the Brujah clan had
+taken control of Carthage, but we had little problem with
+that. Over time, however, they became more and more
+conspicuous. While the Masquerade had yet to be created,
+most vampires willingly followed the First Tradition. In
+Carthage, however, the Brujah walked the streets as lords,
+and all knew their real nature. Toreador flaunted their
+powers regularly, and the most blatant built temples where
+they accepted child sacrifices while the parents looked on.
+
+Had these depredations been limited to Carthage, they
+might have safely been ignored, but the Brujah became
+bolder with each passing year. They conquered all the land
+surrounding the city, enslaving the native Africans and
+deploying their ghouls to do battle across the Mediterra-
+nean. To culminate their crimes, they promoted the study of
+blood magic to such an extent that no vampire anywhere felt
+safe. They made pacts with our own enemies in Rome, the
+fabled Order of Mercury, and dealt with demons to such an
+extent that even tonight vampires fear to visit that corner of
+Tunisia. Just walking on its soil causes the most horrible fits
+of Rétschreck one can imagine.
+
+Had we ignored the Brujah's atrocities, Caine alone
+knows what sort of backlash Carthage would have created.
+What unholy alliance of mortals, werewolves and mages
+might have risen to fight it? Of course, once done with
+Carthage, this alliance would have turned against all
+Kindred. While most Ventrue were unwilling to take
+action, the noble Camilla saw a new destiny for our clan.
+
+He quietly began to gather support among those
+Ventrue directly threatened by Carthage. When he had
+enlisted their aid, he made his proposal for all vampires to
+hear. Stressing the danger posed by the Carthaginian vam-
+pires, he called for an alliance of clans to destroy the city.
+Amazingly enough, the first clan to respond was Clan
+Malkavian, whose members were then fighting the armies of
+Carthage in Sicily. Camilla sent them aid, and the war began.
+
+Chapter Two: The Distinguished History of Clan Ventrue
+
+ee ;
+AE
+
+17
+
+For more than a century the Kindred of the Western
+world fought. At first the Ventrue and Malkavians stood
+alone against the Brujah and their myriad allies. As the
+years passed, however, more and more Kindred began to
+see what would happen should the Brujah win. Asa further
+enticement, Camilla opened first Italy and then Rome
+itself to other clans, and they began to flock to our side.
+First the Lasombra, then the Cappadocians (now called
+the Giovanni), and then others joined our cause.
+
+Still, not until we had brought the Toreador to our
+side with a show of force (the conquest of Greece) and a
+sign of appeasement (allowing them to move to Rome)
+did we have the strength to destroy Carthage. The Brujah
+fought with all the tricks and evil magics they had, and
+many of us met the Final Death in this final conflict. The
+fiercest and deadliest battles occurred in the hidden, blood-
+stained temples where the Brujah held their sacrifices.
+
+In these massive monuments to cruelty, Roman sol-
+diers, their ghoul leaders and Ventrue masters fought the
+Brujah room by room, inch by inch. Even the artwork the
+Brujah had forced their mortal subjects to create for them
+became weapons, and more than one Ventrue was slain
+after being trapped beneath golden statues. With their last
+blood the Brujah cursed the city, saying that from that night
+on whoever ruled Carthage would meet a bloody end. In
+response (and to make sure that all the devil-worshipping
+Brujah were destroyed), we set fire to the city and watched
+it burn for 17 nights. Then, with the aid of our own
+sorcerous allies, we salted the earth, ensuring that the
+Kindred in torpor there would never rise again.
+
+A. NEW COURSE
+
+Not only did the destruction of Carthage chart a new
+destiny for mortals, but it set our clan irrevocably on the
+track it has followed ever since. No longer could we sit
+back and watch as our Kindred wrought havoc upon the
+world. Even in that distant age, people and events had
+become too intertwined, too dependent on one another
+for us to let a horror like Carthage reappear.
+
+Camilla had unwittingly furthered this process by
+allowing an influx of Kindred into Rome as their reward
+for fighting Carthage. Not only was it unwise for us to let
+other vampires act without our guidance, but having so
+many of them in the heart of our own territory made it
+impossible. We had to interact with them on a nightly
+basis; that being so, the only safe course was to become
+their leaders. We would take on the role that Caine's
+slanderers said he had rejected. We would become our
+brothers' keepers.
+
+Camilla, as Prince of Rome, found himself plunged
+into the midst of this torrent. As the most prominent
+member of our clan, he enlisted the Ventrue in the
+business of enforcing the First Tradition. Despite what
+other vampires have said, Camilla's efforts involved no
+coercion, Indeed, during this period the Ventrue clan was as
+democratic an institution as Kindred society has ever seen.
+
+18 Clanbook: Ventrue
+
+Each Ventrue recognized as having influence overa signifi-
+cant number of mortals had as much say as any other such
+Ventrue. Thus, the leader of a cult in the lands of Palestine had
+as much say as Camilla himself. Our clan would occasionally
+meet, usuallyin Rome, in gatherings that became the precursors
+of the Camarilla's Conclaves. All Ventrue in attendance could
+vote, and together they determined what course the clan as a
+whole would pursue.
+
+This system worked best during its first nights, but prob-
+lems soon arose, Much to our clan's discredit, we split into
+factions, and soon these meetings became forums for us to voice
+disagreements rather than to enact policy. Meanwhile, the other
+clans were turning their eyes to that which we had builtin Rome.
+
+As we argued back and forth, spending our nights in
+endless debate, more and more Kindred flocked to Rome,
+and more and more Kindred took the opportunity to
+manipulate the local leaders. When the land under our
+control became too unwieldy, and the majority of Ventrue
+agreed to support an emperor, the other clans (and many
+mortals) fought the change with every weapon at their
+disposal. Our first candidate met a public and bloody
+death, and several more years of war were waged before we
+could steer Rome back on course.
+
+Camilla had hoped that the change of government
+would limit the amount of influence the other clans exerted
+in the Roman Senate, but he discovered that everyone
+involved in those manipulations shifted their attention to the
+emperor himself. Soon the emperors were being pulled in so
+many directions that none of us knew what they were going
+to do next.
+
+Antonius Haminius
+
+The Church
+
+Having missed golden opportunities to control the
+Christian Church, we were determined not to pass up
+another. The Church had played a major role in destabi-
+lizing our Roman Empire, and the time had come for us
+to make it ours. Using our control over one of the Roman
+emperors, we caused Christianity to be declared the
+official religion of Rome. Later, when Christianity itself
+began to splinter, we again used our influence to solder it
+back together.
+
+However, we have never commanded the same influ-
+ence over the church leaders that we did over the emperors.
+Even when we had the Emperor Constantine call the
+Nicaean Council in A.D. 325, we had no way of control-
+ling what decisions it would reach. Even when it culminated
+satisfactorily in the Nicaean Creed, we had no way to
+pacify the disparate elements of the Church.
+
+By the time the Western Empire finally fell, as we
+knew it must, we had already shifted much of our re-
+sources out of the government and into the Church. We
+could never consolidate our hold over the Church for a
+
+THE MAD EMPEROR NERO
+
+Nero, one of the most infamous rulers in history,
+graphically illustrates the disastrous effect supernatural
+beings, especially vampires, can have upon mortal pawns.
+At the beginning of his reign, when he appeared to be
+completely under Camilla's control, he was an admirable
+emperor, known for wisdom, generosity and, most of all,
+mercy. Within five years that had completely changed.
+
+Other vampires, including Setites, Malkavians,
+Lasombra and Toreador, made attempts to control him.
+The Order of Mercury, one of the secret powers involved in
+much of Rome's history, tried to convert him to its ways,
+
+and accordingly the emperor studied sorcery throughout
+his reign. Camilla worked hard to negate all outside influ-
+ences, but then came the infamous fire that Nero has been
+accused of setting. Camilla disappeared during the confla-
+gration — some say at the hands of the Toreador Caius
+Petronius. No vampire can deny that this event marked the
+end of the Roman Empire, though we fought against its
+downfall for the next 400 years.
+
+Nero himself fell more and more under Toreador
+control, which they strengthened when he toured Greece
+in A.D. 66. The extent of their control was amply
+displayed in A.D. 68 when, going to war against the
+Gauls, his primary concern was to ensure that he had
+proper wagons to carry his musical instruments and
+theatrical props. The Ventrue finally replaced him later
+that year, but by then the damage to Rome was irreversible.
+
+number of reasons, The most important had to do with a
+schism within our own ranks. During the 150 years
+following the Nicaean Council, our members saw that
+dramatic change was in the air but argued about how to
+deal with it.
+
+In the pagan past, religion had always been tied to the
+structure of government. Even when priests wielded a
+great deal of political power, as in the Egyptian dynasties,
+they never considered religion a separate entity from the
+secular institutions. Christianity changed this. In the new
+religion, the religious leaders were distinct from, and
+superior to, the political leaders. Its followers owed their
+allegiance to Christ, not Caesar.
+
+While past religions had aided our goal of keeping
+society stable, Christianity had a higher purpose. To the
+pagans, it appeared as though the Christians were shirk-
+ing their civic duties. Christians rarely revolted, preferring
+to submit meekly rather than fight. Christianity grew
+despite persecution. It would make the perfect blind for us.
+
+Other Ventrue did not see Christianity as an oppor-
+tunity. These vampires gravitated toward the eastern half
+of the Roman Empire, where Christianity played much
+the same role religion did during pagan times. These
+Ventrue included many of the eldest, wisest and most
+
+Chapter Two: The Distinguished History of Clan Ventrue 19
+
+powerful members of our clan, This not only weakened
+the Western Empire, contributing to its collapse in A.D.
+476, but hindered our efforts to control the Church.
+
+Our second stumbling block involved other powers
+trying to grab a piece of the Christian pie. These powers
+consisted not only of other vampires, but mages and
+extremely powerful mortals as well. Additionally, while
+instances of people displaying what we now call True
+Faith have occurred throughout history, Christianity
+attracted them like a magnet. We tried to keep these
+individuals from attaining power, but many acquired it
+despite us. We learned to deal with the Church through
+ghouls, for direct involvement often backfired.
+
+Despite the fact that we never obtained the level of
+control we desired, the Church began to fulfill a number
+of our goals. It allowed us to influence and, in many cases,
+control people of different nationalities. Where before we
+needed empires to influence large numbers of people, the
+Christian ideology allowed us to shape them across
+borders. Christianity's promise of heaven often allowed
+the kine to shoulder the temporal restrictions our other
+agents put on their lives. Finally, it gave us another
+Weapon to use against our enemies and a way to check
+those individuals with True Faith.
+
+The Inquisition
+
+This remained true through the era that has come to
+be called the Middle Ages. We reached the apex of our
+power with Charlemagne in A.D. 812, when the eastern
+and western Ventrue reunited, We might have main-
+tained this stability had it not been for the backbiting,
+intrigue and competition that had seemingly become
+integral components of the vampiric nature.
+
+For the next 400 years we vampires ceaselessly
+fought each other. We ignored the mortals except when
+we used them for our own advantage. We fancied our-
+selves far superior to the kine, who huddled in their
+pitiful homes, shaking with fear every night that we
+might swoop down and tear out their precious throats.
+While most of us followed the First Tradition, many
+ignored it, and the people had good reason to fear.
+
+During those nights, the myth of the vampire came
+into its own. Tzimisce lords ruled vast estates, and no serf
+was safe from their thirst. Gangrel wandered the deep
+forests, only venturing out to attack a lone farm. They
+would leave its inhabitants butchered, and the next
+morning neighbors would discover only vultures alive
+there. Malkavians wandered from town to town, and
+residents were wise to fear strangers in the night. Nosferatu
+took perverse pleasure in the reaction their appearance
+engendered, never caring what backlash this might bring.
+
+It was in this atmosphere of superstition and fear
+that we made one of our costliest blunders. When Church
+leaders called for an Inquisition against Christian her-
+etics, we made no effort to block it. Embroiled in our own
+
+20 Clanbook: Ventrue
+
+plots and battles, we had no attention to spare for what
+we saw as a minor movement. Our enemies took advan-
+tage of the opportunity we gave them, and with a few
+short decades our control of the Church had been shaken
+to its roots.
+
+The Inquisition began in southern France during the
+early years of the 13th century. At first we ignored it, for
+it appeared to be aimed mainly at mortals and mages,
+though the Toreador did suffer as well. Indeed, some
+cynics have said that a Toreador, angered by the criticism
+his art had received from other Toreador, began the
+Inquisition. The pope officially founded the Society of
+Leopold in 1231, and the world of the vampire was
+changed forever.
+
+There is no way to know when the Inquisition first
+targeted vampires. but in 1252 it uncovered its first
+Ventrue. Mortals may have discovered her on their own,
+or her enemies may have pointed them in her direction,
+but at that point we knew the Inquisition had gotten out
+of control. We reasserted our control over church leaders
+only to discover that the Society of Leopold was beyond
+our reach — but that we were within its.
+
+To uncover vampires, the inquisitors would use the
+most horrendous tortures known, Starvation, one of their
+key weapons against mortals, was of no use against us.
+Instead they would roast our feet over glowing coals.
+wrench our bodies on the rack to see if we would heal
+ourselves, slowly destroy our limbs under millstones, and
+inflict a thousand other tortures. If the inquisitors even
+suspected that their captive was a vampire, they would
+burn him as soon as possible.
+
+Despite their power over us. they apparently came to
+fear our frenzies. The rules of the inquisitors forbade the
+spilling of blood, apparently for fear that we would
+frenzy at its sight, and they rarely thrust one of us into the
+sunlight after they got their first look at the horror of
+Rétschreck. Additionally, vampires and other super-
+natural beings found ways to manipulate the inquisitors,
+and soon the Society of Leopold had become another
+weapon in the Jyhad, if a more horrific one.
+
+Still, it was a tool with a mind of its own. Its leaders
+sought out the Kindred with a vengeance, and it managed
+to catch younger vampires with unnerving ease. We do
+not know just how many met the Final Death, but we can
+understand the frustration that caused the neonates to
+begin the Anarch Movement. Of course, they immedi-
+ately fell under the sway of the Secret Masters.
+
+THECOMING OF THECAMARILLA
+
+Success in the war against the Sabbat may well be the
+crowning achievement of the Ventrue. Not only did our
+noble clan take its rightful place at the head ofits brethren,
+but it has had amazing success against incredible odds. In
+its earliest nights, the Anarch Movement nearly routed
+those who protected the Traditions. It struck savagely and
+without warning, using any means available to destroy its
+enemies, Assamites and Setites roamed the hills, while
+Brujah attacked their elders in the cities.
+
+Into this maelstrom of terror stepped Clan Ventrue.
+While individual vampires might be powerful, Ventrue
+leaders knew that the anarch hordes were more than a
+match for any single elder. Some of the finest figures in
+vampiric history met Final Death on those dark nights.
+Thus the Ventrue began advocating for an organization of
+
+responsible, capable vampires to counterbalance the new
+threat.
+
+Our success can be seen in the Convention of Thorns,
+which brought the Brujah as a clan to our side, though
+individual members of that Rabble have remained the
+enemies of all right-thinking Cainites. From the fall of the
+Anarch Movement, however, sprang the dread Sabbat.
+
+This new sect rejected everything for which we had
+striven. It sought to subjugate humanity under its dung-
+stained boot while imprisoning vampires amidst a stagnant
+world where change was anathema and personal freedom
+and accomplishment repugnant. No more obvious pawns
+of the Secret Masters could possibly exist, and Clan
+Ventrue has ever since devoted itself to the destruction of
+this sect.
+
+For centuries the war between the sects raged across
+Europe. Many mortal conflicts occurred against the back-
+drop of this immortal war, and both sides achieved their
+own successes. In the end, the Ventrue and their allies
+drove almost all Sabbat vampires from the continent,
+forcing them to take up residence in the unsettled New
+World. Now the Ventrue stand poised to destroy that dark
+sect, having riddled it with their own agents and turned it
+into a house of cards waiting for the right breeze to knock
+it down.
+
+Chapter Two: The Distinguished History of Clan Ventrue 21
+
+While the Ventrue like to consider themselves
+trendsetters, carving a path for other Kindred and kine
+to follow, they are often themselves slaves to fashion.
+One example of this is their lingering fascination with
+sword fights and dueling.
+
+When fencing became popular among the mortal
+nobility, the Ventrue joined the trend. Clan members
+had naturally shied away from jousting (a lance, made of
+wood, could have just the wrong effect on a vampire's
+heart), but sword fights were ideal. Duels allowed Ventrue
+to hurt their enemies without risking any permanent
+damage while at the same time remaining cloaked in the
+trappings of honor.
+
+In fact, dueling did not really go out of style among
+the Ventrue until the 1800s, and even tonight some Blue
+Bloods prefer it as a means to settle disputes. This skill is
+often taught to childer. Many vampires have been sur-
+prised by certain Ventrue's aptitude with melee weapons
+— including stakes.
+
+The Industrial Age
+
+As the wars with the Sabbat continued and
+the Camarilla expanded, the Ventrue began to
+play a greater and greater role in mortal society.
+When the kine began migrating from the farms
+to the cities, the Ventrue prospered more than
+any other clan. They quickly saw the potential in
+the new industries and immediately began ex-
+ploiting them. During these years, Clan Ventrue
+began to assume its current form.
+
+Of course, other forces were also at work.
+Colonization and imperialism forced the Ventrue
+to change. The clan's agents traveled the world,
+making their presence felt everywhere. When
+mortals under its control moved into India, the
+clan used the opportunity to assess the odd
+vampires of that subcontinent. They did the
+
+same in Africa, the New World and the Middle
+East.
+
+These mortal agents had all the technology
+and economic might of Europe at their disposal,
+and they used these weapons to subjugate whole
+countries and races. The Ventrue, while latecom-
+ers to the Age of Exploration, jumped into it
+wholeheartedly. Soon their English and German
+pawns had overcome the Toreador's lead, and
+the world lay at the feet of its Ventrue lords.
+
+As the Ventrue extended their influence,
+however, they found themselves becoming more
+and more entrenched in the status quo, less and
+less willing to tolerate changes in their domains.
+They became stricter and stricter in their adher-
+
+22 Clanbook: Ventrue
+
+ence to the Traditions and the Camarilla. Few
+will deny that their reactionary politics helped
+provoke the renewal of the Anarch Movement,
+which afflicts the world tonight.
+
+Additionally, the Ventrue's efforts to spread
+their influence around the world may have
+created an even more dangerous situation. They
+have made other supernatural creatures aware
+of them. First contact with the fearsome Asian
+vampires came through the Ventrue, and it was
+this contact which seems to have led the Asians
+to look beyond their historic boundaries. The
+Ventrue have also come into conflict with
+werewolves, shamans, witches, mummies and
+other beings — enemies who remember every
+slight.
+
+The Information Age
+
+Now the Ventrue stand astride the Western
+world like colossi, recognized leaders of one of
+the most powerful races ever to exist. Most
+Ventrue see their positions as unassailable, for
+they control resources undreamed of by their
+sires. Less partisan observers have a markedly
+different opinion.
+
+These observers note the extremely potent
+enemies that the Ventrue have made. Anarchs
+and Sabbat battle the clan for control of vampiric
+society. Mages contest the clan's control of
+mortal institutions, while werewolves feel in-
+creasingly free to leave their forests and lope
+
+THE INTREPID EXPLORERS
+
+Despite the Ventrue reputation for being staid and
+conservative, the clan can boast some of the bravest
+explorers the Kindred world has ever known. During the
+18th and 19th centuries, Ventrue sailed the Nile River
+to its source, hacked their way through the jungles of
+Africa, made their way across the New World and
+pushed into every part of Asia. Only the Gangrel can
+brag of having been to more uncivilized lands.
+
+While the Gangrel went where they did out of
+wanderlust, the Ventrue never went anywhere without
+a distinct purpose in mind. Usually, as in India, that
+purpose was to gain control of larger areas and popula-
+tions. Ventrue motives have not always been that
+self-serving, however.
+
+The clan's early explorations of southern Africa
+helped defeat the earliest Sabbat attempts to colonize
+the area. The Ventrue's earliest efforts in Japan were at
+least partially aimed at discovering the Asian vampires'
+tole in the Jyhad. After these altruistic purposes had
+been achieved, however, the Ventrue had no compunc-
+tions against usurping the land for themselves.
+
+
+through the cities. The Ventrue have never had
+much conflict with the wraiths and changelings,
+but even these beings have become agitated in
+
+recent years.
+
+While old clan members feel confident in
+their supremacy, younger ones are not so sure.
+The clan has split, albeit rather cordially, over
+its perceived stagnation. Older vampires prefer
+to maintain past policies; younger ones want the
+clan to acknowledge individual initiative and
+
+encourage greater change.
+
+Certain clan members share an even more
+pervasive concern, one about which they often
+fear to speak. These Ventrue postulate that the
+Secret Masters have manipulated the clan's
+enemies for centuries, and their speculation
+does not stop there. They see incomprehensible,
+self-defeating actions by clan elders, and won-
+der. They watch clan leaders hinder capable
+ancillee while rewarding those who do nothing,
+and worry. They look at all these events and see
+the hands of the Secret Masters behind the
+
+Ventrue as well.
+Anonymous
+
+THE VENTRUE
+AND MOTHERRUSSIA
+
+While Russia never completely belonged to the
+Ventrue, the clan had its hooks in the country at least as
+far back as the Roman Empire. In a land of its size,
+however, there was no way to keep out other clans, and
+Gangrel, Nosferatu, Tzimisce and others wandered at
+will.
+
+Ventrue influence in Russia faced its only (and
+final) challenge during World War I. Clan Ventrue had
+devastated itself through intraclan warfare, as clan lead-
+ers in England and Russia battled the more established
+leaders in Germany. By the end of the war, the clan had
+used most of its resources against itself, and its best
+
+members had met the Final Death.
+
+A large group of Brujah Idealists, who had only
+limited involvement in the war itself, saw its chance and
+moved on the isolated, devastated country. It swiftly
+destroyed the Ventrue still in the country and, in what
+is described as either one of the few displays of Brujah
+loyalty or an amazing coincidence, anarchs around the
+world combined to keep the Ventrue too busy with them
+to deal with Russia.
+
+For 70 years the Ventrue could do little to defeat the
+Brujah state, and were as amazed as anyone when it fell.
+Now individual Brujah and clan leaders hope to reclaim
+the land. Leading this effort is the Ventrue Rasputin,
+Embraced in the last nights of the old Czarist regime and
+ready to reclaim the power he once wielded.
+
+Chapter Two: The Distinguished History of Clan Ventrue
+
+23
+
+
+First and last and always till the end of the end of time. First
+and last and always mine.
+
+— Sisters of Mercy, "First and Last and Always"
+
+While some vampires accuse the Ventrue of being as
+conservative and tradition-boundas the Tremere, the Ventrue
+themselves quickly disagree. The Blue Bloods argue that no
+other clan so rewards individual initiative and accomplish-
+ment. Their enemies retort that the clan promotes a younger
+vampire only when outside pressure makes it unavoidable. A
+little of both is true.
+
+Not that this dichotomy bothers the clan. The Ventrue
+take a quiet pride in what they consider a pragmatic attitude
+toward unlife. Let other Kindred worry about who deserves to
+be doing what. As far as the Ventrue are concerned, the proof
+ofa vampire's right to wield power is the fact that the vampire
+has it.
+
+This attitude extends to the clan's position in vampiric
+society. The fact that the Ventrue lead proves that they
+deserve to lead. While this means the clan is often a lightning
+rod, bearing the brunt of attacks by anarchs, Sabbat and
+others, its members also enjoy the fruits of this position —
+prime hunting grounds, wealth, adoration, etc.
+
+
+STRUCTURE
+
+Outsiders would also be surprised to discover just how
+much the clan has changed through the ages. In its earliest
+nights, the clan had no organized structure. The more power
+an individual Ventrue wielded, the more respect she com-
+manded, but there was no formal mechanism for this. This
+changed shortly after the destruction of Carthage.
+
+THE SENATE
+
+Under the guidance of the great Ventrue Camilla, the
+most prominent clan members began meeting to set clan
+policy. This senate, as it was called, was small at first, but grew
+at a remarkable rate. Open to those Ventrue who could
+demonstrate control over a substantial number of mortals,
+the group was remarkably democratic in its politics. Each
+member had a single vote and equal time to address each issue.
+
+Discussions generally revolved around what direction
+the clan should take, and these early votes helped expand the
+Ventrue's role from that of archivists to that of leaders. It
+seemed that each time the senate met it debated some new
+threat to the Traditions, and each time it resolved to increase
+the Ventrue's involvement in the affairs of other Kindred.
+
+This did not go unopposed, of course. Such notable
+Ventrue as the historian Ea Adapa constantly strove to return
+the clan to its original mission, but she and her supporters met
+with little success. Otherclans also discovered what the Ventrue
+had accomplished with the senates, but they had no more luck
+than Adapa in stopping its spreading influence.
+
+This success, however, proved the clan's undoing. As each
+Ventrue expanded her influence in the world, the senate
+became more occupied with its secondary role — resolving
+intraclan disputes. Ventrue began selling their votes to other
+Ventrue; meaningless power struggles continued night after
+night; and, after Camilla's disappearance, the senate devolved
+into squabbling factions incapable of accomplishing anything.
+
+CLANS WITHIN CLANS
+
+When the Western Roman Empire fell in A.D. 476, no
+senate had been called in more than 200 years. No structure
+appeared to take its place, and the Ventrue instead began to
+form what could only be considered subclans. Sires would
+establish their childer in positions of power and then expect
+the younger vampires to support them in the future.
+
+Subsequently, a powerful vampire might successfully
+recruit a handful of these sires to his side, and he would
+become the most powerful Ventrue (and one of the most
+powerful vampires) for miles around. These petty strong-
+holds rarely lasted for more than a few hundred years, and the
+Middle Ages saw the rise and fall of many a Ventrue.
+
+Some Ventrue found an alternate way to use this system.
+These vampires remained slightly aloof from the manipula-
+tions of the other Ventrue, instead forming clandestine
+
+26 Clanbook: Ventrue
+
+alliances with the power of the moment. When that power
+began to wane, they would cast about for someone to take its
+place and shift their support in that direction.
+
+Though all Ventrue believed they shared a common
+vision, each vampire focused on a different part. This quasi-
+feudal patchwork remained the only consistent structure the
+Ventrue had until the formation of the Camarilla.
+
+THE HIDDEN ORDERS
+
+The inadequacies of the Ventrue's system became strik-
+ingly apparent upon the formation of the new sect. In order
+to provide the leadership most Ventrue felt they should, the
+clan would have to unite. The old movers and shakers, many
+of whom had played key roles in creating the Camarilla,
+began secretly meeting around Europe.
+
+In order to hide their actions from both the Sabbat and
+other Kindred who might mistake their motives, the Ventrue
+sought to cloak their gatherings in as much mystery as
+possible. Thus, they created a series of secret orders and
+societies, each based in a given city.
+
+The orders were initially established only in the largest
+cities, and only the leading Ventrue of a city knew members in
+other cities. Other Ventrue in the surrounding area could
+attend meetings of their local order and slowly earn the trust of
+its leaders. They found that the only way they could work with
+the orders in other locations was by becoming servants of the
+local leader or by earning the friendship of distant Ventrue. Most
+Ventruenever understood the reasons behind their leaders' actions,
+and only the leaders of the orders could see the big picture.
+
+Some of these local orders rarely met, while others
+congregated on a regular basis. Some orders became dis-
+tinctly political, with all their members involving themselves
+in mortal and Kindred affairs, while others had more diverse
+goals. Some were quasi-mystical, some religious, while not a
+few devoted themselves to furthering their leaders' power.
+
+For instance, one branch centered around a charismatic
+leader known only as the Petal, who believed the clan should
+play an even more prominent role in controlling mortals. As
+signs of their loyalty to him and their disdain for mortals, his
+followers based their order on a parody of the Church, with
+their own rites and ceremonies. After the Petal was mysteri-
+ously destroyed duringa thunderstorm in Brussels, his followers
+blamed clan elders for his Final Death. When Ventrue
+leaders attempted to put a stop to this slander, they discov-
+ered that the Sabbat had gotten there first, and that all the
+surviving members of the Petal's branch had joined that sect.
+
+Despite the individual orders' diverse goals and occa-
+sional failings, however, the orders asa whole served important
+functions. Not only did the orders allow the clan to act with
+some unity, they also gave younger Ventrue a way to learn
+and advance without directly opposing their superiors.
+
+Each order remained largely independent, but their
+leaders cooperated as much as possible. They also took into
+account the wishes of their underlings as much as possible while
+remaining unconstrained by any lesser Ventrue's desires.
+
+THE DIRECTORATE
+
+The hidden orders remained in place for almost 500
+years, but even they proved unable to keep up with the
+changing times. As the Ventrue expanded throughout Af-
+tica, Asia and the New World, they found the orders' covert
+nature detrimental to clan growth. Many of the orders,
+especially the younger ones, came out of hiding.
+
+In so doing, they made their affairs open to all Ventrue
+and even to other Kindred. The orders became dominated by
+groups of powerful clan members rather than by solitary
+leaders. Additionally, as the clan took an interest in mortal
+businesses, the orders began to assume a corporate structure.
+By the late 1800s, a number of the orders had openly emerged
+as directorates, theoretically devoted to ensuring the success
+of all Ventrue and, through them, all vampires.
+
+Now the clan has a directorate in almost every major city
+in the Western world. Some directorates may have only two
+or three members, but all serve the same purpose — ensuring
+that the clan's power and influence continue to spread.
+Directorates usually meet on the first Tuesday of every
+month, and every Ventrue in a given city is expected to
+attend, The senior Board of Directors only rarely meets, but
+its members stay in constant communication.
+
+THE ATAVISTS
+
+Very few Kindred outside the clan know of its past
+structures, and that is the way most Ventrue want things
+to stay. First of all, those past structures were secret, and
+the clan is afraid that if their existence became widely
+known it would cast a poor light on what the clan
+accomplished in earlier times. Second, and more impor-
+tantly, the Ventrue do not want other vampires to know
+that its past leaders failed to maintain clan unity. Any
+sign of past weakness might inspire the clan's present
+enemies.
+
+Some Ventrue do not feel this way. Referred to as
+Atavists or Throwbacks, these vampires believe the di-
+rectorates are flawed and inferior to past structures. There
+are those (usually young) who espouse the democratic
+trappings of the ancient senates and wish their votes
+counted in the directorate like they believe a Ventrue's
+vote counted then. Others (usually old) believe the
+directorate system has made the Venttue soft. These
+vampires want to reestablish the old subclan system,
+where the strong prospered and the weak perished.
+
+Finally, an even smaller group of Ventrue believe
+that the clan has become too public in its current form.
+Instead of leading the Kindred, they say, the clan has a
+divisive effect. They note that many Kindred who join
+the anarchs or Sabbat point to Ventrue oppression as part
+of the reason. These Atavists believe the clan should
+reinstitute the hidden orders and guide the undead from
+the shadows.
+
+Chapter Three: Traditions of the Ventrue 27
+
+VENTRUE TRADITIONS
+
+Notonly do the Ventrue espouse the Camarilla's Six
+Traditions, they have many more of their own. One well-
+known dictum is that of Sanctuary. Any Ventrue can
+demand safety in the haven of any other Ventrue. This
+is one reason Ventrue help each other so willingly —
+better to keep a clanmate out of trouble than to succor
+him when he's in trouble.
+
+Another tradition is that of Accountability. While
+all vampires are supposed to follow that Fourth Tradi-
+tion, the Ventrue believe it should apply even after the
+childe has been introduced to and become a part of
+Kindred society. Ventrue sires always feel slighted if their
+childer act against the clan and will be the first to try to
+bring them to justice. Conversely, Ventrue sires also
+expect their childer's successes to elevate their own
+status.
+
+But following Tradition does not always mean un-
+thinking adherence to senseless rules. A less widely
+known but more enjoyable custom is that of the Embrace
+Nights. Each year, Ventrue celebrate the anniversary of
+the night they became undead. These celebrations, re-
+served for the Ventrue and their closest allies, usually
+involve weeks or months of planning and lots of money.
+Some Ventrue rent parks, auditoriums, entire hotels or
+massive luxury liners to hold their parties.
+
+The variety among these parties is truly astounding
+given the clan's stuffy reputation. Some Ventrue do
+prefer subdued affairs where they recite their lineage for
+the benefit of all in attendance. Others, however, throw
+wild debauches where anything goes and blood flows like
+wine.
+
+The only constant with these parties is the gift-
+giving. As with mortals, all the guests try to surpass each
+other's gifts. While there is no obvious reward for giving
+the best present, doing so is a sure way to gain Clan
+Prestige. These parties are not supposed to be tied to
+prestation, but the recipient cannot help but feel some-
+what indebted to the giver ofan exceptional present, just
+as guests feel beholden to hosts who throw especially
+successful parties.
+
+VENTRUE LAW
+
+Ventrue law has never really been codified or even
+written down. Each directorate makes and enforces its own
+policy, as long as that policy does not overtly conflict with the
+clan's international agenda. While they are not bound by any
+written rules, the Ventrue do have an even stricter form of
+regulation — Tradition.
+
+Bound by their history, however biased that may be, the
+Ventrue look first to the past to determine a precedent for
+resolving a current situation. "If it was good enough for my
+sire it's good enough for me" is an all-too-common sentiment.
+
+28 Clanbook: Ventrue
+
+When Ventrue want to decide whether they should support
+the Tremere in battling the mages or follow the Toreador
+prince's policy of pensive neutrality, at least afew Blue Bloods
+will begin looking through their history books to see what the
+clan did in a similar situation years before.
+
+This adherence to Tradition even more strongly governs
+relations among Ventrue. Younger Venttue are expected to
+defer almost completely to their elders. This is partly out of
+respect to Social Darwinism — the Ventrue who is on top
+must be the one who deserves to be on top — but has more
+to do with the fact that this is the way the clan has always
+acted.
+
+The directorates are the final enforcers of this "law," but
+all Ventrue will turn against a clan member who violates
+Tradition. This situation most often arises when younger
+vampires try to shake up old industries under the control of
+their elders. Maybe the business is stagnating, but the young
+vampire had no right trying to take it away from her elder.
+
+CONTROLLING
+THE KINE
+
+Manipulating mortals isn't so easy as it may initially
+seem. Young vampires often mistakenly believe that all they
+have to do is stare into a mortal's eyes, use Dominate, and the
+problem is solved. What they don't realize is what a tempo-
+rary solution this is, and how often it backfires.
+
+Mortals are not the unsuspecting dolts vampires often
+think they are. Even if a Ventrue Dominates someone into
+taking some action and then forces her to forget the control,
+hecannotkeep her from subsequently undoing everything. A
+police officer forced to look the other way will begin to
+wonder why she did so, and will look into the situation twice
+as hard as she otherwise might have. A bureaucrat mesmer-
+ized into rescinding an order condemning a vampire's haven
+will be shocked at his own conduct and thus acquire an
+unhealthy interest in the property.
+
+The use of Presence can create an even worse backlash.
+A person convinced via Entrancement to help a vampire will
+lose that conviction as soon as the vampire has left. When
+that person realizes that she gave the vampire critical finan-
+cial information because of feelings she no longer possesses,
+she will likely become resentful and angry. Not only is she
+likely to tell her superiors what happened, she will do every-
+thing in her power to enact her own revenge. This bitterness
+can be magnified even further if the victim feels that the
+vampire spurned her. Hell hath no fury like a mortal scorned.
+
+Controlling kine requires a delicate touch, a quick mind
+and at least a little Empathy. Many vampires, especially
+Ventrue, take a certain pride in how rarely they have to resort
+to Disciplines to get what they want. Their other tools, while
+less cut-and-dried, have their own rewards.
+
+
+THE GOVERNMENT
+
+Ventrue, especially neonates, shy away from direct con-
+trol over prominent political figures. If a conspicuous public
+figure begins acting strangely, someone will notice the change.
+Additionally, the most famous public officials have both the
+most power and the most restrictions. Using a congressman
+to stop a murder investigation will only draw even more
+unwanted attention. Finally, elected officials are always
+subject to the whims of the electorate, which only the most
+powerful vampires can affect.
+
+Instead, Ventrue focus their efforts on low-level cogs.
+Wise Ventrue begin by controlling employees in the city's
+personnel department, who can then feed them all the
+information they need to take more and more control of the
+government. Some find their first pawns in the zoning offices
+overseeing their main feeding or business areas. These Ventrue
+tealize that if they can block their enemies' business expan-
+sion or facilitate their own, they will gain a decided edge.
+Other Ventrue target workers in the finance or public works
+departments for the same reasons. Owning someone in the
+parks department can be a good way to obtain favors from the
+Gangrel and keep an eye on the Lupines.
+
+The police and courts make tempting targets and are
+highly prized by Ventrue. Neonates are advised to avoid
+going after the police chief and judges; their elders have
+usually already Conditioned these officials. The prudent
+neonate instead starts with the police officers who patrol a beat
+near her haven; she then moves on to the precinct captain. In
+the courts she will aim first for the judges' clerks (who do much
+of the real work), promising attorneys and capable prosecutors
+and public defenders. These are the judges of the future.
+
+How does a vampire gain control of these figures? The
+most common way is with money — no public servant
+believes he is getting paid what he is worth. This is not the
+most reliable method, however, for these mercenaries can be
+bought by other vampires and betray the character.
+
+Wiser Ventrue strike up a personal relationship with the
+bureaucrat and proceed from there. Many people will do all
+sorts of things fora friend that they would never do for money.
+Allsentient beings are susceptible to the pulls of friendship, and
+Ventrue have innumerable tools to facilitate this. The Presence
+Discipline, an ability to grant favors (anything from getting the
+pawn a raise to having his annoying neighbor move away) and
+the simple expedient of playing on the pawn's ego all go a long
+way. Some Ventrue have claimed their main task is analogous
+tothat of asmart prostitute— make the john feel important and
+worthy no matter how much of a schmuck he may be.
+
+Ofcourse, there are other tools. Blackmail has always been
+popular among the undead. Offering favors, both legal and
+illegal, or even vampiric vitae, can work wonders. Politicians
+can rationalize away most Discipline-induced actions if the
+actions did not wildly deviate from their normal behavior. Last
+but not least, vampires can inspire popular support for their
+cause, force public officials to bend to their wills, and then cause
+that support to fade away as if it were never there.
+
+
+ELECTIONS
+
+Elections are tricky things to control, and young
+Ventrue usually spend more time helping their elders
+than fielding their own candidates. Their first task is
+recruiting the support of those community leaders who
+can deliver a number of votes. More than one Ventrue
+has been Embraced merely because of her knowledge of
+the political landscape and the number of votes she
+could deliver at election time.
+
+In recent years, Ventrue have found willing and
+malleable political pawns in the form of religious lead-
+ers. These charismatic figures have loosed their
+unthinking minions upon the political arena, and the
+vampires have quietly used these unwitting dupes to
+take over promising political institutions.
+
+Vampiric involvement in elections does not end
+with their control of special interests like these. An-
+other area where young Ventrue often excel is the
+dirty-tricks division. Tactics can be as blatant as releas-
+ing a video of the other candidate being ecstatically
+flagellated by a naked, muscular young man or as subtle
+as paying off preachers to "forget" to tell their congrega-
+tions to vote on Election Day. Some Ventrue implant
+posthypnotic commands in the rival candidate's mind,
+causing him to gaffe during a big debate. Others success-
+fully convince large numbers of kine (those whose votes
+
+they can't control) that voting doesn't matter, thereby
+ensuring that the only mortals who vote are the pawns
+of one vampire or another.
+
+Finally, some Ventrue avoid uncertainty altogether
+by controlling both major candidates and letting the
+electorate do as it pleases. Of course, the anarchs argue
+(often correctly) that ideology really doesn't matter
+anyway. Whoever wins will be the pawn of one Leech or
+another, so one's time is better spent trying to change
+the entire system than worrying about whether Pawn
+One or Pawn Two wins the office.
+
+30
+
+Clanbook: Ventrue
+
+THE BUSINESS WORLD
+
+Corporations provide a whole different set of challenges.
+While minor corporate officials may do most of the work and
+be responsible for a company's success, actual control rests in
+the owners' hands. They set the direction, decide policy, hire
+and fire, and most importantly, handle the money.
+
+Methods of taking control of a company are as diverse as
+companies themselves. Public corporations, which are owned
+by anyone who buys their stock but managed by a board of
+directors and a CEO, require a different strategy than do
+private corporations. Often a vampire does not need torunan
+entire company — just a subsidiary or a local corporation.
+Ventrue often joke that when another vampire achieves
+success in business, it means he has sold his soul to their clan.
+On the other hand, because no neonates know who really
+controls what corporation, Ventrue may themselves be work-
+ing for Giovanni, Glass Walkers, Toreador or who knows
+what else.
+
+Accordingly, Ventrue like to have their control as high
+up the corporate ladder as possible. This is not an easy thing
+to accomplish. Buying up a company's stock is expensive,
+time-consuming and certain to attract attention. A more
+common way to gain influence in a public company is
+through its main officers. Because most boards of directors
+follow the lead of the companies' upper management, the
+Ventrue find ways to make the executives beholden to them.
+
+A common tactic is to manufacture a crisis in the
+company (corporate takeover, labor difficulties, legal inves-
+tigations or defective products) and then appear as a white
+knight come to save the day. The executives feel beholden to
+the vampire and, more importantly, will do anything to keep
+the vampire from telling the board of directors or stockhold-
+ers about what almost happened. The Ventrue will then use
+this opening to influence the company's direction until the
+CEO is afraid to move without his master's permission.
+
+A board of directors can help a vampire run a company,
+though this is an uncertain thing. Ifa Ventrue can control it,
+perhaps by making its chairman a ghoul, she can neutralize a
+hostile CEO. The board can use its influence to keep him in
+line or even fire him and hire a replacement more to the
+vampire's liking.
+
+Ventrue often use the "crisis" method against private
+corporations, but in a more overtly offensive vein. In these
+cases, they make sure the owners know exactly who created
+the problem. When a shipping company's trucks start getting
+hijacked at the rate of one a night, they let the owner know
+what he has to do to make the hijacking stop. When the
+assembly line breaks down every hour, on the hour, they let
+the owners know what they have to do to keep it running.
+
+In all of these cases, the company in question finds itself
+with a new partner — the Ventrue. Even ifa Ventrue moves
+in legitimately, perhaps by giving the company the money it
+needs to expand, she will come to dominate the firm. In order
+for the firm to fulfill the Ventrue's purpose, she must control
+it completely — and control it she will.
+
+Ventrue usually avoid Embracing the old, though there
+are many exceptions to this. Vampiric existence is extremely
+dangerous, and the Ventrue want their neonates capable
+socially, mentally and physically. Rather than letting their
+old allies die off, however, Ventrue often feed them their
+blood and bind them as ghouls.
+
+Ghouls span the spectrum of Ventrue interests, and no
+clan makes more or better use of these second-class immor-
+tals. Ventrue have discovered that the lure of eternal life
+makes a most effective bribe, especially for those mortals old
+enough to be in positions capable of furthering the clan's
+interests. Ventrue have far more to gain by enlisting the old
+and powerful than the young and promising (these latter
+make better childer than ghouls).
+
+Ventrue ghouls remain in their old positions for a
+teasonable amount of time, arrange a transferal of their
+temporal power to the Ventrue, and then take positions
+behind the scenes. While some Ventrue eliminate their
+ghouls as soon as their usefulness has ended, most prefer to
+find new positions for their old allies. If those positions are
+
+more dangerous and the ghouls meet untimely ends, then so
+be it.
+
+Until such time as their utility ends, a Ventrue's ghouls
+make up a big part of his unlife. The clan takes the Fourth
+Tradition of the Accounting to heart and applies it to ghouls
+as well. Ventrue consider a ghoul an extension of its master
+and treat it as such. They usually avoid sending their servants
+into needless danger or grossly mistreating them. Many
+ghouls have served their Ventrue masters for decades and will
+do so for decades more.
+
+VENTRUEAND
+THE WORLD
+
+MORTALS
+
+Do we have a responsibility to the children of Seth? The
+answer is a resounding yes. They are as much in our charge as
+
+the Brujah, the Malkavians or the lowly Caitiff.
+THEARCANUM
+
+Our Kindred do not realize what a useful tool this
+organization has been. Its members have succeeded in dis-
+covering much that we would never have found ourselves.
+Still, it remains imperative that neither it nor the Camarilla
+realizes the influence we have over it.
+
+THE INQUISITION
+
+A constant reminder of what a threat mortals can be
+when manipulated by more powerful forces. If there are such
+things as the Secret Masters, then the Inquisition is surely
+their handiwork.
+
+Chapter Three: Traditions of the Ventrue
+
+31
+
+32
+
+Clanbook: Ventrue
+
+THE CAMARILLA
+
+Obviously not the best of all possible organizations, but
+the best we can hope for. It is not under our control or anyone
+else's; instead, it provides a stage upon which we can watch
+and learn. Studied long enough, it should reveal who is
+attempting to accomplish what.
+
+THE INCONNU
+
+These aged vampires are either the most flagrant liars or
+the most tragic dupes in existence. That they could ever
+believe that they are not being manipulated by other, more
+powerful entities is incomprehensible. These are some of the
+biggest pawns in the game. Still, their raw power makes them
+appear more like blundering rooks or queens. Beware.
+
+THE SABBAT
+
+Yes, it was no doubt created to be a tool of the Secret
+Masters, but here we have achieved our greatest successes.
+The more successes it scores, the more powerful it becomes,
+the more imminent is its collapse. Our efforts have ensured
+that this vile sect cannot survive. When it comes crashing
+down, it will take its Masters with it.
+
+ASSAMITES
+
+We have had more contact with this clan than anyone
+else, and almost destroyed it during Rome's heyday. Since the
+Inquisition, it has become apparent that its power has been
+broken, and now its assassins are nothing more than faithful
+lapdogs content to serve anyone who meets their price.
+
+BRUJAH
+
+This noxious rabble shifts with the wind like the stench
+from a garbage dump. They have been our allies, enemies,
+betrayers and benefactors. If a Brujah says something, do not
+believe it. She may mean it with all sincerity, but even she
+may not know what she will do next. I would prefer their
+permanent enmity to ourcurrent unsteady alliance —at least
+then they would be predictable.
+
+FOLLOWERS OF SET
+
+These snakes may be predictable, but that does not make
+them any easier to deal with. Every time you enlist one of
+these creatures to your cause, you can be sure that he is
+searching for a way to manipulate events against you. Better
+to set them up as the scapegoats for anything that might go
+wrong, thus destroying them before they can turn their
+attention to you.
+
+GANGREL
+
+Good, easily trained little pets. Feed their little delusions
+("Oh, yes, by living in the Barrens you stay quite free of the
+Jyhad!"), throw them some bones ("I would be more than
+happy to help prevent the paper mill from polluting your
+swamp."), and they will support you as surely as a dog runs to
+the one who feeds it.
+
+GIOVANNI
+
+These charlatans like to play make-believe, exuding an
+aura of magic and mystery, but we know better. As far as
+magic goes, they are nothing compared to the Tremere. As far
+as business goes, they are less than nothing compared to us
+When we want something that they have, they give way
+without complaint. All rumors that they are manipulating us
+for some darker purpose are mere drivel.
+
+MALKAVIAN
+
+Is their madness genuine, or is it a ruse to make us relax
+our guard? The answer is probably both and neither. The
+Malkavians have usually been our allies, as during Rome, but
+this has not always been the case. More than likely they are
+
+products of the Secret Masters' machinations, no longer able
+to express free will except through insanity.
+
+NOSFERATU
+
+This clan has done more to serve us than its members
+would care to believe, but it is still a clan to fear. Its members'
+constant snooping helps keep the other clans in line, even if
+it does occasionally hurt us. The older members know the
+ancient stories, and they are the ones to fear. The very eldest
+seek those things our ancestors hid away, and their deep,
+dank tunnels are safe for no vampire.
+
+RAVNOS
+
+Pawns one and all, these vampires delight in nothing
+
+more than destroying everything that can provide a sense of
+community. The only good it can do is to provide a rallying
+point around which we can gather the other clans for one goal
+— its destruction.
+
+SALUBRI
+
+What a tragic history. [t is so sad what happened to these
+poor vampires. Too bad there aren't any more around so we
+can make it up to them. (If yousee one, tella Tremere and put
+him in debt to you.)
+
+TOREADOR
+
+Far craftier than they let on, the Toreador present an
+ingenuous facade; in fact, many of its members are almost as
+capable at business and politics as we are. Individual members
+are trustworthy and follow the laws of prestation, but the clan
+asa whole must be watched. It will change sides ata moment's
+notice and still come out smelling like its flowery emblem.
+
+TREMERE
+
+The biggest organization of pretenders in existence, and
+a constant pain in the neck as well. As long as no one else
+trusts them, we can ensure that they can never usurp us.
+Needless to say, we have played a key role in spreading the
+stories of their double-dealings and betrayals. While they
+remain subservient to us they are useful, but the Secret
+Masters have been at work here.
+
+d
+=
+o
+;
+
+it
+
+Welt
+
+thi'
+
+~
+
+Chapter Three: Traditions of the Ventrue
+
+34
+
+Clanbook: Ventrue
+
+COTERIES
+
+Between the Ventrue's mistrust of the other clans
+and the tightly knit nature of the clan itself, one might
+wonder why they associate with other Kindred. The
+Ventrue themselves, however, realize just how necessary
+these alliances are.
+
+The Ventrue understand that they need other vam-
+
+pires. They cannot do everything themselves. Young
+Ventrue especially need the aid of other vampires be-
+
+cause they can accomplish almost nothing on their own.
+The elders seem to have already taken hold of everything
+worth controlling, and young Ventrue often find them-
+selves forced to oppose their elders in order to do anything.
+
+Young Ventrue find that other neonates share many
+ideas with them, ideas that are completely alien to their
+sire. If a Ventrue seeks to make his mark in politics,
+getting the support of a rising Toreador Artiste can be
+invaluable. Brujah make very effective allies when the
+Ventrue's businesses run into labor problems. Even a
+Tremere rival can play a critical role in advancing a
+Ventrue's status in undead society itself.
+
+PRINCES
+
+We hold most of these positions, and there is no better
+place from which to watch and prepare. Let those with
+neither conscience nor heart hide their heads. Let them
+
+scream that we are fools or lightning rods. We have our
+responsibilities and our duties, and we will fulfill them.
+
+ANARCHS
+
+Speaking of screamers... The more freedoms these pup-
+pets demand, the more they would take away from anybody
+else. All their complaints must be taken with a barrel of salt,
+for these poor, deluded fools have no idea what is really going
+on in the world. Those who believe themselves the most free
+are the biggest dupes.
+
+FAERIES
+These odd creatures truly exist, and we have occasion-
+ally worked with them. They have their own understanding
+about the universe, and while no vampire should try to
+comprehend it, we can appreciate it all the same. Treat them
+courteously, seek to work with them, and always keep an
+escape route open.
+
+Some Ventrue believe there is far more to these tragic
+wraiths than we have believed. Older vampires say dead souls
+have not been this active since the Middle Ages. Still, we
+have had little to do with them, and this is the way we should
+keep things.
+
+LUPINES
+
+They are among the greatest tools of the Secret Masters.
+These beasts have no will of their own and exist only todo the
+bidding of powerful spirits. They would do anything to bring
+us down, for their masters know we would do anything to
+block them. Do not expect quarter from a werewolf and do
+not give one any. Our Presence powers are often enough to
+send the beasts howling in fear.
+
+The Secret Masters manipulate the mages just as they do
+the Lupines, but some mages remain free. If you need allies
+among the mages, look to those who deal with science, but do
+not trust them. Even those mages who are not controlled
+from afar can be trusted only as long as you can keep them
+looking at someone else. As soon as their hungry eyes turn to
+you, Dominate them or run.
+
+GOLCONDA
+
+There is such a state, but it is a tenuous and ephemeral
+one at best. Attaining it provides a momentary respite from
+the demands of our existence, but losing it proves extremely
+traumatic. Because it cannot be held, one is better off never
+seeking it than finding it and subsequently losing it.
+
+Tay hecarep x08 pray trdeturvaye bagi
+yaw Ois ebigeou coin apt yuatec Loipavit
+
+Chapter Three: Traditions of the Ventrue 35
+
+0
+
+=
+
+
+CHAPTER FOUR:
+VENTRUE
+TEMPLATES
+
+He was the mildest manner'd man
+
+That ever scuttled ship or cut a throat,
+
+With such true breeding of a gentleman,
+You could never divine his real thought.
+— Lord Byron, Don Juan
+
+While the Ventrue have Embraced mortals from a wide
+variety of backgrounds, most members of the clan have a number
+of similarities. First of all, Ventrue tend to choose mature mortals
+who have had some time to develop the skills the clan seeks.
+Second, sires usually look for mortals who are more stable than
+those targeted by other clans. Finally, Ventrue take special care to
+ensure that their neonates do nothing to embarrass them, and they
+choose their childer with this in mind.
+
+Feel free to tamper with the numbers, Natures, Demeanors,
+etc., to make these characters fit your needs. These templates may
+also guide you in creating your own characters. The best charac-
+ters, however, are those you design and develop from scratch.
+
+Some of the Natures and Demeanors used in these templates
+are taken from The Vampire Players Guide.
+
+
+ANARCH
+WANNABE
+
+Quote: The Brujah make some good points. You just don't
+want to understand them.
+
+Prelude: You've had to put up with other people's
+expectations your whole life. Your parents read Shakespeare
+to you while you were in the womb, put you in a prestigious
+preschool when you turned two, and nagged you ever since.
+While thoughts of rebellion stir in many adolescent chil-
+dren, yours began when you were five, by which point you
+had already learned two instruments and two languages
+(you disappointed your parents by not learning a third
+until you were seven).
+
+No matter how much you dreamed of freedom
+from their pushing and prodding, you did nothing
+to oppose them. Instead, you dutifully fulfilled
+their expectations, graduating with high honors
+from..Yale, becoming a success in business and
+achieving all the dreams they were living through
+you.
+
+Obviously, your Embrace altered all this.
+Changed because your sire believed you the epitome
+of the Ventrue type, you found yourself suddenly and
+completely free of your parents' control. Not even
+vampires can force you to revert to your hated
+existence you hope.
+
+Concept: If you wanted to, you could be the
+perfect childe — but you don't want to. You want
+to be rid of all the restrictions and demands others
+impose on you. Still, you realize you owe some-
+thing to your sire and clan, and the pull between
+them and the anarchs is getting worse.
+
+Roleplaying Tips: While you would like
+to cast responsibility to the winds, you know you
+cannot. Instead, you hope to shoulder only the kind
+of responsibilities you want, and have become very
+careful about your promises. You don't want to be every-
+thing to everybody. You only want to be yourself.
+
+Equipment: Torn but clean denim-and-leather out-
+fit, brass knuckles (never used), BMW
+
+38 Clanbook: Ventrue
+
+it eae
+
+VAMPIRE: The Masquerade"
+Namie: Natare: ReReEL Sire: i.
+|i] Player: Demeanor: Bow Vivant Generation: | 2"
+* |
+| Chronicle: — _ Concept: Avarc\Janurbe Haven: |
+Physical Social
+Strength_______eeoo0000 Charisma_____eee00000 ae icicle
+Dexterity______@@000000 Manipulation___eeoo0000 _Intelligence @e@e@0000
+Stamina____—=—@@®000000 ~—_ Appearance eee00000)—| CWWits__— 00000
+iON: ities TOO
+ee
+Talents Knowledge
+Acting______00000000 Sind okewaees Bureaucracy___@@000000
+Alertness___ ~~ 00000000 + Drive________ @e000000 + Computer___ e0 000000
+Athletics___ = @o0000000 _ ~=—Etiquette______ee@eeoo000  Finance________—eee00000
+Brawl________@o0000000 __ Firearms______@0000000 _Investigation____ee000000
+Dodge 0000000) =«=—Melee___=—=—»70000000 =Law______ e0000000
+Empathy____ 090000000 Music________ 90000000 __Linguistics___@@000000
+Intimidation____o0000000 + Repair___.- ~90000000 Medicine____ 90 000000
+Leadership_____@@000000 = Security_______eo0000000 Occult_____——_—»/7 000000
+Streetwise_______ 00000000 = Stealth_______so0000000 Politics. @e0 00000
+Subterfuge____ 00000000 = Survival_______00000000 _— Science_____ 00000000
+Sins) eee 49 O a
+SSS —a—= Advantages
+Disciplines Backgrounds _ Virtues
+Dominate___eo000000 G.aetAcis 98000000 Conscience_____eeee0
+Fortitude _seooo00e ENERATI @0000000
+resence @0000000 ae
+__ 0000000 CES ee0000c0 Self Control____eeeoo
+00000000 —_____00000000
+00000000 _______00000000
+00000000 _________ 00000000 Courage eeceo
+
+SS ———————_—_—_—_—__—_—__ __ SSS IO
+
+~e—= Other Traits —~—— Humanity——-- —— >» Health
+
+oooo0000 898808888 S00 Bruised oO
+OO0000000 Hort Al oO
+00000000 = Willpower ——~— Injured 410
+ccoocoon OOOO CCE00 Wounded 2 0
+ooooo00g COOOOOOOOO Mauled 2 0
+00000000 Crippled 5 O
+oooco0g | Blood Pool —-—— —_——
+cooooooe0 QOOOOOOO00 ~~ — Weaksess —-—
+oooooco0 QOOOOOOOBO PREY EXCLUSION
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1) i
+
+evr Tt rt rir ri ry
+
+
+BORN LEADER
+
+Quote: That's a good plan, but here's what we're gonna do...
+Prelude: Asa mortal, you had a hard time getting done what needed
+to be done. You knew the correct ways to do things and could usually
+ie" get people to do them, but not always. There were always those
+who couldn't see the necessity of doing things your way, and they
+would often become recalcitrant, blocking you at every turn.
+
+| a Now that you are a vampire, you have little problem
+es convincing mortals to follow your lead. It's other Kindred who
+are the problems. Brujah, Gangrel, Malkavian, Tremere — it
+makes no difference. They need you even more than the mortals
+did, and until they realize it, you will continue to lead them
+whether they like it or not.
+
+Concept: You were Embraced for your natural ability to
+sway people to your side and convince them to follow your lead.
+No matter what you did as a mortal, you managed to attract
+others to your cause. The same holds true as a vampire. The
+only problem is that now your enemies are often more powerful
+than you and your allies combined.
+
+Roleplaying Tips: Used to being the center of attention,
+you do not take kindly to being overshadowed. While this
+means other neonates may find you overbearing, you find
+elders to be even moreso. Thus, anarchs and other alienated
+
+Kindred may be more willing to work with you than other
+Ventrue are. You have common enemies.
+Equipment: White suit, dark sunglasses, colorful tie, Lin-
+
+coln Town Car, Glock-17
+
+
+ttt Sontryptit. 7
+
+SSS er 40 OS
+
+~e——Other Traits——=— — <——— Hamanity————- 3) >> Health
+
+VAMPIRE: The Masquerade™
+Name: Nature:A RCHITECT Sire: a
+Player: Demeanor:) \eEcroR Generation: | 5
+Chronicle: Concept: [Sonn LEADER Haven:
+Physical Social
+Strength_______@@o000000 Charisma______eeeeeooo  Perception____ ee@00000
+Dexterity______@@000000 Manipulation___ee@eo0000 _Intelligence @@000000 |}
+Stamina___ == @@000000 = Appearance. ee000000 Wits____——— e@e00000 |}
+ST EEE A sue —L—L——SSSSEEE OHO
+A. =< ee
+Talents Knowledge
+Acting_____@@000000 ge aroma Bureaucracy. @@000000 |}
+Alertness______@0000000 Drive_____§__ 0000000 Computer. 00000000 |}
+| Athletics______oo000000 _— Etiquette______@0000000 _ Finance______o0000000 |}
+Brawl @o0000000 _~—‘~‘Firearms______@e@000000 _Investigation. @0e00000 ||
+Dodge 970000000) «= Melke__§§=+___o0000000 Llaw_______eo0000000
+Empathy @e@o00000 = Music________ 90000000 __Linguistics @0000000 |}
+Intimidation____@@oo0000 Repair. ~~ 00000000 8 Medicine___) 0000000
+Leadership. e@ee0c000)3=s- Security______eo000000 Occult____—s.90000000
+Streetwise______ 00000000 _~—‘Stealth___§___—~— 90000000 —s~Podlitics____————@e 000000
+Subterfuge_____ee@oo0000 Survival ~90000000 = =Science_____ 90000000 |f
+a ——Advantages
+Disciplines Backgrounds _ Virtues |
+Dominate___eoocccco ALLIES e0000000 + Conscience_____eeeoo ||
+portitude:_nogseage ONTACTS @0000000 |
+resence__@@@00000 is @@000000 ;
+00000000 ee poo Self-Control___eeeeo
+00000000 3 _@8@000000 |
+oooco0000)§=6§STATUS #0000000
+¢ Jourage, |
+00000000 ___________00000000 enon fl
+|
+coc00000  @ @ O08 CCBC00 Bruised oO |
+00000000 Hurt 10
+00000000 ~s=— Willpower ——~— iid 4 O
+00000000 oO |
+o0000000 @eeeeeeeododod Wounded 2
+sot |i] oe | mw | | Maid 20 |
+00000000 Crippled 5 O
+00000000) Bigg Pool —"— Incapacitated OF |
+00000000 We |
+ooooo000 QO OOOOOO000 cakness |
+coooo000) = FU OOOOOoOoOoO PREY EXCLUSION i
+
+t Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1) Sj
+
+| | | | | | | |
+
+CAPO
+
+Quote: You think we got a problem? (sound of cracking bone)
+I don't think we got a problem.
+
+Prelude: To you, it was never the family. It was your family.
+You were born into it, grew up a part of it and never wanted any
+other kind. A made man by the time you were 18, you moved
+quickly through the ranks and learned every part of the busi-
+ness. You graduated early from the low-level stuff (robberies,
+safecracking and legbreaking), and in no time at all you
+were learning the finer aspects of smuggling,
+gambling and all types of money-launder-
+ing.
+
+You thought your career had
+hit its peak when your uncle met
+with an "accident" and the fam-
+ily chose you to take his place in
+the hierarchy. This was when
+you discovered the true power
+behind the family. The real boss
+didn't mind that you had killed
+your uncle; in fact, he rather
+liked that. First he made you his
+ghoul; later, he made you his
+childe. Now you have a whole
+new family.
+
+Concept: While your con-
+nections and abilities made you
+an appropriate choice to become
+a Ventrue, it was your cold-
+hearted brutality that attracted
+the clan's attention. You can
+and willdo anything to advance
+yourself and the clan — even if
+this means opposing clan elders.
+
+Roleplaying Tips: In private
+you are ruthless and cunning. In
+public you are the heart of civility.
+Nobody should consider himself
+yourenemy. Those whom you most
+hate are the ones you want to fancy
+themselves your friends.
+
+Equipment: Pinstripe suit, wing
+tips, 45 automatic, bulletproof vest,
+Cadillac
+
+42 Clanbook: Ventrue
+
+tt Yontrig tit. /
+
+x VAMPIRE: The Masquerade"
+| Namie: Natare:C ower Sire: th
+| Player: Demeanor: [}RAV0 Generation: | |
+Chronicle: Concept:Caro Haven:
+| Physical Social Mental
+1 . :
+| Strength_______eeeoooco Charisma_____ee@eoooco Perception @®000000
+| Dexterity_______@@@00000 Manipulation ___e@e@o0000 _Intelligence. @@000000
+Stamina_______@@@@0000 Appearance. ee000c0c00§3 ~Wits i 0000
+88 I —E—>E—E>EEEEE egege 10S
+_—<_ ee
+Talents Knowledge
+Acting___00000000 sane Bureaucracy. @0000000 |}
+Alertness_____ @0000000 Drive____§_——®e000000 = Computer____ 00000000 |}
+Athletics ©0000000  Etiquette___—— 90000000 _ ~—— Finance____ 990000000 |}
+Brawl___ = @e@eoo000 = _—"SFirearms______@@000000 _Investigation, @0000000 |}
+Dodge @@000000 8 Melee___§_____@eoo0000 Law____—_—eo000000 |}
+Empathy ___ 990000000 Music___.__§_90000000 _Linguistics. @0000000
+Intimidation____e@eeoo000 Repair____»0000000 Medicine 0000000 |
+Leadership. @0000000_ _ Security_____@eo000000 Occult___—)~0 000000 |}
+Streetwise_____@@o00000_——‘Stealth____§__—_@eo00000 _ ~=—s«~Podllitics__-_——— 70000000 |}
+Subterfuge. e@000000-~—=_ Survival 90000000 = Sciencre__ 90000000 |}
+SSE Advantages |
+Disciplines Backgrounds . |
+1] Dominate___e0000000 LLIES @0000000 Conscienn  Soooo
+| Portifude___ssa0000¢ EeNIACTS __se000000
+| resence e0000000 §=§FAME #0000000
+00000000 «INFLUENCE eo000000 Self Control____eeeeo
+00000000) «=69RESOURCES _ee000000
+00000000 ________00000000
+00000000 _________~070000000 Courage sesso
+
+———————— ee to OS |
+
+|
+|
+|
+~=—= Other Traits——- = Humanity —-__ --——— Healt
+|
+
+, Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues: 7 Freebie Points:15 (7/5/2/1) <9
+
+ee ——— ————— — <_[{_z{z_z —E>—————_————————— fe
+
+r - oF beFoseoseoe.eoeooreioeéio |
+
+co0000000 @S@eeeeeoadod Bruised oO
+00000000 Hurt 10
+00000000 e——= Willpower ———— . 410
+rm oetoooen OOOO COC00D Wounded 2 O
+i} p9000000 COOOOOOOOO0 Mauld 2 O
+—————— 00000000 Crippled 5 O
+00000000 Incapacitated O
+00000000 Blood Pool .
+coooooen0 OOOOOOOO00 ~~ — Weakness —-—
+eooooo00 FFM OOOOOOOO PREY EXCLUSION
+
+44
+
+CORPORATE
+EXECUTIVE
+
+Quote: Buy 'em or break 'em.
+
+Prelude: You were born on the fast track to success, and by the time
+you got your M.B.A. from the Harvard Business School, you knew it ;
+wouldn't be long before you finished climbing the ladder. CEO was your
+
+goal, and it got closer and closer with every deal, decision and promo-
+
+tion. |
+
+You had the brains and the talent, but you also had help. Not
+that you knew that. In fact, you didn't even know your Mentor
+until the Embrace. He visited you one night after you had put the
+finishing touches on an especially lucrative merger. Then he
+made an offer of his own. You've regretted it somewhat, for it
+means you will never get the recognition you wanted, but you
+have found plenty of other rewards to make up for that.
+Concept: As a part of Clan Ventrue, you know that the
+combined strength of its members is incredible. The same is
+true of the Camarilla and all the undead. The constant clan
+and sect wars are not only destructive, they're stupid. If you
+
+}
+
+could only unite these diverse elements, there is nothing
+you could not do.
+
+Roleplaying Tips: You can be smoother than silk,
+
+willing to say or do almost anything to get what you want.
+
+You can also be harder than iron, and those who cross you
+once don't do it again.
+
+Equipment: Expensive Italian business dress,
+Porsche, cellular phone, midtown condo, portable com-
+puter, portable fax machine
+
+Lt Benteyy—ttt..
+
+cert) a |
+
+--—— Other Traits———- > Humanity——- —— -~——— Health ———-
+
+" VAMPIRE: The Masquerade™
+Name: Nature: \/:siowAey Sire: 4.
+| Player: Demeanor: Avroceat Generation: | |
+|| Chronicle: Concept: Corporate Exec Haven:
+ee
+Physical Social
+Strenghh_______@@o000000 Charisma______eeo00000 Perception" "eee00000 |
+Dexterity______@@000000 Manipulation___ee@eoo000 _ Intelligence @@@00000 |]
+Stamina_______ @@000000 = Appearance. @ee00000 = Wits________eeeeococoo |}
+|
+SO EEE Abilities —__>= wwe
+ea eS ee
+Talents Knowledge
+Acting 0000000 kbies  swen08es Bureaucracy___@@®000000
+Alertness @@000000_ ~—— Drive @0000000- Computer____@0000000
+Athletics CO0000000 Etiquette. ®®@00000 Finance. —®@@00000 Jj}
+Brawl 07000000 Firearms____ 0000000 Investigation__ @@000000 |
+Dodge_________@0000000 Meke_______oooo0000  Law_______eo000000 |}
+Empathy. _@@000000 Music 90000000 __sLinguistics. __@0000000 ||
+Intimidation____eoo000000 Repair__t._._...00000000 = Medicine___ od 0000000
+Leadership_____eeoooo000  Security______®o0000000 Occult 00000000 |}
+Streetwise_______ 00000000 = Stealth____=_o0000000 ‘Politics____eeo000000 |
+Subterfuge______@o000000 Survival______o00000000 = Science____oo0000000 |}
+SS —Altvantages
+Disciplines Backgrounds _ Virtues
+Dominate___ee000000 Contacts ee000000 Conscience______eeeeo ||
+portierds 00000000 NERATION @@000000
+resence___ e0000000 HERD  __ee000000
+00000000 INFLUENCE e0000000 =—-Self-Control___eeeeo
+00000000 NTOR, @@000000 |
+00000000 0 @@@@0000
+00000000 STATUS @0000000 Courage @ee00 |
+coo00000 8 OSG eGeee edd Bruised Oo
+00000000 Hurt 41a
+00000000 we Willpower Injured dl oO H
+00000000 Wi o
+obo00p00 @eeeeeeseoodod founded -2
+adpaoseo JOUDODDEHNOG Mauld 2 O
+00000000 Crippled 5 O
+; o
+00000000 --=— Blood Pool —-— Incapecitated |
+cooooooe QOOOOOOOO0 ~— Weakmess —-— |f
+cooooocv0 FY OOOOOOoOoO PREY EXCLUSION
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points: 15 (7/5/2/1) f
+
+COUNSELOR mild
+
+Quote: | understand your problem. What would you like to
+see happen now?
+
+Asachild, you discovered that the best way to get people
+to like you was to keep quiet, listen, and then tell them what
+they wanted to hear. You even contemplated becoming a
+psychiatrist. Instead of medical school, however, you chose
+law school, and have never regretted the decision.
+
+Indeed, you so impressed one of your clients that she
+decided to keep your counsel for all eternity. At first you
+feared that the other Kindred would see through your act.
+Now you realize that they like having their egos
+stroked even more than mortals do. You are
+everyone's best friend, and sometimes you
+even offer useful advice.
+
+Concept: Those vampires
+who know you only by reputa-
+tion believe you to be a
+weasely, conniving manipu-
+lator. Those who have met
+you find you comforting,
+warm and even inspiring.
+Neither group has a clue.
+
+Roleplaying Tips: Be
+friendly and attentive at all
+times. Just remember, though,
+that the one you really care about
+is you.
+
+Equipment: Dinner jacket, ex-
+pensive and tasteful jewelry, Saab
+Turbo
+
+46 Clanbook: Ventrue
+
+tt Yonfryjeit.
+
+VAMPIRE: The Masquerade™
+Namie: Nature: Coweipant Sire: a
+
+| Player: Demeanor: Meni AToR. Generation: | 5 |
+| Chronicle: Concept: C ounSeLoe Haven: |
+SEE Attributes ICO
+Physical Social Mental
+Strength________@0000000 Charisma_____eeeeoocoo Perception_____ eee00000 |}
+| Dexterity______e@e00000 Manipulation___e@eooo0o _ Intelligence @@e@00000 |}
+|| Stamina_______e@@000000 = Appearance. @e@e00000 «=Wits_____eeeoo0000 |}
+<0 ss SSS Ah iii es — === ||
+a i.e
+Talents Knowledge H
+Acting ___ @@000000 sepsis eexnnrene Bureaucracy___@@000000 |}
+Alertness______eeeoccco Driv... 0000000 Computer. 00000000
+Athletics____ 00000000 — Etiquette______@@000000 __ Finance____@0000000 |}
+Brawl === 990000000 _~—‘Firearms_______00000000 _Investigation____@@000000 |}
+Dodge________@eo0000000 Melee_______0o0000000 _ Law________eooooo00 |}
+
+Empathy__———s @e@o00000 = Music__ 0000000 __Linguistics @0000000
+Intimidation____o00000000 + Repair___.._90000000_ Medicine___ 00000000 |}
+Leadership______@o0000000 Security_____§__®0000000 Occult______—_—.9/7/.000000 |
+Streetwise_______@o0000000 _ Stealth______-_00000000 _—Politics_______eeoo0000 |}
+|
+
+~~ ——X<*_—EeE>q=*_=aSSSSSSSS
+
+SSS Advantages SSS Sn "
+Disciplines Backgrounds _ Virtues
+
+Dominate___ee000000 Aves." seosuous Conscience______eeecee
+
+Fortitude 90000000 HERD ee000000
+Presence____ e0 000000 seeks 0000000 gi
+00000000 @0000000 Control___eeeoco
+00000000 OF anette
+00000000 ________00000000
+00000000 ~WW___00000000 Courage @8000
+
+a a TS
+
+—-—Other Traits —-— -~—— Humanity —~-  —-——— Health
+
+= Survival 90000000 _— Science_______ 00000000
+|
+
+ocoo00000 89 O8C8888S8BBO Bruised oO
+00000000 Hurt 40
+
+00000000 == Willpower —="— : oO |
+sooooooe 0 00000000 Wounded 2 O |
+sosesces . @UOOOBOOAo Mald 2 0
+00000000 Crippled 45 5 |
+00000000 Incapacitated
+00000000 Blood Pool . a |
+cooooo00 QO OOOOOO00 eakness |
+ooococ00 FIMO OOOOO0OO PREY EXCLUSION
+
+{ Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues: 7 Freebie Points:15 (7/5/2/1) Sj
+
+Quote: I'll worry about that tomorrow night.
+
+Prelude: Born into a rich family, sure of your place in the grand
+scheme of things, you were all set to enjoy a life of comfort and
+pleasure. Naturally talented, if not atall ambitious, you easily acquired
+the abilities you felt you would enjoy, and single-mindedly avoided
+those that seemed the least bit unpleasant.
+
+You became a fixture at all the best parties and impressed everyone
+with your wit, sophistication and flair. You impressed one partygoer
+too much, however, and he Embraced you, finding you the perfect
+addition to Clan Ventrue. He was right. You immediately
+adapted to your new unlifestyle and have never regretted the
+change. You must occasionally deal with the kind of individuals
+you once would have spurned, but even they can be made to
+revere you.
+
+Concept: The Ventrue clan is not just about power. Power
+is nothing without the grace and gentility necessary to use it
+properly. You represent this part of the clan — the part that throws
+the finest parties, keeps the best company and leads by example.
+
+Roleplaying Tips: People should not feel inferior around you
+because you act superior, but because they are inferior. You are not
+condescending, but those around you should know that they cannot
+live up to your standards. The fact that you associate with them despite
+this fact should impress them even more.
+
+Equipment: Evening gown, expensive jewelry, Lamborghini
+
+48 Clanbook: Ventrue
+
+
+Ltt Yontrgtit. 7
+
+VAMPIRE: The Masquerade™
+| Nature: Gaccant Sire: a
+|| Player: Demeanor: Dig Ector Generation: 9
+Chronicle: Concept: | ovee OF UntiFe Haven:
+ee ee
+Physical Social |
+Strength_______eeoooc000 Charisma @@@00000 fmsaptin —
+|| Dexterity. @@@00000 = = Manipulation___e@eeo0000 _ Intelligence @e@000000 ||
+|| Stamina____——@e@00000 —— Appearance eeee0000)=s-: Wits____eeo00000 |}
+———_— —————= Abilities >> ET ||
+
+Talents Skills Knowledge
+Acting -@e@e@00000)=—= Animal Ken___900000000 __ Bureaucracy. 00000000
+Alertness, @0000000_ = Driv_______@@000000 Computer_____eo0000000 |}
+Athletics, @@000000_—_ Etiquette______@@e00000 _ Finance 00000000 Jj}
+i] Brawl__ SS 0;0;cC000 —~‘Firearms____.__@0000000 _Investigation. @0000000 |}
+Dodge 0000000) «= Meke_______oo0000000 Law 00000000
+Empathy. @e000000 = Music__— @ee00000 _sLinguistics @@000000
+Intimidation ooo00000 = Repair__.._00000000 _ Medicine. 00000000
+Leadership_____eeoooo00 Security______00000000 Occult @0000000
+Streetwise 00000000 -~—_ Stealth_______ooooo0000 Politics, @0000000
+Subterfuge e@e@ooo0000 Survival_______00000000 Science. 00000000
+CS SS —Advantages ——————SS
+Disciplines Backgrounds Virtues
+Dominate___eeccc000 +4GENERATION eeeeccco Conscience @0000
+Fortitude___ 00000000 Ee @@000000
+e0cc0c00)=— MENTOR @@000000
+00000000 @@8@0000 Self-Control, @ee00
+00000000 @@000000
+00000000 Sci en
+00000000 _______ 700000000 Courage. eee00
+
+SS ————EEEEEEE—_—_—_—_—_____ too
+
+~e—<Other Traits > Humanity" —— > Health ———
+
+co000000 8@O@SeBBBBO0D0 Rained oO
+00000000 Hast 40
+00000000 === Willpower ——— Inj io
+coooonnn 68 OOO C0000 Wounded 2 O
+soocoss - "HORDOOAOO Makd 2 0
+00000000 Crippled 5 =
+00000000 2 Incapacitated
+
+00000000 Blood Pool i |
+coooooon OOOOO00000 ~~ — Weakmess—-— |
+cooooooo0 QOOQOOO0000 PREY EXCLUSION
+
+, Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Bokgeonte 5 Virtues: 7 Freebie Points:15 (7/5/2/1) i
+
+
+MILITARY MAN
+
+Quote: I love the smell of napalm in the evening.
+
+Prelude: Your earliest memories include watching the parades as the
+veterans of the Korean War came marching home. You remembered the
+pageantry, the excitement, the honors and, most of all, the respect they were
+given. For you, being sent to military school was not a punishment but a
+privilege. You did everything you could to ensure an appointment to West
+
+Point and, upon graduation, gladly took the field as a second lieutenant
+in Vietnam.
+
+Sure, a lot of people, including many of your own
+men, opposed the war. It really didn't matter to you.
+Whether the war was right or not was inconsequen-
+tial. You were nowa soldier, and this was what you
+had wanted to do all your life. You served
+proudly, and even the most disenchanted men
+had to admit that serving under you was at
+least bearable.
+
+Your career did not end in Vietnam.
+Laos, Cambodia, and other distant shores
+soon followed. You were an advisor in
+South America, Afghanistan, Thai-
+landandother places. Your last active
+service was in Grenada, where you
+led soldiers into combat for the
+last time. After all, there is an-
+other war to fight — a war that
+has been waged for millennia.
+The Ventrue need their own
+soldiers, and now you are one of
+them.
+Concept: You serve the Ventrue
+in a number of ways. First of all, you know
+all the tricks of leadership, and your elders
+hope to groom you for greater and greater posi-
+tions of responsibility. Second, you are an expert
+tactician, strategist and modern warrior. Finally, you have
+that rare ability to turn the most disparate elements into
+a working unit, ready and able to coordinate as a team.
+
+Roleplaying Tips: A man of action, you have lost
+none of your decisiveness since becoming a vampire.
+Additionally, you try to be fair in all things, and listen
+
+to anyone with something to offer or with whom you
+
+must work. You will do everything you can to keep
+
+everyone willingly working together; should that fail,
+
+however, you will gladly turn to brute force to achieve
+your goals.
+
+Equipment: Military dress uniform, heavy pis-
+
+\ tol, assault rifle, wooden bayonet, flak jacket,
+
+i civilian jeep with military radio
+{i
+
+Bonteuytit. /
+
+VAMPIRE: The Masquerade™
+
+Name: Nature: Ditector Sire:
+
+Player: Demeanor: Director Generation: | |"
+
+Chronicle: Concept: MiLitary Man — Haven:
+Physical Social
+i] Strength___ ss @@e@00000 8=—_— Charisma____ eee00000 Pe csi @@000000 |}
+| Dexterity______ee@e00000 Manipulation___e@eo0000 _Intelligence @@000000 |}
+
+Stamina_______@@@@0000 Appearance @@000000 =Wits___ 000000 ||
+
+|
+Coe
+Talents Knowledge
+
+Acting __ 00000000 Aihdite noneeben Bureaucracy___00000000
+
+Alertness______@@000000 Drive__..__@eeo0000 = Computer. @0000000
+
+Athletics_______ 90000000 _—_ Etiquette_______90000000 —— Finance____ 90000000 |
+
+Brawl_____———@@oo0000 ~~‘ Firearms____@@@00000 _Investigation, @@0@00000
+
+Dodge @ 0000000 = Meke________®0000000  Law_ ___00000000 |
+
+Empathy______o00000000 Music__mm0_§__§_00000000 _Linguistics. @@0@00000 |}
+
+Intimidation 00000000 —Repair___§§§_ 90000000 + Medicine______— ee 000000 |}
+
+Leadership_______ @@oo00000 = Security______00000000 Occult_______—s»70 000000
+
+Streetwise___ = o0000000 _ = Stealth_____— @eoo00000 _~3Os Politics__—— #0 000000
+
+Subterfuge. ccoccc00 = Survival___—— 90000000 _— Science___ 90000000
+
+SSS Advantages
+Disciplines Backgrounds .
+
+Dominate___00000000 ALES ~~ e0000000 Conscience Sec00
+
+Fortitude___eseoooc0e ConTACTs _ee000000
+
+resence ____—-@0 000000 4 @@000000 |
+
+—_______ 900000000 fee eee Self-Control___eeeoo i
+
+90000000 =‘"QTATUS _e0000000
+00000000 —______00000000
+Courage 60000
+
+00000000 ———__.00000000
+
+—~—= Other Traits——- — --—— Humanity——<- —) ~~ Health ———~—
+
+oo000000 8@@Se@SBBBODdDO Bruised oO
+00000000 Hurt 40
+00000000 = =s— Willpower 5 io |
+coooo00 ee eee eeee0 Wounded 2 O |
+cooooonn COOOOOOD00 Mauled 20
+00000000 Crippled 5 =
+00000000
+
+00000000 »——= Biood Pool ——~— 2
+cooooo00 CQ(OOODOOOOO00
+
+ccooooo0 QE OOOOOoo0g PREY EXCLUSION
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1) Sj
+
+T | ft borer tot) 6) he
+
+OPERATIVE
+
+Quote: Nothing gets 'em talking like a few quick jolts with 40,000
+watts.
+
+Prelude: Your career in government service began with the little
+stuff — electronic surveillance, smear campaigns and other black-bag
+work. You impressed your superiors with your hard work, dedication
+
+and, most of all, your utter lack of scruples. They continued giving
+you more and more important jobs, and you kept succeeding. Your
+goal was to become part of the inner cabal that runs the
+rmment and employs people like yourself.
+One night your wish came true. The only
+trouble was that the inner cabal did not
+include the people you thought it did.
+Indeed, the inner cabal did not include
+any "people" at all. The Ventrue put
+your skills to work at once, and you've
+been gathering information and pull-
+ing off jobs just like before. You've also
+started gathering choice tidbits on your
+masters, just like before...
+
+Concept: CIA, NSA, DIA,
+CAT...it just doesn't matter. They
+all report to the same folks, and these
+folks live beyond presidential admin-
+
+istrations. In fact, they live beyond
+
+presidents. In fact, they don't live at
+all. Now you're one of these guys,
+only once again you're at the bot-
+tom. You have no intention of
+staying there for long.
+Roleplaying Tips: Your success
+as a mortal derived from the fact that
+no one suspected you. Now everyone
+does, and you can either try to counter-
+act that paranoia or use it to your own
+advantage. Either way, you know you
+have interesting times ahead of you.
+Equipment: Rumpled gray suit,
+overcoat, .38 Special, nondescript
+American-made car, electronic eaves-
+dropping equipment, gas pen, various
+untested but potentially useful chemicals
+
+
+it BenttyeLi
+
+00000000 00000000
+
+~e——= (Other Traits——<- 9 <—-—— Humanity ——<- ——— Health
+
+ocoo00000 @@SSeSBBeSO0000O Bruised oO
+00000000 4 oO
+00000000 === Willpower —~— Hur . io
+sooo ooon  @ 0 00008000 Wounded 2 0
+wena LILI Mauled 20
+00000000 Crippled 5 O
+00000000 Incapacitated Oo
+
+Spee meyer
+soounoad Blood Pool
+
+coooooond QOOOO00000 ~— Weakness
+00000000 oOoOoOooOoOoOoOoOoO PREY EXCLUSION
+
+| Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (715 (2/1) <j
+
+|, ewe ——————— - —AF :
+
+| | | | | | | | | |
+
+VAMPIRE: The Masquerade"
+: Nature: ConniveR Sire: a
+Player: Demeanor:|_ouER aga IQ |
+| Chronicle: Concept: OPERATIVE
+4]
+—————Attribates —ereO |
+| Physical Social
+Strength_______eeeoocco  Charisma_____ e0000000 ane =
+Dexterity. @@00@000 = Manipulation, @@e00000 _Intelligence @@000000
+| Stamina_______@@000000 Appearance e@0000000 Wits —— eee00000 |}
+sis ss) . SS
+a? oe
+Talents Knowledge |
+Acting 0000000 po ee Bureaucracy. 00000000 |
+Alertness_______@@000000 + Drive______ #0000000 Computer. 00000000
+Athletics 00000000 Etiquette__ = 90000000 ‘— Finance____00000000
+Brawl_________e@eooo000 —‘Firearms______®@000000 _Investigation. @@@00000
+Dodge 0000000 «= Melee___—— 90000000 =Law_______eo0000000 }}
+Empathy__—— @7o0000000 = Mussic___————— 0000000 _Linguistics. @@000000 |}
+Intimidation____@eo000000 + Repair___..... 90000000 Medicine__ 0000000
+Leadership, 00000000_—Security_______ @0000000 Occult________—9 70000000
+Streetwise______eo0000000_ Stealth___mtmnmeeoooo0o  Politics______eeo00000 |}
+Subterfuge. ee@e00000)3=s Survival_______00000000 = Science____00000000 |f
+}
+ia SS SSeS 00
+= Advantages
+Disciplines Backgrounds _ Virtues
+Dominate___eee00000 Contacts" eeeo0000 Conscience___ e000
+eoriade e00c0000)§=— GENERATION _@0000000
+resence 00000000 NELU @@000000
+00000000 RESOURCES eeoo0000 Self-Control___eeeee
+00000000 _________00000000 |
+00000000, —__________00000000
+Courage. eece0
+
+
+UNION BOSS
+
+Quote: In numbers there is strength.
+
+Prelude: An idealistic flame burned in your heart when
+you were young, but you found bringing justice to the
+working class rougher than you expected. The corporate
+powers had their muscle, and you had to make deals to get
+your own bruisers — deals that returned to haunt you. For
+years you managed to accommodate both the union and the
+mob, but as time went on, it became harder and harder. Then
+you discovered who really ran the Mafia.
+
+You cut a deal with high government officials, promis-
+ing to tell all you knew about organized crime, and
+you made a similar arrangement with members
+the FBI's Special Affairs Division. Before
+you could talk, however, a car pulled up to
+you one night as you left a diner. Its myste-
+rious occupant ordered you to get in, and
+from then on you have served the undead.
+
+Concept: You were too dangerous to
+let live and too valuable to destroy, so a
+powerful Ventrue Embraced you and forced
+you to serve her. Now she feels that the days
+of the union are numbered and has let you
+go your own way. You know better, how-
+ever, and nurtured your mortal contacts
+during the years you served her. Now you are
+ready to make the world the kind of place you
+want it to be.
+
+Roleplaying Tips: Youare tough, though
+you know the meaning of compromise. You
+strike most people as uneducated, but you are
+sharp asa whip. Additionally, you know how to
+stir up a crowd and command loyalty.
+
+Equipment: Brown suit, attaché case, bullet-
+proof vest, baseball bat
+
+54 Clanbook: Ventrue
+
+tit Bente tit. /
+
+—————___0 0000000 ———__900000000 <2 |
+
+—-— Other Traits —»—— Humanity —=—_ —»——— Health ——-—
+
+VAMPIRE: The Masquerade"
+Nature: ARCHITECT Sire:
+| Player: Demeanor:D irEcToR esate
+|] Chronicle: Concept:(_s1015 Boss
+| tributes ——se | |
+Physical Social
+| Strength______eeeoooco  Charisma_____eeeeocoo re aca @@000000
+Dexterity____ = @®0 00000 Manipulation__ e@@@@0000 Intelligence. @@000000
+| Stamina________@@@00000 = Appearance, @ee000000) | «=—(WWits__ 000000
+oe ——_—EEEEEEITONOS
+ae
+Talents Knowledge
+Acting 000000 ee Bureaucracy. @@000000
+Alertness______@0000000 Drive___.._-_ 0000000 Computer. 00000000
+Athletics_____ 00000000 _ Etiquette______@0000000 _  Finance____ee000000
+Brawl @@000000_~—s FFirearms_______00000000 __Investigation @@000000
+Dodge @@000000 = Melkee___==— @eo00000 =Law________e0000000
+Empathy______ee@oo00000 Music__.___§_§_00000000 __£Linguistics @0000000 |}
+| Intimidation____e@e@000000 + Repair________ 90000000 _ ‘Medicine. 00000000 |}
+Leadership _@@000000-—_ Security____§=§=_@o0000000 Occult_______—_—. 7000000
+Streetwise____ @0000000 _ = Stealth______§_0o0000000 Politis___-_———@7.0 000000
+Subterfuge ss ® 0000000 Survival 0000000 Science__ 0000000
+<8 —E—E—E—>—>>—>——E—E—EE——E eer
+SSS —= Advantages |
+Disciplines Backgrounds .
+Dominate___eeocc000 §=©@ConTACTS —__ee000000 ee a
+Herdaide e@0000000 «=O EAME #0000000 |
+resence___ @0000000 {0N_@0000000
+__ 0000000 ee Self-Control__eeeoo
+00000000 ________00000000 |
+00000000 ~_________00000000
+Courage @ee0eo |i
+ooo00000 898 8Ceeeee00 Bruised oO
+00000000 Hurt 10
+00000000 w= Willpower ——— Injured A oO |
+00000000 oO |
+coo00000 eeeeeeeodod Wounded 2 |
+ssoosnnan UCHDOBODODODO Mald 2 0
+00000000 Crippled 5 O
+i oO
+20900090 ——plood Poot— wand
+coooooon OQOOOOO0000 Weakacss
+eooooo0v0 FA OOOOOoOoOoO PREY EXCLUSION
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points: 15 CBP) 3
+
+|
+
+
+YOUNG TURK
+
+Quote: Look, if we do it your way we risk losing $5,000,000 with
+almost no chance of success. Now, if we do it my way...
+
+Prelude: Politics, business, academia — they all interested you,
+
+but only as a means to something bigger. Each field had its own
+
+advantages and corresponding weaknesses. Each could help you rise
+
+to power and each could hinder it. As a result, you sought to master
+
+them all. Soon you found yourself behind the scenes, where the real
+
+power is.
+
+The only trouble was that you were not the only one behind
+
+the scenes. You unwittingly stepped on the toes of a Ventrue up
+
+to his neck in mortal manipulations. While he would normally
+
+have squashed you like a bug for your interference, your actions
+
+gave one of his opponents a chance to take him downanotch. This
+
+opponent, yet another Ventrue, was not only impressed by your
+
+ability but knew that the only way to ensure your survival was to
+make you part of the clan.
+
+Concept: The childe of an aggressive, ambitious ancilla, you
+have many of the same traits and desires. You respect the power
+that your elders have accumulated through the years, but believe
+they are out of touch with the times. They miss opportunities,
+
+overreact over minor setbacks and have no way to deal with a
+changing society. While you would prefer to work with them,
+you believe you will eventually have to walk over them.
+Roleplaying Tips: Anyone you meet may someday be
+important to your plans, so take great pains to avoid alienating
+anyone. While your elders may not like you consorting with
+Caitiff, you know you have your sire's support, so go right ahead.
+Just don't be afraid to sacrifice these pawns if that's what it takes
+to get the job done.
+Equipment: Expensive biker outfit, lots of cash, .357
+magnum, cellular phone, custom Harley-Davidson Soft Tail
+
+VAMPIRE: The Masquerade™
+
+ttt Monte tit.
+
+Namie: Nature: Vis onary Sire:
+Player: Demeanor: [Die EcTOR Generation: |3**
+Chronicle: Concept: Younc [ueK Haven:
+SSS = Attributes OOS |
+Physical Social Mental |
+Strength_______eeo000000 Charisma______eeeooooco Perception. @@@00000
+Dexterity______@@000000 Méanipulation___e@@o000000 _Intelligence ee0e0000 |}
+Stamina_______@@®000000 = Appearance. eeecc000o§3 «—~WWits__ 00000
+~S 00 ss SSS A 11 o_o O=—_ |
+ee |
+Talents Knowledge |
+Acting ___@0000000 Seen Bureaucracy @@000000 |
+Alertness______@o0000000 Drive________®e000000 Computer_____eee00000 ||
+Athletics 00000000 | Etiquette. @@000000 __— Finance __©@800000 |}
+Brawl________eoo000000  Firearms______@@000000 _Investigation____e@@@00000 |}
+Dodge________eo000000 Melee________o.o000000 Law________eoo00000 |}
+Empathy______@0000000 Music______900000000 Linguistics @0000000 |}
+Intimidation____@o000000 Repair__... 900000000 + Medicine___ 0000000
+Leadership______@0000000 _ Security_____§=_#0000000 Occult 00000000
+Streetwise___ 00000000 __ Stealth___§_§=—— .«70000000 =—s~Politices__——— 970 07700000
+Subterfuge_____e@eooo0000 Survival___ 00000000 = Science____ 0 0000000 i
+SSS Ativantages
+Disciplines Backgrounds .
+Dominate__eocco000 «ALLIES @e@000000 Conscience seeec
+ae @0000000 oo
+resence___®0000000 @0000000
+oo000000 «=9ReS0uRCES eee00000 Self-Control___eeeoco
+00000000 —__________00000000 |
+00000000 ~__________00000000 |
+Courage. @@e00 ||
+
+Oo0000000 ————_90000000
+
+—«——Other Traits——<— — —--——— Humanity——<- —— -»——— Health ————
+
+ooo00000 8@@eSSeeB0I00 Bruised oO |
+00000000 Finn 410 |
+00000000 +»=—= Willpower ——-— : io |
+sooooone 0 00088000 Wounded 2 O |
+00000000 Crippled 5 O
+00000000 Incapacitated O |
+00000000 Blood Pool : ‘ |
+cooooo00g DOOOOOOFOOO ~~ eakness ——~—
+coooooo0 FI OOOO00OO PREY EXCLUSION :
+
+Attributes:7/5/3 Abilities: :13/9/5 Disciplines: 3 Backgrounds: 5 Virtues:7 Freebie Points:15 (7/5/2/1) i
+
+Peel ee re ee
+
+LAO
+
+
+SOME DISTINGUISHED
+
+NVENTRUE
+
+ceria 1 Always to be best, and to be distinguished above the rest.
+— Homer, The Iliad
+
+In the eyes of the Ventrue, all the members of their great and illustrious clan are
+worthy of distinction — except for their immediate adversary. That one should be
+driven from the clan and fed in small pieces to junkyard werewolves. Still, some
+Ventrue have stood out for a variety of reasons, and these Blue Bloods deserve more
+than the standard adulation when they enter a room. At least they feel that they do.
+
+Most of these Ventrue have significantly increased the clan's power and prestige,
+usually at the expense of other vampires or even other Ventrue. For instance, Ruud
+Retief has driven a number of Ventrue from power in his efforts to bring change to
+South Africa, while Anushin-Rawan has created an island sanctuary for all vampires
+without alienating anyone — or so it seems.
+
+While these may not be the most powerful Ventrue, they are the ones about
+whom everyone talks. Other Blue Bloods keep avid eyes on their growth, follow their
+successes, and often hope for their falls. Any of these would be willing to help another
+Ventrue. They would be just as willing to throw him to the wolves if need be.
+
+
+k
+3
+=
+5
+5
+S
+3
+el
+‘
+s
+5
+4
+:
+:
+Ni
+ie
+
+Using both ground-breaking technology and
+innovative business practices, Workman man-
+aged to turn a small manufacturer of computer
+chips into a prestigious computer company. His
+main contributions revolved around simplifying
+the complex engineering features, making them
+something the average user could understand.
+
+This, of course, brought Workman into con-
+flict with older Ventrue who manipulated some of
+the established computer companies. What the
+Ventrue discovered when they moved against him
+was that their control was nowhere near so com-
+plete as they believed. Indeed, despite the fact that
+they were raking in money from their computer
+firms, they found themselves facing seemingly unre-
+lated supernatural opposition whenever they tried
+to use these resources against Workman.
+
+First they had to deal with mages who had
+usurped key areas of the computer industry. Then,
+to the Ventrue's complete amazement, they ran
+afoul of werewolves who had an equally high stake
+in this field. As the Ventrue wasted their resources
+battling Technomancers, Virtual Adepts and Glass
+Walkers, Workman consolidated his power.
+
+He freed himself from the day-to-day opera-
+tions of his company and began expanding his
+hooks into other companies in the field. Soon his
+fingers were in every part of the pie, from chip
+development to hardware construction to the soft-
+ware produced to support the machines. Finally,
+when he believed he could survive the clan infight-
+ing on his own, Workman presented his
+achievements at a clan meeting in London.
+
+None could deny that his achievements had
+
+Stephan Workman has only come to the clan leaders'
+notice in the past two decades, and at first they regarded him
+with utmost suspicion. After all, anarchs and Ventrue rarely
+got on, and here was Workman living near San Jose, on the
+outskirts of the Anarch Free States. Not only that, but his
+businesses were upsetting older, more established Ventrue
+enterprises. Clan elders began to take a closer look.
+
+Once a ghoul, Workman had served his master as a
+technician, adept at all manner of electrical devices.
+Workman's sire Embraced him after discovering that the
+technician was as adept with corporations as he was with
+devices. Workman immediately became a part of the bur-
+
+geoning computer field, and it was here that he made his
+mark,
+
+60 Clanbook: Ventrue
+
+brought greater prosperity to the clan; one had only
+to look at the problems facing his competitors to
+realize that his methods appeared the best. Younger Ventrue
+point to him as an example of what progressive beliefs and
+modem attitudes can do for the clan. Now, of course, Workman
+has to pay the price for his success.
+
+First of all, not all of Workman's opponents' problems were
+completely coincidental. He cut deals with Virtual Adepts to
+keep the older Ventrue off balance. Now they want their
+payment, and Workman has had to relinquish more and more
+of his facilities to them. This has brought Workman into direct
+conflict with a faction of mages calling itself the New World
+Order, and the vampire still has no idea of what to make of it.
+
+Even more threatening, however, have been his recent
+run-ins with supernatural beings from Asia. These Gaki have
+blocked a number of his plans for expansion. Their most
+recent warning came in the form of a spinal cord dangling
+from a fetid, floating head, which attacked him as he awoke
+one evening. Workman has striven feverishly to keep other
+Venttue from learning about his problems, but he may have
+to call on their aid any night now.
+
+
+Retief's success has come at the direct ex-
+pense of older Ventrue, and all the members of
+the clan know that his nights may be numbered.
+Still, the impact he has made on the clan in such
+ashort time is without comparison. He has man-
+aged to overthrow one of the most entrenched
+directorates in the world and has replaced it with
+what may be the most innovative one on Earth.
+
+Embraced at the turn of the century during
+the Boer War, Retief initially served the Ventrue
+leaders of Transvaal. After they lost to the British
+Ventrue and Retief's sire was destroyed, the neo-
+nate was forced to switch sides. Retief's new
+duties revolved around keeping the South Afri-
+can mines operating at peak efficiency, and he
+performed his job efficiently if without enthusi-
+asm.
+
+In fact, for the next 60 years Retief's unlife
+stayed as dull as it could possibly be. Then, when
+the South African directorate managed to di-
+vorce itself from its British controllers, things
+began to heat up. Retief became a dedicated
+backer of the directorate's plans to limit blacks'
+involvement in all matters, and he enforced
+apartheid with vigor and devotion.
+
+Retief established espionage cells dedicated
+
+to instigating internecine strife among blacks,
+
+used military units to hunt down any possible
+
+threat, and ensured that the grossest human-
+
+rights violations went unpunished. He also used
+his rapidly growing influence to keep tabs on his immortal
+tivals. Retief began to dream of the night when he would
+become a member of South Africa's Board of Directors.
+
+As the years passed, however, he began to sense the
+futility of his goal. The leadership seemed set in cement, and
+any change would require acomplete overhaul of the country's
+social structure. As much as Retief detested what he had to
+do, he found himself with no choice. Using extreme discre-
+tion, he began feeding support to the black leaders.
+
+He also began using his Allies and Retainers to unearth
+the directors' weaknesses. Then, in the mid-1980s, he made
+the announcement that shocked Kindred the world over. At
+a Conclave in Liberia, Retief presented visual, audio and
+mystical evidence that the South African Board of Directors
+had made pacts with the Sabbat to encourage upheaval
+throughout Southern Africa. Retief made no attempt to
+explain why the Board of Directors had done this, though he
+implied that it was only part of some larger, more sinister
+plan.
+
+The directors vehemently denied any involvement in
+sucha plot, but it was too late. Brujah, Gangrel and Assamites
+from around the world had already made their way to South
+Africa, and they were quick to enforce the Conclave's
+decision to strip power from the old directors. Only two of
+the old directors have been seen since.
+
+Despite promises of increased freedom, the situation in
+South Africa has seen little improvement. Black-on-black
+violence increases, and many note that Retief's old intelli-
+gence units are as active as ever. Retief blames this on
+continuing Sabbat involvement, but other Kindred warn
+that the Ventrue's violent racism must still exist, though he
+cloaks it under a new, more peaceful facade.
+
+No vampire knows what will happen in South Africa
+over the next few years, but Clan Ventrue has the most to
+lose. Still smarting from the public way Retief made his
+announcement, clan leaders have sent their own agents to the
+country. The entire clan worries about what will happen to its
+influence and power should it lose control of this valuable land.
+
+Appendix: Some Distiguished Ventrue 61
+
+For many generations Lucinde has served the Ventrue
+Justicars, and she is one of the very few Archons to serve
+more than one such luminary. She has always made it clear
+that her loyalty is to the clan and not the individual. While
+this means the Justicars do not trust her as much as they
+otherwise might, clan
+leaders almost always
+insist that she serve as
+an Archon.
+
+Lucinde _ reas-
+sumed her traditional
+position when she
+awoke from torpor in
+1934. She had been ex-
+ceptionally close to
+Michaelis, who had pe-
+riodically served as
+Justicar and who again
+filled the position.
+While Ventrue leaders
+knew that the two
+seemed to trust one an-
+other, noone knew how
+close they were.
+
+Lucinde immedi-
+ately sought out her old
+lover. She found
+Michaelis as warm and
+caring toward her as he
+had ever been. He put
+off her romantic ad-
+vances, however, and
+seemedentirely absorbed
+in archaeological re-
+search. Indeed, Lucinde
+had no luck renewing
+their old passion until
+she visited the Justicar
+in Egypt, where he had
+just unearthed an an-
+cient scroll.
+
+Firedbyhisdiscov-
+ery, he shared blood
+with Lucinde on the
+floor of an ancient tomb. Even as Lucinde felt the hot ecstasy
+of Michaelis' blood, she knew something was incredibly
+wrong. Never had Michaelis' touch been so intense. Every
+stroke of his fine, pale hands caused her to writhe in
+simultaneous passion and repulsion. The touch of his hot
+tongue triggered warning signals even as it ignited formerly
+dead nerves. By night's end, as the two prepared to sleep in
+an ancient sarcophagus, Lucinde knew that something fun-
+damental had changed in her lover.
+
+62 Clanbook: Ventrue
+
+But she loved him still. As the years passed, Lucinde
+remained Michaelis' most trusted servant, assisting him with
+a fervor she had never before possessed. She helped him hunt
+down his renegade prey, using clan resources on an unheard-
+of scale. She even prepared to defend him on the inevitable
+night when his schemes would come to light.
+
+Lucinde instead proved the cause of Michaelis' downfall.
+Other clans had begun to wonder at Michaelis' curious activi-
+ties, and the Tremere
+regarded the Justicar
+with even more con-
+cern than most.
+Several of the clan's
+agents, including at
+least one member of
+the Council of Seven,
+soughtoutLucindeand
+enlisted her unknow-
+ing support.
+
+Through her eyes
+# they watched Michae-
+lis. Through her they
+noticed his odd habits
+and odder plans.
+7 Through her they real-
+ized that the Justicar
+§ was not Michaelis.
+Afraid of what would
+happen should they
+announce this infor-
+4 mation themselves,
+y the Tremere kid-
+napped Lucinde and
+showed her what they
+knew. They forced her
+topresent theirknowl-
+edge to the leaders of
+the Camarilla.
+
+Ata Conclave in
+Munich, Lucinde re-
+vealed the fact that
+Michaeliswasinfactthe
+Setite Kemintiri. This
+revelation shocked the
+Camarilla as little be-
+fore had, and a
+worldwide Blood Hunt
+was decreed against the vile Sand-Snake. Ventrue leaders,
+praising Lucinde's efforts to unearth the truth, made her one of
+the first Alastors, those Kindred who hunt vampires on the
+Camarilla's most wanted list.
+
+Lucinde has had exceptional success fulfilling her new
+duties, and has brought numerous Anathema (those on the
+list) to justice. Still, Kemintiri remains Lucinde's primary
+target, and she will spare no effort to find the Setite. When
+Lucinde does, she will tell Kemintiri all she knows and pray
+that the Sand-Snake will let Lucinde serve her once again.
+
+
+Appendix: Some Distiguished Ventrue
+
+Anushin-Rawan descends from a long line of distin-
+guished Ventrue and proudly traces her lineage back to the
+clan founder himself. Her debut in what is now the Sheikdom
+of Qatar was a much-celebrated event, attended by Justicars,
+Methuselahs and Ventrue from around the world. She imme-
+
+diately set about proving her worth, acting as envoy, diplomat
+and peacemaker for both the Ventrue and the Camarilla.
+
+SHIN-RAWAN
+
+Anushin-Rawan and her island sanctuary have gained a
+great deal of fame among vampires since she established it in the
+1950s. Several dozen vampires have traveled here to settle their
+differences, and even more have spent time here as guests.
+Other supernatural creatures, including mages and mummies,
+have visited Yiaros, and some claim to have seen Lupines prowling
+the grounds. Finally, the island houses a number of faeries, a fact
+that Anushin-Rawan was aware of when she bought it.
+
+During an especially harrowing mission to foil an Assamite
+assassination attempt againsta Ventrue prince, Anushin-Rawan
+became acutely aware of the need for a place where vampires
+could meet to discuss their differences. Drawing on the awe-
+some resources of her clan, Anushin-Rawan purchased Yiaros,
+a small coastal island in the Aegean Sea.
+
+She has allowed the island's few mortal inhabitants to
+remain, but has cordoned off a good chunk of Yiaros for her
+own purposes. The island is easily accessible from Greece by
+air and boat, and here invited vampires can meet in safety.
+(Anushin-Rawan only allows invited Kindred on the island.
+Others will be expelled or destroyed by her many mortal and
+immortal guards.)
+
+64 Clanbook: Ventrue
+
+Anushin-Rawan's vampiric guests spend most of their
+time on her luxurious estate, lounging among the relics of
+ancient civilizations and feasting on her dozens of young
+servants. It is not unheard of for faeries to appear in the gardens,
+and some visitors believe the fey have interbred with the
+island's mortal inhabitants. Such a belief gains strength the
+more time one spends among these mortals.
+
+Anushin-Rawan's island attracts some of the undead
+community's leading figures, and no one can predict just whom
+he might meet while here. Anushin-Rawan's island has gained
+her at least as much Status as her ancestry and her talents as a
+diplomat have. Anyone who threatens this Status will gain an
+implacable enemy.
+
+
+
+
+BINDUSARA
+
+Unlike Anushin-Rawan, who can proudly recite every
+member of her lineage, Bindusara's ancestry is clouded in
+mystery. That he predates Christianity is without question,
+but no one knows just how old he is. Still, he is the sort of
+Ventrue other members of the clan are proud to point out,
+and he has gained the respect of all the Camarilla clans.
+
+Bindusara has spent most of his unlife in the ancient
+city of Alexandria, but he travels far more than most
+Ventrue do, perhaps because of all the catastrophes that
+have befallen his city. A scholar of unchallenged accom-
+plishment, Bindusara is best known for his research into the
+earliest nights of the undead. His writings and stories are
+accepted as the most reliable sources on the history of
+vampires up to the time of Alexander.
+
+While most Ventrue have little use for this knowledgesave
+to bolster claims of illustrious forebears, some avidly study
+Bindusara's work. They hope that his writing will either reveal
+what the oldest Cainites have planned or show that their
+ancestors have been successful in keeping the Kindred free.
+
+Bindusara has no such illusions. His inquiries have
+instead shown a ceaseless tapestry of control and manipula-
+tion. Indeed, Bindusara cannot even fathom a purpose
+behind this pattern, and has begun to theorize that it must
+be inherent to vampiric nature.
+
+He has also started to worry that the old adage stating
+that "vampires' greatest enemies are other vampires" may
+not be exactly true. There are other, potentially greater,
+enemies out there, and humans are only the tip of the
+iceberg. The more he learns, the more he fears.
+
+Still, Bindusara's greatest personal enemies are other
+undead. The Ventrue know of his legendary feud with the
+Mnemosyne, a bloodline of Caine-worshippers who devote
+themselves to the study of the first vampire and The Book of
+Nod. What they do not know is that he is also hunted by the
+Jocastatians, another bloodline of scholars, but ones who use
+more diabolic means to enlightenment.
+
+Bindusara has also come to the attention of the Inconnu,
+who fear that he might learn too much. Bindusara knows
+that these ancient vampires watch him, though he does not
+know what their plans might be. Now he continues his
+studies, courts allies, and prays for the best.
+
+Appendix: Some Distiguished Ventrue 67
+
+FABRIZIO
+ULFILA
+
+Ulfila's involvement with the Church dates
+back to the earliest nights of Christianity,
+and his success at controlling and ma-
+nipulating religious leaders is legendary
+among the undead. The Church has
+long been a center of vampiric con-
+spiracies, and Ulfila's ability to
+survive them all is proof of
+his skill.
+
+Through the centuries
+he has proved himself a loyal
+and dedicated Ventrue. No
+
+acted to the detriment of the
+clan. Indeed, Ulfila has con-
+clusively demonstrated that he
+was in torpor during those few
+times the Church has acted
+against the Ventrue. The Inqui- 2a
+sition is one example of this. x
+
+During Ulfila's early nights,
+some vampires believed that he
+possessed True Faith, but no evi-
+dence of such dedication has ever
+surfaced. After all, Ulfila usually
+employs ghouls like the notori-
+ous Ferox to deal with the Church
+hierarchy. Ferox is the one blot
+on Ulfila's otherwise stellar ca-
+reer, for he now has a place on
+the Camarilla's Red List of
+the most wanted.
+
+Some Ventrue believe
+Ulfila and Ferox must have
+been exceptionally close, for "
+there is no denying that
+Ulfila's work with the Church
+has declined since his former ghoul
+gained notoriety. Those vampires close to
+the Methuselah say he has begun trafficking with t h e
+Giovanni, a clan he has had dealings with ever since necro-
+mancers took it over.
+
+Ulfila has always had ties to mages, most notably the Those who know Ulfila closely say he has become
+Celestial Chorus, but these ties have never compromised his aware of tremendous upheavals in the realms of the dead.
+loyalty to his clan. Even now, whispers that he deals with the They believe these changes have prompted him, at the
+Giovanni for less than altruistic motives gain no credence. behest of Ventrue leaders, to deal with his clan's rivals.
+
+Still, he now spends more time in Venice than in Rome and
+has confirmed rumors that he has developed a number of
+necromantic powers.
+
+68 Clanbook: Ventrue
+
+Eternity is not merely about power. Power
+makes up only one part of the Ventrue's
+world, though it is an extremely important
+part. The vampires of Clan Ventrue
+understand that power has value only as a
+means to an end, not an end in itself. Thus
+they use their vast resources to extend their
+reach, all the while watching and waiting
+for the right moment — the right moment to
+strike. For there are even worse things in
+this world than vampires, and the Ventrue
+know they are the only hope. i
+
+Clanbook: Ventrue includes:
+
+© The effect Ventrue have had on the
+world's history;
+
+© 10 sample characters suitable for players
+and Storytellers; and
+
+° additional information on how the
+Ventrue control both mortals and Kindred
+— and whom they most fear.
+
+Mette 4598 STONEGATE IND. BLVD.
+4 44 MTN., GA 30083
+
+1
+
+GAME STUDIO

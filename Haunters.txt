@@ -1,0 +1,5292 @@
+# File: Haunters.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+Goa Daa te Oo
+
+The Oblivion
+
+§
+
+ali
+I iy
+
+MN
+
+:
+%
+
+TR: 3
+x 2; y
+i. iy
+z ;
+ie
+
+Kou
+
+
+
+
++ |
+
+{ Ah, Love! could thou and i with Fate consipre
+H To grasp this sorry Scheme of Things entire,
+Would we not shatter it to bits — and then
+
+Re-mould it nearer to the Heart's Desire!
+
+— Phe Rubdiyat of Ommar Khayyam,
+Edward Fitzgerald, trans, =
+
+
+Written by: Lucien Soulban
+
+Development by: Richard E. Dansky
+
+Editing by: Cynthia Summers
+
+Art Direction by: Lawrence Snelly
+
+Art by: John Cobb, Fred Hooper, Darren Fryendall, Eric
+Lacombe and Henry Higgenbotham.
+
+Front and Back Cover Design: Aileen Miles, Richard Tho-
+mas and Katie McCaskill.
+
+Cover Art: John Cobb
+
+Layout and typesetting by: Robby Poore
+
+780 PARK NORTH BLVD.
+b SUITE 100
+
+CLARKSTON, GA 30021
+USA
+
+WHITE WOLF
+GAME STUDIO
+
+© 1997 White Wolf, Inc. All rights reserved. Reproduc-
+tion without the written permission of the publisher is
+expressly forbidden, except for the purposes of reviews.
+White Wolf is a registered trademark of White Wolf, Inc.
+All rights reserved. Wraith the Oblivion, Guildbook Arti-
+ficers, Wraith Players Guide, Guildbook Sandmen,
+Guildbook Masquers and Guildbook Haunters are trade-
+marks of White Wolf, Inc. All rights reserved. All charac-
+ters, names, places and text herein are copyrighted by
+White Wolf, Inc.
+
+The mention of or reference to any company or product in
+these pages is not a challenge to the trademark or copy-
+right concerned.
+
+Because of the mature themes involved, reader discretion
+is advised.
+
+Check out White Wolf online at http://www.white-
+wolf.com; alt.games.whitewolf and rec.games.frp.storyteller
+PRINTED IN CANADA.
+
+ee ee —— oe RT)
+NO) eas Ne se SS KRESS \ =) "4
+: Sc = ;
+
+Sha EN Sistem "hy ae V8 Se
+
+Ethan "No Steenkin' White Howlers" Skemp, for taking care
+of my cat while I was away on vacation.
+
+Jeff "Fish Betta Have My Money" Holt, for taking care of
+my cat during Roc of Ages.
+
+Laura "Hi. What's Wrong?" Perkinson, for taking care of my
+cat while I was at my cousin's wedding.
+
+Kathy "Something Rotten" Ryan, for taking care of my cat
+while I drove to New England for a LARP.
+
+Phil "Award Lad" Brucato, for taking care of my cat while I
+was at Origins.
+
+Wendy "Not as Cute as My Cat" Blacksin, for taking care of
+my cat over Thanksgiving.
+
+Jane "Culpepper Memories" Palmer, for taking care of my
+cat during GenCon.
+
+Cynthia "Late Night Rescue Squad" Summers, for ferrying
+me to the vet so I could take care of the beast that would
+become my cat.
+
+Andrew "Demon Teddy Bear" Bates, for taking care of my
+cat while | was at NanCon.
+
+Brian "Flammable Rewd Boy" Glass, for taking care of my
+cat during the ICC.
+
+Clayton "It Hit Play!" Oliver, for taking care of my cat while
+I was in San Francisco.
+
+Lord Ember created by Richard E. Dansky. Thusimos cre-
+ated by Beth Fischi. Midian created by Lucien Soulban.
+
+4 Guildbook: Haunters
+
+
+Cha
+Cha
+Cha
+Cha
+
+Table of Contents
+
+Ghost Story: A Road of Steel and Soul, Part IV
+ater One: The Guild tliuG etf
+
+ater Two: History yrotS A
+ater Three: its All About the Wyld lib' a tuobA Ils
+
+I
+l]
+4|
+
+wt
+
+
+slu0S
+
+444
+Chapter 4: Midian s Game
+iv
+
+omewhere, on a hill of cracked earth, a
+house stood placidly beneath sandpaper
+{| skies. Its presence within the
+Shadowlands was betrayed by its unique
+condition. The lower half of the house
+4s\ did not exist there; having never been
+consumed by the flames that brought the
+remainder of the building to this bleak place, it appeared
+hazy and translucent at best. A set of charred stairs served as
+the only passage from the open ground floor into the skel-
+eton of the second story. The attic, however, floated above
+the ground like a dark dream, anchored to the hill by the
+odd support beam spearing the flesh of the earth.
+
+Lord Ember observed the house carefully, studying it with
+somber curiosity. The parallel between the condition of the
+building and his own appearance did not escape him. Black-
+ened and cracked by centuries in the forges, Lord Ember could
+blend in easily against the flame-licked wood of the floating
+
+attic, should he choose. It was ironic, seeing as there were very
+few places where he could blend in at all.
+
+Frowning, the Guildmaster continued toward the farm-
+house, taking time only to study the shadow of a fence that
+was not there. Without further hesitation, Lord Ember mounted
+the rickety stairs. The attic was devoid of furniture, save for a
+
+A Rad of Stand
+dna'slaetS to daoR
+
+Souls
+
+table and two chairs, all covered with a thick layer of soot. One
+of the seats was taken by the Restless Midian, leader of an in-
+fluential Haunter faction and the closest thing toa proper Guild
+representative that the Haunters possessed. Midian's attention
+was entirely focused on a chessboard that was marred by miss- 6
+ing pieces and gap-toothed tiles; it looked as if the craftsman 9
+who had made the set had given up the job halfway through. 9
+
+Midian himself was covered head to foot in strips of ban-
+dages, leaving only his face exposed. The illusion that Midian sat
+restless was due solely to his animated bindings as they moved :
+over his frame in a slow danse macabre. His expressionless face
+revealed an even greater enigma. The mask that protected his ¢
+identity, like a Caul of Stygian metal, was imbedded inches be- 1
+neath his Corpus visage, and reflected the full range of emotional
+countenance that one would have expected from his true, but
+neutral face.
+
+"Well?" spoke the mask of Midian. "Are you planning on
+studying me or do you wish to sit down?"
+
+"I would prefer the latter," the Artificer answered. Midian
+motioned to the empty chair opposite, and moved the chess pieces
+back to their starting positions. Without comment, Lord Ember
+took up a black rook and examined it carefully. "One of your best
+pieces," commented Midian.
+
+Ember nodded with a satisfied grin as a milky tear of Cor-
+pus rolled down the rook's face. "How is your collection pro-
+ceeding, Midian?"
+
+"People no longer wish to play me," he sighed with mock-
+sadness.
+
+"Can you blame them? Those who lose end up as either a
+tile or a piece."
+
+a
+
+SA a--3
+
++-o-a
+
+Ghost Story: A Road of Steel and Souls, Part IV
+
+"Better a pawn here then in the other games being played,"
+Midian stated, and shrugged casually as he continued setting his
+half-finished board.
+
+Ember regarded him with a stern glance. "Surely you don't
+think I'm going to play against you, Haunter. I have no interest
+in ending up as one of your pieces."
+
+Midian looked up, his mask aghast with mock concern. "You
+cannot believe that I would do you any harm?" he chuckled. "Who
+then would I commission to forge new pieces for me? Lord
+knows your Artificers regard my kind with a
+great deal of suspicion, and finding some-
+one as capable as you would be next to
+impossible. I promise you that no harm
+will befall you over this game of chess."
+Lord Ember still looked vaguely
+unconvinced. Midian finally reached over,
+took Ember's white king and placed it by the
+side of the board. "Feel better? You cannot lose
+without your king, and without mine—"
+Midian placed his black king on the table, "—
+neither can I."
+
+"Intriguing. What we have here, then, is a
+game that remains a perpetual stalemate." Em-
+ber paused, considered. "Unless, of course, all the
+pieces are devoured? Your promise is not good //
+enough, Midian. There are still are degrees of ff
+victory and loss." 4 () J
+
+"But you're still going to play, aren't (
+you? You can't resist the pull of this conver &J//4™@
+sation or the direction it may take you in?"
+
+"You mean the direction it may take the {
+both of us in." :
+
+"It's all a matter of perception," Midian said.
+He motioned to Ember to open play, his fingers
+toying with a pawn. "Besides," he continued,
+"that's what we are doing now, anyway." Seeing
+Ember's confusion, Midian clarified his state-
+ment. "J mean that we are playing without the
+benefit of a king or all the tiles in place."
+
+"You refer to the search for Charon?"
+Midian's mask smiled as he contemplated the
+next move. "I was wondering about that. I hear
+you refused to send anyone from your Guild
+into the Labyrinth to investigate the Sandman 7
+Thusimos' claim that Charon may be hidden there. Why?
+Frightened?"
+
+Midian shook his head, his mask still smiling. "I have a
+healthy fear of the Labyrinth. Everyone should, after all. It is not
+fear, however, that is the issue in this case."
+
+"Then what is?"
+
+"Thave found that the best secrets are often uncovered where
+the arrows don't point."
+
+8 Guildbook: Haunters
+
+Ember thought about Midian's statement for a moment.
+"Then you don't trust the Sandman?" he finally asked.
+
+"Why should I? What reason have I been offered to place my
+trust in him? He isn't the only one with information, you know."
+
+"If you know something else," Ember cajoled in an ashen
+purr, "then I advise you to share it."
+
+With a look of innocent hurt on one face, Midian glanced
+up. "No threats, Ember. I am willing to share what I know."
+"Then speak."
+
+"Well, I would, but this conversation is
+disrupting your concentration. You just lost
+a pawn. Pity."
+
+Midian. What do you kriow?" ri
+: "Enough, games? What'do you think this
+. entire quest for\Charon is? Either you've de-
+b cided to keep tus distracted from your true in-
+tentions by distracting us with the idiotic
+rumor that Charon was betrayed, or some-
+one is playing you for a fool."
+
+"Then you da'kiéw something?"
+
+jot in the Labyrinith." Midian's inner face
+iled, a Cheshire grin. (
+/ Veins of angry.red traced themselvesjout
+m the Artificer's charred skin. "What makes
+you so sure?" ete
+"A trade, Lord Artificer. What do‘you
+ave that I could use?" :
+"Your worthless existence, Haunter!"
+Y roared Ember. "I was a power in Stygia when
+your 10-times grandfather was still painting
+himself blue, and I'll be here long after
+\ you're gone."
+Midian's Corpus bandages slithered
+round his body like agitated snakes. The
+launter himself, however, remained calm,
+his mask an image of placid thought. "Per-
+haps you are good at politics, but games are
+actually my forté. Take this chess match, for
+example. The white king is lacking from this equation."
+Lord Ember regarded the board for a moment, then com-
+mented, his tone much more subdued. "As is the black king.
+We've already been over this. Is there a point to your comment?"
+
+"There is a balance to things. No gift is entirely beneficial,
+and no curse entirely destructive. As I've said, it's all a matter of
+perspective. Charon is missing, correct?" Midian asked as he
+tapped the white king next to him with a spindly finger.
+
+} Ember would have"teached across the :
+board for Midian's throat, butshe.remembered |
+
+rags were rumored to possess. "Enough gamesjpom
+
+"If anything, I/ know that Charon-i8¥
+
+"Yes," Ember answered cautiously, unsure as to hietes this
+was leading.
+
+"And if we are to assume that Charon is the white king in
+this equation, then my question to you is this: Who is playing
+black king? It's a pertinent matter, I think."
+
+"Lord Ember sat back for a moment, allowing the question
+nk in. "Gorool," he decided. "But they both vanished in the
+struggle."
+
+"Did they really?" Midian purred like a great cat on the hunt.
+"Was Charon even destroyed, for that matter? At the moment of
+
+y ghis great ‘sacrifice, we Haunters sensed something queer with
+am Shroud. Personally, I suspect the whole thing was a charade."
+ij 7
+
+"You believe he stepped through?"
+
+"Now I didn't say that, but, why not?" replied Midian.
+
+Visibly agitated, Lord Eniber pondered the ramifications of
+the Haunter's statement. It was Midian who finally broke the re-
+sultant silence with a casual, "Which piece would you like to be?"
+
+Lord Ember straightened up, his fierce scowl back in place.
+"So much for your ‘word,' Midian] thought you swore that no
+
+* harm would befall me." ThesAttificer's words were sarcastic, but
+
+his hand strayed to the weighty hammer at his belt.
+
+"I promised that no harm Would befall you over this game of
+chess," the Haunter said as his anttiiswept over the board to im-
+press his point, "but, you've lost the - other game. -
+
+"What other game?" snapped Ember.
+
+"The one we've been playingsThis little exchange of infor-
+mation and your heavy-handed ai pts to gain my secrets. We
+weren't playing the same gamie, you and I. It was all a matter of
+perception. Besides, I know you aren' Lord Ember. Checkmate!"
+
+A moment of quiet draped the room as Midian regarded the
+imposter. "Come out, Sandman!" the Haunter commanded. "I
+
+\know who you are, and I know this is only a dream."
+
+"Behind eyes that looked like Ember's, the Sandman bard
+
+| Fhusimos quickly regained his composure. He might have been
+citovered as an imposter, but the fact that Midian hadn't called
+him by name was encouraging. The details of his identity were
+still secure. "How?" he asked.
+
+"Simple," stated Midian. "My dreams are the only facet of
+my consciousness that remains intact. And do you know some-
+thing else? | would destroy you for reminding me of that."
+
+Thusimos smiled through Ember's cracked visage, and then
+vanished with a flourish.
+
+Midian remained seated, regarding the now-empty chair
+across from him with a bored stare. Minutes — or perhaps hours
+— later, he finally addressed the black queen. "Thank you for
+the warning. I doubt I could have learned as much as I did had I
+not been so excellently prepared."
+
+At the center of the board, the black queen moved under
+her own power, and turned to regard Midian for the first time.
+He could hear the faint clinking of chains.
+
+"And thank you." The piece spoke with a faint lilt, Midian
+noticed. "Witnessing that was... informative."
+
+"Tt certainly was." Midian sat and brooded as silence settled
+around him again. It was long minutes before the queen spoke again.
+
+"As per my last message, I wish to establish stronger lines of
+communication with your Guild. There is much, I think, that |
+we could do for one another."
+
+"T agree. However, make sure your man is subtle. The others
+aren't fools, and the last thing either of us needs is our alliance
+becoming public knowledge. Is there anything else?"
+
+The queen frowned. "Tam... confused about one matter."
+
+"That bein
+
+"Do youa ‘believe that C stepped through, back
+into the world of t ne OF was | atjust another ruse?"
+
+"T believe.", Mi his fingers ‘and his tired eyes
+stared down at thé.diminutive MY Sust ns were con-
+firmed only n: e Ember tipped his tand whien he tried
+
+v | aie rather chines trying. to discern if 1 wete
+telling h ‘ruth, But toanswer your - |" T think that
+
+"Or what?" presse t
+"OxGorool d th remained silent for a few moments,
+lost in §; before Midian spoke up again. "So, my
+lady, what' will the ‘Deathlords do now, since you have learned
+that your days of rule.are numbered?"
+"My dear "Midian" she sighed "that i is not your concern."
+
+"T agree, a8 long as you remember our deal. I ywaeehoron
+or Gorool foundand his body giv me for my boards] want it
+finished by the time I finally. return the land of the living."
+
+"Do you still believe-y tear down the Shroud and
+cross over again?" the bl: en asked with a bemused smile.
+
+Midian's voice was grim, and terrifyingly lucid. "The Shroud
+did weaken when Charon fought Gorool The Mandelbrots have
+shown me the proof. If Charon or Gorool's passing was capable of 4 /
+doing it once, imagine what might happen if either dies a second te
+time. This opportunity will not escape us. When the moment of |) &
+truth comes, we will be ready to travel through. We've been dead
+a very long time, and I for one have grown quite tired of it."
+
+"And your dream visitor, the Sandman?"
+
+"] think it may have been either Thusimos or Akhshephat.
+Either way, I claim him for my bo:
+
+"As what piece, if I may be so bold to ask?"
+
+"Pawn."
+
+The black queen surveyed the chess board with a troubled
+frown. "Pardon the question, Midian, but don't you already have
+a full complement of pawns?"
+
+"My dear lady," Midian's translucent face and mask smiled
+in unison. "You can never have enough pawns."
+
+Ghost Story: A Road of Steel and Souls, Part IV 9
+
+
+Chapter: One
+The Recruiting Process
+dessecor? titirceR el]
+
+SOO a TT Te
+
+f\
+
+ue se Your Eyes oe\/ :
+
+Frost the shad: Wheathe rocches' did sippeer, ther brtle black bodies
+anori could oot. He. -fortred Words om his fading wellpaper. h this manner, they spoke: _-
+to ey Fold-him things, dark things. Sometimes; however, _
+
+_ they would 9p.F09 far ang try +0 approach him. They died wher
+—they-did. thie, Hhoogh, Ever ting ocockroach came too close, it
+
+ory with ‘his ra
+
+* ctimposing' morsels of rhidde W his t ne aa d rag
+clothing he haa: worn gourtless hoot washing. Stans —tered acrossta hole in +} than its bedy.ehd checked"
+
+his gun-=* vo.biulefsleft-— and. watked Some More while the ai
+cockroaches spake Fo him, af ates ‘ w
+A "Thee shadows of neitherhere nor there, Roochb ud the: a
+- Fraunter euckled + hinself: His teeth ckked Fogether ned
+© citement og he formed mother Sentence formed Zid to read. *
+
+of Unknown origin tarked-kh walls and bortmold crept long th
+
+—
+
+a Roselyb vat was | na -mentadrivesT his was how he inducted *%
+"his andigates nto the Poonhers: 0. :
+
+Chapter One: The Guild I
+
+
+Gf gE
+VEL
+
+The Guild tuG etf
+Peeling Back the Skin
+niS eht kcaB ginleeP
+
+e are the Haunters. We are a poem that
+dances to an invisible choreographer's
+whim, we are chaos by intention, we are
+madness in moderation. Of the Guilds, we
+
+are among the few that bear the distinc-
+tion of being outlawed proudly. It suits our
+needs, as it will come to suit yours.
+
+Now you may wonder why we are sharing this with you.
+It's simple. We are recruiters for our Guild, and it is our func-
+tion to bring those of promise into our fold when they die.
+We know that you think that you are not yet dead, but really,
+you are. It's just a timing issue.
+
+You will discover that time works to your advantage when
+you're a Haunter. It's all a matter of personal perception. Now,
+quit killing our goddamned roaches and listen.
+
+Who We Are eW/ er oll
+
+Many would have you believe that we ghosts are the
+Restless Dead, too embittered to let go of the real world. We
+don't like this definition. It makes victims of us too easily. A
+more accurate description would be to say that we are those
+who not only refuse to let go of the mortal coil, but who also
+strive to bring the Shroud down like a cheap Christmas tree
+on New Year's. We are not victims; we are wraiths who have
+decided on a grand and glorious goal. Unfortunately, we are
+too divided to reach it. Yet.
+
+Reality was not always the harsh mistress it is now. Even
+Charon recognized this, back in the old days when the Shroud
+was just a mist. In time, however, the Shroud became bloated,
+mirroring the growing ignorance of the living and their pre-
+cious Fog. The less the Quick wanted to learn about what
+frightened them, the stronger the Shroud grew.
+
+We Haunters came from the ranks of those wraiths who
+not only saw the rift widen and the world of the living attempt
+leave us behind, but who were determined to rectify this situa-
+tion. Our solution was to tear down the ubiquitous wall called
+the Shroud, and our target was humanity (for if mortals were
+the tailors who dictated the weave of the world, then they had
+to be shown that the fabric of their reality was not as well-crafted
+
+
+as they had hoped). The struggle continues to this day, and when
+you die, you will join us and take up the same struggle we have
+fought through the centuries. Our aim is this: to unite the two
+worlds and take back what was once ours — the Skinlands. We
+do so by haunting the living and by reminding them that there
+is more to their lives than their petty little world. Mind by mind,
+we will show them the reality of terror, and thread by thread
+the Shroud will unravel. Then the worlds of the living and the
+dead will be@ite again, and we shall step from the Shadowlands
+into the sunlight, there to live once again.
+
+Forever, perhaps. We shall see when it happens...
+
+I will not delude you. The road has not been easy. We
+have always been a fractious bunch. As a Guild we have di-
+vided ourselves into various alliances that pursue the same
+goal, but do so by taking differing and, occasionally, opposing
+paths. From the maniacal Bedlameers to the practical
+Menagerians, from the cold-hearted Mandelbrots to the pi-
+ous Dantes, we are all Haunters, but we march under the ban-
+ners of unofficial alliances, that keep us apart. In essence, we
+are often our own worst enemies.
+
+Alliances sesailA
+
+When the call came to form ourselves into a proper Guild,
+
+a variety of groups who practiced Pandemonium stepped for- »
+
+ward and claimed the right to represent the general interests
+of all the Wylding's practitioners. In truth, we were never
+particular about who learned our Arcanos, so our member-
+ship was far-flung, diverse and unfortunately, disorganized.
+Slowly, due to the efforts of several influential wraiths (in-
+cluding Midian and Sweet Sorrow), some of the more glaring
+differences between one bunch of Haunters and another were
+ironed out. The factions ended up united by common goals
+and treaties, and transmogrified into a sanctioned Guild.
+
+Despite our "official" unification, however, several alli-
+ances within the Guild retained their unique ideologies and
+maintained strong group identities. To this day, several fac-
+tions exist within the Haunters, which we'still call alliances.
+With exception to the Mandelbrots and Dantes, the ranks of
+these other groups are not rigid, and their continued exist-
+ences are outgrowths of common interests or mutual views,
+as opposed to being the products of a directed agenda. In fact,
+many of these alliances have free-floating memberships ("Go-
+ing to be a Menagerian this week, dear,"), and as such they
+are often derisively referred to as "clubs."
+
+Although we are divided over the path we should travel
+in order to reach our goal, we are united in purpose. (One of
+the outcomes of the Conclave that first formed the Haunter's
+Guild was a statement of mutual purpose.) We all want to
+shred the Shroud, and once we do so, we wish our fellow
+Haunters to join us on the other side of its corpse. It's just
+that each of our alliances wishes to demonstrate conclusively
+
+walks into the room. Remember, we all come from the same
+
+point before our deaths. We have seen other supernatural crea-
+tures manipulate time itself, and we believe we can do the
+
+that its path was the correct one, and as such there's some-
+times a bit of... sibling rivalry that springs up.
+
+In any case, here are examples of some of the more pow-
+erful alliances within the Guild. We mention these in par-
+ticular because they have managed, in some fashion or form,
+to advance our craft beyond its original state.
+
+When dealing with alliances, there is one rule that al-
+ways takes precedence above all other concerns: Even if you
+do not agree with another Haunter, you must still back him
+up against all aliens. If you are a Dante, you may argue with a
+Mandelbrot to your heart's content until the second a Spook
+
+roots, and we are all touched by the Wylding. None of the
+aliens will ever understand that.
+
+The HG. Dwellers
+
+Other Aliases: The Puritans, Pandora Skia
+
+This alliance is one of the oldest factions within the
+Haunters, and is the founding Circle of the Guild itself. This
+is the alliance we belong to, and it is the alliance that you
+will belong to as well.
+
+What makes us all H.G, Dwellers is this: We subscribe to
+the notion that the hands of time can be forced back to a
+
+same. And once we have wound back time to a point when
+we all live once/again, then the sky will be the limit!
+
+Initially;we wete known as Pandora Skia, or Pandora's
+Shadow, an alliance dating back to the Golden Age of Ath-
+ens (well before the birth of the Christian Messiah). We are
+best remembered for the haunting of Pandora, a tale that later
+came to serve as an allegory for the woes of the world. You
+will learn more about this when we teach you our history. For
+as long as we can remember, we have been among those who
+led the charge against the Shroud, and as the premier practi-
+tioners of the Wylding, we naturally took charge of the alli-
+ances when the Haunter's Guild became real. Much later, fol-
+lowing the release of H.G. Wells' The Time Machine, our name
+became what it is now, a reflection of the changing times and
+a tribute to one who understood somehow what we were about.
+
+We are a sinall Circle. Our numbers have been shrinking
+as of late, that is true, but we are still recognized as the lead-
+ers of the Haunters by most of the Guilds. We regard many of
+our brethren to be fools for the paths they have chosen, but
+we do not hold that against them. We haunt ancient places,
+because people expect that sort of thing from ruined houses
+and old mansions. We find the Shroud in these areas is weaker,
+and thus the traces of our work cannot be erased so easily by
+the Fog. Otherwise, each of us strains against the clockwork
+of entropy as best we can, seeking to make the watch hands
+of the universe spin backward.
+
+Chapter One: The Guild
+
+Our Organization
+
+Like most of the other factions, we do not have a rigid
+hierarchy. Individual members are allowed to pursue their own
+endeavors, so long as they advance the group's goals. The H.G.
+Dwellers do rely on a council of five wraiths, however, to make
+major decisions for our alliance. The final vote lies in the
+hands of Midian, the leader of the H.G. Dwellers. It is Midian
+who chooses who will occupy the five council seats, and who
+decides what issues they will address.
+
+Never accept an offer of a game of chess from Midian. I tell
+you this now, in hopes that the memory will survive your death.
+
+Gallery Macabre
+
+Every year, a Caligarian is elected to be host for a re-
+gion or Necropolis. It then becomes his duty to provide
+entertainment, hold expositions and lead tours of various
+local Haunts. Invitations for Haunters' galas go out via
+word of mouth, and the events are open to all Haunters
+and Spooks. The festivities usually begin with a gathering
+ata local art gallery, most often one that displays the work
+of an individual influenced by a Dark Muse. The first part
+of the evening consists of the guests critiquing the work,
+not only that of the artist, but also that of the Haunter
+who inspired her. A favorite topic of discussion is how much
+any given haunting or effect has influenced a particular
+piece; these debates can go on for hours.
+
+Following the exposition, the guests travel to a cel-
+ebrated haunted site, where a troupe of Caligarians mounts
+a "performance haunting" for the benefit of their audience.
+
+These expositions are always improvised, since their tar-
+
+gets are whatever unsuspecting mortals wander onstag
+
+Emphasis is placed on the ability of the actors to create a
+beginning, middle, climax and resolution to a play involv-
+ing panicked humans. Because Caligarians enjoy the com-
+pany of other performers and artists, Sandmen have also
+been known to take part in these improvisations, or even
+to present dream plays of their own. Mostly, however, the
+
+attendance at these events is limited to Spooks and Haunt-
+
+Following the show, older Haunters share their expe-
+rience and wisdom in dealing with Pandemonium. It is at
+these events that new arts of the Wylding are unveiled.
+The evening then climaxes with a tour of famous local
+haunted establishments, where the guests are welcome to
+contribute to the legends of these places.
+
+We have attended several such "Galleries Macabre,"
+and we must admit that the Caligarians are at least inno-
+
+vative in their presentation of the Wylding.
+
+The Mandelbrots
+
+Other Aliases: Bay't el-Hikma, the Nihilists, Chaosticians
+
+Some Haunters believe it was a mistake to ignore Out-
+rage as a potential avenue for returning to the world of the
+Quick, and are still closely allied with the Spooks. This group
+works at combining Outrage and Pandemonium in order to
+manipulate the stuff of the Shroud itself. Reliable sources also
+indicate that they are researching the prospect of harnessing
+Nihils in the hopes of using these tears in reality to shred the
+Shroud. These wraiths, when not terrifying the living, are
+the most analytical and research-oriented of our kind. Many
+former scientists find a home with the Mandelbrots; many
+new uses of the Wylding come from their labs.
+
+The Nihilists are gaining more and more adherents to
+their ranks. They are also the most brutal of our kind, and
+they haunt with the intention of maiming and killing. That,
+they say, is the only way to make humanity truly remember
+the sting of Pandemonium. Of all the alliances, they are the
+only ones strong enough to challenge the H.G. Dwellers.
+
+I didn't say defeat. I just said challenge.
+
+Organization
+
+The Mandelbrots are controlled by one wraith, Dr. Shud-
+der. He rules the Nihilists with an iron hand, and his vision
+steers their actions#Dr. Shudder is attended by the Dead
+Cadre, a group of 13 assistants who delegate assignments té
+the various subgroups and research teams.
+
+The members of the C
+good doctor, are merciless in their ef
+in the ranks is squashed without a second of remorse. Dr. Shud-
+der is also rumored to be in league with dark fae, not to men-
+tion some of the more violent members of the Spooks' Guild.
+
+The Calgarians
+
+Other Aliases: The Artists, Dark Muses
+
+Originally known as the Bacchaens, a hedonistic sect of
+wraiths who regarded Pandemonium as their drug of choice
+in the Shadowlands, these Restless have since evolved and
+now view teality as an antiquated medium whose time has
+ended. The Caligarians were renamed back in 1921, follow-
+ing the release of The Cabinet of Dr. Caligari. Apparently the
+film so inflamed their sensibilities that they adopted a new
+
+dre, all personally devoted to the
+iency. Any dissension
+
+precept: Since they were no longer limited by physical law,
+they no longer had any need to adhere to its tenets.
+
+The Caligarians' prime concern is artistic expression, and
+while they are potent manipulators of Pandemonium, I doubt
+many of these hedonists are much concerned with bringing down
+the Shroud. Caligarians prefer to make a "statement" with whom-
+
+
+ever they terrify, and their recruiting techniques are something
+to behold. They love haunting artists and revealing their "tal-
+
+ents" to these hapless creators. These particular Haunters refer
+to themselves as Dark Muses, claiming that they give mortal cre-
+ators the inspiration of insanity. From what we have seen, this
+faction is also closely allied with certain Renegade Masquers and
+well-versed with Moliate. The wraiths of the Caligarians love to
+use themselves as canvases for Corpus art, and their often
+freakish appearances reflect this preference.
+
+Organization
+
+Any attempt at describing their
+chain of command is laughable, as the
+Dark Muses have no organization.
+The Caligarians classify their craft
+as a solitary venture, a journey
+of personal vision. Therefore, a
+leadership structure is superflu-
+ous to their goals. They regard
+one another as equals and de-
+fine their alliance as an as-
+sembly of common interest,
+not one of mutual goals.
+
+I once heard a friend of
+mine describe these Haunters
+as a "mutual appreciation so-
+ciety for deceased narcissists."
+She was not far from the truth.
+
+The Dantes
+
+Other ‘Aliases: Explorers,
+Zealots
+
+Believing themselves to be in
+neither Heaven nor Hell, this
+group of Heretics is of the opinion
+that they have stumbled upon Pur-
+gatory. They were formed after the
+release of Dante Alighieri's Divine
+Comedy, working under the supposi-
+tion that this realm was meant to test
+them. (The fact that Alighieri himself
+dwells in Stygia as a publicity flack for
+the Hierarchy dismays their ardor for his
+work not one bit.) Unsurprisingly, the
+Dantes have defined themselves as the sur-
+veyors and explorers of the Shadowlands
+(for how can one expect to affect one's sur-
+roundings without fully exploring what one
+strives to change?).
+
+The Dantes do not seek to upend real-
+ity with a vision of their own. Instead they
+
+use Pandemonium to tear away the illusions placed before
+them by a testing God. Because of their exploratory nature,
+the Dantes are well-versed in Argos, and most have strong
+ties to other Heretical groups such as the Harbingers.
+
+Do not let the fact that the Dantes are devoutly religious
+taint your judgment; they know exactly what they are doing:
+Some of these Haunters are the best tour guides oboli can pur-
+chase, for they know the Underworld as surely as you know
+the confines of this room. The cost of hiring a Dantist Haunter
+usually entails attending at least one church service, however,
+during which they will try to convert you. It is for this reason
+that the Dantes are employed only as a last resort by most of
+us; the vast majority of Haunters have no interest in anyone's
+God. Still, despite their overemphasis on religion, the Dantes
+also believe in helping Haunters before aliens.
+
+The Dantes can usually be found haunting those places
+they deem immersed in sin or owned by sinners. Unfortunatély,
+this gives them a rather long list of people and places to
+
+haunt, and it is not uncommon for a Dante to come
+\ into contention with another Haunter who may have
+y already staked a claim for himself.
+
+j ‘ «
+Organization
+The Dantes, entirely Christian in belief, are led by
+Father Foster. He acts as their spiritual guide, and some of
+his followers have even gone so far as to call him the
+
+Pope of the Shadowlands. To his credit, however, he
+
+repudiates this title — thus far.
+
+Under him are two "shepherds," who supervise re-
+gional priests. The priests, in turn, oversee the ex-
+ploration of the Tempest and the haunting of the
+breathing world. As compared to the H.G.
+Dwellers, these Heretics are extremely well-
+organized and structured.
+
+The Bedlameers
+
+Other Aliases: Alienists, Madmen
+If you think we're putting
+
+Nh py you through hell, be glad the
+sin. Bedlameers didn't find you.
+ah What the Nihilists possess in
+brutality, the Alienists own
+Yin insanity. The activities of
+these Haunters can be traced
+back to the Roman era, for
+
+it was their actions that catego-
+rized us then as Lemuria, or evil
+and restless spirits. During the Con-
+clave that united us into a Guild, they barely
+supported the motion to unite the alliances, and they
+
+
+were not even interested in the Guild until well after the
+Breaking. It is not their politics, though, that makes them
+objectionable.
+
+It was not until the 17th century, under the guidance of
+Sweet Sorrow, the Grandmother of the Haunters, that they
+adopted their current name from "bedlam," meaning chaos
+and confusion. Bedlam, in turn, was taken from London's
+Bethlehem Hospital, a filthy asylum for the insane where the
+public could purchase tickets to watch the mad "perform."
+The core group of today's Bedlameers died from the barbaric
+conditions that plagued the 17th-19th century mental hospi-
+tals, and those experiences inform their actions to this day.
+
+Of all the Haunters, Charon considered them the most
+dangerous of our kind. He constantly tried to have them cap-
+tured and turned over to the forges. The Hierarchy has car-
+ried on this tradition even after the Imperator's disappearance;
+the form remains even when the function is not understood.
+
+We must sorrowfully admit that we do not understand
+the Bedlameers either; they are beyond psychotic. They haunt
+asylums, prisons and hospitals, preying upon the weak-minded,
+the insane and the deviants. Oblivion has not merely touched
+these ones; it has sunk its fangs into their throats and re-
+placed their blood with toxic madness.
+
+Much like the Caligarians, the Bedlameers have no in-
+terest in returning to the Skinlands. They possess far too much
+power here to abandon the Underworld so casually. Fear has
+become their aphrodisiac, and this makes them dangerous and
+untrustworthy. Of all of our kind, it is the Bedlameers who
+veer the closest to the edge of what we are often accused of.
+
+We have also heard of a rumored treaty between the
+Bedlameers and the Laughing Lady, the Deathlord who occu-
+pies the Seat of Succor. Sweet Sorrow is reputedly using the
+Bedlameers to spread madness in world of the Quick by driv-
+ing the living insane. These unhinged mortals then kill and
+harm others because of what the "voices" tell them to do. This
+invariably fills the coffers of the Laughing Lady with more
+wraiths, and she, in turn, overlooks the transgressions of the
+Bedlameers (leaving them their hospital and prison Haunts).
+Although the truth of this rumor is dubious, we have heard
+that Sweet Sorrow covets the Seat of Succor for herself, and
+awaits anxiously the day when the Laughing Lady falls.
+
+Organization
+
+The Bedlameers are guided by Sweet Sorrow, their spiri-
+tual advisor. While she does not control them, they honor her
+advice and listen to her suggestions. Beyond that, each batch
+of Bedlameers is ruled by the strongest of their number, and
+they consider each asylum, hospital and prison to be a separate
+city-state ruled by different sets of laws, customs and traditions.
+
+The Order of the Glass Menagerie
+
+Other Aliases: The Remembered, Diplomats
+
+A fairly new group, but one that is rapidly gaining
+strength, these Haunters have allied themselves with (sup-
+posedly) the Mnemoi and (definitely) the Sandmen. Their
+theory (and we have to admit it has merit) is that our haunt-
+ing efforts are losing their impact because of the Fog — mor-
+tals' ability to forget our presence or explain it away. Sandmen
+and Mnemoi can rekindle the memories of a haunting after
+the Fog has taken effect by exercising their Arcanoi. This
+way, skinbags are forced to confront what they have seen over
+and over again until the memory sticks.
+
+These Haunters are less tied down to specific locations or
+individuals. For them, haunting is an equal opportunity endeavor,
+and they believe that it should be spread across racial, status,
+gender and age lines in order to have the best effect. Of the
+Haunters we know, they are the most practical, discreet and busi-
+ness-oriented about their day-to-day affairs. Members of the Order
+tend to be reserved, subtle, observant, patient, highly diplomatic
+and well-educated. They are the ones most likely to hire their
+talents out, and the ones, from what we hear, the Hierarchy se-
+cretly approaches for help in dealing with their problems.
+
+The Order of the Glass Menagerie maintains close con-
+tacts with most of the other Haunter alliances, and its mem-
+bers have begun acting as intermediaries to reunify us as. a Guild.
+The greatest problems of reconciliation, however, lie between
+the H.G. Dwellers and the Mandelbrots. The Nihilists have
+no interest in forming a unified Guild if it means deferring to
+the Puritans, and we will not acquiesce our right of leadership
+to them. To their credit, the Remembered are still trying.
+
+Organization
+
+The upper echelons of the Glass Menagerie remain a mys-
+tery. We believe that their leadership consists of a shadow
+council of five members who hold equal sway over the
+Menagerians. Because of their insistence on keeping secrets
+about this and other matters, however, quite a few of us dis-
+trust the Menagerie. Stories are circulating as to how the Or-
+der is a clever front for the Hierarchy; that it is under Ember's
+control; that it is a trick of the Sandmen; that it is ruled by
+Doppelgangers; that the council members are none other than
+Midian, Dr. Shudder, Father Foster, Sweet Sorrow and Elvis.
+
+You get the picture.
+
+It is more likely, however, that the council is controlled
+by Midian, since the Menagerie and Dwellers share similar
+outlooks. With the rumors surrounding the activities of Sweet
+Sorrow flying, Midian may be trying to ferment a united coa-
+lition of alliances to counteract the Bedlameers and their re-
+puted ties to the Seat of Succor. Only time will tell.
+
+Chapter One: The Guild
+
+
+Beneath the supposed council are mouthpieces, Haunters
+who receive their instructions through dreams. It is their re-
+sponsibility to inform the other Menagerie members as to their
+assignments. Below the mouthpieces are the
+various Haunter cells. These groups num-
+ber anywhere from two to 10 members,
+and their members do the vast majority
+of the down-and-dirty hauntings that
+ny 4 appear in the tabloids. Everyone in
+the cell gets his instructions at once
+R to make sure there's no misunder-
+standings. A haunting that gets out of
+ey hand is an invitation to the Dannati.
+
+Want
+y5') tnaW eW tno)
+
+q tal
+
+When Charon disbanded the Guilds,
+it did not matter to us. We would survive
+with or without the permission of the Hier-
+archy, just as we had done before the Conclave.
+In truth, we were not just a collection of motley
+individuals who shared an ability; we were not
+§ willing to have Charon dismiss us that easily. We
+Haunters may have shared the same Arcanos, but
+Pandemonium was the result of our endeavors, not
+the catalyst for them.
+The early Haunters were formed from a
+nucleus of wraiths working toward a shared goal:
+weakening the Shroud enough to create holes and
+doorways through which the dead could permanently
+re-enter the Skinlands. Our ultimate hope was
+that through our actions, the Shroud would
+eventually dissipate, and the two realms of
+the living and the dead would again
+become one. The universe, however,
+works through action and dynamic
+interplay, not wishful thinking. If the
+Shroud were to be brought down, do-
+ing so would require deliberate effort.
+
+SQ
+
+Guildbook: Haunters
+
+
+Many of the wraiths who formed the various alliances
+that predated the Guild came to this conclusion indepen-
+dently. With a goal in mind, groups began to search for a
+means to their quest, and this resulted in the discovery of
+various Arcanoi. Of initial interest to these groups were the
+fledgling arts of Pandemonium, Outrage and Embody, all three
+of which could reach across the Shroud and affect the physi-
+cal world of the Quick. Each group took the Arcanos that
+interested them the most, and began expanding the scope of
+its ability, tailoring it to their needs.
+
+Our Power rewoP ruoH
+
+Our first avenues of exploration focused on Outrage, but
+that was a mule, a sterile dead end that diverted us away from
+our purpose. Outrage became the Arcanos of choice for the
+alliance that became the Spooks, our little brothers, even as
+we abandoned it. We came to the same conclusions about
+Embody, which showed no promise either (even though the
+split with the alliance that later became the Proctors' Guild
+incurred a great deal of animosity between us and them, a rift
+that has grown worse over the centuries). Then, finally, came
+Pandemonium, an Arcanos said to have been learned from
+the whispers of the Wyld in a deal called the Covenant. We'll
+tell you more about it later — if you're attentive.
+
+Pandemonium, a time and space-altering Arcanos, accom-
+plished what we were striving for: the manipulation of reality,
+albeit to only a small degree. Our Arcanos, however, is still
+limited, influencing perceptions of reality while stopping shy
+of actually producing long-term effects. We're working to
+change that, however. We've made a very impressive start.
+
+The assorted alliances explored the use of our Arcanos in
+different ways. One group wanted to manipulate time and re-
+verse its hold on the world. Another hoped that by distorting
+people's perceptions of reality, its members could influence the
+way the world was viewed and understood. A few distraught
+wraiths merely wanted nothing more than to break down the
+walls between the Shadowlands and the world they left be-
+hind.
+
+To outsiders — those we call aliens — these varying strat-
+egies seemed too far-fetched to have any potential for success
+whatsoever, but they were quite surprised when we managed
+to unite ourselves into a proper Guild following the Conclave.
+It is still difficult for aliens to understand why we would be so
+interested in such a "Quixotic" quest. They, however, have
+never been touched by the Wylding's caress. We have, and we
+know what can be accomplished with it. It is this very gift that
+allows us to communicate with you right now. It is this gift
+that you will come to appreciate when you join us.
+
+|
+
+/
+
+SS
+
+Sy
+4
+
+
+inamull tnaW eW yh
+
+The Haunters, though never unified by the concurrence of opinion,
+all still strive toward the same goal. And that is why we haunt (hate?) the
+humans. We are all convinced that humanity is the key to our freedom. It
+
+is their belief that reinforces the Shroud and builds it ever higher. It is
+
+our duty to haunt them into believing in us — and thus wrecking their
+own creation. Once they accept that we are real, then the artifact of
+their disbelief will come tumbling down.
+
+We have learned that humanity has a subconscious communal sense
+of self-preservation when it comes to the supernatural. The result is
+the Shroud — a sort of ghostly version of the Berlin Wall —
+and the Fog, humanity's inability to recognize the paranor-
+mal for what it actually is. To counter these hindrances,
+
+we use hauntings to remind the Quick that we still
+exist and that out of sight is not out of mind. Pan-
+demonium allows us to use the weaker points
+in the Shroud to our advantage. By probing
+f these weak spots, we can manifest our abilities
+in the sunlit world and scare humanity into re-
+
+membering that there is another realm out here,
+waiting for each and every one of them. Forget
+Outrage; knocking over a glass or two is something
+that most people can eventually overlook or rational-
+ize. On the other hand, creating bleeding walls and
+
+plagues of insects is something that people will
+
+notice. Already, the antics of several of our more
+prominent members have been immortalized in
+history. You've heard of the Bell Witch
+hauntings? No? Then how about Amityville?
+
+Using Wylding across the Shroud also
+serves to weaken the barrier, inch by steady
+inch. The Shroud is continually gaining
+strength, and haunting is necessary to pre-
+vent our avenues into the Skinlands from be-
+ing cut off entirely. Being a Haunter means
+relying on many small victories in order,
+someday, to win the war.
+
+N The Cut of Our Dress
+htaeD ru0 fo puC ef
+
+It is habit to categorize everything you see
+
+into tidy little compartments. Since our behav-
+ior is difficult to quantify, our appearance serves as
+
+the hook by which others identify us. They say, "Oh, he's wear-
+inga black cloak. He must be a Haunter," and they think noth-
+ing more of it. Most don't even stop to ponder why we wear
+the cloaks anymore. That's their mistake. Our choice of cloth-
+ing, however stylish, does serve a functional purpose as well.
+
+Initially, the standard cloak hid the deformities of those of
+our kind who had grown visibly tainted by the Wylding. Wraiths
+tend to react rather negatively to someone whose translucent
+Corpus is teeming with insects or who bleeds from every vis-
+ible orifice. Soon, many of our kind wore the cloaks because
+they offered us a psychological advantage over the aliens. Fur-
+thermore, large billowy cloaks made it difficult to determine
+our precise physical make-up, and allowed us to conceal relics,
+Artifacts and weapons with ease. With the mystique surround-
+ing those Haunters who had been physically wracked by the
+Wyld's gift, many wraiths were left wondering what secrets lay
+hidden beneath our oh-so-mysterious cloaks.
+
+Eventually, the habit of wearing cloaks soon began to
+affect the way some of us used our abilities. We discovered
+ways of allowing the effects of the Wylding to erupt from the
+folds of our clothing, and our voluminous cloaks were noth-
+ing if not abundant in hidden creases and pockets. This ef
+fect kept many aliens away from us; the uncertainty of what
+lay beneath the cloth as well as what might erupt from within
+it frightened them greatly.
+
+Aliens and Outsiders
+
+edistud neil
+The Hierarchy selik deri
+
+There was a reason Charon never approved of our Guild,
+never sanctioned our activities or knowledge as proper. He had an
+inkling of what we sought, and he was frightened by the prospect
+of what we could accomplish. That's where the precious Dictum
+Mortuum came from, that lot of piffle that says talking to the liv-
+ing is bad. We're not harming you, are we? But Charon saw only
+the worst in what we wanted to do, and succumbed to fear.
+
+The man himself is gone, but his fear has survived, pass-
+ing into the Hierarchy of the present day. The Deathlords
+remain blindfolded as to the reasons why we should be feared,
+however, and snap at the darkness around them like fright-
+ened pets simply because they heard a noise.
+
+That is not to say that the Hierarchy is entirely bad. The
+Deathlords' subjects have their uses, and we are sure they be-
+lieve the same of us. You'll find the odd Legionnaire or Anacreon
+who seeks to employ your services, but if you take these con-
+
+hy
+
+tracts, remember, your Guild and the safety of its members takes
+precedence over any alien and what he can offer.
+
+Renegades seta
+
+By definition, this appellation applies to us, but don't al-
+low yourself to be pigeonholed quite so easily. Only the
+Mandelbrots and possibly the Bedlameers are true Renegades;
+they readily oppose anything that deals with the Hierarchy on
+a friendly basis, and often throw themselves into frays if it means
+spilling Legionnaire plasm. The Caligarians, on the other hand,
+consider themselves moral opponents of the Hierarchy, but rarely
+pursue their ideology to the point of confrontation. "Weekend
+Renegades" was the term we heard used once in their case.
+
+The problem with Renegades is that they often expect you
+to join their fight simply because "it's the right thing to do." "The
+right thing" really doesn't mean much to us. We do things that
+further the goals of our Guild as a whole, and if that means going
+against the Hierarchy, Renegades and/or Heretics to do so, then
+we will. By the same token, we will work with any and all of the
+three factions if — and only if — doing so furthers our ends.
+
+Heretics yserel
+
+What applies to the Renegades holds true with the Her-
+etics. Perhaps we understand them a touch better because
+the Dantes are really nothing more than a cult that has formed
+within the Haunters, Heretics of a sort themselves. We have
+already expressed our grievances concerning these wraiths,
+but must admit they are less aggressive than the Renegades.
+They see the benefit of subtlety, the need to move slowly and
+gauge an opponent before considering a course of action. Now
+if only they could teach the Nihilists and Alienists this wis-
+dom, we would all be much better off.
+
+The one major problem with Heretics is their blind de-
+votion to their belief(s). They are subtle by choice, but when
+dictated to do otherwise by this cult leader or that bit of holy
+writ, they become far more dangerous and brutal than any
+Renegade could ever be. This reliance on foreign ideology
+makes them allies at arm's length, at best.
+
+Other Guilds tliuG s reht0
+
+Our attempt to discover new ways of weakening the
+Shroud often brings us to the doorsteps of others. Just be-
+cause members of other Guilds are aliens does not mean that
+their gifts and powers are useless. (The same applies to us, by
+the way. If anyone seeks to learn the Wylding from you, use
+judgment, but teach it if they ask. Spreading Pandemonium
+is always of benefit to the Haunters.)
+
+Of all the Guilds, however, be most careful of the Artifi-
+cers. They believe they are above all, especially us. Masquers
+can be a fun lot, but watch them carefully. They are dangerous
+
+Chapter One: The Guild 21
+
+
+=O Vox Wis
+
+" 4
+
+when provoked, and while
+their vengeance is slow, it is sure.
+On the other hand, working with
+
+Ep the Monitors can be financially reward-
+ing; many Haunters team up with these
+"" ghosts to form freelance "Fetter hit squads."
+There's nothing like the look on another wraith's
+face when he realizes that his biggest Fetter is about to
+be torn down "on account of the ghosts."
+
+> Our Allies: The Spooks
+
+We like to refer to the Spooks as our
+
+younger siblings, because in essence
+they are. Before we attached the
+definition of Guild to our name
+(or before we even united),
+ge Spooks and Haunters were in-
+Pat, separable. While the paths we
+i f took as Guilds differed, we
+ji have remained staunch allies
+@ through the centuries.
+
+With the Conclave, how-
+ever, the alliance whose mem-
+bership constituted the
+Spooks went ahead and, ahem,
+
+forged their own Guild, a move
+which was not met with our ap-
+proval. Initially, our disapproval
+generated a feud between the two
+Guilds, which nearly cost us the
+only true friends we possessed. A
+war of practical jokes quickly
+turned into backstabbing and poli-
+ticking, forcing the Spooks to look
+@ elsewhere for support against our
+! superior numbers and talents. It
+P was only after they began a very
+public dalliance with the Artificers
+that we realized our mistake and pub-
+S licly apologized for our actions.
+& Luckily, we were forgiven.
+
+We now recognize the Spooks
+Bas equals, even though we still
+fondly regard them as our younger
+B brothers. This does not mean you
+can boss them around, however;
+family fights are often vicious, and
+& frankly, a Spook is strong enough
+to give you and nearly any other
+y Haunter (except, possibly, a Ni-
+"V7 hilist) a good thrashing. Staying
+Jie on their good side is a wise idea,
+
+
+but we know they regard us with the same fondness we have
+for them. Regardless of the day-to-day quibbles and problems
+that may arise, they are family. They are allies, they are lovers,
+they are kin. Most importantly, they are to be trusted with al-
+most the same conviction you would place in another Haunter.
+
+Our Enemies: The Proctors
+
+Our reaction to the formation of the Spooks' Guild was
+due primarily to the sense of betrayal we had felt at the hands
+of the hedonistic Proctors. Before the formation of the Guilds,
+the Proctors constituted an alliance which, just as we did, strove
+for a means to return to the Skinlands. We once regarded them
+as friends and allies, but our warm regard for them has faded.
+They betrayed us, you see. We do not forgive such things.
+
+From the onset, the alliance that would later constitute
+the Proctors wallowed in self-pity instead of trying to see the
+advantages of their new existence. They used Embody to re-
+member the way things used to be, rather than pushing the
+boundaries of what could be. They called us stupid for our
+optimism, and took every opportunity to denigrate our efforts.
+They whispered in the ears of the others, sabotaged our ef-
+forts, sicced Hierarchy troops on our Circles, and generally
+did everything they could short of total war to destroy us.
+
+The final straw came during the formation of the Guilds,
+when the Proctors petitioned the Artificers to exclude us from
+the proceedings. We were too chaotic, they said, and would
+disrupt matters. We even discovered that they tried to sell us
+out to the Hierarchy during the Revolt of the Guilds.
+Pity that backfired on them, don't you think?
+
+Have no idea what we're talking
+about? You will.
+
+Our Opposites: The Puppeteers
+
+We don't talk about them. We don't think
+about them. See, we're not thinking about them now.
+Why? Because we want to make the living aware of
+us. They want to make the living us. Horrible, isn't it?
+Think about it.
+
+Skinbag Aliens
+
+Most of the skinbags we deal with are on the receiving
+end of our abilities. It is we who seek them out, not the other
+way around — most can only reach us when we want them
+to. Still, it is wise to know whom not to approach and why.
+There are things out there that can harm us, so discretion is
+necessary when choosing a target for a haunting. It simply
+won't do to have you go out on your first haunting and find
+yourself trapped in a bottle in some alien's laboratory some-
+where. No, that wouldn't do at all.
+
+Vampires
+
+Don't waste your time. These creatures are so egocentric
+that as far as they're concerned, if you can't be used, you aren't
+worth the effort of speaking to. As far as these self-named
+"Kindred" are concerned, everything is a pawn in some grand
+scheme of theirs. As a result, any agreement you may wish to
+engage in will invariably be structured to come out to their
+advantage, regardless of how cunning you thought you were
+when you negotiated it. Besides, they don't scare that easily,
+and for all their posturing, they have negligible impact on
+how reality is viewed or interpreted.
+
+Of all of the aliens, though, only the living have fewer
+defenses against us than the bloodsuckers do, and disrupting
+their museum-tableau exist-
+ences can be great
+fun. Just take
+time to ob-
+serve your
+target to
+
+
+I
+
+We
+
+A
+
+see what she's actually capable of before you start making her
+furniture leak clotted blood; you don't want to be surprised by
+a necromancer.
+
+Werewolves
+
+We mostly ignore these walking mountains of fur and muscle,
+not out of disinterest, but because they possess the means to fight
+us. Charms and chants, spirits and dances — these are the tools
+that the werewolves use to shield themselves from our tender
+ministrations. However, these tactics are surprisingly effective.
+It's a disappointment, really. You'd think they'd welcome our
+wildness (and Wyld-ness) in the waking world.
+
+There is one particular group of these creatures who are
+thoroughly deformed, horrors that Oblivion's sting has tainted
+beyond recall. The Bedlameers are the only ones foolish
+enough to speak with these twisted monstrosities, and we
+advise you to avoid'them. Their Shadows rule them; they are
+living Shades.
+
+Mages
+
+These are a tricky lot. Such power makes us sick... sick
+with envy. We are sick that some skinbags possess the ability
+to manipulate reality, and sick that we do not possess it our-
+selves. Fortunately, these miracle workers are saddled with
+their own problem, a shadow war of sorts. If you are going to
+seek out any communication with this lot, however, then
+speak to the animists, the ones who believe in the spirits that
+surround them. They are less likely to try to snare you for
+their own gains, or worse yet, use you to power their outland-
+ish contraptions.
+
+There are mad ones among the wizards, and we've found
+we can work with them — to a point. It is best, most times, to
+let them do what they wish to the fabric of reality, and to use
+that as a starting point for our own actions. Working thus in
+tandem, we create nightmares that even the most Fog-be-
+fuddled account executive can't explain away.
+
+Changelings
+
+Of all the aliens, we share the most with these creatures.
+We are cut from the same cloth, we suffer from the same
+wounds, and we bear some of the same grievances against Fog-
+tidden humanity. Their whimsical natures and childish de-
+meanors can be aggravating, however, and too often are good
+for nothing more than a moment's entertainment. We have
+solidified alliances with two of their breeds, however; those
+called the eshu and the sluagh. Both are worth the effort of
+cultivating a friendship, and they are our strongest allies in
+the Skinlands.
+
+There is the darker kind of fae (bullies, you might say)
+who are exceedingly willing to enter into minor alliances with
+us, but whose true intentions are clouded. Deal with the darker
+
+as pr malt peor, _ ys = pps ye on
+SSM iran Op ie" (Oy S SE) ne
+my —_ = MOS, AN & ca
+= SS PONS Or A i:
+
+ones only if you have to; otherwise, be diplomatic in your
+response when they seek you out. Insulting them will lead to
+confrontation, as their honor is cut easily, and they'll not suf-
+fer that wound lightly.
+
+Benandanti
+
+These we have saved for last, for surprisingly, through the
+
+' centuries they have remained the greatest threat to the Haunt-
+
+ers that the Skinlands have to offer. Most of the Benandanti are
+
+more curious about our nature than actually threatening, but
+
+in this case the exception is more important than the rule. You
+
+see, there are those among the Caul-born called the Dannati
+
+who have sworn to destroy all wraiths, and have specifically
+targeted us for our aggressive acts against the living.
+
+Have you wondered why we do not haunt in the pres-
+ence of "reputable" parapsychologists? It would make sense,
+wouldn't it, to haunt the so-called "experts." After all, once
+the "experts" had evidence, the rest of humanity would be-
+lieve in us as well, wouldn't they? It's a tempting opportunity
+to speed up our work — too tempting.
+
+Really, you'd be amazed at how many ghost-hunters and
+parapsychologists are really Dannati, or affiliated with them. These
+vicious frauds are the reason one should never haunt one loca-
+tion for an extended period of time, or even on a regular basis.
+Wherever we manifest, they follow us with their damned fennel
+blades in hand, sending all before them into Oblivion's maw.
+
+—
+
+~
+
+£2) 7d, He is fighting back tears as the bot of
+the roaches falls from. the- wall and :
+Storm, of carcasses, Their last sente
+stand?
+Hed
+
+P;
+yee His gun, two bullets remaining, fds ths way #6 his mouth. His | i)
+lps port aganst Fhe cold barrel, end then, Hhereis one bullet left:
+
+i
+
+}
+7 ‘ore pleasant dreams, and fhrerete 16 esdve time-+o
+
+son SR 4 Q
+
+Chapter One: The Guild 25
+
+
+
+Chapter Two:
+=
+
+‘ asler of ight
+ut rent Chris: does wet 6 vy, the promise,
+yes hie ocen te: truth, end
+
+ever be, 20d he thew a :
+sais Chris dares b baphemy and i a . 4
+
+a Yes; the jae whispers. = Chris wraps hin self up: ‘phils ole ond: we vnaer ee bed. The ne
+a told embrace, but Chris does not mba. T, The cold soothes ‘the bi :
+
+
+hris lies beneath the bed, wrapped in his
+blanket and surrounded by an entity that
+has never hurt him. He stares at the bot-
+4\ tom of the box-spring, but in the dark-
+a] ness, he's not sure it's there until tiny
+glowing scratches appear on its underside.
+~ The scribbles take the shape of dancing
+stickmen, and their names appear below their forms. This
+does not frighten Chris, however; it is comforting to be lost
+in the story he makes up to fit the pictures. "Once upon a
+time, in a faraway land...."
+
+Once Upon a Time.....dnal. yawaraf ani
+
+"\,. There was a huge kingdom. It had no wars, and every-
+body liked each other. There were also two cities, separated by a
+river, and a big bridge used by people to visit each other. One
+day, the river got bigger and nastier and washed away the bridge.
+The two cities couldn't see each other anymore, and both places
+grew sad because they couldn't visit each other."
+
+What do we care of history? It might as well be a fairy
+tale. Our past has rarely mirrored the'cycle of humanity, and
+our exploits were barely touched upon during the age of leg-
+ends. What you are reading is not so much our history as/it.is
+our perspective on past events, an essay of sorts.
+
+Now we all know that there was a time when the Shroud
+was but a thin sheet of gauze stretched between the worlds;no
+more an inconvenience to cross than plunging one's hand into
+a pool of water. Death was regarded as'a period of transition, a
+moment of sleep before the soul was free to wander. In those
+days, we wraiths were appreciated as guiding spirits. We com-
+forted the living into believing there was a continuation of
+existence, not an abrupt end to everything. A belief in us was
+a belief in a sort of immortality by our actions; our presence let
+them know that the soul lasted forever. We were needed.
+
+As various religions grew to have stronger influences on
+humanity's collective psyche, however, the notion of reward-
+ing the "good" and torturing the "evil" after death became
+widely accepted. It was only common sense, really. How else
+were gods expected to keep worshippers in line? But we were
+caught up in the middle of this change, and we did not see
+where it was leading until it was too late. The realms of the
+afterlife became crowded with camps of ancient heavens and
+hells. We, of course, were caught right in the middle;
+humanity's need to be given a bone for obeying whatever re-
+ligion patted it on the collective head didn't take ghosts into
+
+28 Guildbook: Haunters
+
+account. Our presence, however, presented some people with
+serious doubts as to this entire reward-based philosophy, but
+clerics swiftly rectified that little conundrum. Having obvi-
+ously never seen nor heard of these supposed paradises here
+on our side (and believe me, we looked), by these mortals'
+reckoning we were lost souls, trapped in a nether-realm,
+doomed to wander forever without rest because of some earthly
+transgression: Others of our kind throughout Africa and the
+Orient were described as evil spirits, hellbent on misleading
+the foolish, aswell as acquiring their children and virgins.
+
+Now admittedly, there were some who helped to spawn
+these legends through their brutal activities, but that sort of
+behavior certainly was not the case for the majority of us.
+Still, the stories grew, and the fears of the living grew with
+them. Prompted by fear of our presence, and by the need to
+know that something better existed, humans began to distance
+themselves from us. Mere post-mortem existence wasn't
+enough for them anymore, the greedy bastards. The Shroud
+grew stronger and stronger, and none of us could do anything
+to stop it. Thus, this fabric between the worlds became the
+target of our ire, along, of course, with the wretched mortals
+who unknowingly began to block us out.
+
+There Lived a Hero
+orell divil a sal ereb
+
+"But along came this hero from the second city, and he gath-
+
+~ered all his knights, and they decided to rebuild the bridge. So the
+
+hero sent all his men to look for wood and tools, and they looked for
+along time."
+
+Charon never liked to admit this, but we had a purpose
+before the name Guild was given proper sanction and later
+rescinded, and before Charon made the Shadowlands into
+his own private empire. We were originally formed from a
+handful of wraiths who tasked themselves with storming the
+walls of the Shroud and breaching its defenses. In our respec-
+tive regions, and individually, we began to probe the Shroud's
+strengths and weaknesses, and quickly ascertained that at
+certain areas and times, it was weaker than normal. By this
+point, individuals began to band together, lending support to
+one another while pursuing a shared agenda. Small Circles of
+wraiths throughout Egypt, Greece, Canaan, Babylon and Af-
+tica enlisted more members to their cause and established
+lines of communications with another. The first, tentative
+alliances took form. While it took several years, we eventu-
+ally concluded that the living somehow reinforced the slowly
+coalescing Shroud, keeping us out. We were determined to
+get revenge for being shut away, but had little idea how to go
+about achieving such. Then, a path manifested itself.
+
+=P r = Sy
+Sigal =~ gop Mi °
+
+Birth of Haunting gnitnual! fo nedruB
+
+Freelance hauntings had already begun, admittedly, be-
+fore we conceived of the notion. They were tools used by
+frustrated wraiths who blamed their condition on some griev-
+ous wrong, imagined or otherwise, committed by their fami-
+lies. The Fog barely touched the minds of the living in those
+days, so these hauntings were well-remembered and passed
+along. The tradition of telling ghost stories began in this fash-
+ion, as groups of people, huddled by the security of a bonfire,
+retold personal and secondhand accounts of brushes with the
+supernatural, It was at these moments that the living were
+Most receptive to us; it was at these gatherings that our power
+was strongest. Humanity was subconsciously strengthening
+the gossamer wisp that would one day become the Shroud,
+but our continued influence on people through direct inter-
+vention (haunting, you fool) served to weaken the barrier
+even as it was built.
+
+It wasn't enough for us, though. A tale only traveled so
+far and lived only as long as the tale-teller's memory. We
+needed to make our hauntings legend; we needed a way to let
+the influence of each banshee howl echo down the ages. Luck
+smiled on us, though; the means to our end was discovered
+through the expression of written documents. For uncounted
+decades, humans transcribed their folklore onto clay and pa-
+pyrus, immortalizing gods, heroes and demons. Why should
+they not immortalize us, as well?
+
+And so we set to work. Tales of unearthly encounters and
+journeys found their way into Herodotus' History, Homer's Od-
+yssey, The Epic of Gilgamesh and the Akkadians' The Descent of
+Ishtar into'the Underworld. With this record of our deeds, we
+made a fascinating discovery: In the minds.of the masses, the
+written word became proof. Once a scribe, no matter how lowly
+or insane, put something down in words, his scribblings acquired
+a legitimacy because of the simple fact that they were concrete.
+
+The premier Circle of that time, the Athenians who
+called themselves Pandora Skia, seized upon that notion and
+disseminated it to every clutch of Haunters they could find,
+for a revelation had seized them. If tales of our hauntings could
+be immortalized as truth in the minds of the living forever-
+more, then they would always believe. They would always be...
+open... to our ministrations. They would help us back into a
+world where the living and the dead walked as one.
+
+Thus began the widespread haunting of the living for the
+express purpose of the greater good. Despite our shared vision
+of returning to the lands of the living (and, some already whis-
+pered, of returning to life itself), we were still scattered through-
+out the ancient world, and took our form and names from the
+folklore of our breathing days. In ancient Egypt, hoary priests
+mistook us for Shai or "Destiny," the shadow-god who was
+born at the same moment as each individual, grew up along-
+side him, and was present at his death when Osiris weighed
+
+
+\)
+ik
+
+ZA
+
+GY
+
+SSUSEN
+
+Le
+
+ida
+yy)
+
+ll G
+
+.
+
+CZ
+
+7
+
+!)
+
+y))
+
+S
+
+My
+
+ZB
+c\
+
+S Lito -
+
+C
+
+(
+
+a7,
+
+SS
+
+WSs
+
+——
+3 —
+>
+
+Ne
+
+SS)
+
+S
+a7.
+EN
+
+aS
+
+et
+
+(
+RING
+
+\
+
+‘ Sy
+
+VY
+Gj
+
+\\\
+
+SIREN
+
+his heart. In Assyria and Babylon, we were Edimmu, the souls
+of those who had been improperly buried and who tormented
+the living in revenge. In Greece, alliances such as Pandora
+Skia and the Bacchaens were called Shades, spirits angered
+by improper funerary rites. While the stories surrounding us
+were never exactly positive, at least'they told our tales and
+thus remembered us.
+
+And at Evil Monster. -norah(
+
+"One ‘day, while the hero was away
+searching for wood to build the bridge, an evil
+monster came to the second city. His name was
+Charon, and he captured everyone with his evil
+magic. He gathered his army of boat-monsters,
+and went on the river kidnapping people from
+their families if they didn't pay him. The hero
+came back home one day and found that his fam-
+ily were slaves. He promised to stop the evil
+Charon, but didn't know how."
+
+Imagine our anger when we, wraiths who
+
+had survived the growing horrors of the Un-
+derworld for centuries, were faced with an up-
+start child named Charon who told us that he
+was our hope. He warned us of dangers we had
+already confronted; he asked us to form a,band
+when we already had; then-he had the nerve to
+call us Renegades for failing tovtheed:the warn-
+ings we ourselves had already ‘given-to-others.
+This self-appointed messiah was powerful, we will
+admit that, but he had no interest in returning to
+the breathing world. Insréad, itwas his self-pro-
+claimed "destiny" to guide others to safety.
+
+We avoided him and his precious band of sail-
+ors. Their thinly disguised attempts to extort pay-
+ment were reprehensible to us. In the meanwhile,
+we still sought ways to diminish the barrier, but the
+
+Ny K Shroud was growing faster than we could tear it
+2y
+
+e < \\) \\ down. We needed alternate measures, and the sug-
+
+\\ \\ gestion was put forward to develop our "special"
+
+d hy skills in a way that could aid us in our quest.
+
+\Y yb!
+SZ
+
+Ze _ The Quest tseueR
+
+A= "The-hero and his knights knew that to beat
+
+Charon, they. needed-a magical sword. So they
+began traveling around the world.to find the sword
+they wanted, but they found a lot that weren't
+right. Then, one day, the hero saw'Charon enter
+his secret palace underground, and he followed
+him. The hero found a dungeon where Charon
+
+yt)
+
+)
+
+
+was keeping a huge dragon named the
+Wyld as prisoner. The Wyld had a mil-
+lion eyes, and it was huge, bigger then
+the palace. The hero couldn't free the
+dragon, but the Wyld gave him the magi-
+cal sword and all his eyes so that he could
+see the outside world."
+
+The search for a new Arcanos —
+or at least a new way of using what
+we already knew — began. Our alli-
+ances reestablished contact with one
+another in an effort to pool our re-
+sources, but the process was slow. Al-
+ready groups of wraiths had gathered
+into Circles based on-the powers they
+possessed, We, however, had been
+united by temperament long before
+others were joined by shared skills.
+Our members studied under yarious
+teachers, learning different arts and
+trying to redirect their purpose, but
+the going was difficult.
+
+Eventually, we heard that several
+of our associates tucked into Western
+Europe had expanded on certain arts
+that could affect the world of the
+Quick. It was the beginning of some-
+thing big, we knew, and we all dedi-
+cated our attention to following up the
+discoveries that flowed from this new
+research. The initial reports were
+promising. Researchers had learned to
+reach across into the ephemeral lands
+and move things that previously our
+hands had passed through. Eventually,
+we hoped, the power to move objects
+could become advanced enough to
+manipulate the Shroud as well as those
+obj
+
+s that lay across it.
+
+However, it was not to be. The
+research into the Areanos later
+known as Outrage progressed rapidly,
+but in a predictable direction. While
+
+the first arts showed much promise, the later ones were built
+from the success of the first, and therefore suffered from its
+limitations. Outrage simply became a means to affect the liv-
+ing world, and not the Shroud as we had hoped.
+
+Our discovery of the Wylding itself is shrouded in mys-
+tery. What we have been told is this: One of our members, a
+lad who called himself Theseus (after the hero of legend), fol-
+lowed Charon, hoping he would reveal the source of his pow-
+ers. Theseus followed Charon for nine days and nights, until
+
+Pandora Skia wodahs s arodnap
+
+Our first triumph should have been
+one of the sends of a haunt-
+Ing in history, but sadly, it 1s only re-
+membered as an allegory for the sins of
+the world. The haunting of a beauti-
+ful, but vain woman named Pandora
+was the first deliberate effort made by
+a Circle of wraiths to weaken the slowly
+coalescing Shroud. The haunting was
+meant to test the boundaries of the na-
+scent barrier's strength by localizing the
+effects of various Arcanoi into one con-
+centrated area. For this purpose, the
+wraiths manifested their abilities
+through an ornate wooden chest In
+Pandora's possession, using it as a fo-
+cus of sorts to create a multitude of ef-
+
+fects using the predecessors of Moliate,
+
+Keening and Embody.
+
+The result was enough to drive
+Pandora insane, but the misconcep-
+tions of the living as to what had oc-
+curred fogged the observations of the
+Haunters involved to a point where the
+information was useless. The focus of
+the story became Pandora herself (as
+an allegory for the "misdeeds" of
+women), while the wraiths who com-
+mitted the haunting were lost in the
+legacy of her supposed mistake (henc
+the name of the alliance responsible for
+this act, Pandora Skia, or those who
+were lost in the shadow of Pandora's
+fame). Many Haunters relish the irony,
+however, that the last thing supposedly
+remaining in Pandora's box of woes was
+hope. It is a quality the Guild believes
+it appreciates more than the Quick do.
+
+This we believe.
+
+the Imperator of Stygia came to the
+place we call the Veinous Stair. In-
+credulous, Theseus saw the Ferry-
+man descend.
+
+In future accounts, Charon
+claimed that he was guided to the
+Stair's threshold by the mysteri-
+ous "Lady of Fate," but we know
+better. The stairs were chiseled
+from the bloody-veined stone;
+therefore they were built by hu-
+man hands. Malfeans had gnawed
+away the stuff of Oblivion into the
+Labyrinth; what use had they for
+stairs? On the other hand, Charon
+knew the location of the Veinous
+Stair. How? Simple. He had been
+to the Labyrinth before, and had
+hewed the steps for his own uses.
+
+Theseus followed Charon
+into the Labyrinth, skulking on
+the fringes of the Ferryman's
+lantern's glow, and discovered the
+
+Ferryman was allowed to pass
+freely. Charon, it seemed, was al-
+lied with the Spectres, and in
+course of his service to them, he
+was given a slave named Nhudri
+to craft Artifacts for his pleasure.
+
+At this juncture, Theseus was
+discovered, and he fled into the
+Labyrinth. After getting thor-
+oughly lost in the winding maze of
+tunnels, he discovered the Wyld
+slumbering in a vast chamber, and
+realized that Charon was keeping
+this, the true power of the Under-
+world, to himself. Theseus roused
+the imprisoned Wyld from its sleep,
+and then offered to free the great
+dragon from its prison if it would
+give him the power to escape the
+Shadowlands forever. The Wyld
+
+told Theseus it was not ready to escape yet, but it would give
+him a gift. In exchange for this kernel of knowledge, Theseus,
+and all who learned the gift, would become that aspect of the
+Wyld that could not exist in the Shadowlands, the aspect of
+change and possibility. Without hesitating, Theseus accepted
+this arrangement in an agreement called the Covenant, and
+was given what he called the Wyld's eye — the Wylding. At
+that moment Pandemonium was born.
+
+The Wyld in the Shadowlands sdnalwodahs eht fo
+iW eb
+
+From: Tare
+
+To: Dr. Shudder
+
+Re: What the Heck Is Going On
+Attached Pages: 1
+
+Doc
+
+Here's the comb ination of what | dug up in Mabclusus' old notes and
+my own research. |d estimate at least a 30% bullshit content, but
+It's an interesting start.
+
+Oh, end I got the prelim results back from the work group over in
+Sunderland, They said forget ob out even trying to quantify the
+Wyld over here: tt just aint gonna happen, If it is here, it's diffuse,
+not concrete, and there's no way to get @ hold of or even measure it.
+If th isn here, we have to go rewrite the history books again,
+Such Is death,
+
+Tare
+
+Things come to the Shadowlands to watch
+their memories fade away. It is the world's
+graveyard and imperfect reflection all rolled
+into one. Whatever is destroyed in the
+Skinlands, save for vegetation and animals,
+appears as a spent shadow of its true self on
+the opposite side of the Shroud. As unusual
+as it seems, this also holds true for the
+creative energy of the Wyld.
+
+As the Wyrm continues its rampage in the
+living world, it devours and thus slays any-
+thing in its path. As a result, the purely
+dynamic Wyld is being destroyed all across
+the world by the Wyrm's actions. Such large
+portions of the Wyld are being annihilated
+that shadowy fragments of its bulk are mani-
+festing in the Underworld, though they soon
+spend themselves and burn out into Oblivion.
+
+_-And They Lived Happily Ever After ret
+revE sretnual! ei. devil yeh] dnd...
+
+"With his magical sword, the hero found Charon and beat
+him. Without their leader, the evil boat-people ran away, never to
+return, and Charon was put in prison on an island. The hero used
+the magic sword to make a new bridge across the river, and the two
+cities lived happily ever after."
+
+Chris drowsily finishes his story and drifts off to sleep, his
+tears long since dry. Around him the darkness continues to
+sing soothing lullabies. It will watch over Chris all night; after
+all, It made a promise. It had been planning to keep its other
+promise, the one involving Chris' father, but that can wait.
+
+There's always tomorrow night. And soon, Chris will
+
+learn that, too.
+
+32 Guildbook: Haunters
+
+Even in this reduced state, however, the Wyld
+strives instinctively to change itself as a
+matter of self-preservation. Alas, here it
+discovers that it cannot. This frustration
+has created a need for the Wyld to express
+itself somehow, engendering an emotional reso-
+mance of anger and frustration in wraiths
+unfortunate (or fortunate) enough to be caught
+up in it.
+
+Some Haunters even claim that as the Wyld
+is a master of survival, the emotional echo
+that it creates is merely an aspect of its
+adaptive qualities, an effort to tuck bits
+of itself into spirits that will live on.
+The more wraiths who carry bits of the Wylding
+in them, the more of the Wylding that sur-
+vives, even if one carrier falls to Oblivion.
+Others claim that the Wyld wants to rescue
+its deceased portions, and is simply using
+the Haunters in a vast reclamation project.
+
+In any case, Pandemonium would seem to be
+a manifestation of the Wyld's attempts to
+break free from the Shadowlands. The Haunt-
+ers, too, are attempting to free themselves
+from the Underworld, and it is this shared
+sentiment for which the Wyld would seem to
+have deemed the Guild worthy of its gifts.
+How the Guild's members came to possess a
+portion of the Wyld within themselves is un-
+known, but the theories are diverse (depend-
+ing on which alliance one speaks with). Some
+believe that Moliate was used to fuse the
+Haunters and the Wyld together, while others
+claim it was the use of Phantasm that brought
+it into proto-Haunters' dreams. What is known,
+however, is that Haunters are essentially
+the conduit through which the Wyld manifests
+its nature in the Underworld. They are fac-
+ets of its chaotic vibrancy and the expres-
+sion of its pent-up frustration at the mere
+existence of Shadowlands and their darker
+cousins. What results, then, is a truce: The
+Haunters serve as the anchor that prevents
+the Wyld from slipping into Oblivion, and
+the Wyld becomes the tool the Haunters need to
+pierce the Shroud.
+
+Beginning Thoughts
+
+There is much in both our history and our ambitions that
+remains unresolved. We maintain our struggle to pierce the
+Shroud and bring it crashing down (to the thunderous ap-
+
+plause of all wraiths), but it is still a long, slow process. Some
+
+Haunters, dissatisfied with our progress, have made the accu-
+sation that the creation of the Haunters Guild drew our at-
+tention away from our ultimate goal, but | say these wraiths
+
+have not yet studied our history well enough.
+
+The Conclave emaG no¢ eh]
+
+The need to establish ourselves as a Guild derived from
+
+several sources. We were not interested in becoming "offi-
+
+
+i cag GO ARES. Op i Giro)
+eit ie ee
+c ; acl " scenel HH Ka
+
+cially" recognized, since our actions spoke for the validation
+of our goals. There was a need, though, to pull the disparate
+alliances together to pool our knowledge, to disseminate
+knowledge of Pandemonium properly, and to direct our pur-
+suits in order to make them more effective. Besides, had we
+not done that, rumors abounded that the newly formed Proc-
+tors (an alliance we thought we could trust) were attempting
+to demarcate both Embody and Pandemonium as their own
+Arcanoi. We later discovered that the Proctors tried to es-
+tablish themselves as the only Guild who would have deal-
+ings with the Skinlands (a move which robbed them of valu-
+able support in the years to come, as neither wenor the Pup-
+peteers were impressed). Pressed on by this imperative, sev-
+eral attempts by individual alliances to gain Guild status as
+masters of Wylding failed, their efforts sabotaged by other fac-
+tions who wanted the same thing. This nearly shattered the
+delicate web of treaties and nonaggression pacts/between the
+different alliances, and foreed the formation of the first
+Haunter Conclave. The brainchild of Sweet Sorrow, a woman
+already recognized as the Grandmother of Pandemoniufi (it
+was she who brought Theseus' story to us), the Covenant
+brought together the major Pandemonium-using alliances in
+order to give us a unified face and voice. It was said that nearly
+20 groups came to the Conclave, setting off a week of deals,
+promises and haggling. By the end of it, the alliances were
+ready to call themselves a united Guild, with Midian (new
+leader of Pandora Skia) as Guildmaster. Sweet Sorrow refused
+the position after it was originally offered to her, preferring to
+accept a role as Midian's advisor.
+
+Sibling Rivalry yrlaviR enilevins
+
+The greatest disappointment of the Conclave came when
+the alliance representing the practitioners of Outrage went
+their own way to form the Guild of Spooks. Despite the close
+ties that the Spooks maintained with assorted alliances, they
+believed that the Conclave was_not taking intoyaccount a
+single one of their interests or skills. Many alliance represen-
+tatives already felt that Outrage was a useless déad end, and
+were not quiet about their opinion. Unjustly, they transferred
+this disdain to Outrage's practitioners as well.
+
+The Spooks tried to make the separation amicable, but
+we did not. Those of us who chose to remain Haunters took
+the matter of their leaving as a personal affront, and-we_uti-
+lized the same tactics the Proctors used when they tried to
+convince the other Guilds that we were not Guild material.
+We did our best to harass the Spooks in order to prove to
+them they could not do without us. We slandered them in
+public forums, offered them little respect and even less sup-
+port, and did everything we could to force them to come crawl-
+ing back to us.
+
+It was only when the Artificers officially recognized the
+Spooks as a Guild that we realized the depth of our error.
+
+Only when confronted by the possibility of losing our former
+
+compatriots as friends and allies (and to the hated soulforgers! )
+
+did we finally see our mistake. In truth, Outrage was a useful
+Arcanos, and we needed the Spooks a great deal more than
+they needed us. We were severely lacking in allies (a result of
+the Proctors' smear campaign against us) and even more im-
+portantly, friends. Had we lost the Spooks once and for all,
+we might not have survived.
+
+So, we humbled ourselves. In a show of great and public
+humility, we apologized for our actions, and tried our best to
+make it up to the Spooks (individually and as a Guild). Even-
+tually, they forgave us, though I suspect that some still harbor
+a thorn of animosity toward us for betraying their trust.
+
+War and Peace secei? niall
+
+The War of the Guilds might have come as a complete
+shock to us (hardly surprising as we were so focused on our
+
+Witchcraft tfarchcihtW
+
+While we do c
+the individual accomplishments, the exploits that are re-
+d by ourselves and the Quick alike. The wraiths
+
+brate our past, we appreciate most
+member:
+responsible for these stories are our heroes; their tales are
+the reflection of ourselves and our struggles.
+
+One such tale was the Bell Witch haunting, events
+which were categorized as "poltergeist activity." A Ci
+of wraiths, including several Haunters and a Spook, coor-
+dinated their efforts to haunt the home of John Bell of
+
+Al-
+
+though this incident is regarded as a "classic case" by ghost-
+
+Robertson County, Tennessee, in the early 1800s
+
+hunters the world over, the events of the three-year haunt-
+ing are too numerous to recount here. A short list of the
+acts perpetrated by the Circle included; unexplained noises,
+the appearance of mysterious animals, rappings, slaps,
+pinches, fainting spells and other mysterious ailments in-
+flicted on the members of the Bell household, and un-
+earthly voices. The haunting finally culminated in the
+death of John Bell at the hands of the Circle; he ingested
+a dark-colored liquid that he believed was medicine but
+which in fact was a fatal poison. Many Haunters, includ-
+ing myself, are of the suspicion that the transmutation of
+Jrarmless medicine into something else may have been the
+{product of a new Wylding art similar to "Bite Me," the
+details of which have not yet been divulged.
+
+Following this incident, the local Hierarchy troops
+captured the offending Circle and forged them to the very
+last member for breaking the Dictum Mortuum. Needless
+to say, this did nothing to improve our opinion of the dema-
+
+gogue Charon, or his organization.
+
+Chapter Two: History 33
+
+ee ea ii
+Fue tn ep = of ry ee Hib ale
+
+
+own agenda) had the Spooks not warned
+us of the Artificers' attempts to position
+‘themselves as head Guild. The dispar-
+Bem ate wills of the alliances reared their
+WY heads in the matter, and a second Con-
+clave was called to ascertain how the
+Haunters wanted to approach the new
+problem. It was generally agreed that the
+Artificers should not be allowed to as-
+sume primacy, but exact methods for
+dealing with their claim were a matter
+of contention. Eventually, it was put
+forth by Sweet Sorrow that in light of so
+many differing opinions, each alliance
+® should approach the matter in its own way,
+so long as no one supported the Artificers
+or brought harm to the Haunters as a
+group or individually.
+
+What happened next was complete
+chaos. Many alliances made it a point to
+attack Proctor interests, ignoring the Artifi-
+cers completely, while others did their best to
+7 haunt the Quick allies of the soulforgers. Teams
+of Spooks, Monitors and Haunters went after Fet-
+ters of enemies, doing their utmost to destroy or
+at least damage them, while some of us began
+haunting the Artificers themselves, interrupting
+forge-work and ruining the creation of Artifacts.
+Whenever the Artificers tried to place blame
+on us, however, our excuse was, "Pardon, but that
+was not my alliance responsible for that unfortu-
+nate accident. Try the Followers of Discord; this
+sounds like their handiwork." Of course, the Fol-
+s of Discord had disbanded and vanished several
+
+% lowe:
+years back, but we did not bother telling the other
+Guilds that. The Artificers responded to our claims of
+innocence by forging whatever Haunters they could catch
+and siccing their allies on our nascent Circles. Attri-
+tion was high, and we had not nearly enough allies.
+s\ Unfortunately, the war came to an end with the
+Artificers in the position they had originally cov-
+eted. Their losses had been great, but ours had been
+greater. The one lesson we did learn from the entire
+affair, however, was that dedication to our pursuit did
+not mean we had to be blinded by it. We had to be-
+come more aware of the games being played around
+us if we were to survive them.
+
+The Breaking nekor® elf
+
+With Stygia reeling from the "First Abomination"
+— the Renegade assault on the Onyx Tower in the
+early 1500s — the Compact of Guilds felt it was time
+
+to topple the foundations of the Hier-
+archy. Our involvement in the at-
+tempted coup d'etat of April 6th, 1598,
+however, came not from the Artificers'
+oh-so-compelling argument for Guild su-
+premacy over Stygia, but from within our
+own ranks. We were leery of the Artificers
+to begin with, and their whole plan seemed
+like a convenient way for them to seize
+power while using us as cannon fodder. We
+agreed with the notion that the Hierarchy
+had to be toppled, but the candidates for the
+mantle of leadership were less than appealing.
+
+A third Conclave was finally called (the
+last one to date), to discuss the matter. As
+usual, the Conclave, rather than unite opin- 4
+ion, served only to polarize it further. \
+There were endless hours of debate, back ¥ oh
+and forth, pro and con, and at the end we . Sf
+found ourselves still undecided. The mat- '
+ter had almost reached a terminal impasse when
+the Dantes, a young alliance within the Haunters,
+stepped forward with a proposal. Having maintained
+powerful ties to Heretical groups such as the Fish-
+ers, the Dantes suggested that we support the Artifi-
+cers' attempts to usurp Charon's rule, then step in af-
+terward (with the help of the Fishers and Spooks) and
+destroy the soulforgers. We may not have cared who
+ended up ruling Stygia, but we were certain that it
+shouldn't be the Hierarchy or the Artificers.
+
+Sweet Sorrow was the first to support the idea, fol-
+lowed (grudgingly) by Midian and the other alliance lead-
+ers. Our hesitation in this matter, | am told, came from
+the sheer ambiguity of the entire situation — and our
+putative allies. The Fishers, who agreed to assist us when
+the time came, were not exactly a known or even desir-
+able quantity; what if they turned on us instead of the
+Artificers? Additionally, most Haunters were uncom-
+fortable with assuming any sort of a political stance
+to begin with. What swayed most of us into the pro-
+revolt camp was Sweet Sorrow's support of the
+Dantes' plan, support which, in hindsight, looks
+somewhat out of character for her.
+
+Needless to say, the "Second Abomination"
+(the coup) was a failure from its onset. The Usu-
+rers and Masquers abandoned the fight for their
+own reasons, the Artificers had the other Guilds
+doing most of the dirty work (straining the unity of
+the already-tenuous rebellion), and arguments con-
+stantly erupted over the division of spoils not yet
+won. We never had occasion to implement our pri-
+
+
+The fae riaf eb
+
+Following the Breaking, the Haunters began looking
+to the Skinlands for answers. If the Shroud could not be
+
+pierced from this side, some of us reasoned, then perhaps
+
+the answer lay on the other side of the barrier. Our search
+quickly led to the re-discovery of changelings. (I say re-dis-
+covery because our efforts were so focused on the Quick
+that we did not notice how other supernatural beings were
+faring in the world.) An event the fae refer to as the Shat-
+tering had foreed many of them to either flee this world, or
+remain hidden from the soul-scouring effects of something
+they
+solely bent on mayhem, and therefor
+
+lled Banality. Unlike their predecessors (who seemed
+garded us as prime
+targets for their jokes), these fae were in need of allies in a
+world that was rapidly growing cold around them. Unlike
+most of the wraiths they encountered, however, we held a
+seed of the Wyldin,
+
+within us glowed like'a spark to them, and they warmed to
+it. We, in turn, were attracted to their wondrous Arts, and
+
+certain appeal to these lost souls. T)
+
+felt a kinship based on our mutual isolation from the places
+
+we desperately wanted to be. For these reasons, we have
+
+always made it a point to maintain contact with the fae.
+Not all changelings are our allies, mind you, for some
+
+have proven too haughty or whimsical for our tastes. We
+
+vate coup using the Fishers, and in truth, we were somewhat
+relieved that we never tried.
+
+As you know, the attempted overthrow of the Hierarchy
+failed miserably, and Charon's edict broke the Guilds. What
+happened afterward, however, was the interesting part. The
+Fishers, at the behest of the Dantes, used their underground
+railroad and network of safe Haunts to hide many Haunters
+and Spooks. Because of théir efforts, a large portion of our Guild
+membership escaped the Hierarchy's purges, and this is adebt
+that has never been forgotten. As we Haunters look back on
+our history, we realize that we escaped from the events of A.D.
+1598 relatively unscathed. Certainly the Breaking affected us,
+but many Haunters believe being exiled from Stygia allowed
+us to become unfettered from the political intrigue that was
+
+diverting us from our true pursuit: the destruction of the Shroud.
+
+Bring in the Hunters tru! eht no gnirB
+
+Very few events have impacted the Guild as a whole, save
+for momentous occasions such as the Covenant with Wylding,
+the Conclave and the Breaking. However, our efforts were
+completely undermined by a half-millennium of witchcraft
+
+scares, and as such, we were little more than a hazy construct
+
+in the minds of mortals. Despite the fact that we were a part of
+the Compact of the Guilds, our standing within it was always
+
+36 Guildbook: Haunters
+
+ee us
+
+occasionally speak with the pooka (and have yet to get the
+ask wh
+
+animal's ears). They seem eager to help us with hauntir
+
+same explanation twice when W they posse S
+and have proven quite ingenious with their shapeshifting
+and confidence trickery. They are too unpredictable, how-
+ever. Mostly, we are friends with the fae known as the eshu
+and the sluagh.
+
+The eshu are traveling storytellers. As such, we enjoy
+the tales they share with us, and they listen to the ones we
+relate of the world they cannot see (the Shadowlands). I've
+heard tell that they think of us as an infinite source of se-
+quels. So be it.
+
+The ‘sluagl
+
+living wraiths — quiet, mysterious (possessing an almost
+
+on the other hand, are best described as
+
+ephemeral quality). and denizens of places that seem to be
+neither here nor there. Our strongest ties with the fae are
+with the sluagh, our friendship being based on the exchange
+of secrets. | would warrant that these cold faeries now know
+more about the Shadowlands than many wraiths do. The
+sluagh are also collectors of unusual knick-kr ks, some-
+thing we can appreciate because of the rarity of such things
+in our existence. These points of mutual understanding
+
+helped foster a.quiet respect between the Haunters and the
+
+sluagh.
+
+dubious due to mistrust, or because all our efforts involved a
+rather blatant disregard for the Dictum Mortuum. To make
+matters worse, Our activities began to attract the attention of
+ghost-hunters like the Dannati of the Benandanti. As soon as
+the witch-hunters came calling, the other Guilds distanced
+themselves from us because we made "dangerous allies." The
+potential threat from some ragtag mortals was all the excuse
+they needed to throw us to the wolves.
+
+One of the prime examples of this was the case known
+as the Drummer of Tedworth. In 1662, a traveling performer
+— still living, mind you — named William Drury was ar-
+rested for forgery in the English town of Tedworth, and his
+drum was confiscated. Upon his release, he began "haunt-
+ing" the residence of John Mompesson, the presiding judge
+at his trial, by making loud noises and generally being anti-
+social. This activity gained Drury some notoriety, and at-
+tracted the attention of a Circle of Haunters who approved
+of his actions. The Circle devoted its efforts to "assisting"
+him by doing the things he could not: tossing furniture
+around, upending bedclothes and chamber pots, etc. Drury
+panicked and fled when he realized that he was no longer
+responsible tor the events taking place around him, and the
+Mompessons destroyed his drum, believing it to be the source
+of their problems. The destruction of the drum merely made
+it into a relic for the Haunters, and aggravated the situa-
+tion. For a while, all was well.
+
+
+Unfortunately, the events in Tedworth attracted the at-
+tention of Chaplain Joseph Glanville, a witchcraft investiga-
+tor. Unlike others of his ilk, however, Joseph was intelligent,
+not given to hysteria, patient in his observations and a mem-
+ber of the Dannati. During the course of his investigation, he
+quietly and methodically eliminated the offending Haunters.
+This became the first of many incidents that has set us and
+the Dannati at war across the Shroud.
+
+Golden Age ee ebilluc
+
+Without a doubt, the 19th century was our heyday. The
+paranoia of the witch-hunts (and the fear of all things oc-
+cult) finally died down, and our exploits were ours (not the
+Devil's) once again. The British Empire choked in the grip of
+Victorianism, and our existence brought about the religious
+movement known as spiritualism. Penny novels and Christ-
+mas tales recounted our brand of terror, and finally, the Soci-
+ety for Psychical Research in Britain (and its American coun-
+terpart) emerged to study our kind. It appeared as though our
+efforts to change the perceptions of the Quick had finally
+succeeded.
+
+The Victorian era was also a time of charlatans and fakes
+who purported the ability to speak with spirits, and profited
+
+nicely from this "ability." Many Haunters looked upon these
+deceivers as "cushions." We haunted and manifested around
+them frequently, or amplified their pitiful effects to enhance
+their claims. This may have seemed odd, considering we nor-
+mally liked having the credit of paranormal activities attrib-
+uted to us. The issue here, however, was not credit, but safety.
+The Dannati had acquired a frightening proficiency at hunt-
+ing down and destroying incautious or ostentatious Haunt-
+ers. Admittedly, Pandemonium is one of the most flamboy-
+ant of the Arcanoi, but we suspect that someone led the hunt-
+ers to us (the Proctors, most likely, though we have yet been
+able to prove such a connection). We therefore used skinbag
+tricksters and fakes as dupes. We found mediums and
+sensitives, helped them authenticate their claims by provid-
+ing industrial-strength light and magic, and then left the mo-
+ment someone appeared to challenge our dupes' "powers."
+Dannati posing as "investigators of the supernatural" and "psy-
+chic detectives" thus uncovered countless frauds, but nary a
+single Haunter. Mediums were debunked as fakes and charla-
+tans, and the Dannati lost our scent.
+
+Unfortunately, this tactic proved to be a short-sighted
+mistake with long-reaching consequences. As a result of our
+little deception, people decided to treat all supernatural events
+as trickery of some sort. We learned this, to our sorrow, at the
+
+ay, = Fm v2 es eS a TA
+tp k oe y
+r Sw inl SES gto gee
+Hydesville haunting of 1848 and its attendant "rapping Phooey.
+
+ghosts."
+
+I can assure you, by the way, that the adjective is not
+used in the context of modérn music. The phenomenon
+known as rapping is defined as when hovering spirits suppos-
+edly communicate by making rapping sounds. While the
+Hydesville haunting was not the first time that this form of
+dialogue was‘used (the so-called "Bell Witch incident" also
+involved communication through knocking), it garnered un-
+precedented exposure when Maggie and Kate Fox exhibited
+the ability to communicate with the ghosts. Of
+course, we heard about the supposed supernatu-
+ral activities taking place at the Fox home, and
+in turn, began enhancing the "haunting" of
+the sisters with Wylding. Only when the Fox
+siblings became public celebrities did we
+withdraw our presence. The girls' noto-
+riety was sure to draw the attention
+of the Dannati.
+
+The events at Hydesville were
+later declared to be a hoax (sur-
+prise, surprise) perpetrated by the
+Fox sisters, originally intended to
+scare their mother, and then as a
+money-making scheme under the
+direction of their older sister,
+Leah. Despite this, the Fox sis-
+ters' reputed ability to commu-
+nicate with spirits became the
+catalyst for the movement called
+spiritualism, a quasi-religious be-
+lief in the spirit world and ghosts.
+
+Spiritualism unlocked all sorts of doors for wraiths in
+general, but for us (and those ridiculous Proctors) in particu-
+lar. Humans were out-and-out inviting us into some of the
+best parlors and company of the day, granting us amazing
+opportunities. (Of course, the flip side was that we ended up
+patronizing Masquers extensively as a result. After all, it
+wouldn't do for us to materialize underdressed now, would
+it?)
+
+It became fashionable for mortals to believe in ghosts, have
+seances, and so on. Leading artists, socialites and even occa-
+sional political figures gave the movement further credence,
+which drove the Hierarchy batty. And despite those staid bas-
+tards' best attempts to shut the whole thing down, study of the
+"other world" enjoyed something like true legitimacy among
+the living. It was a golden time, and it produced some wonder-
+ful talents and stories. Some of the mediums of that time are
+even studied today, by whatever would-be "spirit guides" that
+are still running around out there. From the 1850s right up
+through the 1930s, it was a remarkable time to be dead. Things
+were going our way at last. The Shroud was weakening, the
+Quick had enlisted in the fight to bring it down, and then?
+
+38 Guildbook: Haunters
+
+Have you ever been to a party where the food was won-
+derful, the conversation was enthralling, and everyone was
+having a ball, up until the point when some jerk crashes the
+gate and pisses in the punchbowl? That was how spiritualism
+ended — skinbag stupidity and greed ruined a wonderful party.
+Whether it was the bored housewives and gigolos claiming
+that the "spirits" were telling them to get drunk and sleep
+around, frauds who bilked grieving families for everything they
+had, or hunters like the Dannati driving us
+away from our best mortal allies, the
+damned skinbags ruined it for ev-
+eryone. They ruined it for them-
+selves, for the aliens, and most
+of all, for us. Bastards.
+
+Spiritualism
+mostly wound down
+in the 1930s, but it is
+still practiced in
+churches throughout
+the United States and
+South America to
+this day. It is in these
+places of congrega-
+tion that the
+Shroud is often at
+its lowest, and
+where many of our
+folk have a great deal
+of fun pretending to be
+dear departed Auntie
+Ethel or Uncle Murray.
+
+Modern Wraiths htar\W/ nredoM
+
+¢ Today, we have become nothing more than a
+product of other people's perceptions. As the Quick
+become more sophisticated, our hauntings have become
+more visceral and brutal. We have lost that fine touch, and
+the disaster at Amityville is a prime example of that lack of
+subtlety. While our influence over the Long Island home is
+generally regarded as a hoax, the similarities between our arts
+and the occurrences within its walls are too many for any
+informed observer to discount. The techniques practiced
+within that innocent-looking home were far too brutal for
+the tastes of many Haunters, however, save perhaps the
+Bedlameers or Mandelbrots. However, the question is aca-
+demic, as the true identity of whatever wraith or wraiths were
+responsible for this incident is unknown. The house is barred
+to us, and so is the resolution of the mystery.
+
+The fault, of course, lies at the feet of the Dannati. No
+sooner had the Amityville story premiered on a New York tele-
+vision program than the Benandanti stormed the place and
+
+NO BRAKS RSG;
+SX Ses
+eS SH ee api
+
+aay sy
+att A < Fae
+
+destroyed the Circle that made Amityville (the town, not the
+house) their Haunt. We have not been able to get close to the
+legendary house since; even venturing inside the city's limits is
+dangerous now. The Dannati keep it under careful surveillance,
+and many Haunters, desperate to get inside in order to learn
+the truth, have been cut down with fennel swords or worse.
+
+The absence of solid fact, however, doesn't discourage the
+rumor mill from churning. If one believes all that one hears,
+one knows that black light can be seen-in the Shadowlands
+cast from the sinister house's dark windows, and that hideous
+shapes creep across the well-trimmed lawns at-night. Rumors
+persist that the occupying Dannati have fallen prey toa hive of
+Spectres who have claimed Amityville as their home, and that
+even now a Nihil yawns beneath the house.
+
+It's all pure speculation, of course — but we of all people
+know that every ghost story has some truth at its heart.
+
+| Final Word kl lanif
+
+y L/ Wi, ~ °} ,
+aa U7 - = "
+am A Ws
+
+These aforementioned events are tiny morsels compared
+to grand smorgasbord of all of the hauntings that we have
+successfully completed. Borley Rectory and the Tower of Lon-
+don were our meccas, but these places have lost much of their
+power over the mundanes. Humanity is becoming less imagi-
+native and thus less fearful. It takes bio-engineered plagues
+and cybernetic horrors to frighten the living these days;
+they've made their world such a hell that they're inured to
+blood and mist. So as we approach the millennium, and the
+Shroud continues to grow in strength, we find ourselves forced
+to rely on more brutal and direct methods to haunt the living
+effectively. In some ways the Mandelbrots have it right: "Pain
+is an excellent reminder."
+
+Chapter Two: History 39
+
+
+
+Chapter Three:
+
+Dearly Depar
+rapeD yldaeD
+
+OOO — ec hamrggTT e ee amt aa can
+
+oP debi gniniarD
+"You hag to' look, didnt yout" sighed Mordecal, Unable. +0 look
+
+eWay, Uricouls only ood imutely Fr response. The sight of the corpse |
+"held: "hin, faschated: and horrified all at once, He could see thet"
+sion along the woman's 2b domen smiled, withirbs for ire
+Crawling aide, bier ‘ong her grayhg organs were huni}
+er — othe nag j
+
+h = you, $ |
+
+-Whewh- ie
+"Don't talk, ett het tae aS ot
+stutter makes me aervous, Now, do
+say, and close' your-eyess "hside the ‘eck
+h : : cess of his head, Uri heard ttollag wheels,' ba ane you'
+tool ha 2 quiet room, fab ric beg whisked aivay, the slick ait to bis Heal
+
+EE ——
+
+ond sub dued whir of electronks, ond a Goce thet, prockined!. | baal Veco
+f ‘The'sub ject is ak2-yeer-old.¢ Ranisin women, io pounds iy St "Not ‘ony {
+} veght =" J ieee aS i "the ies: ee pe to eget now, are aifferent: "a a
+| Urikept Ibtenig os the wong ten to dis hat ‘goed ean Nob andor mys "oom. compassion for dog"
+\ ) kernthe origins jof the verbus noises, The coroner's voke drones 2  Whor dvhg my Uri Mordecalinterropted. Whet re you gohg
+
+"oh ak a pedante pace, A metal 0b ject behg pkked upi a wet + 40 Watch \your aeughter grow up, and reve because you con't
+© sound like @ zlpper b ehig undone. 1 The coroner, audib ly 6 ored, ier do shit? Watch as your wife fille, ih bve with | ‘someone else ond |
+| tified the apper sound a3 <n ficision down along the midriff: just takes him ito yor bed? Now ca tee me: ‘coolant core less) 0b out
+|) avother rightt's work forhin.\Urithecra' more wet sounds 2° What: happens +o yav, but Dr, Shudder lkes you. He wants me to.
+\ the entrails, were exomings,  tHes: ‘suddenly, sa Scream, Hisieyes ‘trah'\you,end wil It's better ‘then sothrs, 3 ot leost wale is |
+j "flew open as he looked at the scene around Him. The doctor "ov heve a chance at -returnkg hime some dey:
+
+|wab scrambling away from. the codever on A metal vbopsy 1 Url stig pothng, but re still Mordecal riddea, a, half (
+) took Withh seconds he wee ie door. Pe ik aE em hale Mahen Now let's a ae lssone" or aie {
+
+$ ha noe
+
+/ ,
+
+\,
+|
+fet 1
+
+ts All About the Wyld
+elnW a tuobA TA st
+
+here's something to be said about history,
+but, as you can tell, we aren't as much in-
+|) terested in the official as we are in the
+| unofficial. The Wyld is.a big factor in the
+1) case of our arts, our sanity, our past and
+our future. It has more to do with molding
+who we are than the history of some
+skinbag and what he meant to us once upon atime. This part
+of the lesson plan is to acquaint you with our powers.and the
+drawbacks that come with them.Now don't squint at me all
+funny like that. Yeah, I already told you about what you'can
+do with Pandemonium, but there's alot more tothe Wylding
+than any alien knows. Ifyou become a Haunter,(and Christ,
+I hope you don't), then you're going have to learn to-stretch
+your imagination and quit pulling the conventional crapall
+the time. There's a lot more to the Wyld's power, both good
+and bad, than just the "Casper's evil twin" shtick.
+
+Pandemonium Perks skreP noivilb0
+
+The Covenant between the Wyld and us Hauntets pro-
+vides us with an immediate asset — the ability to unleash
+some true nastiness with Pandemonium. Well actually, aliens
+refer to it as that; we like calling it the gift‘or Wylding. Ever
+had ouzo? It's a Greek drink, clear as water, but it kicks like a
+horny mule. That's what the Wylding is, a kick of power that
+explodes in your forebrain:like good sex. The advantage we
+hold over other plebs is. that our gift is born'from pure chaos,
+so the results can be almost anything. What people normally
+assume is Pandemonium is the Brand-X junk we show to the
+aliens. We kept the good stuff for ourselves.
+
+Now how do we use the gift? Near as I can explain it,
+every Haunter has a tiny seed of Wylding inside them. It's kinda
+like we're pregnant. Now as long as that seed is in you (and I
+don't know how you'd ever get it out), you'll have the Wylding
+leaking out of you like you got a bad plumbing job. The differ-
+ence between Haunters and some old shlep who uses the gift is
+that we embrace the changes around us when the Wylding
+really cuts loose. Aliens simply freak when the weird visuals
+start happening, and abandon their powers like some bad acid
+trip. If a wraith can go beyond the scare phase and actually
+
+Guildbook: Haunters
+wl x
+S Oe
+on aw Pp
+%, SS fe
+
+start using what the Wyld gives him, then he becomes a Haunter
+whether he wants to or not. He just hasn't been inducted yet.
+Now, the more we use this seed, the bigger it gets. It be-
+gins infusing our Corpora with the Wyld, making us less "nor-
+mal," but allowing us to squeeze more effects from it. The rea-
+son? All the effects you create invariably come from you. You
+become the physical expression of the Wyld. Your Corpus is
+the molder's clay used to create all the physical effects (bugs,
+blood, frogs — all that good stuff), while your Pathos is spent
+on stuff like temperature fluxes and weather anomalies. Cool
+thought, hunh? Your power is basically eating you alive. Think
+about that too much, and you might end up as a Bedlameer.
+The flip-side advantage to it all, in case you haven't
+picked up on it, is that we can-create Wylding-related arts
+with a lot more ease than most people know. It's just a matter
+of experimenting. Here are some of the fruits of our labor
+that the different groups have taken the time to share with
+each other. I can tell you, though, there's a lot more out there.
+Some Haunters are just being greedy with their secrets.
+
+Basic Abilities
+
+Mouth of Madness: This talent enables a Haunter to
+use himself as the manifestation point for other Wylding arts.
+This is especially useful in conjunction with the visible ef-
+fects of Pandemonium, such as. Dark Ether or Foul Humour.
+When Mouth of Madness is in play, smoke ean appear from
+the folds of a cloak; insects can fly out ofa Haunter's mouth
+or from his hair; blood can pour from his eyes or open wounds,
+and so on. The possibilities are endless, but unless a Haunter
+has the Embody Arcanos, this visual chicanery is visible only
+to those in the Shadowlands.
+
+System: The player rolls Intelligence + Pandemonium
+(difficulty 6).
+
+* Scripture erutcirtS
+
+Created by the Dantes, this particular art enables a
+Haunter to communicate beyond the Shroud through the
+written word or with basic images. The letters and symbols
+are created from the Corpus of the wraith utilizing this craft,
+and can appear on any surface. As a Haunter's knowledge of
+Pandemonium can vary, however, the script can take the form
+of whatever tier of Wylding she chooses to use. Arcs of elec-
+tricity can emblazon the words of a message on a wall if a
+Haunter understands Dark Ether; statements written in blood
+or even with insects can be formed in conjunction with Foul
+Humour. Each line of script or image created lasts either five
+minutes or until the next line of script is added.
+
+The major drawback to this particular art is that the words
+expressed are hard to dictate properly. Because they are formed
+directly from the mind of a Haunter, they can express hidden
+sentiments, emotions and even secrets if the wraith is not
+
+
+careful. Many Haunters' Shadows have been known to speak
+through slippages in control while Scripture was in effect.
+
+System: The player rolls Intelligence + Pandemonium
+(difficulty of the local Shroud rating) to begin writing. The
+moment a sentence is finished, the words vanish, but the
+wraith may continue writing until he is finished or is inter-
+rupted. In either case, a new roll must be made to allow the
+
+writing to begin once again.
+
+This ability costs both a Pathos and a Corpus to use.
+Should the Haunter wish to use Scripture in conjunction
+with another Pandemonium art, the cost for the second art
+is not paid, but atvadditional point of Corpus is.
+
+If a. wraith using Scripture has only this level of
+Pandemonium, the words she creates through this art ~
+appear as ashes in the Skinlands.
+
+‘Wild Bloom mossolB dlyW
+
+A simpler version of Foul Humour, Wild Bloom al-
+lows‘a Haunter to "grow" a patch of dull flowers and faded
+grass upon any surface instantly. This small garden can be
+made to wilt and wither away in a matter of seconds, or
+bloom into grotesque shapes (flowers with insect e
+petals fringed with teeth, etc.). Obviously-the plants are
+not real, having been created from the wraith's Cor-
+pus. They-do, however, scent the air with a mild
+hint of decay, forcing animals to shun these dead
+
+blooms and everything around them.
+
+System: The player must declare before-
+hand what effect he wishes' to elicit with
+Wild Bloom. He then rolls Intelligence +
+Pandemonium (difficulty is the local
+Shroud). Each success translates as one
+square foot of area infested with the Wild
+Bloom, and also indicates how many
+minutes the Wild Bloom remains.
+
+This art costs | Pathos and 1
+Corpus to use.
+
+" Bite Me emit iB
+
+Through the use of this art, a
+
+Haunter can create realistic-looking
+food from stuff of his own Corpus.
+Naturally, should any mortal decide
+to eat this meal, the would-be gour-
+met discovers that his meal has are- (/
+volting taste. Furthermore, the sec- ©
+ond the ghostly morsels are put to a
+mortal's lips, the food suddenly appears
+to be moldy, rotted and maggot-ridden.
+System: To use this art, the player rolls Intelli-
+gence + Pandemonium (difficulty is the local Shroud). hs, 7
+
+The number of successes indicates the length of the effect,
+and for every two successes, the target's Stamina is lowered by
+one once the food is ingested. This weakness lasts for the dura-
+tion of the scene.
+
+Bite Me costs a Pathos and 2 Corpus, and gives the user
+a point of temporary Angst.
+
+« Fooled You loof voy
+
+Formed from the union of Outrage and Pandemo-
+nium, this art is available to both Haunters and Spooks.
+The first Wylding talent created by the Mandelbrots,
+it allows a wraith to distort an observer's perception of
+the location of an object (video cassette size or smaller)
+by two feet in any direction. This does not mean, for
+example, that a wraith can hide objects completely
+(by displacing the object's image on the other side of
+Ty a wall less than two feet away). The real object must
+* be normally in view to both the practitioner of this art
+and his targets for the displaced image to be seen. If either
+the real object or distorted figure is hidden or not within plain
+sight, the art fails, and the item appears in its normal location.
+
+Any attempt that is made to grab the item will disrupt
+the illusion, revealing its location, while botches will cause
+the Haunter to believe in the displacement and lose com-
+plete sight of the item in question.
+
+System: In order to employ this power, the player rolls
+Manipulation + Pandemonium (difficulty of the local Shroud).
+The cost of using this art is 1 Pathos.
+
+«Stretching Reality ytlaeR eniheterts
+
+Driven by the discovery of Fooled You, many Nihilists
+expanded their arts toward the altering of spatial awareness.
+Their eventual hope was to manipulate space itself, and while
+they have not yet succeeded in actually warping the fabric of
+reality, this art would seem to be a step in the right direction.
+Stretching Reality enables a Haunter to alter his target's
+perception of distance. Short corridors can seemingly stretch
+for several hundred yards, while someone far away can ap-
+pear to be only inches from the victim. Walls can appear to
+rise to enormous heights, while level surfaces will seem to
+curve and warp. Unlike Fooled You, however, this art works
+against one target only.
+
+One drawback to this particular aspect of Wylding is that
+the effect is never truly controlled. Objects that were near some-
+one a second ago can appear to be beyond arm's length the
+next. Curves and arcs fluctuate, and the solidity of the illusion
+is shattered by its fluidity. On the other hand, the results, while
+chaotic, are spectacularly disorienting to the unprepared mind.
+System: Using Stretching Reality requires a Manipula-
+tion + Pandemonium roll (difficulty is the local Shroud).
+
+
+3 = Za
+ee ae \ .
+
+eoyhaa Ig = as cg Neal
+
+eee = ~ Lv sss
+
+Furthermore, the art takes 1 Pathos to initiate, and another
+to maintain every three turns.
+
+1 Success — The target's spatial perception changes, but only
+to a minor degree. Any small item within arm's reach will
+suddenly appear to move out of range by no more than five
+feet in any direction, and the effect is limited to objects within
+arm's reach of the target.
+
+2 Successes — Larger objects such as doors and people can
+now be affected by the spatial distortion. The difficulty to all
+rolls involving sight-based Abilities (Brawl, Dodge, Drive,
+etc.) is increased by one.
+
+3 Successes — Hallways and entire walls now appear to re-
+cede, come rushing forward or even loom to gargantuan pro-
+portions — at least as far as the victim is concerned.
+
+4 Successes — With this many successes, the art can affect
+up to an entire building (so long as the victim is within the
+offending Haunter's sight). Corridors can mutate into an in-
+escapable maze, walls might seem to melt, and so on. Further-
+more, the difficulty for all sight-based rolls is increased by
+two as long as this art is in effect.
+
+5 Successes — The victim's reality has just been placed in a
+taffy puller. Not only the victim's environment appears to
+change, but her very body seems to be stretching, melting
+and otherwise behaving oddly. There is a +3 difficulty on all
+rolls involving sight-based Abilities (Brawl, Dodge, Drive,
+etc.) for victims of this art.
+
+ww Sfomata reltoM kciS
+
+Another pi
+ners as either a last resort or as the climax of an involved and
+drawn-out haunting. This art enables the Haunter to create
+bleeding wounds on her target. The injuries are not real, with
+the "blood" actually being an ectoplasmic manifestation of
+the Haunter's Corpus. To the target, however, the stigmata
+this art creates appear real in every way, even down to the
+smell of the blood. Some victims even claim to feel the pain
+of their "wounds," though most Haunters attribute this phe-
+nomenon to "ghost pains," a hypochondriacal reaction.
+
+d ability of the Dantes, it is used on sin-
+
+The wounds that manifest through this art appear as ex-
+actly that — wounds that might have been made by a knife
+orsome similar sharp object. Creating the illusion of severed
+limbs ora foreign object impaling the victim's body is beyond
+the scope of this art, no matter how talented the Haunter.
+However, once that limitation is surmounted, the injuries
+created are up to the imagination of the Haunter. The Dantes
+prefer to use religious motifs with this art (such as wounded
+palms and thorny tears in the scalp), while more traditional
+Haunters like to study their victims, uncover old afflictions,
+and create the illusion that old wounds have reopened.
+
+System: The player rolls Manipulation + Pandemonium
+(difficulty is the local Shroud) in order to create a single
+
+
+wound on a victim. Each wound must be rolled for separately,
+though a Haunter may try to create multiple wounds in the
+same round by splitting his Dice Pool.
+
+Every three successes on the initial roll indicates a Health
+Level of psychosomatic damage inflicted on the victim. This
+damage cannot be soaked, but is not aggravated.
+
+Stigmata costs 1 Pathos per wound created, plus 1 Pa-
+thos for every level of actual damage inflicted. The art also
+gives the user's Shadow 2 temporary Angst points.
+
+vm Form of Chaos tekcuB ecl na fo epals
+
+This ability proves the theory that if the effects of Foul
+Humour are generated from a wraith's own Corpus, then a
+Haunter should actually be able to
+shape his own manifestation.
+From this analysis, the Or-
+der of the Glass Menagerie
+developed Form of Chaos. A more refined
+version of Foul Humour, this art not only
+enables the user to create noxious sub-
+stances and plagues of various sorts, but also
+gives him the opportunity to take the art a
+step further and shape his creation into hideous parodies of the
+human form. Examples of this include faces congealing out of a
+pool of blood, arms made of locusts or a tongue formed from
+maggots. The shape this art creates is physically independent of
+the Haunter, and possesses no fine motor control. On the other
+hand, the manifestations created are as strong as the Haunter
+who made them, and would respond to simple orders such as
+flail, bite, spasm and so on.
+
+System: The player rolls Intelligence + Pandemonium
+(difficulty is the local Shroud). The number of successes in-
+dicates the maximum size and duration of the manifestation;
+spectacular successes may grant some special effect (such as
+venom or caustic slime).
+
+The cost for this art is 3 Corpus and 2 Pathos, and its use
+inflicts 1 Angst upon the practitioner. There is no need to
+use Foul Humor before using Shape of Chaos.
+
+www Death's Caul las htaeD
+
+This particularly nasty art was created by the Followers of
+Discord, a Haunter alliance that predated the Middle Ages.
+The Followers' philosophy advocated murder as a means of
+conveying terror, and because of this, they were more often
+hired by wraiths as assassins instead of Haunters.
+
+Death's Caul was the Followers of Discord's crowning
+achievement, an art that enabled wraiths to hurt the living.
+It was also known as a Dark Art, one of those powers com-
+pletely outlawed by the Dictum Mortuum. When the Fol-
+
+lowers of Discord disbanded
+DARREN W. FRYOENPALL
+
+ZEN
+
+(and were systematically hunted down by the Order of the
+Unlidded Eye), many refused to divulge the secret of Death's Caul,
+even when tortured or soulforged. After the last of the Followers
+disappeared, most elder Haunters agreed that the art was lost. All
+this changed a scant two decades ago, however, when the
+Bedlameers came forward with the knowledge of its workings.
+How they came to possess this power is unknown, but it is sur-
+mised that Sweet Sorrow may have shared it with the Alienists.
+
+By sending a portion of his Corpus through the Shroud,
+the Haunter can cover a victim's face with a Caul similar to
+the one that covers each wraith at his rebirth. This mask ob-
+structs all breathing passages, causing the target to suffocate
+unless he manages to tear the mask off. This feat is difficult,
+since the suffocating mass of plasm finds its way. down the
+victim's throat and up his nasal passages. For obvious reasons,
+this Dark Art does not affect wraiths and vampires.
+
+System: In order to use Death's Caul, the player must
+roll Manipulation + Pandemonium (difficulty is the local
+Shroud). The number of successes indicates the physical
+strength of the Caul (i.e
+tended Strength roll, difficulty 6, without a failure. With ev-
+ery failure, the process starts all over again.)
+
+the number of successes on an ex-
+
+If he fails to break free of the Caul, the victim remains
+conscious for a number of turns equal to his Stamina. After
+that, he blacks out. Once unconscious, he takes one level of
+damage every 30 seconds until death.
+
+The cost of using this art is 2 Pathos and 2 Corpus. Mur-
+dering someone in this manner grants the Shadow 4 points of
+temporary Angst.
+
+Ways of the Wyld esi elif of droW
+johnny Onelly
+
+Hey, there. The name's Johnny Onefly. People ask me all the
+time why they can see a bug buzzing inside me. I simply tell them
+I was minding my own business one day when this damn wraith
+swallowed me whole, and I've been stuck in here ever since.
+
+Wyld, the dying spark of change, is the source of our Arcanos.
+The big kahunas, the original Haunters, formed a pact with it, a
+little treaty that allowed them access to its power while it got a
+window to the world through them. Because of this Covenant,
+we're seriously affected by our own abilities of chaos. We tell the
+aliens that this deal was our choice, but that's a lie. None of us
+can really control what's happening to us. It's like trying to steer
+acow with your arm up its ass. You can control its direction, but
+forget finesse. Even worse, the Wyld's madness (and it's crazy,
+make no mistake about that) worms its way into our thoughts
+
+when we aren't paying attention.
+Bad Things (can you hear those capital letters?) happen when
+we burn too much of our Pathos feeding the Wylding. Reality warps
+
+
+-~ and wafts around you like smoke in an eggbeater.
+
+Oh, you hardly notice it at first. It starts small,
+by affecting your senses. It doesn't take long,
+though, before your perceptions become a
+kaleidoscope of flashbacks and "commercial
+
+breaks." Later, the power bleeds through you
+
+constantly and affects the way you look.
+Your Corpus becomes grotesque, a
+parody of who you are and who you
+thought you were. If you become like
+me, who knows, you could be filled
+
+Vyes with insects, snakes and other creepy.
+
+e ~ crap. Your form could shift slowly from
+
+one ugly extreme to the next, or you could
+become unintelligible as your speech becomes
+slow and dra-a-a-a-a-a-a-wn out (sorta like late-
+period Marlon Brando).
+
+Some Haunters have been forced to
+rely on Masquers to lock their forms down,
+at least temporarily. This isn't so much of a
+cure as it is a treatment, though, and sooner
+or later using Pandemonium will catch up
+with you. No matter what you try, chaos will
+nail your ass in the end, so you might as well
+
+deal with it.
+]
+Pad) Haunter Quirks skcik retrial
+é A player is free to decide upon which
+
+Haunter-specific quirks might affect his char-
+acter, as long as it meets with the Storyteller's approval. The
+following quirks, however, are suggestions as to what might
+result from a wraith's continued exposure to the altering af-
+fects of the Wylding, and may be used as justification for why
+a Haunter does what he does.
+
+Spatial Distortion, Chronal Fatigue and Hallucination quirks
+do not manifest all the time. If they did, then they would com-
+pletely debilitate a Haunter and make him useless, Most mem-
+bers of the Guild play up their supposed insanity to frighten the
+aliens, but for the most part, these drawbacks flit in and*out of
+existence with no rhyme or reason. A Haunter's quirks are con-
+trolled by the Storyteller, who dictates when and for how longa
+particular disability arises, and under what circumstances.
+
+These quirks are for storytelling purposes only, and
+should only have any impact on dice rolls or difficulties un-
+der extreme circumstances.
+
+Spatial Distortion
+
+Those wraiths who dabble in the arts that influence spa-
+tial awareness often succumb to this form of madness.
+Strangely enough, Haunters who have maintained the stron-
+gest ties with the Spooks are more often influenced by this
+
+
+brand of the Wyld's chaos. Even Spooks versed
+in Pandemonium have exhibited tendencies
+toward spatially related perception problems.
+Quirks of this nature mostly reflect
+an inability to judge distances. The
+wraith's actual senses of sight and
+hearing work fine, for part of the
+time. Everything appears just a bit
+off from where it actually is; sounds
+echo hollowly, or seem to emanate
+
+G
+y,
+
+from a dozen different places.
+
+Chronal Fatigue
+
+Haunters who practice time-altering
+arts have become influenced by what some
+wraiths call Chronal Fatigue. Due to the lim-
+ited number of temporal abilities in Wylding, those
+wraiths exhibiting this form of insanity are somewhat
+rare among Haunters. Even then, the Chronally Fatigued
+primarily make up the ranks of the H.G. Dwellers.
+
+The drawback of Chronal Fatigue is that it twists the percep-
+tions of the user when it comes to time. There might seem to be
+extended gaps in the interval between one word and the next.
+Conversations and movement can seem drawn-out or extremely
+rapid, moving objects might flare with visible after- shadows, re-
+sidual echoes of conversations can linger for hours, people seem to
+move slowly or inhumanly fast, voices can be heard after the speaker
+has stopped talking, and so on. Again, the actual manifestation
+of a Haunter's madness is up to the imagination of the player,
+andiis strictly the providence of the Storyteller.
+
+Hallucinations
+
+Continued use of those arts that require
+a Haunter to channel his Corpus or Pathos
+into physical manifestations (such as Bite
+Me, Dark Ether and Foul Humour) subjects
+him to various hallucinatory effects in-
+spired by his own memories and imagina-
+tion. More Haunters have drawbacks from
+this category alone than temporal- or
+spatial-related quirks combined.
+
+These hallucinations can fab-
+ticate objects, people and lo-
+cales drawn from the
+wraith's own imagina-
+tion. While they are il-
+lusions, these fabrica-
+tions are completely re-
+alistic to the Haunter. In es-
+sence, Hallucinations are
+the wraithly equivalent of a
+
+
+date belongs to a Las Vegas Haunter knox
+known mouthpiece for the Order of the
+
+pa: lar still is the
+
+fact that each image that follows is younger than the last by
+
+a five-year-old child to trail behind last.
+
+bad acid trip, though some particularly twisted Haunters come to
+endure and even enjoy their little "trips." The one connecting ele-
+ment that runs from episode to episode is the fact that the Halluci-
+nations always revolve around a single Passion, Fetter or the effect
+of a specific art.
+
+inherent Neri and Flaws
+swal. tnerel
+
+The following Merits and Flaws are also available for Spooks
+who use Pandemonium extensively (level three arts and up).
+
+Wyld intolerance tnarelotal yldy\': (point Flaw)
+
+You don't get along well with the bit of Wyld inside you,
+and this unease is apparent to other Haunters, The discom-
+fort you feel having a bit of primal chaos in your ghostly guts
+makes your peers uneasy as well, and-you are at a +1 difficulty
+on all Social rolls involving other Haunters.
+
+Anxiety Slip 2noitalucajé erutamer?: (2 point Flaw)
+
+You are a wreck in social situations. You stammer, stutter,
+and have trouble making eye contact; even the ghost of your
+mother thinks you're a bit of a spaz. Even worse, though; is the
+way this manifests through your Arcanos. Each time you faila
+Social-based roll, a Wylding effect (Storyteller discretion as to
+which one) manifests and wreaks some sort of randomized lo-
+cal havoc. This effect can be countered by the expenditure of a
+Willpower point, but odds are that you'll run out of Willpower
+before you straighten out your little self-confidence problem.
+
+Ageravated Quirk kriuQ sitavargo (point flaw)
+
+If you've got this Flaw, the perception-altering affects of.
+your quirk aren't limited to yourself anymore. Now everyone
+can see what the Wylding is doing to you, and it isn't pretty.
+
+If you're cursed with Spatial Distortion, things such as masks,
+cloaks and relics may appear to rest within your Corpus instead
+
+50 Guildbook: Haunters
+
+{
+
+of on it. You might find yourself speaking in a booming shout
+when you try to whisper, or discover that your facial features are
+now doll-sized even while the rest of you retains your normal
+dimensions. If you suffer from Chronal Fatigue, you leave after-
+shadows when you move, images of you fading slowly behind
+you like a comtrail. Your voice seems to echo, and past wounds
+suddenly manifest and vanish. In the case of Hallucinations, your
+Corpus might be filled with insects and worms, bruised-purple
+storm clouds may rumble and turn inside your stomach, or the
+face of your Shadow might push itself against the thin Corpus
+surface of your chest and scream for release.
+
+No matter what sensory-related malformation you suffes
+from, this affliction draws attention to you and hinders all
+your attempts to make Social rolls (+2 difficulty).
+
+Phobia insight edisni aibohP: (I point Merit)
+
+You possess the knack for sensing what frightens the
+Quick, and you seem to be able to pick the right arts in order
+to obtain the emotional response you want. Maybe you're just
+more perceptive than most, maybe it's something supernatu-
+ral, but it's always easier for you to get the effect that you
+want than it is for any of your peers.
+
+When frightening mortals, the player can adjust a person's
+reaction by increasing or decreasing his Willpower rating by one,
+but only when using this Merit in conjuction with Pandemo-
+nium arts, For more information on how this Merit functions,
+see the Fog Ratings chart on page 241 of Wraith: The Oblivion.
+
+Wyld Summons eninommuS cell: (2 point Merit)
+
+It is said that all Haunters are linked together by the
+seeds of the Wyld that germinate within you all. You are proof
+positive for this theory. Whenever you are in danger, the Wyld
+reaches out to other Haunters in the vicinity, giving them
+the unspoken urge to find and aid'you, The other Haunters
+affected in this way sense that someone is in peril (you) and
+know which direction to, take in order to reach you. This
+does not mean that they must help;-however; they are not
+obliged to risk their own existence to assist you. They merely
+hear the. cry, and-may or may not answer it.
+
+Wyld Summons has_an effective range of up to half a
+mile away. The Haunters in range of the Summons must make
+a Perception:+ Awareness roll (difficulty 7), or the Wyld's cry
+gets drowned out by the background noise of the Underworld.
+
+Beneficial Quirk: (3 point Merit)
+
+Occasionally you can turn your quirk into an asset by
+using its nature to your advantage. Spatial Distortion can
+become Spatial Acuity, allowing you to notice small details
+with greater ease. Chronal Fatigue might transform into a
+sort of Time Sense, enabling you to remember past events
+
+with greater clarity. Hallucinations can become Insight, em-
+powering you with empathic reasoning or an intuitive com-
+prehension of a specific situation.
+
+This Merit should reflect the nature of your quirk. While
+the advantage this Merit offers must be agreed upon by both
+Storyteller and player, the end result should be a -2 difficulty
+on all rolls involving something that might be affected nega-
+tively by your quirk. Beneficial Quirk will not manifest itself
+every time, and it cannot be relied upon. However, just at
+the moment when you're least expecting it, something good
+
+-might happen...
+
+Wyld Alles sailA edly: (4 point Mert
+
+When you learned Pandemonium, the Wyld took root
+inside you and blossomed. You are now vibrant with this as-
+pect of nature, and this marks you as a kindred spirit to the
+Garou. They sense your kinship of spirit, and recognize you
+as a fellow agent of the Wyld. Werewolves treat you with
+respect, and may even come to regard you as a beneficial spirit.
+This Merit lowers the difficulty of any Social interactions with
+Garou by two.
+
+Leech bsael: 6 point Merit
+
+The Wyld is becoming more and more emotionally active
+as it spends time in the Shadowlands. Whether this is a matter
+of survival (nothing lasts within the Shadowlands without Pas-
+sion) or frustration is unknown, but you have discovered a way
+to tap into its emotional reservoirs and turn it into Pathos for
+your own use. It is limited, however, in that the Pathos gained
+can only be used to empower the effects of the Wylding.
+
+Once per session, the player may roll Empathy + Ma-
+nipulation (difficulty 7) to determine how many Pathos she
+has gained for use with Pandemonium. The Pathos will fade
+away at a rate of one point every hour, so choosing the right
+time to use this Merit is highly important.
+
+Artifacts tcalitrA
+The Void Gauntlet (Level 5 soulsteel weapon)
+
+The drive to uncover the "Universal Solvent," that one spe-
+cial formula that will erode the Shroud and allow the Haunters
+
+to return home, has made the Guild somewhat focused (too fo-
+cused, some believe) in their researches into the creation of Ar-
+tifacts and relics. The creation of Haunter-specific Artifacts was
+never truly considered an avenue to accomplishing the Guild's
+goal until rumors surrounding one item began appearing. It has
+become the equivalent of the Holy Grail to some, sparking a
+race between several wraith Circles including a group of Artifi-
+cers, Alchemists, Spooks and a large contingent of Haunters. It
+is known as the Void Gauntlet, and its history is found in the
+annals of the alliances.
+
+The Void Gauntlet has been seen only on rare occasions,
+and always on the hand of one of the silent Caput Mortuum
+Haunters (who, legend has it, are the wraiths of the Knights
+Templar executed for supposed blasphemy). The last reputed
+sighting of one of these Templars was a little over seven years
+ago, when several wraiths witnessed the gauntlet being used in
+the assassination of a New York priest.
+
+Made of soulsteel, the black gauntlet reflects a starscape on
+its surface and sports a soulfire shard containing 10 Pathos on its
+palm. The Artifact works in one of two ways; either it allows the
+wielder to grab other wraiths and decay their Corpora, or it en-
+ables the user to reach through the Shroud and attack the living.
+In either case, the gauntlet's grasp can deliver two levels of ag-
+gravated damage per Pathos expended from the soulfire shard.
+The manner in which it does this seems to be a variation on the
+Flux art of Decay. Corpus and living tissue, in this case, are stricken
+by rapid degeneration in their structure.
+
+Any attack made within the Shadowlands requires a roll of
+Dexterity + Brawl (difficulty 6). Any wraith trying to use the
+gauntlet to reach through the barrier must first roll Dexterity +
+Awareness (difficulty is the local Shroud), at a cost of 4 Pathos
+(which is automatically expended by the gauntlet). The Arti-
+fact can be seen hovering in the Skinlands once it penetrates
+the Shroud. Rather than affecting the skin-casing of the Quick,
+however, the Void Gauntlet's touch decays human organs.
+
+The Void Gauntlet is also capable of harming Garou,
+changelings and mages with the same effects, but Kindred are
+another matter. Rather than atrophying internal organs, the
+Artifact attacks the vampire's blood and causes it to toxify. The
+vitae is lost (two Blood Points per Pathos expended), and the
+target must purge the taint from his system immediately by sweat-
+ing or vomiting. For every turn the vampire retains toxic vitae in
+his system, he suffers a level of aggravated damage for every two
+affected Blood Points.
+
+nr a
+
+OTT See,
+
+Antara
+
+Chapter four:
+
+So You Want to be a Haunter..
+_letnuall eb of tna ma 05
+
+en ~<y, —
+
+_ Sacrifice Si ara
+
+hee ede in a Ke Shot ipce the aches tHe eudan Fey parts tg a i \} f
+Hel graceful ond ful of FEY. though: Hah was the bit he hed enqvered yeh.
+
+ae theo pertof Michael ds,hhonever,pay at tentin to the stimata thet riddled
+He wore surglesse® 5 icin. on oceasin ad to the erann of wounds that berated his fore=
+oni de head: Fhese were Signs thet meat something. He was sure of tt,
+
+‘
+
+|
+4 {
+es: eee ~ Tada, Ke: very day, Mil wa ut kg for the rghit gt Fo
+oe t « Were BSSBY - aapease his der compat somethty tht: wou! kt hin skep h pes
+ee ene ¢
+
+| doo yare « tremhaost, but Fhet wes tohie the shotgun Eactunst oto Meese tet patent he niathwetan-@ |
+His poe roan = Meheelked is pane abt," :
+
+her after, Rex His peesane atts ces der hs pa
+
+tes, a he ana har pie He Ul of the brekfork
+Mice pane dt) they wal have fe
+
+--Saed waethig tapas She ia good enough, not anymore,.
+: net by fennel? Whet the helMihael decided, Everyone boks Ike theyre.
+- "Coed Rantala * Michael said as Ke pulled the shotgun ( y
+
+fom seresthihasetsMipemce Mehl ust ke the ee ua ‘ ie
+: Hers beaniehretre utin "9
+
+
+The folbwing Guild members comprise 2 tiny fraction of the avaiab le
+selection. These Templates exemplify the varying b elefs of the prine
+factions of Heunters, and can serve to guide the uninitiated towerd 2 concept
+
+The Bedlamee, = _
+
+Quote:IlostmyinnocencewhenIwasfive! Whyshouldn'tIhauntthatnursery? Why
+shouldn'tIhauntyouforthatmatter? Afraidyou 'lllikeit?
+
+Prelude: Mother wasn't a kind woman, and she handled your special problems
+with a burning cigarette. You didn't get better, you just got quieter at what you <0)
+were doing, and learned how to be a monster in human clothing. The disguise EB
+worked for a while, but eventually you attracted wraiths like flies and became the \g
+target of a haunting. Already living on the edge, you snapped when you heard the
+ghostly voices and felt the ghostly fingers every moment of every day. You walked
+into a restaurant and let the thunder of your shotgun rip through four innocent
+bodies.
+
+It didn't take long for the state to make you the main guest at an electric barbe- FA
+cue, and the Haunters couldn't wait to get their hands on you. They watched you (Ps
+fry, and laughed while you wailed through your Caul. Then it came off, and your
+sanity abandoned reality completely. Bereft of your flesh armor, you discovered
+you still looked the same. Without it, you weren't the monster you thought you
+were, not like the monsters who surrounded and mauled you. It was like a feed-
+ing frenzy as these dark, twisted things tore into your after-flesh. It was their
+game; the one who could come away with the biggest chunk in one bite got
+to be your master. You didn't like this, though. You started biting back,
+and when the leader of the group of Bedlameers saw this, he stepped in
+to claim you as his own. Papa Pain took you under his brutal wing, and
+showed you how to become a monster beyond all reckoning.
+
+You eventually proved your worth to him, and he started letting you loose
+at night to haunt the town red. It didn't take long for you to find other Haunters,
+and you've been making friends ever since. You still live at the prison where they
+executed you, preparing Death Row inmates for the hereafter with a sample of
+your powers. You still venture out once in a while to wreak a bit of havoc on those
+Quick who believe themselves to be free. You can't wait to show them the real
+meaning of liberation.
+
+Concept: You're the fiend set free of your flesh chains. Your urges to blur the
+lines between acceptance and shame, to dance naked in other people's fears, are no
+longer something you hide. As a Haunter living with the condemned on Death
+Row, you can't wait for them to die so that you can show them how wrong society
+was (and how right they were after all).
+
+Roleplaying Notes: Liberated that's what you are that's who you are you're free of
+the flesh that hid you free of the rules of society free to run riot every convention you
+encounter is just another rule to hammer to the shattering point every person you meet
+is ready to be as liberated as you every haunting you pursue is like a pregnancy ready to
+break water talk incessantly because you can and you're excited talk loud because you
+have something to say talk fast because you have too many ideas that are ready to
+explode and talk just because everyone is listening to what you've got to say!
+
+Relics: Straightjacket; tattered issue of Playboy; needles and syringes; bowie knife
+
+Guildbook: Haunters
+
+RAR TS RTT:
+
+
+- Name:
+Player:
+| Chronicle:
+
+Nature: Critic
+Demeanor: Reb el
+Shadow: Retionalist
+
+| Physical
+
+Strength.
+| Dexterity
+) Stamina
+
+@e@e@00
+@0000
+@e000
+
+Talents
+@@000
+00000
+@@000
+@0000
+@0000
+OO0O00O0
+@@000
+@e@e@00
+@0e0@00
+@0000
+
+Alertness,
+Athletics,
+Awareness,
+
+| Brawl
+
+Dodge
+
+| Empathy,
+
+/ | Expression.
+Intimidation,
+Streetwise.
+Subterfuge
+
+Arcanoi
+
+@@000
+@0000
+@e@0@00
+@0000
+OO0000
+O0000
+00000
+
+2-0-0300 Fetters pDooeoos
+~Jail Cell @@000
+"Mother's Ashes @@000
+
+—Photo of Father @@000
+OO0000
+00000
+
+reoec-e Guild Maks Coco
+
+Hallucinations
+
+Socal
+@0000
+eee0e0
+@0000
+
+Charisma
+Manipulation
+Appearance
+
+iit
+
+a
+Crafts.
+Drive
+Etiquette.
+
+OOO00O0
+00000
+00000
+@ee0e0
+OO0000
+OO0O00O
+@@000
+00000
+O0000
+@@000
+
+Firearms
+Leadership.
+Meditation
+Melee.
+Performance
+Repair.
+Stealth.
+
+Passions
+Torture Prison Offs (Revenge) @@OOO
+Destroy allLaws (Fanatkism) @@@@O
+Be recognized a8 a visionary @ee@00
+(Narcissism) OOO00O
+00000
+00000
+OO0000
+
+220-O20-0 ((pl) POO COO.
+@eeeeee00 8
+OQOOO0O0O00000
+
+rpoec- Wilpier cocoa
+
+IPO. Pathos Doeoooc
+
+BEBE BBBOOU
+
+life Unemployed
+Death: Electric Chair
+Regret: Never off'ed Mom
+
+Mental
+eeee80
+@e@e@00
+@ee@00
+
+Perception
+Intelligence.
+Wits.
+
+Knowledges
+00000
+00000
+@0000
+00000
+OO0000
+
+Bureaucracy.
+Computer.
+Enigmas
+Investigation.
+Law.
+Linguistics
+Medicine
+Occult
+Politics
+
+@e@e0@00
+
+@0000
+
+Science
+
+Keening
+Outrage
+Pandemonium
+Puppetry
+
+@@000
+@ee@00
+
+00000
+00000
+OO00O0
+
+wooo ot AMsboomooe
+
+e@ee@e@aeeoo0o0o0o
+
+BEBBBOOUO00
+oonoo-o ooeooO-oc
+hfamy (M Kura of Corruption (2)
+Pact of Doom (3)
+
+roo Dik Passions -o-o-o-o-c
+Kil Everyb od ¥ (Rage)
+
+Seed Chaos (Despar)
+Secrifke Self for Kt tention Mart y@ OOOO
+@@000
+
+Prove People Wrong (Envy)
+
+00000 |
+00000 |
+
+00000 |
+
+@0000
+
+@0000
+
+@@000
+@e0ee0 |
+
+
+Quote: Yes, I can help you force them out of your Haunt, but it will cost you. The price is
+negotiable, however — what do you know of the Savior?
+
+Prelude: You were "born again" so many times you almost believed in reincarnation. Soci-
+ety never provided you with an anchor when you were growing up, so you fell in with one
+group after another with astonishing ease. The skinhead movement attracted you for a
+while, but you discovered you weren't really a racist and atoned by turning to Christian-
+ity. Then drugs distracted your faith before you sought salvation in the Cross once more.
+Women proved to be another pleasure, but you eventually repented, and finally the joys
+of alcohol revealed themselves to you. That was the last step on the path, however. A
+shotgun-toting maniac opened fire in a crowded restaurant and claimed you, along with
+three others.
+
+Waking up in the Shadowlands, you realized that you most certainly weren't
+in Heaven. You instantly came to the conclusion that you had died a sinner and
+the Lord was so upset with your performance that he stuck you in the equiva-
+lent of Heaven's attic.
+
+While you were philosophizing, a Hierarchy Reaper picked you up and
+brought you in. You bemoaned your fate so much, however, that your fel-
+low Legionnaires decided to have you forged before you could desert and
+become a Heretic. That was when a follower of Father Foster saved you.
+The soldier assigned to escort you to the forges was a Christian brother
+who smuggled you out and turned you over to the Dantes. They offered
+you a way to liberate your soul and prove your worth to God all in the
+
+feu kee
+LCCC
+
+es
+
+same action.
+
+You became a Haunter, a duty you regard with great reverence. Your
+work with the Dantes enables you to haunt other sinners, thereby warn-
+ing them that their immortal souls are in peril. You may have failed in the
+eyes of God, but you hope your work to save others will bring you even-
+tual redemption and grace.
+
+Concept: You are a radical Christian Haunter for hire. It doesn't
+matter whether you get paid or not; the act of haunting is God's work as
+far as you're concerned. Other wraiths seem reticent to employ your set-
+vices, however; your stance on religion and redemption has a way of fright-
+ening them.
+
+Recently, you've learned to remain low-key about your pursuits until
+others feel more comfortable around you. Then you broach the subject of
+salvation. When it comes to haunting, you have a special interest in
+those locations and souls tainted by sin. You hound and torment the guilty
+until they are driven to insanity or the Gospels. Once you're finished,
+you pack up and travel on until another area captures your attention. It's
+your job — no, your calling.
+
+Roleplaying Notes: You believe in God, and it is your faith in Him
+that enables you to overcome your doubts, hesitations and failings. When
+you serve Him directly, you can do no wrong, so you continue to pursue
+your actions in His name. Loving the sinner instead of the sin can only go so
+LA far, and sometimes you have to force people to see the light. Better they suffer at
+Y your hands than the ministrations of the Fallen One and all his creatures.
+Relics: Gideon Bible; cross on a chain; worry beads
+
+—"
+
+Guildbook: Haunters
+
+Nature: Follower life, Tax Consutbant
+Demeanor: V istonary, Death: Shotgun Blast
+Shadow: The Martyr Regret: Failed in his faith
+
+Attributes
+
+Social Mental
+@@000 Charisma @@000 Perception, ee
+@@@00 Manipulation. @@@@0 Intelligence ec0e
+@@@@@ = Appearance @@000 Wits e
+
+Knowledges
+
+OOOOO § Crafts___ OOOOO Bureaucracy. e0eee }
+@®OO000 Drive @@000 Computer. @e@000
+@@600 Etiquette OOOOO Enigmas. OOO000
+@@@00 Firearms OOOOO Investigation. OOO00O
+OOOOO Leadership OOOOO Law. @0000 |
+@®0O000 Meditation. @@000 Linguistics OOOOO |
+@@000 Melee OOOOO Medicine OOOOO |
+OOOOO Performance. OOOOO Occult OOOO0O
+OOOOO Repair. OOOOO Politics @@000 —
+@0O000 Stealth @0000 Science. 00000
+
+Backerounds Passions Arcanoi
+@0000 Hey the bens of God (Desk) @@@OO Argos ©0000 —
+@@@00 Prove your Fatty (Knger) @@@00 Castigate @0000
+©0000 Perish shmers (Love) @@000 Outrage @0000
+OOOO = Ascend (Hope) @0000 Pandemonium @0000
+00000 00000 00000 |
+00000 00000 00000
+00000 00000 00000
+
+2O-O-0-4 Fetters Do-o-o-oHo 7080-0 (Nl) POooooc ooo MMi oooooe
+Communion Cross ©0000 @@ee0e80800 @e@e@eoooodoodd'
+
+ee
+e000 9000000000 @geBeogo000o00
+
+@@000
+1 poe Thoms Poco:
+00000 77 O—-O life mcoms 1 Sul Brinstowe Stenh 2)
+
+@e@e@e@eeoooodod
+Trick of ight (3) Sha lay (5)
+cocoon DUD ODOOO OD Mater ery eS
+O0000 2-o-o- Dik Passions OOOO
+‘dak wooo Pills POO OE _Revelh sh (Lust) @@000 |
+posses! Marks ooo Bw BL head the fathtulastray @@@00 |
+
+sPaT AL DE6+tORT LN (Hate) 00000
+Rape the hnnocent (Envy) @@000
+
+
+rn thet ArH Dee cy
+
+Mandelbrot Chaostician
+
+~ A Quote: Bide your time. Never allow the thrill of the fright to overtake your judg-
+ment. You still have a function to fulfill.
+Prelude: You were always regarded as a cold fish. You never considered anyone to be
+
+your equal, so you treated everyone around you as if they were stupid. This attitude left
+you both friendless and bitter. It was no surprise that your funeral was devoid of mourners
+after that shotgun blast mixed your gray matter in with your eggs.
+
+Death proved to be an interesting experiment for you. While you were still at-
+tached to your scientific precepts and the laws of reality, you found yourself in a place
+that ignored most of these conventions. Once you adjusted, you were ecstatic with
+your discovery of a new playground, and began applying your skills of observation to
+your new home. Somehow, your questions landed in the right (or wrong) ears, and
+eventually you were brought before the Seat of Succor and the Laughing Lady. She
+began to interrogate you, to which you replied by trying to ask her your own ques-
+tions. She replied with a query, "You wish to learn everything you can of this
+VA place? Serve me, and I will give you all of the answers you could wish for." Glee-
+
+fully, you accepted.
+Before turning you loose, the Laughing Lady instructed you about the
+existence of a group of wraiths generally known as Haunters, and specifi-
+cally called Mandelbrots. Many of these "Mandelbrots" were scientists like
+yourself, who would welcome you as a colleague. Your mission was to get
+yourself accepted into the Mandelbrots, assist them in their research, and
+report any and all pertinent findings back to the home office in Stygia, giving
+the Laughing Lady access to some of the most interesting theoretical work
+going on in the Shadowlands. In exchange, she has agreed to bankroll
+your research, as well as offering you complete freedom, once your work
+is done. That's good enough for you, and in the meantime you're mak-
+ing everybody happy.
+
+Concept: As a mole for the Seat of Succor, you have used your skills
+from your lifelong pursuit of science to ferret out the secrets of the dead for
+your Lady. The Mandelbrots take an analytical approach to uncovering
+
+the weaknesses of the Shroud, and you are part of one of several teams
+applying the laws of fractal mathematics to the study of the Wylding. Al-
+though most of what you've seen belongs in the realm of speculative fiction,
+not science, the work of others provides you with a flood of data. The only
+matter that distresses you is the fact that the Wylding's madness is beginning
+to affect your observations, making it difficult for you to trust your own
+experimental results. Still, as long as you can continue to do your work and
+make your sub rosa reports, everything should be all right.
+Roleplaying Notes: While you are detached, your fear of being seized
+by the surrounding madness has made you brutally callous. Regardless of
+what you'd like to admit, the rush of power over others is intoxicating.
+You've always seen people as foolish and slow, and your hauntings have
+proved your assumptions conclusively. You still try to hide your pleasure
+at frightening others behind a wall of technobabble and scientific jargon.
+\ Part of this is an effort to conceal your growing Shadow from others, but
+mostly you are trying to hide the truth from yourself. You are no longer
+the impartial observer. You have tainted the experiment by interfering with its
+parameters, and all your work is for naught.
+Relics: Research notebook; pens; a pair of spectacles without lenses;
+calculator
+
+58
+
+
+life, Scembist
+Death: Shotgun Blast
+Regret: You should have gotten
+
+Nature: Scientist
+Demeanor: Critic
+Shadow: The Retionalst
+
+Physical
+eeee0
+@000
+@@000
+
+Social
+@0000
+@0000
+@eee0
+
+Charisma
+Manipulation.
+Appearance
+
+further
+
+Mental
+Perception
+Intelligence
+
+Wits.
+
+| eerecccocconecesoes Mbit) mcceeecoccaccaceooes /f
+
+Talents
+
+_ Expression.
+i Intimidation
+| Streetwise
+
+©0000
+@e@e@00
+@e@000
+@0000
+O0000
+OOO00O
+O0000
+
+eer Guild Marks <>--or-oo-c
+
+ab oratory
+UCLA classroom
+
+Spatial DiStoRtioN
+
+skill
+Crafts
+Drive.
+Etiquette.
+
+00000
+00000
+@0000
+00000
+@0000
+00000
+@e@0@00
+00000
+OO0O00O0
+@0000
+
+Firearms
+Leadership.
+Meditation
+Melee.
+Performance
+Repair.
+Stealth
+
+Knowledges
+@@000
+@e@0@00
+00000
+00000
+00000
+
+Bureaucracy
+Computer.
+Enigmas
+Investigation.
+Law.
+Linguistics
+Medicine
+Occult
+
+Politics
+
+@ee080
+00000
+00000
+eeecee
+
+Science
+
+Advantages rocsccccecccecnccccs |
+
+Passions
+Guantify everything into
+sclentif: theories (Curious)
+Belt tle others (Contempt)
+Prove your superiority to
+
+@@000
+00000
+@e@e@00
+@@000
+
+everyone (Desire) 00000
+Use people as tools (Wrath) @@O000
+Make your EX miserable (Revenge) @QOOOO
+
+@@e@2ee0000800
+QNOOOOOOOOO
+
+spoee. filo ooccec
+
+Arcanoi
+bhab it
+Lifeweb
+Out rage
+Pandemodium
+
+@0000
+@0000 |
+@0000
+
+OOO0O0O
+OOO00O0
+00000
+
+roo-0-0-0+4 AIStmooo oo
+
+@e@eoo0o00o00o0od0d =:
+
+BBOUONU0O00000
+Thoms ooroooc
+
+Devils Dare (7)
+
+Shadowed Face (3)
+
+reno. Dat Pasion Oocoo-c
+
+~Kil other scientists (Evy) @@OOO
+
+~Emb arrass Psyche (Self- @@000
+
+Hatred) 00000
+~Emb race Ob Wion (Fear) @e@e@00
+
+@0000 |
+
+e00200
+
+ss Menagerie
+
+Quote: I don't care if you've been prepping this haunting for three months; the Council says the site's off-limits. If you don't like
+it, you take it up with them.
+
+Heh. Didn't think so...
+
+Prelude: Young, handsome and clean-cut, people said that you were going places. The world
+was your oyster, they told you, and like a naive fool, you believed them. The problem was, no
+one told you how to deal with life if things didn't work out. Reality smacked you hard right J
+after you graduated as the golden boy of your class. You weren't ready for the stresses of
+college and, facing expulsion, gracefully dropped out instead. Forced to work at restaurants
+while waiting for something better to come along, you lost the respect of your family,
+friends and eventually yourself. Your youth faded, your promise turned into wasted
+potential, and you were no longer the center of anyone's attention — even your
+own. Eventually, you caught the wrong end of a shotgun blast and died when
+somebody else had a bad day and took it out on your breakfast shift.
+
+The hereafter was no better than what you left behind (not that
+you expected much of anything at all, but even so...). You were reaped
+and sold to a Stygian Domem as his personal valet. At first you de-
+spised your position and your master, but soon, you began to dis-
+cover the benefits of living in Stygia. You became privy to a great
+deal of information, and learned how to use what you'd learned. When
+your master's time ran out (his political enemies got him sentenced to the forges on
+trumped-up charges — curious how it happened so quickly), you had learned quite
+a bit about how the wheels of power grind.
+
+The rumors that your owner was a member of a Guild proved to be true when
+an ally of his named Nicholas smuggled you out of Stygia before the Hierarchy
+could confiscate you as property. Nicholas turned out to be a Haunter, and
+explained that he was saving you as a favor to his colleague, your late owner.
+
+Glass Menagerie. Presented with the opportunity to do something mean-
+ingful for the first time in your life, you accepted membership into the
+Order and became an indispensable Haunter. Your newfound drive
+has enabled you to attain the position of mouthpiece, the sanc-
+tioned messenger for the secret Council of your faction. kK
+Concept: You serve the Council's wishes for the Order of the
+Glass Menagerie. The Councilors relay their wishes through you,
+and you are loyal to them for the opportunity they have provided
+you. When you aren't acting as the contact for your faction, you
+help other members haunt Council-approved locations. You
+aren't very comfortable with terrifying people, but you do as the
+Council asks. It is the least you can do to repay them for all of
+the opportunities they have given you.
+Roleplaying Notes: You prefer to impress others through your
+skills and accomplishments. You are driven to excel at everything
+you do, because as far as you're concerned, there is no such thing
+as a partial effort. This dedicated attitude makes it hard for you to ager
+find friends, but that's a price you're glad to pay in order to be the f =~
+best at everything you set your mind to. ~wW
+
+Relics: Walther PPK; tattered yearbook picture of yourself; suits and ties ¢
+
+Guildbook: Haunters
+
+
+| Strength,
+
+Dexterity.
+Stamina
+
+Expression.
+Intimidation
+
+Backgrounds
+Status (Guild)
+
+Nature: Architect
+Demeanor: Mediator
+Shadow: Perfectionist
+
+Attributes
+Social
+@ee@00
+@e@e@00
+@@000
+
+@@@00 Charisma
+@®0O000 Manipulation
+@@000 Appearance
+
+| eocococeccoeceorces Mbilities
+
+sll
+Crafts
+Drive
+Etiquette.
+Firearms
+Leadership.
+Meditation.
+Melee.
+Performance
+Repair.
+Stealth
+
+Passions
+
+Prove my worth (Pride) eeee0
+
+Return to my Whg as a success @@@@O
+
+(Hope) 00000
+
+Watch Enemies fall (Spite) @@000
+
+00000
+
+00000
+
+00000
+
+-State Cha
+Eootb all Ring
+
+life Fry Cook
+Death: Shotgun Blast
+Regret: Never fulfilled potential
+
+Mental
+Perception,
+Intelligence
+Wits
+
+Knowledges
+
+Bureaucracy.
+Computer.
+Enigmas.
+Investigation.
+Law.
+Linguistics
+Medicine
+Occult
+Politics
+Science.
+
+Arcanoi
+Outrage
+Pandemonium
+Phantasm
+
+~Parents
+
+wLocker in High
+
+School
+
+73-02-28 (II) POOcOe: roo o-cor lI mocooe :
+eeaeeaeeadee0ea02 @@ee@eod0o00o0d0dn:
+NQOOOOUOOOO0 BBBBOOOROO00
+Thoms merece
+Bag Luck (3)
+Tainted Touch (4)
+Des Dik Passions OOo
+7-0-8 Pathos DOEHOOE  -Surrend to oblvion (Despar) @@@OO |
+
+BBB BD BD DF OO -Damtrte Mergers Card (Greed) @@@OO
+~Bring out falures of others @@OOO
+
+Wl OF
+
+
+~The Recruiter
+
+Quote: Hi, there! I couldn't help noticing that you're dying. I have a proposition for you...
+
+Prelude: You were the girl everybody liked, but it had nothing to do with sex. Instead, it had to do with your gregarious nature,
+sharp wit and daredevil demeanor. You were the type of person who made friends with everyone, not because you tried, but because
+you were genuine. All of your friends, teachers and coworkers agreed: You were a good friend, a good listener, a good student...
+
+Well, you know what they say — only the good die young. The last thing you felt was hot coffee exploding all over you as the
+hail of shotgun pellets lacerated your bottomless cup and your body. Upon arriving in the Shadowlands, you immediately ingra-
+tiated yourself with the Centurion who claimed your Caul. He informed you that you had died, and your first response was, "I
+guess that explains where you've been all my life." The four victims of the shooting were split up, leaving you with Marcus, a
+Centurion of the Penitent Legion. He received permission to care for you, and was responsible for your training. Stygia was not
+where you wanted to be, though. The Dictum Mortuum went against everything you were
+brought up to believe, but you had no other choice. Marcus was there, after all.
+
+Despite your best efforts to be cheerful, your true unhappiness did not go unno-
+ticed by Marcus. He helped you escape with the help of an old friend of his named
+Midian. You were taught Pandemonium, a move which greatly skewed your sense
+of reality, but not your sense of humor, and you became a recruiter for the Guild.
+Marcus couldn't stay with you; he had to return to Stygia and his Legion. He
+still finds time to slip away and meet you in secret. Apparently it's not secret "Ny
+
+y
+Yj
+
+enough, since Midian has informed you that he's considering using you as a
+liaison between the Hierarchy and the H.G. Dwellers. The thought that
+eventually you may be forced to choose between what you enjoy doing and
+the wraith you love frightens you, so for the time being you just avoid
+thinking about it.
+
+Concept: You are responsible for seeking out those people about
+to die, and, using Pandemonium, altering their perceptions. This is
+done to usurp their notions of reality and help facilitate their entries
+into the Haunters once they pass on. You are, in essence, a Reaper
+for the Guild, even though you get a head start by haunting Enfants
+before they die. As time progres:
+fortable with using some of the nastier arts of your craft. The
+
+, you have become more com-
+
+Shadowlands have altered the way you view the world, and
+your humor has grown a few shades darker. It doesn't bother
+you, though; you actually enjoy the rush of haunting. It
+brings out your sense of the macabre.
+Roleplaying Notes: You can't help but
+smile. The Wylding's influence on you is like
+everything you imagined laughing gas would
+be, and you still haven't stopped giggling from
+your first hit. You take nothing seriously, ex-
+cept for your love for Marcus, and have a hard
+time not making light of every situation. You
+know you were never this bad when you were
+alive, but exposure to the Shadowlands has in-
+
+- . .
+creased your sense of adventure and your ifreverence.
+
+You feels as though nothing can stop you, and that's a t
+feeling you don't want to lose.
+
+Relics: Small collection of costumes and assorted scary}
+Halloween masks (since you don't have much Moliate);
+watch ona chain
+
+62 Guildbook: Haunters
+
+"P : =) - ~& g
+eet See eile © is = : s eee ai ae PEE NT,
+
+Name; Nature: Bon Vivant life: Psycholgy Major
+| Player Demeanor: Jester Death: Shotgun Blast
+» Chronicle Shadow: The Fre Regret: Never got +o experience Ke,
+
+Attributes
+
+Socal Mental
+
+Strength @@OOO = Charisma____ Ss ®@@®OOO Perception. CO OOOO
+. Dexterity. @@@00 Manipulation @@000 Intelligence @@000
+i @@000 Appearance @e@0@00 Wits @e0@00
+
+Talents skills Knowledges
+Alertness, @@@00 Crafts @@000 Bureaucracy. OOO00O
+Athletics @@000 Drive OOOOO Computer. 00000
+OOOOO Etiquette. OOOOO Enigmas 00000
+OOOOO Firearms. @0000 Investigation. OOOO0O
+@O000 Leadership. @0000 Law OOO00O0
+@@000 Meditation OOOOO Linguistics @e@000
+Expression. OOOOO Melee @@000 Medicine OOOO0O
+Intimidation. @®0O000 Performance. @@@@0 Occult__ OOO0O0O
+OOOOO Repair. OOOOO Politics OO00O0
+OOOOO Stealth @@@00 Science @@000
+
+Backgrounds Passions Arcanoi
+
+@@000 Wetch over Father (Love) @@@00 Embody @@000 |
+@@000 Return to the Livng (Hope) @@@OO Molate @0000.
+©0000 Hevnt Murderers (Knger) @ee@00 Outrage @0000 |
+@@000 Serve Midian (Gratitude) @@OOO Pandemonium ©0000 —
+00000 00000 00000
+00000 00000 00000
+00000 00000 00000
+
+Jpooooe kites poomeoc MOEre (Ip) POoooec tooo oo MM oooooS
+®e000 @@@eeod00000 @@®@0000000
+QNOOOOOOO0O0 SBSBBBOOO000
+
+OO0000 omns
+eccoe OOo Willpower ~<>-2>-crcoe D Poke Klks =f ee aT
+
+00000 @@®®0000000
+oooo0 ODAOONOOOORF7000 Freudian Slip (5)
+ro Dat Pasion ODcoo<
+
+OO0000
+poor Pathos POOQOOES Be center of attentin (Evy)  @@O00O0
+
+woos (ull Maks ooooe. Oe OW OO  Meke Father tito Wraith (Greed) @ @@O0O
+: CHronal Fatigue Debase other peopk (Spite) @@000
+
+
+Convition etcivmoC =
+
+] ‘rother Palleried aut agahst + thes ra thet
+
+storm answered hin with a mist of b bod thet
+
+F "The very words,
+beet
+\-Tswearto.you, tt was 2 moment of Nene ss: Pall ‘sobbed a9.
+‘he fell to his knees. Tpromise tt wil not happen ageh"
+¢ "Even so, others wil come to know of your weekness,
+
+j Nath you, phose, of
+
+pica
+
+Our Soul sevlesru0
+
+FS=qj t is never about history, but rather about
+4) accomplishment. It is never about remem-
+b bering, but instead, about anticipation.
+A} The victory of one Haunter is celebrated
+by the whole Guild, even as the individual
+who succeeded is recognized in the Haunt-
+ers' own inimitable way. The names of
+those who have furthered the legacy of the Haunters are too
+numerous to mention, but they are immortalized in ghost sto-
+ties and tales of hauntings, and their memories are still hon-
+ored by the Restless Dead.
+
+mn ke)
+
+64 Guildbook: Haunters
+
+grew pweeker, rolling in hh on its center til # vanished, The: = Stone: and wood
+
+‘Palla knew thet his tormentor was not.
+ded pitifully te
+
++thh ond was-swallowed t by the thunder, >
+} This is not right! he screamed, The
+
+"roof, The echoes of the hahah ates to-dance o the corrig
+
+éppe
+"ond tts "chill breeze, quek dred he teers, Bebw hin, the tty of ‘
+"Rlerandrla shinbered v
+
+= 'o, = I)
+mi if iF —N
+Ns AD R Sau) '}
+Se erent
+
+Then saber oo the voke sales The storm —
+
+of the oom "thrsthy "drank inevery trace of b lod, leaving every th g
+normal and dry. once agah, The storm was gone, but somehow Brother
+
+"<The fronk-reised. hinself up on weak knees and left hie cell He
+mounted the.stats ‘eadng to the trapdoor to the monastery
+
+"hg Pela sFepped aie vibe Phe ga Fhe mht. ox oreefha W a
+
+Sy
+
+The four Haunters mentioned here still exist, unclaimed
+by Oblivion. They represent the best that the Guild has to of-
+fer — at this moment. Return in a week, and the Haunters may
+have changed their minds as to who belongs here. The past is
+where the dead live, after all, so these are the ghosts of today.
+
+«fe
+
+Midian
+
+Death was a cathartic experience for Midian. His first
+recollections stretch back 1300 years, to the moment his
+mentor claimed his Caul; his breathing days are all but lost
+to him. Midian does remember the moment of his death,
+when he took his own life leaping from a monastery roof. He
+has never determined the reason for this action, but avoids
+reflecting on the lingering remorse that seems to surround
+his suicide. His Shadow has offered to share the truth with
+
+
+him, but a combination of fear and distrust keeps Midian
+from accepting that offer.
+
+Midian has been a Haunter since the time of his death,
+first within the alliance,of Pandora Skia and later as
+Guildmaster, following the first-Conclave. This exist-
+
+is. The Guild's identity and his persona-are now \
+synonymous. It is for this reason he‘has come to LA
+represent the disparate factions.as Guildmaster; FN
+no otherwraith so embodies all of what the Guild (GF
+is. Despite the sometimeswvicious differences among —
+
+the various factions of Haunters, Midian has proven
+
+to betan effective leader, particularly with Sweet Sorrow
+acting as his-advisor. Both wraiths' attempts to unite the
+Guild, however, have met with failure, and these repeated
+efforts have created distrust between the Guildmaster and
+those he represents.
+
+A consummate chess player, Midian has as his hobby the
+construction a board, using opponents he has beaten as the
+pieces. An invitation to play a game with him is an invitation
+to the forges, as Midian has never lost. On the other hand,
+legend has it that any fortunate soul who does win gets to take
+Midian's place as Guildmaster. Despite Midian's reputation,
+then, there is no shortage of challengers — and no shortage of
+new pieces or tiles, either.
+
+While many, both inside and outside the Guild, view
+Midian as a monster of sorts, he is plagued by his own demons.
+Fetters draw him to places of which he has no memory, and
+Passions that he cannot justify tug at him constantly. If
+Midian chose, he could investigate his past and unravel
+the mysteries of his breathing days, but something in
+the back of his mind frightens him. Desires linger there
+that his Shadow alone understands, and it is
+for this reason that Midian remains hid-
+den behind a well-crafted but emotionless
+mask. He is too afraid to gaze into his own
+eyes, and he is frightened somebody will rec-
+ognize him and remind him of the truth of
+what he was.
+
+When the time comes for the Haunt-
+ers to step back across the Shroud and re-
+claim their places in the Skinlands, Midian will
+stay behind. He will help others cross, but will
+never partake of that gift himself. He knows
+(or fears) that with living again, the sins of the
+past will return as well, and he fears what rev-
+elations a new life might bring.
+
+Dr. Shudder
+
+Amil ibn-Shoudri, the wraith later
+known as Dr. Shudder, was originally a Mus-
+
+Appendix: Our Soul 65
+
+
+Whe
+
+lim scholar in the employ of Bay't al-Hikma, or the House of
+Wisdom. Established in the eighth century under Abassid rule
+in Baghdad, Bay't al-Hikma.was responsible for translating an-
+cient Greek texts (works on philosophy, the natural sciences,
+dramas and more) into Arabie. Working in this environment,
+Amil was exposed to a wealth of knowledge, and at the time of
+his death he had achieved an education'that was astonishing
+in its scope and depth.
+
+The Shadowlands proved t6 be a unique quandary for
+Amil. The Underworld was obviously governed by its own \
+rules and natural laws, but the workings of eighth-century sci-
+ence and Islamic doctrine had no.explanation for the exist-
+ence of such a place. Amil was forced.to create new theories
+just to quantify the parameters of his new universe, and gath-
+ered all the scientists and philosophers he could find
+to his side. As the centuries passed, Amil recruited
+those who could teach him the new scientific prin-
+ciples that were emerging in the Skinlands. Unfortu-
+nately, science rapidly outstripped Amil's ability to
+comprehend the newer theories, and he was forced to
+rely on others to carry out his research for him.
+
+It was after the turn of the millennium when Amil
+met Midian, and was persuaded to learn Pandemo-
+nium. The Wylding seemed to be a way in which
+one might manipulate reality itself, and Amil believed
+that it might hold the answers to explaining the
+logic of the Shadowlands. Spearheading Amil's new
+
+drive were a core group of researchers that eventu-
+ally came to be called the Dead Cadre, his assis-
+tants in the struggle to bring scientific enlighten-
+ment to the Shadowlands. Midian invited Amil
+to join the Haunters, and he did, bringing his
+disciples with him as the newly formed alliance
+of Bay't al-Hikma.
+
+Amil eventually became known as Dr. Shud-
+der (based on the all-too-common mispronun-
+ciation of his last name). His Dead Cadre has
+remained with him, but Bay't al-Hikma has ex-
+
+panded to accommodate the increasing number
+of Haunters under the banner of the Mandelbrots
+as well.
+
+Dr. Shudder has risen to power quickly within
+the Guild's fractured hierarchy. Apart from Sweet
+Sorrow, he is possibly the only wraith capable of
+challenging Midian's authority. The good doctor
+has even done so on occasion, but primarily to
+maintain the fagade of a divided front in or-
+der to fool Sweet Sorrow (whom he distrusts
+greatly). Shudder may not always agree with
+Midian, but at least respects his position and
+his accomplishments as a Haunter.
+
+66 Guildbook: Haunters
+
+
+Still pursuing an agenda made up of equal parts scientific
+exploration and political opportunism, Dr. Shudder uses haunt-
+
+ing to experiment on the strength of the Shroud. He is closely
+affiliated with the Spooks, and usually enlists their help with his
+nce that ev-
+
+research. Despite his clinical manner and his insi
+erything be done by the proper method, many suspect that Dr.
+Shudder has been greatly (and adversely) affected by the Wylding.
+He justifies the use of often brutal arts to get results, is not above
+torturing other wraiths (aliens, of course) to further his cause,
+and has been known to employ the Dead Cadre as an assas-
+sination squad.
+
+Sweet Sorrow
+
+The woman known as the Grandmother of the
+Haunters is perhaps the oldest existing member of
+
+the Guild. Her opinion is dogma, her advice scripture,
+and her support is nothing short of a blessing.
+
+Uy
+
+Sweet Sorrow's legacy is a private one, and began when
+a child named Dido was born witha caul that covered her
+face. Shé-grew up with the ability to see spirits, and for the
+remainder of her life was haunted by this gift. In 146 B.C.,
+Roman forces razed: Carthage, Dido's home, and this event
+sounded, the end of the Third Puni¢ ‘War. The Horrors Dido wit-
+nessed, however, involved far more than the brutality of the ad-
+yancing Romanvarmy. She alsosaw hundreds of ghosts who de-
+scended upon the dying with wild abandon, and who pulled away
+the souls of the newly slain for their own pleasure. Dido was so
+paralyzed by the terrors she witnessed in both worlds that she
+never saw the blade that bit into hefback and sent her spiraling
+into the Shadowlands. Once there, Dido-was Reaped and en-
+slaved by the Empire. She became a Thrall within Stygia
+itself, a place built on the legacy of the Roman
+Republic. She spent her existence growing to
+hate all wraiths for the atrocities she had seen
+them commit at Carthage, and the Empire
+(later the Hierarchy) for its support of Ro-
+
+4
+
+os
+
+SS
+
+—_R
+
+KK
+43
+we
+
+tx
+ed
+EX
+
+Q
+
+KS
+
+man ideology. She began plotting her re-
+venge, but knowing that patience was her
+best chance for freedom, endured her time
+in chains stoically. It took several centuries,
+but the wait was worth it. Rome fell to the
+barbarian hordes in A.D. 476, heralding the First
+Maelstrom. It was a fitting end for Carthage's en-
+emies, and the perfect point for Dido's new begin-
+ning. Her master was destroyed during the Mael-
+strom, and she (having barely survived herself), took
+the opportunity to escape in the confusion. Now a
+freewraith, Dido allied herself with a Circle of es-
+caped Thralls, and managed to survive in the
+Shadowlands while learning all she could about the vari-
+ous Arcanoi. This quest for knowledge brought her into
+contact with Pandora Skia and other proto-Haunter alliances,
+who had a certain something that encouraged her to look at them
+
+
+more closely. Although she liked these wraiths no better than
+any of the others she had encountered, their interests did cap-
+ture her attention. The efforts of Pandora Skia and other such
+alliances to diversify and study the nature of their powers rather
+than simply reveling in them set them apart from groups like the
+
+mercenary masters of Moliate or the calculating lords of Usury.
+As groups began to polarize around various Arcanoi, Dido re-
+mained with the Haunters and became known as Sweet Sorrow
+(for the sadness that wraiths saw reflected in her eyes).
+
+Over the centuries, Sweet Sorrow has emerged as a pow-
+erful figure within the Guild while remaining a virtual enigma
+
+Mite
+
+cil seats, she knows that these Haunters distrust her intensely.
+She has tried instigating rumors concerning the Council's "mem-
+bership," but moves carefully in this matter lest she alienate
+
+those Haunters who are firmly in the Council's camp.
+
+Corrina
+
+Corrina constitutes the fourth major player within the
+Haunters, and most of them don't even know it. Corrina was
+Reaped by Midian himself, who, it seems, went to great lengths
+to locate someone of her mental capacity and sharp intellect.
+
+to anyone outside it. She was
+instrumental in helping form
+the Haunters (not due to any
+interest in their well-being,
+but because she saw them as
+her instrument for spreading
+chaos), and acts as a trusted
+consigliere for the members of
+the Guild. She keeps the
+Haunters divided by playing
+the alliances against one an-
+other, but does this merely to
+keep them in line until the
+time it is necessary to unite
+them for her own use. She
+tried something similar back
+in 1598 in the wake of the
+failed coup, but has long since
+come to the conclusion that
+she acted prematurely, a mis-
+take she does not intend to
+repeat.
+
+Sweet Sorrow is currently
+trying to foster better relations
+
+Midian has suspected for some centuries now that
+Sweet Sorrow, the woman regarded as the Grandmother
+of the Haunters, may be the reason behind the Guild's
+failure to unite. When Sweet Sorrow endorsed the Dantes'
+plan to usurp the Artificers following the coup of 1598,
+Midian began to suspect something was amiss. The idea
+ran contrary to everything the Haunters believed in, and
+she, of all wraiths, should have realized it was doomed to
+failure. Since that time, Midian has watched Sw
+row play the various alliances against one another, and
+suspects she has kept the Guild unbalanced strictly to
+advance her own agenda. He knows he cannot confront
+
+t Sor-
+
+her directly, since she maintains a good portion ot the
+Haunters' support. Instead, he has been forced to rely on
+hudder.
+
+a handful of powerful allies, including Dr. $
+
+As such, Midian has moved slowly in the centuries
+following the Breaking. He has privately trained a stu-
+dent named Corrina, who now acts as the "secret" leader
+of the Order of the Glass Menagerie. She, Dr. Shudder
+and Midian form the Guild's Council itself, though the
+involvement of the latter two is minimized. The Order's
+mandate is to create Haunters who are free of Sweet
+Sorrow's influence. While this has proven difficult, the
+
+She later discovered that she was
+one of six people whom Midian
+had followed, all of whom fit the
+criteria of what he needed. She
+had simply been unfortunate
+enough to die first, having bro-
+ken her neck in a fall down the
+stairs. Corrina's Shadow con-
+stantly tries to convince her that
+Midian had a Spook push her
+down the stairs in order to Reap
+her soul. She cannot, however,
+believe that of the man for whom
+she has developed such a deep
+and abiding respect.
+
+Regardless of how she died,
+Corrina was inducted into the
+Guild, and was trained by
+Midian and Dr. Shudder in se-
+crecy on how to be a Haunter.
+It took close to a century of tu-
+telage before Corrina was con-
+sidered ready for her task, and
+before the Order of the Glass
+
+with the Laughing Lady
+through the Bedlameers. She
+believes she can further her
+dreams of toppling the Hierarchy if she finds a way of usurping
+the Laughing Lady and assuming her position. Sweet Sorrow also
+holds the secret of Midian's identity, having spoken to the wraith
+responsible for driving the man once known as Brother Pallin to
+suicide all those years ago. Of course, Pallin's murderer isn't
+around to share his knowledge any further; Sweet Sorrow de-
+stroyed him in order to monopolize his information. She plans
+on using Midian's secret to win his support for her bid for the
+Seat of Succor; failing that, she may reveal his humiliation in an
+attempt to unseat him as Guildmaster.
+
+The one matter that troubles Sweet Sorrow is the presence
+of the Order of the Glass Menagerie, which steadfastly resists
+her followers' attempts to infiltrate it. She suspects, however,
+that the Menagerie has links to the mysterious Council. While
+she has not yet been able to determine who occupies the Coun-
+
+68 Guildbook: Haunters
+
+plan has worked thus far, giving Dr. Shudder ane
+the loyal Haunters they may need in the time to come.
+
+ene Menagerie (complete with a
+roster stocked with Haunters
+loyal to Midian and Dr. Shud-
+der) was created as a front for her sudden emergence. The
+alliance's stated goal was to bring the Haunters together as a
+unified Guild, but their secret agenda was, and still is, to cre-
+ate a group of wraiths free of Sweet Sorrow's influence.
+
+As far as most Haunters are concerned, Corrina is just
+another wraith working for the enigmatic Council that she
+herself has never met. In truth, she is actually part of the
+Council, working with Midian and Dr. Shudder. This little
+deception allows her to keep an eye on Sweet Sorrow, fully
+aware of the suspicions her patrons harbor against the Grand-
+mother of the Haunters. However, Corrina is being watched
+by Sweet Sorrow as well, who has a sneaking feeling that the
+young wraith is not sharing everything she knows with her
+dear old Grandmother...
+
+Strength.
+Dexterity.
+Stamina.
+
+@0000
+@0000
+@0000
+
+Demeanor:
+Shadow:
+
+Attributes
+Social
+Charisma
+
+Manipulation.
+Appearance.
+
+wocccccccoceccosce|s Mbilities
+
+Talents
+
+| Alertness
+
+Athletics.
+Awareness.
+
+| Dodge.
+Empathy.
+Expression
+Intimidation
+Streetwise
+Subterfuge
+
+Bacgounds
+
+00000
+OO0000
+00000
+00000
+00000
+00000
+00000
+00000
+00000
+
+Gui
+
+akills
+
+Etiquette.
+Firearms
+Leadership.
+Meditation
+Melee
+Performance
+Repair.
+Stealth.
+
+@0000 Perception
+@0000 Intelligence
+@0000 Wits
+
+OOOOO Bureaucracy.
+OOOO0O Computer
+OOOOO Enigmas
+OOOOO Investigation.
+OOOOO Law
+OOOOO Linguistics.
+OOOOO Medicine
+OOO0O0ON Occult
+OOOOO Politics.
+OOOOO Science.
+
+Mental
+
+knowledges
+OOOO0O
+OOO00O
+00000
+00000
+OOO0O0O0
+00000
+OOO0O0O0
+OO0O0O0O0
+00000
+00000
+
+Passions
+
+OO00O0
+
+OOO00O
+
+OO0000
+
+OO00O0
+
+OO0000
+
+OO0000
+
+O0000
+
+
+history
+life
+
+Age. Apparent Age Date of Birth R.LP. Gender.
+
+Height Weight Hair. Eyes. Race.
+
+Nationality. Garb.
+
+Other Distinguishing Features,
+
+HADO
+
+Psyche: Archetype:
+Shadowguide Player:
+
+Thorns Angst Dark Passions
+O0O00000000
+o000000000 et
+
+OOO0O0O
+OO0O00O
+
+Psyche Willpower 00000
+0000000000 0000)
+
+
+hierarchy/Renegade/Heretc Status
+
+Fidolon Guild Status
+
+Alliance
+
+Memoriam Mentor
+
+Notoriety Wealth
+
+Relis
+
+(weeeccoccoccecoes|avorite Haunting Jectniques-eeoeccocccccocccs
+
+
+Cost flaw
+
+| | HE fetters POOODCOOD1 CoocOoecoo Experience
+
+00000 |
+coco [otal
+00000 :
+00.000 Total Spent On
+00000
+00000
+00000
+00000
+00000
+00000
+00000
+
+(| temo e Ancient/New Arts Known mere
+
+| 00-00-00 Usual Haunts -ODOO0-00 ccecccn: (ill Standing & Contacts -coererer-o-m
+Standing
+
+an
+Guild Contacts
+
+Apprenticed To:
+
+Weapon Difficulty | Damage | Conceal] Range Brawling Table
+Maneuver Accuracy Damage
+Bite 5 Strength +1
+
+Punch 6 Strength
+Grapple 6 Strength
+Chw 6 Strength +2
+Kick 7 Strength +1
+Body Slam 7 Special; see Options
+
+
+do yOU WaNt t0 PIAY with
+MadgNEs9?
+
+Hi, there-l know you're not dead yer, but we're working
+
+on it. Anyway, 1 was wondering if you'd thought about your
+
+Cafeer prospects orice I finally get around-to killing you. T was
+
+hoping you'd consider coming to work for us. Nov Youwon't even
+consider it? Oh, well.
+
+And, yes, I'm going to kill you anyway:
+
+And All Pandemonium Breaks Loose!
+
+Some wraiths see messing with the living-as a hobby; orhets See it as a
+crime. Then there are the Haunters, to whom it's a calling. They're the
+ones who make the stories you read in the tabloid rags, the ones who make
+the walls bleed and the the sky rain verniin. They're the ones who like
+to terrorize the innocent, to hound the wicked) and generally to-make
+life-hell for anyone they can find.
+But they've got a reason-for it — and that's the most frightening
+thing ofall.
+Guildbook: Haunters is the fourth in the continuing series of
+Guildbooks for Wraith: The Oblivion. Now you can get inside
+the heads of those wraiths whom even Spectres consider to-be
+a little odd. Here's a warning, though: Just because you get
+inside their heads doesn't mean' you'll make it-out.
+Guildbook: Haunters contains: 4
+© The mysterious link between the Haunters
+and the Wyld;
+¢ Haunter recruiting practices — and,
+no, they're not pretty;
+«New ways to inflict GEANSESS Sy Os MA ORE
+
+Pandemonium tipon the living — = = =
+180 PARK NORTH BLVD fit "ta ae = and ore ISBN 1-56504-604-8
+: = WW 6303. $12.00
+
+p SUITE 100
+
+CLARKSTON, GA 30021
+USA
+
+| 9 ‘
+&
+mi)
+9"781565!'04¢ we
+
+MINDS

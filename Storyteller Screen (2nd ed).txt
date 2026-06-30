@@ -1,0 +1,357 @@
+# File: Storyteller Screen (2nd ed).txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+
+GENERATION (
+Max. Trait Rating
+
+Eighth
+
+Max Trait Rating: This indicates the highest permanent Trait rating (ex
+of the given generation can have. This is especially important with regan
+Blood Pool Max: Th ber ofblood pointsa vampire may keepin her ster
+of blood in their bodies is no greater than any other vampire', each pint of blood is wr
+Blood Points/Turn: This indicates how many blood points a vampire ca
+
+ARMOR CHART
+
+Class Armor Rating Penalty
+Class One (reinforced clothing) 1 0
+Class Two (armor T-shirt) 2 1
+Class Three (Kevlar vest) 3 1
+Class Four (flak jacket) 4 2
+Class Five (full riot gear) 5 3
+
+Armor adds its rating to the character's soak dice pool against
+bashing damage, lethal damage, and aggravated damage from fangs
+and claws. Itdoes not protect against fire or sunlight. However, armor
+also subtracts a number of dice from dice pools related to bodily
+‘coordination and agility (most Dexterity-based dice pools). This is
+reflected in the penalty listing. Attackers may make targeting rolls to
+hic unprotected portions of a defender and thus ignore the armor
+(Storyteller assigns difficulty penalty — typically +1 or +2).
+
+Aura Corors
+Condition Aura Colors
+Afraid Orange
+Aggressive Purple
+Angry Red
+Bitter Brown
+Calm Light Blue
+Compassionate Pink
+Conservative Lavender
+Depressed Gray
+Desirous or Lustful Deep Red
+Distrustful Light Green
+Envious Dark Green
+Excited Violet
+Generous Rose
+Happy Vermilion
+Hateful Black
+Kdealistic Yellow
+Innocent White
+Lovestruck Blue
+Obsessed Green
+Sad Silver
+Spiritual Gold
+Suspicious Dark Blue
+Confused Mottled, shifting colors
+Diablerist Black veins in aura
+Daydreaming ‘Sharp flickering colors
+Frenzied Rapidly rippling colors
+Psychotic Hypnotic, swirling colors
+Vampire Appropriate color is pale
+Magic Use Myriad sparkles in aura
+‘Werebeast Bright, vibrant aura
+Ghost Weak, intermittent aura
+Faerie Rainbow highlights in aura
+
+
+CLose Compat Maneuvers TABLE
+
+Maneuver Traits Accuracy Difficulty Damage
+Dex+Brawl +1 Normal Str +1 (A)
+Dex+Brawl Special Normal __(R)
+
+Dex + Melee Normal +1 Special
+Dex + Dodge Special Normal (R)
+
+Dex + Melee Special Normal (R)
+Dex + Brawl Normal Normal Su
+
+xcluding Humanity/Path scores and Willpower ratings) a vampire
+ard to Disciplines and Attributes.
+
+Weapon Stike Dex +Melee Normal
+(A): The maneuver inflicts aggravated damage.
+
+(C): The maneuver carries over on successive tums.
+
+(K): The maneuver causes knockdown.
+
+(R): The maneuver reduces an opponent's attack successes,
+
+em. der oad — while theok
+ath mere than one point.
+-an spend in a single turn.
+
+Hirerarcuy oF SiN— Humanity
+
+Humanity Moral Guideli RAncep Compat MANeuvers TABLE
+
+10 Selfish thoughts Maneuver Traits Accuracy Difficulty Damage
+9 Minor eclfidhvactr ‘Automatic Fire Dex + Firearms +10 +2 ‘Weapon
+8 Tira ancidinc (adckianeal ScOzwua) Multiple Shots Dex + Firearms Special Normal Weapon
+7 Theft Strafing Dex + Firearms +10 +2 ‘Weapon
+6 Accidental violation (drinking a vessel dry 3-Round Burst Dex + Firearms +2 +1 ‘Weapon
+
+out of starvation) Two Weapons Dex + Firearms Special +1 /off-hand Weapon
+5 Intentional property damage
+4 Impassioned violation (manslaughter, kill- COs oe
+
+ing a vessel in frenzy)
+3 Planned violation (outright murder, savored
+
+exsanguination)
+2 Casual violation (thoughtless killing, feed-
+
+ing past satiation)
+1 Utter perversion or heinous acts
+
+Bioop Poot CHart
+
+Vessel Blood Pool
+
+Vampire 10-27
+
+Werewolf 25
+
+Average human 10 £
+
+Child 5
+
+Cow 5
+
+Dog 2
+
+Cat 1
+
+Plasma bag 1 3
+
+Rat 12 FRY ae
+
+Ba/Bird 14 1 jee
+
+
+RANGED WEAPONS CHART
+Type Damage Range Rate Clip Conceal
+
+Revolver, Hvy.
+Colt Anaconda (.44 Magnum)
+
+Pistol, Hvy. 5 30 3 T+ J
+Sig P220 (.45 ACP)
+
+‘SMG, Small* 3 30+1
+Ingram Mac-10 (9mm)
+
+Assault Rifle*
+Steyr-Aug (5.56mm)
+
+Shotgun, Semi-auto
+Fiachi-Law 12 (12-Gauge)
+
+‘Damage: Indicates the damage dice pool. Versus mortals, firearms ate considered lethal damage. Versus
+vampires, firearms are considered bashing damage unless the head is targeted (see "Targeting," p. 209),
+in which case the damage is considered lethal
+Range: This isthe practical shor range in yards. Weapons may be fired at twice this distance, but the
+attacks are considered long range (difficulty 8).
+Rate: The maximum number of bullets or three-round bursts the gun can fire ina single turn This rate
+does not apply to full-auto or speay attacks
+(Clips The number of shellsa gun car hold. The + indicates bullet can be held in the chamber, realy to fre,
+Concealment: P = Can be carried in the pocket; J * Can be hidden in a jacket; T * Can be hidden in
+a trenchcoat; N = Cannot be concealed on the person at all,
+tes the weapon is capable of three-round bursts, full-auto and sprays.
+
+"The crossbow is included for characters who wish to try staking an opponent. Crossbows requite five
+tums to reload. Unless the crossbow is aimed at the head or heart, it inflicts bashing damage on Kinde.
+Ie inflicts lethal damage versus mortals.
+
+Compat SUMMARY CHART
+Stage One: Initiative
+© Roll initiative. Everyone declares their actions. The
+character with the highest initiative performs her action
+first. Actions can be delayed to any time later in the order
+of initiative.
+* Declare any multiple actions, reducing dice poolsaccord-
+ingly. Declare Discipline activation and Willpower
+expenditure.
+Stage Two: Attack
+* For unarmed close-combat attacks, roll Dexterity + Brawl.
++ For armed close-combat attacks, roll Dexterity + Melee.
++ For ranged combat, roll Dexterity + Firearms (guns) or
+Dexterity + Athletics (thrown weapons).
+* A character can abort to a defensive action (block, dodge,
+parry) at any time before her action is performed, a longs you
+makeasuccessul Willpower tol (ora Willpower pointisspent).
+Stage Three: Resolution
+* Determine total damage effect (weapon type or maneu-
+ver), adding any extra dice gained from successes on the
+attack roll.
+*# Targets may attempt to soak damage, if possible.
+
+Mexee Weapons CHART
+Weapon Damage Conceal Forcoch hoceebaigie
+Sap+ Strength +1 PY for human, prey, allow
+
+Club+ Strength +2 T Perception roll aise a
+Knife Strength +1 J
+Sword Strength+2. T
+Axe Strength+#3.N.
+Stake* Strength +1 T
+
++ Denotes a blunt object. Blunt objects inflict
+bashing damage unless targeted at the head
+(see "Targeting," p. 209). If s0, they inflict
+lethal damage.
+
+'* May paralyze a vampire if driven through the
+‘heart. The attacker must target the heart (dif-
+ficulty 9) and score three damage successes.
+
+Dirricutties
+
+‘Three Easy (installing software on a Macintosh)
+
+Four Routine (changing a tire)
+
+Five Straightforward (seducing someone who's al-
+ready "in the mood")
+
+Six Standard (firing a gun)
+
+Seven Challenging (replacing a car's sound system)
+
+Eight Difficult (rebuilding a wrecked engine block)
+
+Nine Extremely difficult (repairing a wrecked en-
+gine block without parts)
+
+Deoreesor Success
+One Success Marginal (getting a broken re-
+frigeratortokeeprunninguntil
+the repairman arrives)
+Moderate (making a handi-
+craft that's ugly but useful)
+Complete (fixingsomething
+so that it's good as new)
+Exceptional (increasing your
+car's efficiency in the pro:
+cess of repairing it)
+Phenomenal (creating a
+masterwork)
+
+Two Successes
+
+Three Successes
+
+Four Successes
+
+Five or More Successes
+
+
+Expertence Costs
+
+Trait Cost
+
+New Ability 3
+
+New Path (Necromancy cr Thaumanug) 7
+
+New Discipline 10
+
+Attribute current rating x 4
+Ability current rating x 2
+Clan Discipline current rating x 5*
+Other Discipline current rating x 7*
+Secondary Path (Necomancy oe Thauauyy) current rating x 4
+Virtue current rating x 2**
+Humanity current rating x 2
+Willpower current rating
+
+* Caitiffhave no clan-based Disciplines, just as they have noclan.
+For them, the cost of raising Disciplines is the current rating x 6 for all
+Disciplines. This is both a curse and a blessing of being Clanless.
+
+‘** Increasing a Virtue through experience does not increase Traits
+‘based on that Virtue (Humanity, Willpower).
+
+SUNLIGHT
+Soak Difficulty Intensity of Light
+g Faint light coming through a closed curtain;
+heavy cloud cover; ewilight
+
+Indirect light coming through a wind:
+light curtains
+
+10 Direct rays from an unobscured sun
+Health Levels/Turn Exposure
+
+One Small part of body exposed — a hand or
+part of the face
+
+Two Large part of body exposed — a leg, an
+arm or the whole head
+
+Three Fifty percent or more of the body ex-
+
+posed — wearing thin clothing
+
+HeattH CHART
+Health Level Dice Pool Penalty Movement Penalty
+Bruised Characterisonly bruised
+biandsuffersnodice pool
+penalties dv to damage.
+
+Character sufets minor
+injuries and movement is
+mildly inhibited (halve
+‘maximum runningspeed).
+
+Character sb injured
+and mayonly hobbleabout
+(three yardturn)
+
+Character is incapable of
+movement and is likely
+unconscious. He may do
+nothing except spend
+‘Hood points. Incapaci-
+tated vampires with no
+‘Hood intheirbodiesenet
+torpor.
+
+‘Character dies again, this
+time forever,
+
+Vehicle Safe Speed Max Speed Maneuver
+6-Wheel Truck 60 90 3
+Tank (modem) «60. 100 4
+Tank (WWII) 30 40 3
+Bus 6 100 3
+18-Wheeler 70 110 4
+Sedan 70 120 5
+Minivan 70 120 6
+Compact 70 130 6
+Sporty Compact 100 140 7
+Sport Coupe 110 150 8
+Sports Car 10 160 8
+Exotic Car 130 190+ 9
+Luxury Sedan 85 155 7
+Midsize B 125 6
+SUV 70 u5 6
+Formula One Racer 140 240 10

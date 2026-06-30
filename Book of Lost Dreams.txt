@@ -1,0 +1,5077 @@
+# File: Book of Lost Dreams.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+1
+
+
+OrZ
+
+CL
+
+oy
+SX
+
+v,
+
+CAMA, CCA <
+
+A
+
+2)
+
+' Credics
+
+Writen by: Roger Gaudreau, Steve Herman, Ian Lemke
+
+Additional Material by: Brian Campbell, Steve Kenson, Wayne
+Peacock
+
+Developed by: Ian Lemke
+Edited by: Cynthia Summers
+
+Ar
+
+t Director: Aileen E. Miles
+
+Layout and Typesetting: Aileen E. Miles
+
+Interior Art: Mike Chaney & Matt Milberger, Anthony
+Hightower, Brian LeBlanc, Heather]. McKinney, Rick O'Brien,
+Paul Phillips, Valerie Valusek
+
+Front Cover Art: Mark Jackson
+Front and Back Cover Design: Aileen E. Miles
+
+ey © 1997 White Wolf Publishing, Inc. All rights reserved.
+
+Reproduction without the written permission of the publisher
+is expressly forbidden, except for the purposes of reviews, and
+blank character sheets, which may be reproduced for personal
+use only. White Wolf, Vampire the Masquerade, Vampire the
+Dark Ages and Mage the Ascension are registered trademarks
+of White Wolf Publishing, Inc. All rights reserved. AZon,
+Werewolf the Apocalypse, Wraith the Oblivion, Changeling
+the Dreaming, Werewolf the Wild West, The Autumn People,
+Book of Lost Dreams, Nobles the Shining Host, The Book of
+Storytellers Secrets, Isle of the Mighty, The Storytellers Guide
+to the Sabbat, Dreams and Nightmares, and World of Darkness
+Combat are trademarks of White Wolf Publishing, Inc. All
+rights reserved. All characters, names, places and text herein
+are copyrighted by White Wolf Publishing, Inc.
+
+The mention of or reference to any company or product
+in these pages is not a challenge to the trademark or copyright
+concerned.
+
+73) PARK NORTH BLVD.
+b SUITE 128
+
+CLARKSTON, GA 3002I
+USA
+
+WHITE WOLF
+
+GAME STUDIO
+
+This book uses the supernatural for settings, characters
+and themes. All mystical and supernatural elements are
+fiction and intended for entertainment purposes only. Reader
+discretion is advised.
+
+Check out White Wolf online at
+
+http://www.white-wolf.com; alt.games.whitewolf and
+rec.games.frp.storyteller
+
+PRINTED IN CANADA
+
+#
+
+Book of Lost Dreams
+
+
+(=
+
+St Dréams -
+
+Is
+
+re ory |
+
+ono
+
+q
+
+=
+
+(2
+Incroducction 4
+Chapzcer One: 6
+Chapzer Two: 26
+Chapcer Three: Adva 30
+Chapzer Four: Capture t 46
+
+\/
+
+Contents 3
+
+
+¢
+
+RA (Adouc This Book
+
+ry Within the pages of this book you will find a lot informa-
+NS
+¥
+
+YA} tion, some of it old and some of it new. Much of the old
+A) information has been updated and revised for the second
+xa
+
+edition of Changeling: The Dreaming. The new information is
+Nan provided to help Storytellers and players alike to understand the
+A workings of Changeling better, and to help flesh out their
+Q
+
+stories. Readers who think they have seen some of this informa-
+tion in previous books are encouraged to take a second look.
+
+\S
+
+KS
+
+(A
+
+Ny 3
+
+S,
+
+y
+
+There are quite a few changes and new pieces of information
+
+scattered throughout (especially among the Unseelie houses).
+
+Although this is essentially a book of rules, remember that
+
+Changeling is about storytelling above all else. If any of the rules
+
+included in this book do not seem appropriate for your chronicle,
+
+feel free to alter them or leave them out entirely. All of these
+
+tules should be considered optional — for that matter, all rules
+
+should be considered optional! After all, because there are no
+
+\ winners or losers in a storytelling game such as Changeling,
+
+Ze rules can be considered pretty much obsolete. In the end, it is
+y the story that is important, not the rules.
+
+My
+
+Y
+
+e
+
+Still, rules are helpful in establishing a structure for events
+that occur during a story. In the end, the Storyteller and the
+players need to discover for themselves the level of complexity
+they want the rules in their stories to have.
+
+Book of Lost Dreams
+
+- -" ~
+
+—_—— ee
+
+Beyond the new rules included here, there is also informa-
+tion on the three Unseelie houses (Ailil, Balor and Leanhaun).
+Some Storytellers may wish to restrict their players' use of these
+houses. Allowing players to bring in characters who are mem-
+bers of an Unseelie house can greatly disrupt a chronicle,
+especially if the majority of the other characters are Seelie.
+Storytellers who wish to have darker and more intrigue-laden
+chronicles may delight in including these houses, however.
+
+Concents
+
+Chapter One offers an in-depth look at how the Kithain
+interact with the Prodigals and the other supernaturals. Both
+setting information and crossover rules are provided, as well as
+tips on how to bring changelings into other chronicles.
+
+Chapter Two explains how cantrips work in greater detail,
+focusing particularly on the Bunks. Also included is a complete
+list of suggestions for Bunks for each of the Arts described in
+Changeling second edition.
+
+Chapter Three is a hodgepodge of information, ranging
+from exactly how Banality affects a changeling to complete
+descriptions of the three Unseelie houses. Also included is a
+closer examination of the fae mien versus the mortal seeming,
+a new Background Trait, and rules for using the World of
+Darkness: Combat book with Changeling (including three
+complete fighting styles).
+
+Le
+
+Chapter Four contains a complete introductory adventure
+that can be inserted into virtually any Changeling chronicle.
+This story is particularly useful to Storytellers who are just
+beginning but can be used by veteran Changeling Storytellers as
+well.
+
+Developers Note
+
+Much of the material in this book is information that
+simply wouldn't fit into the core rulebook. In my original
+conception for Changeling second edition, I intended to in-
+clude all of the noble houses that had been mentioned to date.
+In the end, this was simply an impossibility. I also wanted to
+include many of the expanded ideas concerning Banality that
+had been discussed in The Autumn People, and though we
+
+couldn't find the space at the time, at least that information has
+found its way in here.
+
+Whether or not to include previously published material in
+this book was a difficult decision. However, in the end I felt that
+the material reprinted here was sufficiently important to new
+
+players to warrant some repetition. Much of the section on the
+
+other supernatural beings who inhabit the World of Darkness is
+taken from The Book of Storytellers Secrets, though many
+significant changes have been made to it. There is also a fair
+amount of new setting material that can be very useful to
+Storytellers who wish to run crossover chronicles, which seems
+to be just about everyone these days. So don't take anything for
+granted.
+
+Incroduczion 5
+
+(S
+
+APA OD
+
+TOO
+
+DS
+
+g
+
+
+vel
+eee
+
+sy
+_ i
+
+ole "
+
+"
+> . .
+
+aa
+
+ELIZ
+
+
+i eee
+
+KS
+
+Boys and girls of every age,
+
+Wouldn't you like to see something strange?
+— "This is Halloween", The Nightmare Before Christmas
+
+‘The Ochers
+
+The Kithain and the Dreaming are by no means the sole
+supernatural forces within the World of Darkness. Many other
+beings with their own factions and problems inhabit the twilight
+world away from the ken of humanity.
+
+Changeling relations with these supernatural beings mostly
+deteriorated after the Shattering. Once Banality fell like a
+curtain over the land, the Kithain were more interested in
+surviving than playing politics with the dangerous and mercu-
+rial creatures sharing the shadows with them. There are notable
+exceptions, such as the fae/werewolf gatherings once every 10
+summers in Hibernia (Ireland), the sheltering of Kithain in
+Paris by the vampire Prince Villon, and the great compact of fae
+and magi in Great Britain (detailed in Isle of the Mighty). Most
+other supernaturals, notably the vampires, lost contact with the
+
+C
+
+SS
+
+Kithain after the Shattering. Memories of the fae became like
+the half-remembered dreams of blood-warm nights.
+
+With the return of the sidhe, however, and the arrival of an
+Indian Summer (a burst of Glamour before the coming of
+Winter), many ancient pacts, treaties and protocols were rees-
+tablished. The sidhe renewed their contact with the mages,
+werewolves and other supernaturals, almost as if time had not
+passed between them. For the most part, many of these groups
+were shocked and surprised to have these living legends turn up
+after nearly 600 years.
+
+Now that the Kithain are becoming more active, they are
+coming into further contact with other supernatural forces. The
+nobility has been the major impetus behind the reopening of
+these lines of communication with those who used to be allies.
+With the renewed contact, however, the Kithain have also
+begun to rediscover ancient foes.
+
+Chapter One: The Awakened World 7
+
+»
+
+
+Opzional Rule:
+Cnchancing Prodigals
+
+All creatures with supernatural ability are referred to
+as Awakened beings. Some Storytellers may desire to make
+it easier for changelings to enchant Awakened beings,
+thus allowing forachronicle that involves several varieties
+of supernaturals. When using this rule, a changeling may
+attempt to enchant any Awakened being within sight. To
+attempt an enchantment using this method, the player
+must spend at least one point of Glamour and make a
+Glamour roll (difficulty equal to the target's Banality
+rating). This enchantment lasts for one day (24 hours) per
+point of Glamour spent but is modified as per the chart
+below (so the Garou could be enchanted for three days per
+Glamour point, and soon). Those Awakened not listed on
+the chart are affected for one day.
+
+Awakened Being Modifier
+Garou x3
+Mage, Marauder x5
+Mage, Nephandus x3
+Mage, Technocrat x5
+(also includes Virtual Adepts)
+
+Mage, Tradition x2
+Vampire, Kiasyd x5
+Vampire, Malkavian x3
+
+Book of Lost Dreams
+
+AR D m > ge >= >
+
+Policics
+
+When dealing with the Prodigals, Kithain generally prefer
+to call upon the Wyrd so as to appear more impressive. It is much
+more advantageous for the local duke to negotiate with the
+Toreador prince as an exquisitely gorgeous creature wearing
+sublimely crafted ceremonial armor than as a 16-year-old high
+school student in hightops and a T-shirt. (Of course, the sidhe
+might find that he now has to worry about a vampire who
+decides she must have this beautiful creature, but that's another
+matter entirely.) Similarly, when trying to prove one's valor in
+combat, better to be an eight-foot-tall troll facing off against
+that Crinos-form werewolf than a junior varsity halfback.
+
+As the fae, most notably the sidhe, slip back more notice-
+ably into the supernatural goings-on in the World of Darkness,
+they reaffirm their ancient alliances. For example, the sidhe
+have long had a pact with the Silver Fang werewolves, as well as
+the mages known as the Order of Hermes. Other kith, houses
+and factions have their own allies among the Prodigals as well.
+The Shadow Court has friends in high places within the Sabbat.
+House Fiona's kinain and the Fianna Kinfolk have intermarried
+extensively as well.
+
+Since the Resurgence, the Kithain have also rediscovered
+old enemies. The werewolves who call themselves the Get of
+Fenris have an ancient blood feud with the sidhe, and will slay
+them on sight. The Ravnos vampires also come into conflict
+with the Kithain regularly. The Kithain's oldest and dangerous
+enemy is as yet only rumored to be active. Although rumors of
+
+
+ToAe
+MRAZ
+
+ER
+
+4
+
+new sightings of the creatures called fomorians are still just that,
+
+-@: it is certain that something matching the description of the
+Nl _ (Uords of Power enemies of the fae still exists. There are those who whisper that
+The Dreaming still enforces the pacts and agree- House Balor may know, but for now House Balor prefers to keep
+
+ments signed eons ago between the fae and the Prodigals. its own counsel on the matter.
+
+These accords range from alliances to simple nonaggres-
+
+While the Kithain know much about their wayward cous-
+sion treaties. Often a creature that knows the ancient
+
+ins, much of their information is often out of date, coming from
+words can still use them against a changeling, forcing her sages and lore that existed before the Shattering. The nobility,
+
+to adhere to the agreement. An example of this type of for example, knows the names and general traits of the clans of
+
+ASI
+
+. . . 9 * : «.
+
+pact is the High King's Peace, built between the Silver vampires from the 13th century, but the more recent bloodlines =
+‘
+¢
+
+and politics are completely new to them. A sidhe might remem-
+
+Fangs and the sidhe. This states that when either party SX
+
+CS
+
+of dominance or submission upon the wearer. This covers a visiting noble, but would be much less likely to know how to N)
+
+Sovereign and Gifts that overpower somebody's will (see receive a Daughter of Cacophony. This lack of experience with {(—
+
+Werewolf: The Apocalypse). There are many more the current states of supernatural politics often makes it difficult Ley
+
+treaties and agreements from the pre-Shattering times, for the nobility to deal with those creatures. Many commoners, ey
+notably the sluagh, have more of an idea about the lay of the land S
+
+wears a ring made of ashwood, the other cannot use magic ber that a Ventrue should be received with the same dignity as
+
+and these are left to the Storytellers' discretion. Most of
+these have a much greater impact on the Kithain than right now. It causes much amusement when the duke makesa {€&—
+
+they do on the Prodigals (changelings may suffer ill effects faux pas in the presence of the local magi by asking where the j&,
+as if they had broken an oath for defying these pacts). Ahl-i-Batin are. ~)
+Many supernaturals still abide by them out of respect for SS
+tradition, assuming they are even aware of the pact's Current Evenzs (&
+
+existence. Such agreements and treaties can be a good (x
+
+There are three major Kithain/Prodigal events in the re-
+cent past worth mentioning. The first was the destruction of
+Duke Rococo's summer court by a horde of vicious misshapen
+
+starting point for a Changeling crossover game. Oy
+iS
+—
+IY
+VQ
+
+Chapzter One: The Awakened World 9 EHS
+
+
+CC
+
+OY,
+
+j
+
+RRS,
+
+vy,
+
+f
+i)
+
+»
+
+v
+i
+
+‘ WS
+
+649
+® j ai
+SY
+
+10 Book of Lost Dreams
+
+werewolves. The massacre prompted High King David to put
+the Red Branch on high alert for signs of these twisted creatures.
+The Fianna bard Niall Whitestar claimed that these are the
+Garou's ancestral enemies, and offered his pack's help. In
+response, to the shock of the conservative elements at court, the
+High King made Niall and his pack provisional Red Branch
+Knights, charged with bringing those responsible for the massa-
+cre to justice.
+
+Another recent episode saw a cabal of mages called Cultists
+of Ecstasy take over a freehold built inside a rambling Victorian
+house, held by a roving trago of satyrs. When the satyrs returned
+to find their home co-opted, they girded themselves for battle
+and entered. Since then, no one has seen either the mages or the
+satyrs. Occasionally laughter is heard emanating from within,
+but no one who has gone inside to investigate has returned.
+
+Finally among wilders, it is becoming the height of chic to
+undertake a quest to hang out with the Prodigals and return in
+one piece, or better yet, tweak their noses in some witty way.
+More than one changeling has found herself in hot water when
+a simple "Get in and out of the Chantry" dare turned into a
+serious challenge of sorcerous skill when the local magi decided
+that they weren't thrilled with an uninvited visitor.
+
+Vampires
+
+Known to the Kithain as the Children of Lilith, vampires
+are said to be descended from a redcap who slew his brother.
+Others claim that there is a grain of truth to this story, but that
+this being was of a separate kith altogether, and that the entire
+kith was punished by the Tuatha de Dannan as a consequence
+of this one faerie's actions. Yet others believe that these lost fae
+simply became so enamored with their bloodlust that they lost
+sight of their true fae nature.
+
+All vampires claim they are descended from this murderer,
+known as Caine. The Kindred, as they call themselves, are
+embroiled in a neverending struggle for power, dominance and
+supremacy known as the Jyhad. Kithain can sometimes be swept
+up in this grand tapestry of manipulation, usually with disastrous
+results.
+
+These blood-drinkers are often riddled with Banality, and
+therefore are shunned by the majority of fae. Still, the Kindred's
+style and dark desire can be potent lures for potential Glamour.
+Many sidhe find the elders of the Children of Lillith fascinating,
+for they often hold keys to their past existence on this plane.
+There have been many stories of elder vampires who recognized
+one of the returned sidhe, sometimes as an enemy or as an ally
+from centuries long past.
+
+Some Kithain are drawn to the Kindred like moths to a
+flame. There are those who view the politics of the undead as the
+greatest challenge of all. Others yearn for their lost immortality,
+and see the vampiric existence as the closest equivalent. Yet
+others simply buy into the belief that vampires are somehow
+cooler than anyone else.
+
+Kithain are aware that vampire society is divided among
+family and ideological lines, but most don't bother to learn more
+
+than which sect controls their area and how safe it is to wander
+at night. High King David's court has issued a warning to avoid
+the group of vampires knownas the Tremere, due to the fact that
+several Kithain have been captured by these vampires and
+destroyed during experimentation.
+
+Most Kindred have no idea the fae exist. Those who do
+know tend to view fae as extremely powerful but also very
+
+childish.
+
+Ravnos
+
+The clan that poses the most danger to the Kithain, and can
+have the most effect on the Dreaming, is Ravnos, although the
+majority of these Gypsy vampires are completely unaware of the
+danger they pose to fae. These Kindred have a power called
+Chimerstry, which to the mundane eye is illusion. The Kithain
+recognize it, however, as the power to create chimera. An
+illusion created by one of these vampires (whether animate or
+inanimate) is considered to be a chimera, albeit one that is not
+controlled by its maker. Weapons and creatures created using
+this power can cause chimerical damage to Kithain and the
+enchanted.
+
+It is said that the Ravnos were taught their powers by an
+eshu who was beaten ina talecraft contest by the founder of Clan
+Ravnos. As a prize, the eshu granted the vampire the ability to
+perceive the Dreaming. Through this knowledge, the founder
+discovered a means by which he could manipulate the Dreaming
+in ways not even understood by the fae. Though he was able to
+pass along the ability to craft illusions with the stuff of the
+Dreaming, the innate sight of the magical world was lost to
+future generations.
+
+CDalkavians
+
+The madness and peculiar insights of the Malkavians brings
+them closer to the Dreaming than any of the Kindred. The
+Kithain find them the easiest to deal with because of their low
+Banality. This clan of vampires has the closest ties to the fae,
+with treaties and compacts going back hundreds, if not thou-
+sands, of years. Many Malkavians recognize Kithain as being fae,
+even though they cannot perceive the Kithain's fae mien or
+chimera unless enchanted. This is not always a good thing; the
+derangements of some Malkavians are not conducive to pleas-
+ant relations
+
+Malkavians are drawn to fae like moths to a flame, and the
+attraction is occasionally mutual. It is not uncommon for a
+Malkavian to drop by a local freehold, and hang out quietly to
+watch the show or even be bold enough to socialize. Most of the
+residents aren't certain if the Kindred are always aware that they
+are in a freehold, and it's possible the Malkavians themselves
+don't know.
+
+Malkavians have less chance of a bad reaction to drinking
+fae blood, and in fact drinking it can make them a bit more lucid
+than usual. The danger lies in the fact that some Malkavians get
+addicted to fae blood after only a few tastes. A Malkavian
+addicted to fae blood can prove to be a very dangerous predator.
+
+Chapcter One: The Awakened World
+
+Some Kithain (especially Unseelie) choose the high-risk,
+high-reward position as a Malkavian prankster's muse. These
+Kithain inspire the mad vampires' tendency to cruel and elabo-
+rate pranking, and reap the rewards in the Glamour produced.
+The difficulty of all Reverie rolls involving Malkavians are
+reduced by one.
+
+Finally, one of the least known facts about Malkavians (and
+they prefer to keep it that way) is that they are completely
+unaffected by the Mists. Though they must still be enchanted to
+be able to see a changeling's fae mien and to interact with
+chimera, they remember absolutely everything once the en-
+chantment wears off.
+
+Kiasyd
+
+Perhaps the most closely related clan to the Kithain is the
+Kiasyd (see The Storytellers Guide to the Sabbat). These
+enigmatic vampires come from a strange magical experiment
+fusing together the blood of Kithain (notably sidhe and eshu)
+and a group of vampires called the Lasombra. These experi-
+ments were carried out with the full knowledge and cooperation
+of the Shadow Court, and some older members still shake their
+heads and hope some use can be found for these odd vampires.
+
+Kiasyd keep to themselves as a rule, but once ina blue moon
+one can be found at a sluagh tea, sharing tales and esoteric
+knowledge. Although they can perceive the Dreaming and
+Kithain quite easily, Kiasyd wisely stay out of fae business.
+
+Kiasyd have a Discipline called Mytherceria, which allows
+them to perceive and affect the Dreaming. Level one, Fey Sight,
+automatically allows the user to see the chimerical world, includ-
+ing the fae mien of a changeling and active chimera. A Kiasyd
+using this power is considered to be enchanted for the purposes of
+being affected by chimera and cantrips. (The vampire must be
+actively using the power; just "having" it isn't enough.)
+
+Crossover Ideas
+
+Although apart from isolated groups, Kithain don't have
+much contact with vampires. However, there are a few reasons
+why the two would interact. The Shadow Court maintains ties
+with the Sabbat, and Unseelie Kithain and Thallain occasion-
+ally hang about local Sabbat packs. The Sabbat enjoy having
+redcaps around to dispose of the remains of their wild "parties."
+It is also considered a mark of bravery among many fae to walk
+with the vampires for a night and survive.
+
+Another idea for crossover stories might revolve around an
+old pact made between the fae and an elder vampire; as the pact
+comes due, he sends his childe (who knows very little of the fae)
+to fulfill his obligation. Alternatively, Kithain and Kindred
+exist in the same cities, and may cross paths at an art museum
+that happens to be an Elysium or a coffeehouse that is a
+gathering spot for local fae. What happens when a Toreador
+shows an unhealthy interest in a changeling's Dreamer, or
+becomes enamored of a sidhe? What if a Gangrel begins spend-
+ing her nights near a local glen?
+
+Vampires and fae move in different circles, but cold arms
+may seek toembrace the bright flame of achangeling in the hope
+
+12
+
+Book of Lost Dreams
+
+of salvation. A tragic romance between a Kithain and a vampire
+could be an epic chronicle lasting many stories.
+
+Finally, afae-blood-addicted vampire is one of the deadliest
+predators a local fief can have. If one is discovered, it means an
+immediate call to arms. Hunting the ultimate urban shark is
+dangerous at best and foolhardy at worst.
+
+Crossover Rules
+
+Chimerstry
+
+The Discipline of Chimerstry (see Vampire Players Guide)
+creates illusions that can be perceived by mortals and all
+Awakened beings. However, these illusions are spawned in the
+Dreaming and become all the more real to the Kithain.
+
+All illusions created by Chimerstry have chimerical reflec-
+tions as well. These chimera often remain in existence long after
+the original illusion has faded. For every success earned in
+creating an illusion with Chimerstry, the chimera will remain
+for at least an additional day. How this chimera acts depends
+upon the nature of the illusion that was cast. Inanimate chimera
+generally remain in the area where they were created, and can
+be interacted with by changelings just like any other inanimate
+chimera. These are almost always considered to be Incidental
+chimera (see Changeling: The Dreaming second edition, pg.
+218). Animate chimera can take on a life of their own, often
+with extremely unpredictable effects.
+
+A Kithain can sense the use of Chimerstry within a mile
+with a simple Kenning roll (difficulty 7). One success gives the
+Kithain a general idea of where the Discipline is being used,
+while five successes allows the Kithain to pinpoint the exact
+location.
+
+Obdfuscace
+
+A sluagh can pierce the vampiric Discipline Obfuscate by
+rolling Perception + Alertness (difficulty 7) This perception
+works on any level of the Discipline.
+
+Auspex
+
+Any Kindred using Auspex 2 (Aura Perception) can perceive
+a changeling's aura as a flickering pattern of lights and colors. This
+adds two to the difficulty of attempting to read a changeling's aura.
+Additionally, an Intelligence + Occult roll (difficulty 8) allows the
+vampire to recognize the changeling for what she is.
+
+Drinking Changeling Blood
+
+Fae blood acts as a potent hallucinogen to any Kindred
+drinking it. Some jaded Kindred have come to consider it a
+delicacy, while others avoid it at all costs. There are also those
+who seek it for its supposed magical powers. Some whisper it can
+be used as a component in certain Tremere blood rituals.
+
+The effects of drinking fae blood on Kindred are variable.
+Storytellers are encouraged to make up their own effects, such
+as power surges, hair growing out of embarrassing places, or
+perhaps oversized ears. Asa general rule, however, as soon as the
+vampire ingests the blood, the player must make a Courage roll
+
+Statement KS
+
+he (difficulty 3 + the number of Blood Points ingested). If there are
+: no successes, the vampire enters the second threshold of Bedlam
+(see Changeling: The Dreaming second edition pg. 208) A
+botch causes the vampire to enter the equivalent of third-stage
+Bedlam as well as gaining a permanent Derangement
+
+(Storyteller's choice).
+
+‘The €Emodrace
+
+Changelings often don't survive the trauma of being Em-
+braced — their faerie souls are usually snuffed out by the
+experience. Anytime a changeling is Embraced, the player must
+make a Glamour roll (difficulty equal to the vampire's Banality
++ 2). Only one success is needed to survive the transformation.
+If no successes are gained, then the character's faerie soul is
+forever destroyed and the character dies.
+
+ve
+
+f
+f
+
+RAL
+
+Assuming he survives, any Kithain unlucky enough to be
+
+Embraced is immediately claimed by the Mists. He reverts
+entirely to his mortal seeming and loses all access to (as well as
+memory of) his Arts and Birthrights. The fae soul within the
+new Kindred is in permanent stasis, and must wait until the
+Kindred suffers Final Death before reincarnating. Some change-
+ling scholars believe that a faerie soul who suffers such a trauma
+oe never returns to this world. }
+Ya a a A Kithain-turned-vampire who is enchanted regains his
+"te S memories of his fae life for the duration of the enchantment,
+though as soon as the enchantment wears off, the Mists quickly
+claim these memories again. An Embraced changeling who is
+enchanted does not regain access to any of his former abilities
+(Arts, Birthrights, etc.); he simply remembers what he used to
+be, and what he has lost in exchange for immortality.
+
+Ouclooks
+
+Vampires? No, I don't hang around them. I hear they live
+forever, and that's about all I know. You could ask the sluagh, they
+might know with them. Me, if I ever saw one, I'd walk the other way
+mighty quick. Why? Well, I'm just not too keen on something that
+thinks I would make a good snack.
+
+— Gareth Toadstool, boggan restaurant owner
+
+The Kindred are the greatest game of all. It is tempting to
+immerse oneself in their Jyhad, and with it, them. However playing
+with that fire will get one burned. I have shared tales with them on
+occasion, and have seen mad vampiric revels by moonlight. Since an
+altercation in a dark alley one night with a thirsty vampire, however,
+my path has steered decidedly clear of them.
+
+— Draeven Softfoot, eshu wanderer
+
+Don't know much about them, and that's all right by me. Yeah,
+we' ve run into these Nosferatu in our mines, but we don' tbother them
+and they don't bother us. They're nasty old bastards who' d nip off you
+just to find out how you taste. All together now, kids — hell, no!
+
+— Irving Claybourne, nocker mechanic
+
+Malkavians stink. Never touch the stuff. Once, I was cruising
+the main, and there was this tragic figure in black, looking wan and
+Gothic... uh, except for the clown makeup. So, I hung out with this
+kid for a bit, and apart from a predilection for a little AB positive once
+
+Ai
+
+>
+
+Chapzer One: The Awakened World 13
+
+could strike its head off its shoulders. Protect their victims, and show
+compassion to those who seek release from their existence. To those
+who revel in their killing, show no mercy.
+
+in awhile, it was very cool to watch her pull pranks that would make
+my grump-pa jealous. Vampires? Nah, don't bother.
+
+< — Runcible Shaw, pooka philosopher
+
+— Graeme Thornshield, troll warrior
+
+CJerewolves
+
+Of all the Prodigals, the werewolves have the closest
+relations with the fae. The Kithain show these ancient allies
+respect by referring to them as Garou, the name they have for
+themselves. Before the Sundering, the fae and the Garou shared
+their homes, glens and places of power. As the fae began
+
+Some claim that they're family. Whether it's true or not, those
+bloodsuckers called the Sabbat seem more like us than the namby-
+pamby elves. Here's my recommendation — hang out, match ‘em
+pint for pint, and make sure you aren't on the buffet when the dinner-
+bell rings.
+
+— Derek, redcap gang member
+
+Imagine the knowledge they must have locked away... centuries
+of experiences and immortality to boot. Now that's what I call living!
+
+— Phillipe le Noir, satyr entertainer
+
+Of all the Prodigals, only their grace and beauty comes near to
+matching our own. Many of our kind are drawn to their dark mystique
+like moths to the flame. Unfortunately, those drawn in by the their
+dark light often suffer the same fate as the moth....
+
+— Adrienne Forst, House Eiluned
+
+I have a Nosferatu to tea every second Thursday. He is
+courteous, quiet, and shows me a respect I find lacking in many
+Kithain. As far as I am concerned, these so-called Leeches are more
+tolerant and civilized than most so-called nobles I know.
+
+— anonymous sluagh of Duke Dray's court
+
+My feelings on these creatures are divided. I have spoken with a
+sad soul despairing of its nocturnal existence and unfettered craving.
+
+I have also seen a mad beast tear into the flesh of the living before I
+
+withdrawing from the world, their relations changed, some
+becoming strained, some breaking entirely. Others, like the ties
+between the Kithain and the Fianna tribe, grew even stronger as
+they presented a united front against common enemies such as
+the fomorians.
+
+Most Kithain see werewolves as wild cousins who some-
+times let their tempers get the better of them. There are those
+who say that the Garou split away from the fae when their
+dreams of vengeance and rage overpowered them. Still, the
+Garou are valued allies to many fae, and many Kithain will go
+out of their way to help a Garou in trouble. The Garou for the
+most part recognize these ties, and not a few werewolves have
+served as enchanted bodyguards or muscle for a Kithain court.
+
+14 Book oF Lost Dreams
+
+ve" 4°
+
+ESI SSIESISS SSIS
+
+
+The different tribes of Garou have varying degrees of
+contact with each kith. There is one tribe who avoids contact
+with any fae save trolls, and have to be restrained from killing
+sidhe on sight. These are the Garou who call themselves the Get
+of Fenris. The Get swore a blood oath against the sidhe a
+thousand years ago in answer to an ancient humiliation, and the
+oath stands to the present day.
+
+The greatest Garou allies of the Kithain are the Fianna.
+These Celtic Garou have ties of fealty and blood to all the noble
+houses of the fae, as well as many of the commoner kith. A
+Fianna elder lives at the court of the Kingdom of Apples, acting
+as Queen Mab's advisor on Prodigal affairs.
+
+Kithain and Garou are also bound by what some perceive
+to be acommon enemy. The Garou are frequently embroiled in
+battle with a group of vicious misshapen mutants called fomori.
+It doesn't take most Kithain long to make the leap of logic that
+these beings may be their ancient fomorian enemies taken form
+in the modern world.
+
+The Garou claim that they are fighting a massive spirit of
+destruction known as the Wyrm. The Crystal Circle sage
+Malthus has stated he has proof that the Wyrm is the ancient
+dream of evil known only as the Dark. His critics say his
+evidence is circumstantial at best, and that the Dark was
+defeated eons ago. Regardless, the nobility have decreed that if
+possible, fomori activity should be observed and reported on.
+
+The Shadow Court has werewolf companions of their own.
+The twisted, leprous lupines known as Black Spiral Dancers
+have been known to occasionally enter into agreements with
+factions of the Shadow Court, performing services such as
+assassinations in exchange for fae treasures and magical aid.
+
+The Wendigo and Uktena are much closer to the Nunnehi
+Nations than to European fae. This native alliance has caused
+more than a little friction between the Uktena and Wendigo
+and Fianna. Some Garou of these tribes have been known to
+become involved in Kithain politics, as if their own internecine
+problems weren't enough.
+
+House Balor is rumored to have mysterious ties with both
+the aforementioned fomori and the Black Spirals. This is not
+considered common knowledge, and House Balor boasts of
+secrets gained from their dark allies they say even the sluagh
+don't know. The sluagh, on the other hand, merely smile and
+raise a sardonic eyebrow when the Balor start talking.
+
+The most likely place to find fae and Garou living together
+is a glen. Such a natural source of Glamour often makes a good
+place for a Garou spiritual site, known as a caern. When a new
+glen opens, Garou, changelings and mages race to be the first
+one to claim it. Often this race can degenerate into a squabble.
+Taking the tempers of the Garou into account, fisticuffs can also
+break out. Sometimes, though, the fae and Garou share the glen,
+the Garou tending the landscape while the fae tend the local
+Dreaming.
+
+Fianna
+
+The greatest allies the Kithain have among the Garou are
+the Fianna. Bred primarily from Hibernian stock, the Fianna's
+
+network of Kinfolk is so intertwined with changeling blood that
+it has been known, though exceedingly rare, for Garou and
+Kithain (or at least kinain) children to be born of the same
+parents.
+
+The Fianna know more about fae society than any other
+Prodigals, with perhaps the exception of some mages. Fianna
+bards are often welcomed into fae freeholds, and Kithain are
+often in attendance at Fianna moots. This closeness of kin and
+attitudes have led some Kithain scholars to believe that the
+Fianna were the last Prodigals to leave the fold of fae to join the
+Garou.
+
+It is often the Fianna who protect visiting sidhe from the
+rage of the Get of Fenris, an act which does not endear the Celtic
+wolves to their Nordic cousins. Fianna often speak as Kithain
+representatives in negotiations, and advise nobles on the state
+of the Garou Nation within their boundaries.
+
+During the Accordance War, the Fianna were split on
+whom to support. They had been dealing with the commoners
+for centuries, and those ties of loyalties were strong. However,
+the old compacts with the sidhe made it hard to openly help the
+burgess. In the end, apart from a few skirmishes, they avoided
+getting involved in what was felt to be a purely internal fae
+matter. Asa result, the commoners no longer are as friendly with
+them as they might have been in the past. The sidhe, however,
+gladly welcome their ancient allies back into the fold.
+
+Recently, High King David made a pack of Fianna into
+provisional Red Branch Knights, and this has caused quite a stir
+
+‘The Kin
+
+The Fianna, like all the tribes of Garou, have an
+extensive pool of related humans known as Kinfolk, usu-
+ally from the same stock as the tribe. Some know of their
+heritage as part Garou, and some don't. Some Kithain had
+particular bloodlines of mortals with which they tended to
+mix, producing a higher ratio of Kithain and kinain than
+usual. The combination of these two heritages in one
+family produces a family occasionally referred to as the
+Kin.
+
+Only three families bear this mixed blood, and they
+have become exceedingly rare in these times. Two come
+from Irish/ Celtic stock, and the third is from the Brittany
+region of France. Whereas one out of 10 children is Garou
+in most Kinfolk families, Kin families are blessed with
+three out of 10 births becoming Garou. Of the other seven,
+the magic in the blood is so strong that chances are
+between one and three will be Kithain, and the rest may
+have kinain powers.
+
+The Garou and Kithain coming from these Kin clans
+maintain close relations, and it is not unusual for them to
+callon each other for aid and protection, their ties of blood
+making them a tightly knit community of two disparate
+supernatural cultures.
+
+Chapzer One: The Awakened World
+
+\/
+
+
+in conservative circles. This Prodigal Red Branch pack has been
+give the task of rooting out any fae-Wyrm collusion, and has
+some powerful faerie treasures to aid it. It is a measure of how
+close the Fianna are to the Kithain that they were accorded this
+honor.
+
+Get of Fenris
+
+There are probably no other Prodigals who harbor such
+hatred for the Kithain, especially the sidhe. These arrogant
+Nordic Garou have a blood oath sworn to destroy any sidhe on
+sight, and seriously maim anyone found in association with
+them. The Fianna, naturally, dislike such attitude, and their
+defense of their fae allies and cousins has enraged the Get. Pooka
+can't resist pranking people so unrelentingly grim and driven;
+the Get find that it takes a lot of pooka pelts for a good cape.
+
+The reason behind the Get's hatred of the sidhe harkens
+from long before the Shattering. A group of sidhe in the
+northlands lost their horses (how this happened has been lost in
+the telling) and were in need of alternate mounts. One day, a
+young noble of a forgotten house happened upon a troll discuss-
+ing the craft of war with a large half-man half-wolf. The sidhe
+watched in amazement as the creature shifted into a huge wolf
+and loped off into the forest, followed by the troll.
+
+The sidhe decided that these large wolves would make the
+perfect mounts for the snowy country, if they were properly
+ensorcelled. He gathered up his host, and they traveled to the
+place where this werewolf resided with his pack. Using strange
+magics, they subdued the great warriors, and placed them under
+geasa to remain faithful and obedient pets for one millennium.
+
+With the coming of the Shattering, the sidhe abandoned
+their "pets" and left Earth for Arcadia. The descendants of their
+tribemates found them, and when the tale of their thousand-
+year bondage was told, the entire tribe swore a blood oath of
+
+revenge. Since then, the Get have been unfriendly at best tothe Qa #&
+
+fae, and homicidal to the sidhe in particular.
+
+Trolls and Nunnehi have been spared from this oath, and
+many Get of Fenris hold trolls in high regard for their honor and
+fighting ability. For their part, the trolls feel torn between ties of
+loyalty to the sidhe, and their sense of shame at their leaders'
+actions. The Nordic Garou can occasionally be found talking
+about "the Old Country" with the trolls, and engaging in games/
+fights of strength.
+
+Nunnehi and The Nacive Trides
+
+The two tribes of Garou native to the continent of North
+America, the Uktena and the Wendigo, are closely allied with
+the Nunnehi Nations. It is not unknown for Nunnehi and
+Garou who share the same totem to run in the same pack
+together. Between them, they work to preserve the old ways and
+the lands. They share far more in common than not.
+
+The Nunnehi are the only fae, besides the trolls, spared
+from the oath of the Get of Fenris. The often-supremacist Get
+are hardly tolerant of the Native American fae, but they have
+shown a strange reluctance to engage the Nunnehi. Some
+observers believe this is due to the protection of the Uktena and
+
+16
+
+Book of Lost Dreams
+
+Wendigo, but a sluagh has made smirking references to a Get
+pack being soundly trounced during a fight against a band of
+Nunnehi. Conversely, the Fianna tend to treat Nunnehi
+changelings as somewhat savage, yet honorable fae, following
+the examples of the European fae. This condescending attitude
+makes most Nunnehi fume, and tends to irritate their Garou
+allies as well.
+
+Crossover Ideas
+
+Kithain and Garou can often be found together; Kithain are
+often in need of stalwart companions for adventuring, and
+Garou fit the bill very well. Many Garou would feel honored to
+join ina long arduous quest that promises adventure and renown
+for both parties. The Garou often hold wild revels called moots,
+to which the characters could be invited as guests. Ancient
+obligations could require a motley to render aid to a pack of
+Garou whose ancestors had oaths sworn to them.
+
+Kithain hearing of fomorian activity might approach Ga-
+rou to learn more about them, or even to gain allies. A motley
+could attract the attention of a Get of Fenris pack or Black Spiral
+Dancers, forcing them to seek out allies in other tribes.
+
+A tribe of Garou could claim the characters' glen or
+freehold as a caern, forcing them to choose between going to war
+with these nine-foot-tall killing-machines, giving up their free-
+hold or trying to negotiate some sort of agreement.
+
+Kithain with Fianna or other tribal allies could find them-
+selves involved in the constant intertribal squabbling that
+makes up Garou society. Even if they choose to stay out of the
+arguments, they may find themselves involved simply by asso-
+ciation.
+
+Fomori and Fomorians
+
+Garou often speak of the corrupted humans called
+fomori that they battle at every turn. The similarity
+between these creatures and Balor One-Eye's children is
+too striking to discount. Kithain who have had encoun-
+ters with these beings, and who have sufficient Gremayre
+or Remembrance, are convinced that these are the
+fomorians of old, brought into the modern world and more
+dangerous than ever.
+
+Currently the nobility is divided on the question of
+the fomori. Many prefer to ignore the evidence, pointing
+out that the fomorians were creatures of the Dreaming,
+and these are closer to Prodigals than to fae. Besides, the
+Garou are dealing with the problem. Others think that the
+Kithain should be mobilized against this threat.
+
+When asked about the matter, members of House
+Balor have assured the other Kithain that these fomori are
+a threat only to Prodigals, and are certain that they are not
+the ancient enemy. After all, it is Balor's duty to watch for
+signs of stirring from the Dark.
+
+
+»_
+
+H
+
+Pulse of the Invisidle
+(Level Three Theurge Gifc)
+
+This Gift allows a Garou to perceive creatures of the
+Dreaming (this includes a changeling's fae mien), though he
+
+Crossover Rules
+GiFcs
+
+Werewolves have magical powers called Gifts, which are
+
+taught to them by spirits. Many of these abilities can also affect
+the Dreaming. These Gifts are generally tuned to the world of
+spirit in which a Garou lives, but can overlap with the Dream-
+ing. The following are Gifts detailed in Werewolf: The Apoca-
+lypse that affect changelings and chimera.
+
+Spiric Gard (Level Four Homid Gifc)
+
+This ward extends into the Dreaming and is also proof
+against any kind of chimera.
+
+Sense the Unnazural
+(Level Tuo Lupus Gifc)
+
+If this Gift is used to detect changelings, the difficulty is 9,
+unless the Kithain is actively using an Art, in which case the
+
+difficulty is 7.
+Name che Spirit (Level Three Lupus GiFc)
+
+If this Gift is used while the Garou is enchanted, the Garou
+can identify chimera. This only works if the chimera is a
+recognizable or distinct creature or entity.
+
+must first know what to look for. Generally a Garou who has
+never been enchanted will not be able to percieve chimera with
+this Gift, unless he was taught by one of the Kithain or another
+Garou who has seen chimera. A Garou actively using this Gift
+to percieve creatures of the Dreaming is subject to attack by
+chimerical means and is affected by cantrips as if he were
+enchanted.
+
+Spirit Drain (Level Four Theurge GiFc)
+
+This Gift works on chimera that the Garou can perceive.
+Many Kithain take the destruction of benign chimera as an
+attack on the Dreaming.
+
+The CDalleadle Spiric
+(Level Five Theurge Gifc)
+
+This Gift can be used to affect chimera if the Garou is
+enchanted (or using Pulse of the Invisible, above).
+
+és
+
+if
+
+6
+
+=
+a
+S
+Ley
+
+a
+
+Chapzer One: The Awakened World
+
+Spirit Friend
+(Level Three Children of Gaia Gifc)
+
+This Gift allows the Garou to perceive creatures of the
+Dreaming and interact with chimera. Most benign and neutral
+chimera will act friendly to the Garou. Antagonistic chimera
+(such as nervosa) are not affected by this Gift.
+
+Faerie Kin (Level Three Fianna Gifc)
+
+When this Gift is used, any changeling within a one-mile
+radius feels a mental pull and knows that a Garou is in danger.
+Even if he has never encountered a Garou, he feels a nagging
+sense that someone is in danger. The changeling may make an
+opposed Willpower roll (difficulty 8) to avoid the summons.
+Failure means that he must respond to the call for aid by the
+quickest means possible. If the Garou botches, however, she
+summons the nastiest Unseelie in the area, especially any
+nearby Thallain.
+
+WF Np RE WN,
+
+BE a ON RS ET Ra
+
+Changeling-Garou
+
+Kithain souls inhabiting a human or Kinfolk body preclude
+the possibility of the First Change. In effect, the changeling's fae
+soul blocks the mystic connection to Gaia that all Garou souls
+share. Hence, even within a body that has the Garou gene, the
+changeling cannot become a Garou. Any changelings who are
+also Kinfolk do not suffer from the Delirium, even when wholly
+in their mortal seeming.
+
+The Delirium
+
+Changelings who are actively in their fae mien are not
+affected by the Delirium.
+
+Ouclooks
+
+I rather like that nice Walks-With-Wind fella. He dropped by the
+freehold last night, and played some pretty tunes on that pipe he has.
+I've heard tell that his folk can have nasty tempers. Well, he's never
+shown it to me. As far as I'm concerned, the Garou are always
+welcome at my fire.
+
+— Thom Whittlewood, boggan craftsman
+
+When you walk, I can think of no better companions than those
+called Silent Striders. I welcome them upon my journeys with open
+hand and heart. A word of warning, though — anger not the Garou.
+Once roused, their fury and power is enough to rend stone from its
+moorings.
+
+— Maria, eshu talespinner
+
+Figgerfurbing furballs're OK by me. This Glass Walker guy,
+name o' Franchise, and me have an arrangement. I keep his car a .
+running, he picks up odds and ends for me. Apparently they're an: TT | ge
+fighting some kind of war, but hey, so long as it doesn't interrupt Ss ~ po we
+business...
+
+— Irving Claybourne, nocker mechanic
+
+Oh, the whole werewolf thing? Apart from the Fianna, I don't
+believe in ‘em. However, I know this big doggie who lets me pet him
+when I slip him a burger. Kinda fun to have around when they aren' t
+bravely going forth to hurl themselves into the maw of something-or-
+
+18 Book of Lost Dreams
+
+
+other. Oh, yeah, and the coyote-Garou, the New-wash-a — well,
+when we get together, woo-hoo!
+
+— Runcible Shaw, pooka at large
+
+Bloody whirls of death is what they are! When they get into it,
+they can make one of our parties look like a church supper.
+
+— Jason, redcap wilder
+
+T once spent a week with a pack that resides just outside the city.
+They taught me songs of battle, I taught them.... other things. We
+faced down and killed some... thing. I don't know what it was, but
+it wasn't a chimera, and it nearly ripped one of my arms out of the
+socket.
+
+Brave, feral, beautiful. That's the Garou.
+
+— Jesibelle Acturus, satyr musician
+
+The noble shifters have been our allies since time immemorial.
+We hold them in highest esteem and honor. It's ashame about the Get,
+but perhaps that was... a mistake. I welcome them to my court and
+to my home.
+
+— Duke Dray, House Gwydion
+
+Bone Gnawers? No, I have never met one of those. Why do you
+ask? I have met other Garou, and I have learned much about them,
+but I'm not telling you.
+
+—Hettie One-Eye, sluagh grump
+
+I have fought beside Garou in the moonlight. Their fierce ways
+of honor and duty are similar to ours. I hold any I meet in high regard.
+They are stalwart companions and powerful allies. Their war is our
+war, and only the shortsighted cannot see it.
+
+— Duke Topaz, troll of House Gwydion
+
+Cages
+
+Ages ago, the fae first met humans who could speak words
+that formed new Dreams. The power of these mortal Dreamers
+frightened many fae, but also fascinated them, and in spite of
+themselves, they return again and again to walk with them.
+
+These willworkers of reality are a diverse group, and the
+Kithain as a whole have contact with only a few branches. It is
+with mages, more than any other supernatural group, that the
+different kith have separate relations.
+
+During the Sundering, but before the Shattering, many
+fae held themselves aloof from the human magick workers.
+The prevailing attitude was that these humans were simply
+dabblers, unable to truly touch the Dreaming. When the
+Shattering came and Glamour fled, the commoner Kithain
+sought any sign of magic in the world. Many of them came
+upon mages, also struggling to restore magic to the world.
+Many Kithain worked with the mages, and the attitudes of
+the past were quickly wiped away. Kithain and mage stood
+together against encroaching Banality and other supernatu-
+ral foes. Some even pooled their resources, sharing the
+mystical energies of freeholds. (A stand against the sorcer-
+ous Tremere vampires by a mage/changeling compact is
+detailed in Isle of the Mighty.)
+
+Problems arose when a group of mages dedicated to a
+paradigm of science and reason triumphed, imposing
+
+We" The Nephandus Connection
+
+4
+
+4
+
+their static view of the world on everyone. With belief in
+magic dying, magical power also faded. Mages began to
+seek out sources of power, including freeholds. The mages
+would drain them of Glamour in order to add to their
+own personal meager stores of magic. At first, some
+Kithain felt that it was important to support their allies,
+and allowed the draining of some smaller freeholds. The
+mages became greedy, however, and began seeking out
+larger freeholds.
+
+This large-scale Ravaging precipitated the time of
+the greatest changeling and mage conflict. The era com-
+monly called the Industrial Revolution had just begun.
+The mages, feeling that their doom was nigh, marshaled
+as many occult forces as they could. This gathering of
+resources included taking Glamour from the last few
+shared freeholds. The Kithain at this time, already fight-
+ing for their own existence, fought back against the
+willworkers. Throughout the world, alliances were bro-
+ken, freeholds drained, and enchanted mages sent into
+madness (which they refer to as Quiet). The greatest
+battle raged in the city of Boston, where a motley of trolls
+cornered the remnants of an Order of Hermes Chantry.
+With spell-breaking artifacts clenched in their horny
+fists, they advanced. When the smoke had cleared, one
+troll remained standing, and the rest of the participants
+had vanished. Word of this conflict spread, and the
+mages learned quickly that they were no longer welcome
+in Kithain holdings.
+
+The 20th century has seen a rapprochement be-
+tween the Tradition mages and the Kithain. With the
+renewal of some ancient sources of Glamour, the fae are
+slightly less paranoid, but they still keep the locations
+
+Nephandi are those mages who have sold their souls
+to dark forces in exchange for magickal might. Many times
+they can be found in conference with the Shadow Court.
+Even the most hardened Unseelie tend to repress a shud-
+der when dealing with these mages; the depths of deprav-
+ity to which the Nephandi sink regularly (having no soul
+to lose can be liberating that way) have taught a few
+Shadow courtiers some new tricks. The lure of such
+powerful allies is a difficult siren song to resist, though.
+
+House Ailil is said to have an ancient link to these
+evil mages. It is certainly true that members of this house
+can tell when a Nephandus is in the immediate vicinity
+(within a hundred yards). Whenever a Nephandus is
+within one hundred yards of a changeling of House Ailil,
+that character's player may make a Perception + Kenning
+roll (difficulty 8) to detect the Nephandus' presence.
+Whether this shows a taint in Ailil's breast, or is just a
+vestigial effect from a long-ago agreement, is unclear.
+
+Chapter One: The Awakened World
+
+{
+
+A
+a
+
+ony
+ANKE
+
+of freeholds secret from all but their most trusted mage
+allies.
+
+When the Resurgence occurred, the sidhe were given
+a crash course in mage proficiency. Duke Aeon chal-
+lenged a member of the Order of Hermes to a duel, and
+His Grace was soundly trounced. Asa result of skirmishes
+like this, the sidhe have become very interested in mak-
+ing alliances with mages, but are quite wary of the power
+they possess.
+
+Perhaps the greatest threat to the fae are the mages
+referred to as the Hidden Ones, ideological descendants
+of the first merchants of Banality. It is their master plan
+to crush the wonder and magic from the world in the
+name of "protecting" the masses, leaving it a cold gray
+world of antiseptic science. Any who know of the fae
+have spared no expense or effort to force them into
+slumber. Some groups of these magi have advocated
+death by cold iron as the solution to the "changeling
+question." The Kithain avoid these banal mages when-
+ever possible, but if cornered by one, their only hope is
+to throw all their Glamour at the willworker in the hope
+of enchanting the mage long enough to escape. It is a
+shared hatred of the Hidden Ones, or Technocrats as the
+mystic mages refer to them, that often brings Kithain and
+mages together.
+
+‘The Tradicions
+
+The nine mystical Traditions of mages are the willworkers
+who battle the Hidden Ones' secret agenda of Banality. Some of
+these Traditions accept the fae within their views of reality and
+have traffic with them. Others are almost as banal as the Hidden
+Ones themselves. The following three Traditions have the most
+contact with the Kithain.
+
+Verdena
+
+The Verbena, patterned after the old pagan ways, use
+nature and blood magic to affect reality. These mystics probably
+have the most contact with the Kithain, due to the fact that the
+fae are part of their paradigm. Often the Verbena render aid in
+exchange for changeling blood (which can be used in several
+rituals and spells) or other favors.
+
+Order of Hermes
+
+These formal, "high magic" mages had the most contact
+with the sidhe before the Shattering. Now that the nobility has
+returned, the Hermetic mages are beside themselves with joy at
+this sign of returning magic. It is said one ancient mage actually
+giggled and clapped his hands like achild upon hearing the news
+that the sidhe had returned. Hermetic mages can be found in
+consultation with Kithain sages, or acting as unofficial advisors
+to the nobility.
+
+Dreamspeakers
+
+These shaman-mages interact with spirits and magical
+creatures on an almost daily basis. As a result, the Kithain find
+
+x 20 Book of Lost Dreams
+
+these mages to be among the least banal. The Dreamspeakers
+have many contacts with the Nunnehi and other native faeries,
+and occasionally the European fae. Dreamspeakers are the most
+likely to seek out the fae to learn their secrets. Many Kithain,
+having been burned by mages in the past, are wary of these
+mystics' overtures of friendship.
+
+Crossover Ideas
+
+The most common reason for mages and changelings to
+interact would be to move against the Hidden Ones. Many
+nobles lend support to local mages who are fighting the Hidden
+Ones. Mages and changeling also work together when they have
+a common goal, such as searching for a powerful artifact.
+
+Mages occasionally find their way into the Dreaming.
+Generally, most believe it to be part of the Umbra. Many get
+lost, unable to perceive the Silver Path, and need Kithain guides
+to help them back to more stable areas.
+
+Mages and Kithain come into conflict over the power of
+freeholds. Mages perceive freeholds as storehouses of magickal
+energy, which they term Quintessence. Unscrupulous mages
+who discover a freehold may drain it of its Glamour, sometimes
+extinguishing it permanently. This practice is abhorrent to the
+Kithain, and a Reaving mage may find himself hunted by a host
+of angry fae when they discover their home destroyed.
+
+When the mad mages known as Marauders appear, they can
+disrupt the Dreaming as well as the mundane world, and
+changelings may help local mages to corral and neutralize the
+threat. However, there are a few Marauders that the fae would
+prefer to help... especially those who see changelings as being
+more real than humans.
+
+Crossover Rules
+
+Mages affect reality, changing it to fit their vision. The
+Near Dreaming often reflects this change. When a mage changes
+reality, using subtle or obvious effects, the Dreaming may be
+affected as well. A successful Kenning roll (difficulty 8 for vulgar
+magick, 9 for coincidental — see Mage: The Ascension) allows
+a Kithain to know that a mage used True Magick in the vicinity
+(within 10 yards). Three or more successes may determine what
+kind of magick was used, and five or more may allow some
+gleaning of who performed the magick (i.e., what Tradition or
+Convention, and perhaps who it was, if it isa mage known to the
+Kithain.)
+
+Marauders, insane mages existing in their own reality, twist
+and warp the Dreaming in their wake. Where Marauders pass,
+the Dreaming recoils and reforms in grotesque shapes, reflecting
+the mad ones' views of reality. Strange chimerical creatures and
+artifacts are spawned, and go on rampages of their own. A
+changeling may enter the Dreaming to discover that his marble
+palace has become a twisted gnarled tree house with grasping
+branches and gaping maw mouth, thanks to the passing of a
+Marauder.
+
+Extensive use of Dream Craft (see Nobles: The Shining
+Host or Dreams and Nightmares) can repair the damage caused
+
+]
+
+V4
+
+a
+
+by a Marauder's passage. Alternatively, the Kithain can seek out v Vy
+artifacts or chimera capable of reversing the effects. This might .
+be a good seed for a story involving mages and changelings.
+
+Resisting Enchantment
+
+The will and sense of reality of mages is stronger than that
+of most people. Therefore, when a changeling is attempting to
+enchant a mage, the mage may be able to resist the effect of the
+enchantment. To do so requires a Willpower roll for the mage
+(difficulty 8). The mage must score one success for each point of
+Glamour that the changeling invested in the enchantment
+attempt.
+
+Countermagick
+
+Kithain magic and True Magick flow fundamentally from
+the same source. As such, mages can attempt to resist the power
+of a Kithain's cantrips. The flipside of this is that a Kithain can
+use her Glamour to counter a mage's power as well. Doing this
+removes a bit of magic from the world, and risks giving the
+changeling more Banality.
+
+When a Kithain performs a cantrip that will affect a mage,
+the mage can use her Arete to counter the cantrip. The system
+for this is to roll the mage's Arete with the difficulty equal to the
+highest level of Art being used in the cantrip + 3. This is the
+formula regardless of whether the mage is using countermagick,
+unweaving or anti-magick.
+
+To resist mage magick, a changeling player must roll her
+Glamour against a difficulty of the highest Sphere rating used in
+the effect + 4. If successful in countering the effect, the change-
+ling receives a point of temporary Banality for having removed
+some small bit of magic from the world.
+
+CDagickally Draining Freeholds
+
+Some unscrupulous mages worm their way into a Kithain
+motley or court to gain access to a freehold. Others may just
+stumble onto one. Either way, the mage may decide to siphon
+the Glamour from the area, seeing the freehold as a magickal
+Node. Fortunately for changelings, it is highly unlikely that
+most mages will find a freehold by accident. The wild nature of
+Glamour seems to cloak it from sight, even to the mystical senses
+of mages.
+
+To locate a freehold, a mage must first actively examine an
+area and must use both Spirit 1 and Prime 1 on the location he
+thinks may be a freehold. He then must succeed in an Arete roll
+(difficulty 9). A failure indicates that the mage fails to notice the
+freehold and sees only the seeming of the place. If he succeeds,
+he sees a brief glimpse of the freehold's true nature.
+
+To drain the freehold of its Glamour, the mage must have
+Prime 3 or higher. The amount of Quintessence gleaned with-
+out destroying the freehold is equal to its level. If the mage
+decides, he may drain double the points of Glamour, extinguish-
+ing the balefire within the freehold. Any points taken over the
+level of the freehold may damage the freehold at the Storyteller's
+discretion.
+
+Chapter One: The Awakened World 21
+
+o.
+e
+
+e
+
+Js
+
+"
+
+KH
+oS,
+
+Cay
+
+a
+
+ay
+
+g,
+
+AWG
+Nos
+
+oe,
+
+4
+
+v,
+
+Lx
+
+.
+
+Some courts allow allied mages to siphon Glamour from the
+local freeholds, but this is exceedingly rare.
+
+Any changeling witnessing a mage draining a freehold will
+retaliate in kind against what any Kithain considers a heinous
+act. Some mages attempt to drain Glamour surreptitiously from
+a freehold while purporting to be allies to the fae. These mages
+walk a fine line, for if their treachery is revealed they will
+certainly reap the whirlwind.
+
+Spiric Sphere
+
+The sphere of magick dealing with Spirit is closest to the
+Dreaming, touching it in places. Mages who are proficient in
+this sphere can use it to perceive and affect the Dreaming.
+
+Any mage with one dot in Spirit can attempt to discover if
+someone is Kithain by rolling his Arete (difficulty 7). To
+perceive the local Near Dreaming, the mage must roll Arete
+(difficulty 8). If the mage wants to scan an area for a Kithain
+presence, again, an Arete roll is called for (difficulty 9).
+
+Changeling-CDagi
+Changelings cannot use True Magick, because the fae soul
+
+inhabiting the changeling's body has forced the human's Avatar
+into permanent slumber, making it impossible for it to Awaken.
+
+Book of Lost Dreams
+
+(Awareness
+
+A mage who has encountered the fae in the past may sense
+their presence with an Awareness roll (difficulty 9).
+
+Ouclooks
+
+Wizards? Never met one. I hear their Arts are pretty wild, but
+I'm just as happy not having to deal with another complication in my
+life. Now move your feet, I have to sweep here.
+
+— Gareth Toadstool, boggan restaurant owner
+
+Once I sat with a Dreamspeaker at his fire. He called the spirits ,
+and we shared stories of the first dawn. The Dreamspeakers and
+Verbena have been our allies for centuries. I respect them, but always
+keep in mind the mistakes of the past.
+
+— Maria, eshu talespinner
+
+Sons of Ether — heh! Weird science! These guys are like mad
+scientists — they have the coolest gadgets, and their journals are a
+hoot! The one I've met, he's a riot. A little cracked, yeah, but ain't
+we all? I'd never let one of ‘em touch my car, though.
+
+— Irving Claybourne, nocker mechanic
+
+Once, I was chatting with amage. He was all decked out in white
+robes, long gnarled staff, thick white beard. It was cool. Uh, then he
+tried to eat me. So, generally, I don't hang out with them. Oh, and
+steer waaaay clear of the ones in suits!
+
+— Runcible Shaw, carrot eater
+
+LI oD aD ia
+
+
+4 f
+la *
+, Don't know a whole lot about ‘em to be honest. They bleed just
+like anyone else, though!
+— Derek, redcap gang member
+
+Mages. Heh, three words — Cult. Of. Ecstasy. I never thought
+anyone could out-party me, but these guys managed it. Come to think
+of it, if it wasn't for the fact that I didn't seem to lose any Glamour,
+I would've sworn they Ravaged me. Doesn't matter, though. It was
+worth it.
+
+— Phillipe le Noir, satyr entertainer
+
+The magi have honed their skills since we left. They are powerful
+and inscrutable. In our absence they took much Glamour from our
+freeholds, and that makes me leery of trusting them. They fight the
+Hidden Ones, and in that I will aid them, but I am still cautious of
+allowing them into my home.
+
+— Queen Mab, House Fiona
+
+I like the Euthanatos. The death-mages have a sense of style
+(besides scaring the willies out of the sidhe). Many mages have
+extensive libraries, and that makes them allies and contacts worth
+having. Don't forget about the betrayals of the past, though.
+
+— Heather, sluagh Goth
+
+The mages are a force for magic in the world. In that we support
+them. The mages hunger for power. In that we oppose them. Some
+have more honor than others do. I would trust many of those in the
+Verbena, Dreamspeaker and Akashic Traditions. The other Tradi-
+tions I see as sometimes useful, yet untrustworthy companions.
+
+— Duke Topaz, troll of House Gwydion
+
+Sea ee nn eet REN ape Set ceetet crete meme gs
+
+CUraichs
+
+The Kithain have the least contact with the spirits of the
+deceased referred to as the Restless Dead. For many reasons,
+most changelings shun wraiths. It's one thing to talk to a
+vampire, a werewolf or a wizard, but ghosts are often another
+matter entirely with the fae.
+
+Many sidhe are terrified of anything relating to death. They
+see wraiths as uncomfortable reminders that humans may con-
+tinue past death, but no one knows what happens when a sidhe
+dies. Many commoners are superstitious and remember the old
+stories about ghostly visitations, often seeing them as bad luck.
+
+Childlings are divided. Ghost stories told at sleepovers with
+the flashlight are fun; real ghosts are not. Some see wraiths as
+cool, if incorporeal, friends. As changelings advance in years,
+some begin to lose their earlier ease around wraiths, and "Casper"
+suddenly becomes an extra from The Frighteners. A wraith may
+befriend a childling, only to lose that friend as the childling
+grows up and finds it really disturbing that his otherworldly
+
+friend can make the walls drip blood. Some wraith fall into such
+despair over the loss that they decide to make their former
+friends' lives hell with ghostly pranking (which is often fright-
+fully malicious).
+
+The Restless Dead are in a constant struggle to resolve the
+ties that bind them to the twilight zone between the world of the
+living, and the great Beyond. It is searching for a way to preserve
+these chains, or Fetters (see Wraith: The Oblivion), that makes
+
+Chapcer One: The Awakened World
+
+ra)
+&
+
+Ww
+
+SN
+Ney
+
+
+&
+
+OX
+
+ae,
+
+a wraith seek out living allies who can help them finish their
+business. To make matters worse, wraiths must also deal with the
+threat of their darker sides taking over and wreaking havoc. This
+Shadow, as it is called, can manifest at inopportune times, and
+many changelings often do not know when or why their wraithly
+acquaintance's personality changes at the drop of a hat.
+Sluagh have the greatest contact with the Restless Dead.
+They can see and interact with wraiths more easily than virtu-
+ally any other supernatural creature on Earth. This ability is
+believed to date back to an agreement between the spirits of the
+dead and the sluagh. It is said that there was once a man by the
+name of Glam, who was kinain to the sluagh, although only his
+soft-spoken voice pointed to it. One day, Glam was walking the
+ramparts of his city when a hue and cry was raised from the gate.
+
+Glam rushed down, and was told a shambling creature ap-
+
+proached the city, the stench of death heavy upon it. Glam
+strapped on his silver buckler and heavy sword, then ran to meet
+this creature. When he came upon it, he stopped in his tracks.
+It had the shape of a man, yet was white as a sheet. Upon its head
+was a grievous wound that must have been fatal. Glam was
+prepared to fight the undead creature, but it spoke to him words
+of peace, explaining that it was a spirit of the dead, returned to
+its body and risen from the grave to avenge its murder.
+
+Glam listened to the creature and stayed his hand. He felt
+compassion for the dead man, and instead of attacking, swore to
+aid him in the bringing justice against the murderer.
+
+Glam and the dead man traveled to the village where the
+murderer, a common footpad, lived. There they found him
+playing dice and drinking. When the thief saw the man he had
+left for dead approach, he died of fright in the middle of his
+games. Glam, disappointed that there would be no fight, asked
+the dead man if there wwas anything else he could do.
+
+The dead man answered that he had fulfilled his task, but
+many spirits of the dead needed help in fulfilling theirs. Many of
+them needed a pair of hands in the waking world, and Glam and
+his kin would do his kind a great service if they would aid these
+spirits. Glam agreed.
+
+Before the dead man sank into the Beyond, he cast a spell
+upon Glam. The spell affected all who shared Glam's blood, and
+allowed them to see and speak with the spirits of the dead who
+remained bound to the Earth. It was this gift Glam passed to his
+sluagh kin, and this is why they can see the dead to this day.
+
+The wraiths who tend to cross paths with the Kithain most
+are usually members of the wraithly Guilds known as Sandmen,
+a few of those called Chanteurs, and to a lesser extent, those
+called Haunters. The Sandmen enter the dreams of the living
+and bring them into the realms of the dead, using the power of
+dreams to create illusions and effects. Chanteurs' powers are
+focused through their ghostly songs, which has caused many a
+changeling to believe they are banshees. The Haunters are
+ghosts who harass the living, using their power to affect the
+living world.
+
+24 Book of Losc Dreams
+
+
+>
+ic
+
+Sandmen
+
+The Kithain have many stories that speak of the dead
+stealing the dreams of the living. Many of these stories may be
+based upon the actions of the Sandmen. These wraiths use a
+ghostly power called Phantasm (see Wraith: The Oblivion) to
+affect the dreams of the sleeping. This power has a definite effect
+upon changelings who are, after all, creatures of dreams. If a
+Sandman is patronizing a Kithain's Dreamer, the difficulty for
+all rolls for Reverie or Ravaging is increased by three. This effect
+does not dampen the Dreamer's creativity (unless the wraith is
+scaring the mortal into not creating for some reason). It simply
+makes the dreams where Glamour is formed less accessible.
+Three successes on a Kenning roll (difficulty 8) allows the
+changeling to realize that something is tampering with the
+Dreamer's dreams. A successful Gremayre or the proper Lore roll
+(difficulty 7) allows the character to know that the intruder is a
+wraith.
+
+The Kithain must then decide how to deal with the situa-
+tion, assuming he doesn't simply abandon the Dreamer. The
+safest means of dealing with the problem is generally to acquire
+the services of a sluagh who can communicate with the wraith.
+A much more dangerous proposition is for the changeling to
+attempt to draw the Sandman into his own dreams for a more
+equal footing.
+
+Crossover Ideas
+
+The Kithain, with the exception of the sluagh, tend to shun
+the Restless Dead. Most stories involving changeling-wraith
+interaction concern a wraith who had ties toa changeling before
+her death. The other most common means by which a change-
+ling may come into contact with a wraith is if a Sandman is
+marauding one of his Dreamers.
+
+Crossover Rules
+
+Slaugh Perceptions
+
+In order to see a wraith, a sluagh must make a Perception +
+Kenning roll (difficulty 9). To hear a wraith, the character must
+spend a point of Glamour.
+
+Keening
+
+Keening is the wraith power to create emotions within a
+target. Changelings are affected by this power more easily than
+most. Any Keening roll made against a changeling has its
+difficulty reduced by one. A changeling and a wraith can work
+in unison to enhance the creation of Glamour from a Dreamer.
+
+G
+
+difficulty for Reverie or Ravaging is reduced by one.
+
+Pandemonium
+
+The effects of this wraithly power often extend into the
+Near Dreaming. The chimerical effects created by the use of this
+power can be quite disturbing, not to mention dangerous, to any
+Kithain in the vicinity.
+
+Ouclooks
+
+(Gulp) G-ghost? Nope, never seen one and hope I never do. Ask
+a sluagh. I have, uh, somewhere else to be.
+
+— Gareth Toadstool, boggan restaurant owner
+
+The Restless Dead seek a way to leave their lives behind. Many
+simply need a helping hand, and it behooves us to aid those who ask
+politely.
+
+— Maria, eshu talespinner
+
+Ghosts, wraiths, spooks, whatever the momzers are called, I
+don't care. I ain't never seen one, and | probably never will. I hear
+they're all over the sluagh like flies on shite though.
+
+— Irving Claybourne, nocker mechanic
+
+Ooooh.... White sheet over the head and lots of bemoaning their
+deadness. Booo-ring. There are a few who enjoy a good prank, and
+they ain't so bad. On the other hand they also taste like strawberries.
+
+— Runcible Shaw, lover of strawberries
+
+One thing's for sure, ya can't bite ‘em.
+
+— Gort, redcap childling
+
+Clammy hands rising from the grave to steal our dreams?
+(shudder) No, no — wraiths freak me out.
+
+— Phillipe le Noir, satyr entertainer
+
+I'd rather not discuss it. They're manifestations beyond our
+understanding. No one knows what is beyond death. No, I'd really
+rather not discuss it.
+
+— Baron Edgewick, sidhe scholar
+
+The arrangements between ourselves and the wraiths are not
+matters for public discussion — you do understand, of course? I have
+found few ways more satisfying and easy to get rid of unwanted
+company than to simply strike up a conversation with the ghost who' s
+sitting just behind his shoulder.
+
+— Elspeth Danvers, sluagh keeper of antiquities
+
+The Restless Dead chill even my bones. I tend to stay away from
+them. Some, however, are warriors who need to settle debts of honor.
+These spirits I would aid.
+
+— Graeme Thornshield, troll warrior
+
+Chapcer One: The Awakened World
+
+15
+
+PS
+a
+Si
+Sy
+a;
+wy
+a
+Ky
+
+mS
+
+(=
+iS
+©
+S
+
+LS
+
+~~
+
+Mn *
+
+PUILLes ‘97
+
+
+An artist is a dreamer consenting to dream of the actual world.
+
+— George Santayana
+
+Canzrips
+
+Casting cantrips is beyond a doubt one of the most difficult
+aspects of playing Changeling. Especially if you are using the
+advanced rules, there can be a lot of steps and numbers involved,
+which often works against Storytelling and leads to endless number-
+crunching. Experienced Storytellers quickly learn to use the aspects
+of the rules that they like and ditch the rest, hopefully integrating
+cantrip casting as seamlessly as possible into the action. The follow-
+ing section provides some tips for making cantrip casting easier as
+well as clarifying some of the more vague sections in the rules.
+
+Bunks
+
+What exactly is a Bunk? Bunks are the means by which
+changelings are able to invoke Glamour to do their bidding.
+They are a changeling's means of contacting the Dreaming, if
+only for a brief instant, to create a wondrous effect. Glamour
+may still be needed, but without a Bunk a changeling may find
+it hard to coax the Glamour to do as he desires.
+
+The types of Bunks that a changeling may perform are as
+various as changelings themselves. The Bunks a changeling
+works tend to be unique to herself, and there are those who
+believe that using the same Bunk too many times can cause it to
+become tainted with Banality and eventually become useless.
+Because of this, most changelings attempt to create their own
+personalized Bunks for casting cantrips rather than copying
+others, and even then they try to vary them as much as possible.
+
+Ultimately a Bunk can be anything — whistling a tune,
+
+Opzional Rule: Banal Bunks
+
+This optional rule forces players to constantly come up with
+new Bunks for their characters, rather than allowing them to fall
+into using the same old Bunk over and over again. Anytime a
+changeling uses the same Bunk more than once in the same day,
+the Storyteller can rule that the Bunk has become tinged with
+Banality and therefore less effective. Thus, a Bunk that had been
+considered to be a level-three Bunk would now become a level
+two. This degradation can continue until the Bunk no longer has
+any effect at all. Bunks that have been reduced in this way should
+have their value restored at a rate of one level per day. For
+example, a Bunk that the Storyteller originally rules to be a level
+three is used four times in one game day by a character and so is
+reduced to nothing. The next game day, the Bunk should be
+considered to be restored to level one, the following day to level
+two, and finally on the third day back to level three. Ultimately
+the rate at which a Bunk degrades in value is up to the Storyteller.
+The one level per extra use is simply a guideline. Storytellers who
+wish to force their players into making up new Bunks may rule
+that a Bunk can only be used once per game day — or even only
+once ever!
+
+Some Storytellers may find the above system too cumber-
+some, what with having to keep track of how many days have
+passed till the Bunk can be used again at full strength. Alterna-
+tively, the Storyteller can simply rule that when acharacter uses
+the same Bunk too often he gains a temporary point of Banality.
+Of course, how often is too often is entirely up to the Storyteller.
+
+Chapter Two: Cancrip Confusion
+
+
+reciting a rhyme, dancing a jig, writing an essay, rolling dice,
+picking your nose and making a chalk drawing are all examples
+of possible Bunks.
+
+Even though Bunks are a game mechanic, they can still be
+fun. Creating new Bunks for characters to use and coming up
+with them on the fly during the course of an adventure can add
+a lot of fun and excitement toa story. When creating a Bunk, try
+to avoid min-maxing to create the optimum level (and diffi-
+culty) to for the cantrip being cast, but instead focus on the
+appropriateness of the Bunk. Three elements go into what type
+of Bunk is suitable for a given cantrip:
+
+1) The Art being used is probably the primary concern
+when creating a Bunk. Some types of Bunks are appropriate for
+certain Arts, while others just aren't. For example, laying a
+Tarot spread is certainly appropriate for a cantrip involving
+Soothsay (and possibly even Chicanery), but it wouldn't be for
+Wayfare.
+
+2) The character casting the Bunk can also have an
+influence in the type of Bunk created. While a pooka might sing
+silly songs or stick out his tongue at a passerby, a sidhe knight
+would be much more likely to make a grand gesture or pick the
+petals offa rose, anda troll would most certainly never be caught
+crossing his eyes and making a moose salute.
+
+3) The situation in which the cantrip is being cast often has
+a strong impact on the nature of the Bunk. Certain social
+situations often make it impossible to perform a Bunk that may
+be perfect in a more secluded setting. Time is also an important
+factor when coming up with a Bunk. If you have all the time in
+the world, you can put as much creativity and complexity as you
+wish into a Bunk (some nocker grumps have been known to
+create the most intricate objects as foci for their Bunk). How-
+ever, if your friend the pooka is about to be torn limb from limb
+by a ravenous Black Spiral Dancer, then you may not have the
+time to create a whooziwhatsit or make an elaborate painting.
+The time to act is now, and you'd best do something fast if you
+want to save your friend's life!
+
+(A
+
+XZ
+
+O
+
+Cxamples of Bunks
+
+The following are some examples of Bunks that characters
+may use when casting cantrips. This is by no means a definitive
+list, and players and Storytellers should be as creative as possible
+when coming up with new ideas for cantrips. This list is just to
+get you started.
+
+Chicanery
+
+Chicanery Bunks are sometimes physical in nature (hand
+gestures or the manipulation of an object), but are more often
+verbal. Possibilities include:
+
+— Waggle your finger at someone. (Level One)
+
+— Sing a verse of a song backward. (Level Two)
+
+— Quote a monologue. (Level Two to Level Five)
+
+— Whistle an entire song. (Level Four)
+
+— Recite the target's lineage back five generations (Level
+
+Five)
+
+Book of Losc Dreams
+
+a
+LW
+
+NX
+
+a\
+
+Cw
+
+Ro gn ge >= > >— >— —— > - yt
+
+Bunk Levels
+
+There are two important factors in determining the
+level of a Bunk: the amount of time taken to perform the
+Bunk and the creativity of the Bunk. Most often the level
+of the Bunk is determined by how much time is invested.
+Level-one Bunks can almost always be performed in the
+same turn as the cantrip is cast without any ill effects. In
+most cases, performing a level-two or greater Bunk in the
+same turn as casting requires the character to split his Dice
+Pool as if he were taking multiple actions in the same turn
+(which he in effect is). Because of the Dice Pool splitting
+required for casting higher level Bunks, most changelings
+prefer to perform only level-one Bunks in combat situa-
+tions, unless the opponent's Banality is just too high
+(requiring a higher level Bunk).
+
+The only other means of getting a higher level Bunk
+without taking the extra time or splitting pools is to come
+up with a particularly creative or innovative Bunk. Sto-
+rytellers should always feel free to award players who come
+up with extremely clever (and appropriate) Bunks by
+increasing the level of the Bunk. In order to be granted
+such an award, the Bunk should meet all of the factors for
+creating a Bunk as described above.
+
+Ledgerdemain
+
+Bunks for this Art are almost always physical gestures or
+actions. Possibilities include:
+
+— Pull your earlobe three times (Level One)
+
+— Dance around the target of the cantrip. (Level Two)
+
+— Hold your breath for 10 seconds (Level Three)
+
+— Perform a magic trick (Level Four to Level Five)
+
+— Make an origami dragon and throw it at your target
+(Level Five)
+
+Primal
+
+Primal Bunks almost always involve natural objects or
+substances used in a ritualistic manner. Possibilities include:
+
+— Shower your target in flower petals. (Level One)
+
+— Rub a lotion made with clover on your subject (Level
+Two)
+
+— Inflict a wound on yourself and drip the blood on your
+subject (Level Three)
+
+— Burn mushrooms and inhale the smoke (Level Four)
+
+— Make willowbark tea and drink it. (Level Five)
+Soochsay
+
+Soothsay Bunks often involve some sort of divination
+ritual. Possibilities include:
+
+— Roll some dice. (Level One)
+— Break a mirror and examine the shards. (Level Two)
+
+— Cut yourself and sprinkle the blood on the ground.
+(Level Three)
+
+Lo
+
+Py)
+
+— Draw a picture of your subject. (Level Four to Five)
+— Lay a full Celtic cross tarot spread. (Level Five)
+
+(Uaufare
+
+Wayfare Bunks tend to be physical actions. Possibilities
+include:
+
+a,
+&
+=
+
+(S
+
+Sovereign
+
+Sovereign Bunks usually include some sort of grand gesture
+or proclamation. Possibilities include:
+
+— Stamp your foot three times fast. (Level One)
+
+— Jump up and down and spin in a circle. (Level Two)
+
+— Make a wide, sweeping gesture with your arms. (Level — Draw a circle on the ground and then stand in it. (Level
+One) Three)
+
+— Ring a gong three times. (Level Two) — Draw a doorway on a wall. (Level Three to Five)
+
+—Recite your lineage back five generations. (Level Three)
+
+— Present your subject(s) with a gift. (Level Four)
+— Make an oath. (Level Five)
+
+— Leap off a cliff while flapping your arms... and hope the
+cantrip works. (Level Five)
+
+iS
+
+=)
+
+Chapter Two: Canzrip Confusion
+
+
+my aaceerey: Nee
+
+SeaTac ot ed y am
+
+33
+oaasieaceens. 2:
+sot assgy ebeeoaessees reaenaeae
+Essuke Ete hit
+
+seta i?
+
+ah. Rrar essai ets
+
+Sida thesaenpey
+
+<3 ah Bsriteee Pits ites
+: mS
+
+es
+
+le ‘
+eeptebetsenatgrns: ees . SIS SS Se
+PH Hess Soa emma
+
+
+N= 4
+®
+<A
+
+a
+
+44s
+
+‘
+
+y
+
+=
+
+UR
+
+Ww
+
+Everbody knows we live in a world where they
+give bad names to beautiful things.
+
+Everybody knows we live in a world where we don't
+give beautiful things a second glance.
+Heaven only knows we live in a world where what
+
+we call beautiful is just something on sale.
+People laughing behind their hands as the fragile
+and sensitive are given no chance.
+
+— Marillion, "Beautiful"
+
+This chapter is full of information to help a Storyteller mundanity as components of their lives. In fact, Banality and
+create a chronicle and tell a story. Much of this information is | Glamourare both integral parts of their being, and their appear-
+simply expanding that which you can already find in Change- ances reflect this. Changelings have two appearances: an out-
+ling: The Dreaming second edition, though some of it is | ward, obvious mortal form and a second, hidden faerie form.
+
+entirely new.
+The CDorcal Seeming
+Seeming VS. C)ien A changeling's mortal seeming shows everything that is
+
+mundane about him. It allows him to interact with the so-called
+The concept of how a changeling appears to himself andto "normal" world without attracting too much attention. A fae's
+others (mortals and supernaturals) is perhaps one of the most mortal guise reflects her true nature. For instance, a troll hero
+complex in Changeling. The concept of the mortal seeming and may masquerade as a tall, stoic man tinged by sadness. A well-
+the fae mien are discussed at length in the core rulebook, but it esteemed boggan might appear to everyday people as a short,
+seemed that some further explanation could not hurt. The plump woman with a cheerful disposition. Even a redcap with
+following section goes into further detail regarding the differ- flaming red hair, facial tattoos and an intricate pattern of screws
+ences between the seeming and the mien and how it all works. affixed in her forehead might prefer to appear as a acne-scarred
+Changelings live in two worlds: the banal and the Glam- _hellraiser with dishwater blonde hair and a few piercings. By
+ourous. To the mundane world, they appear as typical, albeit walking about in mortal guise, the fae find it easier to interact
+eccentric, people. Behind this facade, they lead lives guided by _ with mortal society and hide from the tides of Banality.
+magic and mystery. Kithain have to accept both magic and
+
+Chapzer Three: Advanced Scorycellong
+
+
+The Fae CDien ae . oe
+
+Most people with changeling blood don't realize they carry
+such until the day that they awaken to their faerie heritage. The
+mortal seeming is developed first; the fae is blissfully unaware of
+her true self during this time. When the faerie spirit awakens,
+the changeling undergoes a process known as the Chrysalis.
+Newly awakened changelings are suddenly aware of the magic
+around them and soon understand the dangers of mundanity.
+The world instantly becomes a much larger place. Behind the
+reality lies the Dreaming.
+
+SSIES
+
+oD
+
+After the Chrysalis, changelings can sense the hidden
+world of the fae. A playground might actually be acourt of young
+faeries. A sewer tunnel can lead to an underground kingdom. A
+homeless man in an alleyway might be a wandering knight
+resting from his quest. It's all a matter of perception, of seeing the
+imaginary hidden behind the real.
+
+GOSH
+
+In the same manner, the essence of a changeling hides
+behind his mortal seeming. Faeries walk in the midst of human
+society, but they hide their true selves. Fae can sense — or ken
+— the faerie appearances hidden behind mortal disguises. This
+hidden appearance is known as the fae mien. By kenning the
+souls of other fae, a changeling can spot her brethren.
+
+a,
+
+Dropping che CDask
+
+As with real life, the boundary between the fantastic and
+the realistic is an important one. Separating the mortal seeming
+from the fae mien is one of the more unusual parts of playing a
+character in this game. For players who want more detail, here's
+a few rules to help you distinguish them.
+
+TAXOY
+AS Ors)
+
+Changelings hide their true identity from most mortals, but
+not from each other. Kenning another fae has a few unusual
+complications. If a changeling's Glamour is higher than her
+Banality, her fae mien is pretty obvious to other fae. No roll is
+necessary to see a changeling's faerie mien.
+
+ISK
+
+VS
+O
+WA
+= If the changeling's Glamour drops below her Banality
+yy rating, other changelings see her appearance slowly fade behind
+\ her mortal seeming. Older fae refer to this as the retrorse. Once
+A it occurs, it's harder to see the fae mien behind the mortal facade.
+As More specifically, a player must roll Perception + Kenning
+
+| ommend
+A (difficulty 6) for the changeling to see the fae mien, though the
+Kn fact that the person is a changeling is still readily apparent.
+(A
+
+ome
+
+There is no shapeshifting involved; it's all a matter of percep-
+\
+)
+i
+
+tion.
+
+» A Doubdle Life
+(A Why do changelings need to distinguish between the
+
+=) mortal seeming and the faerie mien? The answer is simple: many
+‘Sy of them lead double lives. One life is among mortals; the other
+NN is among fae. The mortal seeming is the identity a changeling
+J has grown up with. It allows him to continue his life as he
+
+») matures, if he so chooses. Fae can continue to go to school, hold
+
+(Z
+down jobs, and fulfill all the normal, and sometimes necessary,
+
+‘Ss
+
+A obligations of mortal society.
+.
+A 32
+2 AN eee > gn gm ima gn aan WD OL —— VA
+
+Book of Lost Dreams
+
+RK
+
+A CDaccer of Perception
+
+Who can see a changeling? And if they can be seen,
+what is seen?
+
+Mortals
+
+Under all normal circumstances, the fae mien is
+invisible to mortals. Mortals always see a changeling's
+mortal seeming unless they are enchanted or the change-
+ling has called upon the Wyrd.
+
+Other Changelings
+
+As long as the changeling's permanent Glamour is
+higher than her permanent Banality, other changelings
+see her fae mien without difficulty. If her permanent
+Banality is higher, it will take a Perception + Kenning roll
+(difficulty 6) for other changelings to see her fae mien. The
+fact that she is a changeling is not missed by other
+changelings.
+
+If she has temporarily forgotten her fae nature (say
+from having been killed by chimerical damage), another
+changeling must make a Perception + Kenning roll (diffi-
+culty 8) to even sense that she is a changeling. The
+difficulty for this increases to 10 to determine her kith.
+
+Other Supernaturals
+
+Many supernatural beings have different means by
+which they can sense changelings or even see their fae
+miens (many of these methods are described in Chapter
+One). However, unless a supernatural (vampire, wraith,
+werewolf or mage) is employing one of these methods, the
+supernatural always sees a changeling's mortal seeming
+(unless the supernatural is enchanted or the changeling
+
+Calls Upon the Wyrd, of course).
+
+However, there is always the temptation of the second life.
+The lure of the Seelie and Unseelie Courts is a powerful
+temptation. There's court intrigue, adventures on the open
+road, romance with other fae, and even chances to encounter
+other supernatural beings. Balancing these two lives can be-
+come so difficult that some fae retreat completely from the
+mortal world. They might choose to associate only with other
+fae or perhaps never set foot outside a faerie freehold. Even when
+this choice is made, the mortal seeming is necessary for hiding
+in the midst of humans
+
+Banalizy Revisiced
+
+Some of the following material has already been printed in
+The Autumn People, but it seemed useful to reprint it here. A
+Banality chart has been added to help give players, and Story-
+tellers, an idea of just what those numbers mean.
+
+CUhaz Do the Numders CDean?
+
+If you're the sort of person who thinks that taking on
+Banality is actually a good strategy for achangeling (after all, you
+can use it as protection from cantrips and other fae attacks), the
+
+Chapter Three: Advanced Storyctellong 33
+
+TOON
+
+
+\
+
+a
+
+cj
+
+vA
+
+\
+v
+
+>
+
+4
+4
+
+og,
+
+On,
+
+GON
+
+ne
+IS
+
+SAS
+
+'
+Nn
+
+following guidelines are provided to help you roleplay your
+character's slow decline. Enjoy.
+
+Banality of Five
+
+For human adults, this is borderline insanity. Mortals in
+this frame of mind may have invisible friends, believe in con-
+spiracy theories, live in elaborate delusions, or fall prey to
+rampant paranoia and take precautions against secret societies
+living in their midst. Getting a job as an occult investigator for
+a tabloid newspaper or selling bottles of holy water downtown
+in your off-hours are two good career moves. Be careful, though,
+or you'll wind up in an asylum. Briefly seeing (and misunder-
+standing) elements of the Dreaming is a faint possibility.
+
+For human children, this is borderline maturity. You can
+still grow up to be the President of the United States, become an
+astronaut or go to Harvard someday. Being nine years old isn't
+really that bad, except when you have to go to school.
+
+Among the Kithain, this is the Banality of an extremely
+open-minded grump. Most grumps don't keep this state of grace
+for long. Although this frame of mind is extremely dull by faerie
+standards, the individual nonetheless believes himself to be the
+reincarnation of a being from a magical race that regularly
+interacts with a dimension of imaginary people and objects. He
+willnot, however, play "Ring Around the Rosie" without at least
+some prompting.
+
+Book of Lost Dreams
+
+Banality of Six
+
+In human society, this is the state of mind of a creative
+artist. She is poised between the mundane concerns of day-to-
+day life and the maddening call of her muse. Maintaining this
+frame of mind can be difficult. Under the right conditions, an
+artist can create beautiful works of art and find truthful revela-
+tions. Seeing chimerical objects, however, is out of the question
+without enchantment.
+
+For achangeling who is slowly going mundane, there is still
+hope at this stage. The changeling may feel the need to spend
+more time around mundanes at this level of Banality. She might
+hang out a lot at an art school, beg for change on the streets,
+follow a band or medieval recreation group across the country,
+or just generally spend a great deal of time with Glamorous
+mortals trying to induce Reverie. If she doesn't act quickly, she
+may find her task slowly becoming more difficult.
+
+Banality of Seven
+
+This is the state of mind of the average mortal: practical,
+sensible and cautious. This type of person keeps plenty of food
+in the fridge, cleans his apartment once a week, and rarely stays
+up past midnight. For more inspiration on this kind of behavior,
+watch an evening of prime time television or spend an afternoon
+doing housework.
+
+A changeling at this level of Banality finds the concerns of
+the mundane world more pressing than the needs of the Dream-
+
+
+MP ALL EL ILO LL LLL EEL LARD INGE IIINLAPLOT A
+aes COG NN
+
+ARERR RE F
+
+ao NARA
+
+Sak An eR AEN SORIA RNRIR
+
+| Ye
+
+£
+
+SAseeaa
+
+FP wkadoucen
+s
+
+Soa ANNE st
+
+Nw
+
+"ASAE
+
+ing. Any call to adventure requires him to first make cautious
+plans and question how it will affect his mundane life. Any
+adventurous course of action seems somewhat foolish at first.
+
+Unseelie are better able to resist Banality than Seelie. One
+welcome distraction is the diversion of the Shadow Court. Mem-
+bers of the Court at this level become more concerned with the
+trivial details than the problems outside their social circle. They
+are muckrakers who traffic in gossip and try to deny their own
+Banality by rooting out despair and failure in those around them.
+They also become powerful Ravagers, but they play a dangerous
+game, risking their hearts and souls for the sake of raw power.
+
+Banality of Eight
+
+This is the frame of mind of a Heavy Sleeper or a weak
+Autumn Person. Truly banal people resist despair and mistrust
+by becoming obsessive and anal. Anyone who does not share
+these traits is a threat to them.
+
+Seelie handle this sickening of the spirit somewhat differ-
+ently. Tearing oneself away from regret and despair is difficult,
+although the changeling is painfully aware of what is happening
+to her. Finding the energy to go out and truly live becomes
+difficult. It's so much safer to just stay at home. She still trusts the
+guidance of her friends, but she requires their leadership to help
+her clear the cobwebs from her mind.
+
+Unseelie find other diversions as their hearts harden. At
+this stage, mundane Unseelie either elevate themselves to
+
+higher positions in the Shadow Court and increase their addic-
+tion, or tear themselves away from it completely. Rogues who
+isolate themselves from the Court (or are rejected from it) begin
+to spiral into epic fests of Ravaging in a desperate attempt to
+either stave off spiritual decay or lessen the pain by inducing
+
+Bedlam.
+
+The difficulty for any roll involving an Epiphany is in-
+creased by one for characters who have achieved this level of
+Banality.
+
+Banality of Nine
+
+This is the mental state of an Autumn Person. Faeries find
+that prolonged exposure to this type of individual can actually
+be physically painful. For more ideas on how to be truly banal,
+ride across the country in a bus for three days while making 10
+minute stops in small towns along the way. (Legal consider-
+ations prevent us from naming a suitable bus line for this
+enterprise, but the reader should be able to find one.)
+
+A changeling at this level of Banality begins to forget the
+more Glamourous details of her past. As her temporary Banality
+continues to increase, more and more memories of her faerie life
+disappear. The fae forgets the names of kith allies and the
+location of freeholds. Her fae mien resembles her mundane
+seeming almost exactly. Understanding or even seeing elements
+of the Dreaming is difficult (+2 difficulty to all Kenning,
+Gremayre and Remembrance rolls).
+
+an
+
+Chapter Three: Advanced Scorytellong 3
+
+
+A
+
+nS
+4 , ®,
+Ms
+
+Q
+4
+
+:
+2
+
+f
+
+sano
+
+Banality of Ten
+
+Humans at this state of Banality lose most of their emo-
+tions. They are oblivious to the joys of life and gain an inscru-
+table affinity to tedious things. Childhood has been forgotten,
+love is an impossibility, and only the stupor of intoxication can
+offer a temporary surcease from the depths of sorrow.
+
+A changeling who gains 10 points of Permanent Banality is
+in severe risk of being Undone. See below for further details on
+
+this.
+
+‘The Undoing
+
+She is gone. Without a trace. Like a snowflake in the palm of my
+hand, the Glamour that infused her and made her what she was....
+is gone.
+
+— Sir Liam Wormwood, sidhe knight, lamenting his lover
+lost to Banality
+
+If becoming Dauntain could be considered a fate worse than
+death, then the Undoing is a fate even worse than that. The
+Kithain who experiences this simply ceases to exist, as if she
+never were. This is almost always the final fate of Dauntain as
+they plunge deeper and deeper into a well of Banality.
+
+Succumbing to the Undoing is what many Kithain fear the
+most, for it is this fate which almost all fae must one day face.
+Those who succumb are the truly tragic, as their story ends not
+
+36
+
+Book of Losc Dreams
+
+with a bang, but with a whimper. There is no heroic death, no
+noble sacrifice to save the kingdom.
+
+There are actually two different magnitudes of this phe-
+nomenon. The first is simply what happens when a Kithain
+temporarily forgets who and what she is. This state usually passes
+when the changeling is once more exposed to Glamour. She
+experiences a form of "second Chrysalis" as her memories rush
+back to her, awakening her senses to the beauty that was hidden
+from her only moments before. Yes, the Mists are a danger to
+even the Kithain. At times fae retreat into their mortal seemings
+to avoid danger from chimera, only to find if they do this too
+often, the Mists hoodwink them, and they can't return to what
+
+they left behind.
+
+Admittedly, even when Kithain are "normal," they aren't
+normal. After all, Kithain who have forgotten themselves often
+have anagging feeling that something simply isn't right with the
+world, or themselves. They feel incomplete and unable to fill the
+void they know is there. Some Kithain write notes and letters to
+themselves in the hopes that they can remind themselves of
+what they are, and perhaps nudge themselves back into their
+true selves.
+
+Too bad such a noble purpose can so often be such a tragic
+failure. This technique of reminding is a painful lesson; rarely is
+the desired result achieved. More often, the Kithain tosses the
+note aside in favor of something more important, passing it off
+
+ESIISSSSSISSNSS INES MES IESMSSNSSNSSIE
+
+as silly or meaningless. Perhaps it only increases the longing to
+fill chat deep, cold void within his soul. Maybe he thinks it
+makes a good premise for a fantasy story.
+
+The fate of almost all Kithain is to one day suffer complete
+forgetfulness. They are Undone by Banality's caress, lost forever,
+their souls cast to uncaring winds. These are the Kithain who have
+somehow become so saturated by Banality that their fae natures
+simply cannot withstand the burden placed upon them. When
+Kithain come upon a changeling who has been Undone, it is often
+far more painful for them than seeing a dead companion.
+
+Imagine, if you will, meeting an old, dear friend. A friend
+with whom you have shared many a story, joke or drink. Your
+friend not only does not recognize you, but remembers nothing
+
+of your common past. This is a terrible loss, and not only for
+those who see the result. Imagine what it would be like to simply
+cease to exist? It isn't exactly a comforting thought, yet this is
+what fae risk simply by living.
+
+In most cases the transition is not instant. Indeed, it takes
+some time for the Kithain to fully fade into her mortal seeming.
+In fact, if one is watching for it, the change can be caught while
+it's happening. Asa true Kithain, Seelie or Unseelie, any should
+be willing to help the failing one before she is lost forever, or
+even for a little while. Each Kithain lost is yet another bit of
+Glamour lost. This should not be allowed, yet all too often it is.
+Sometimes the slide cannot be stopped, others it is not noticed.
+Sometimes, sadly, those who see do not care enough to stop it.
+
+The Fading
+
+There are many ways that a character can be lost to Banality. The following section tries to explain some of these as well
+as the means of rescuing the character from this near death.
+
+Voluntary Retreat:
+
+A changeling may choose to voluntarily retreat to her mortal seeming. Any character who takes this route automatically
+receives a temporary point of Banality. If the character's temporary Banality is higher than her Glamour, the attempt is
+automatic. The Kithain is now effectively mortal and cannot interact with things of the Dreaming.
+
+If the character's Glamour is higher than Banality, the player must roll her character's Willpower against a difficulty equal
+to her current Glamour. If this roll is successful, then the Kithain has successfully retreated.
+
+Once the Kithain has retreated, she gets one chance to attempt to return to her fae nature on her own. This is
+accomplished by rolling her Willpower or her Glamour (whichever is higher) against her current Banality. If she gets at least
+one success, she assumes her mien again. If it fails, she is trapped in her seeming. To determine the length of time she is trapped
+in her seeming use the Mists Chart as mentioned above. Alternatively, the character can be freed from Banality by exposure
+to Glamour.
+
+Banality Higher than Glamour:
+
+The Kithain is in danger of temporary memory loss whenever her Banality is greater than her Glamour. This generally
+begins to occur after a story is over, and can take days to weeks, depending upon the Storyteller's discretion. One way to deal
+with this is to roll Glamour against a target number equal to the Kithain's Banality each day the character is not actively
+touched by Glamour. Failure indicates that the Kithain forgets who she is for a period of time as determined by the Mists chart
+on pg. 208 of Changeling: The Dreaming second edition. She can, of course, be drawn out of it by another Kithain.
+
+Banality Above Glamour and Willpower:
+
+Whenever permanent Banality exceeds both permanent Glamour and Willpower, the Kithain is in danger of forgetting
+himself and becoming a normal human. The closer he is to Banality 10, the more quickly this will happen. This can be avoided
+by a fairly constant exposure to Glamour. For each point of Banality that the Kithain has over his Glamour rating, he should
+spend at least one day a week in a freehold to offset the effects of high Banality. If he does not spend this time in the freehold,
+he risks reverting to his seeming. Additionally, the character gains one point of temporary Banality each week this requirement
+isnot met. This can be ignored if the Kithain is engaged in a quest to reduce his Banality or is under some oath which prevents
+him from fulfilling it. In effect, as long as the character is actively involved with other changelings, the character is in little
+danger of reverting to his seeming. This does not mean that every grump should run out and take an oath which frees them
+from this requirement; oath-taking is a serious matter, and the Dreaming frowns on those who use it selfishly.
+
+fR
+=
+=
+S
+(
+
+xy
+4
+
+Example: Bryan, a grump with Glamour 6, Willpower 5 and Banality 8 should spend three days a week in a freehold to
+avoid gaining more Banality. If he doesn't spend the time in the freehold, his temporary Banality will increase by one each
+day until it reaches 10, at which point, at the Storyteller's option, his permanent Banality increases by one.
+
+Banality of 10:
+
+When permanent Banality reaches a score of 10, the Kithain is in serious danger of being permanently Undone. It isn't
+an instantaneous process, however. It takes one day per point of permanent Glamour and Willpower before it's completed.
+If the Kithain can somehow drop her Banality below 10 before that time, she gets a reprieve. Note that it is possible for the
+Kithain to temporarily forget before the permanent result sets in. In this case, it becomes nearly impossible to lose the Banality.
+
+Chapter Three: Advanced Storycellong 37
+
+—]
+
+2
+
+This last is something many are loathe to admit, but such apathy
+does happen. It is this apathy which fae must all struggle to
+avoid, lest Banality consume them all. The best way to combat
+this eventual slide is for the faltering changeling to immerse
+herself in Glamour before she forgets everything that is impor-
+tant to her. Care must be taken to balance this immersion with
+the mundane, lest Bedlam become the next risk.
+
+Social Aspects
+
+Many Kithain choose not to refer to those who have "faded
+away." They choose instead to ignore the lost one as if he had
+never existed. This is not the best way to go about dealing with
+the problem as it can beget more Banality. How is anyone to
+learn from the ordeals of others if they pretend the ordeals never
+happened? When, or if, the Kithain returns to herself, others
+will act as if she "took a trip" or was "on vacation." Euphemisms
+
+\ are popular among those who cannot deal with this problem.
+A They fear that exposure to the lost Kithain will infect them with
+Banality, and even thinking of the poor souls may be harmful.
+- Happily, these paranoid souls are in the minority.
+oN On the other hand, many Kithain understand the danger in
+-\ this kind of thinking and work instead to free those who have
+5) been trapped, if indeed it is at all possible. Some civic-minded
+S Kithain actively search them out, and others simply do what
+VA they can when they find one. Finding a lost Kithain is usually a
+»' cause for great celebration as they are welcomed back into
+Kithain society. Such celebrations are similar to a Saining in
+LS many ways, but it is a more literal celebration of rebirth.
+YY The returned Kithain usually goes back to whatever tasks
+\ and endeavors she was involved with before she forgot herself,
+ey and reassumes whatever position she held. If she lapses too
+S often, however, her ability to fulfill whatever duties she has may
+Va be questioned, especially in the case of nobles.
+» When a Kithain has fallen to Banality, her greatest allies
+
+~~) \ are the members of her oathcircle. They are the ones most likely
+\/
+» a)
+KN
+=)
+
+Using
+The Big Book of Beacing Ass
+
+to try to pull her out. In fact, the practice of the oathcircle has
+A
+
+probably saved more Kithain from Banality than nearly any-
+eat
+Na
+4B
+
+World of Darkness: Combat is a must for those who want
+to fully explore the exciting potentials of changeling combat.
+
+i
+
+NS
+
+) The following offers a few fae martial styles for those Storytellers
+
+kA who like a lot of detail (and blood) in their combat.
+
+Ss Fae master many forms of martial arts. Sidhe tend to favor
+
+Ray the traditionally noble styles of fencing and boxing. Redcaps
+") rarely have the discipline for martial arts other than wrestling.
+=) Eshu are perhaps the most divergent in their tastes; a few
+
+haughty nobles have been put in their place by eshu who were
+
+YA masters of Pauka, Savate or Kendo.
+WA 38 Book of Lost Dreams
+
+AT
+
+
+™=
+
+| Some martial art forms are exclusive to kith or noble
+
+houses. Troll martial techniques are called Ragnarok, House
+Scathach (see Nobles: The Shining Host) practices Gae-
+Bolga, and a few satyrs practice Pan-do.
+
+Please note that the page numbers next to the maneuvers
+come from World of Darkness: Combat.
+
+Ragnarok
+
+This is the martial arts style practiced by many trolls.
+Related to the Viking "high style," its sword-fighting tech-
+nique is characterized by warriors entering combat with
+their sword arms raised above their heads, so the sword
+points toward the ground. It is a simple, aggressive form, but
+its breadth lies only in the relatively wide variety of weapons
+one learns.
+
+Schools: Troll nobles and wealthy freemen often
+hold regular practice days when they teach this art to
+new thanes.
+
+Members: Ragnarok is only taught by troll leaders to their
+vassals.
+
+Quote: Yes, I know I've missed you twice, but I only have to
+hit you once.
+
+Maneuvers
+
+Weapon
+
+Bash (1, p.47)
+
+Disarm (2, p,47)
+
+Dazing Blow (2, p.47)
+
+Disarm (2, p.47)
+
+Great Blow (1, p.48)
+
+Parry (1, p.48)
+
+Slash (2, p.48)
+
+Smash (2, p.48)
+
+Sweep (2, p.48)
+
+Required Techniques
+
+Axes and Picks
+
+Blades
+
+Blunt Weapons
+
+Polearms
+
+Staff
+Gae-Bolga
+
+This technique is named after the devastating spear of
+Cuchulain, the greatest of Scathach's students. Gae-Bolga is
+a complete and diverse martial art covering armed and
+unarmed combat. It is an extremely deadly style, even its
+unarmed form. Its students also learn of the mysteries of the
+Dragon's Ire.
+
+Schools: Schools for this art are hidden in the remote
+places of the world. It is said that there are schools in Ireland, the
+Isle of Skye, Provénce and the Muir woods.
+
+Members: Gae-Bolga is only taught to members of
+House Scathach. Students must first master basic martial
+techniques before they are admitted to the schools. They
+
+must have reached Athletics 3, Melee 3 and Brawl 3 on their
+own efforts first.
+
+Quote: Beware the salmon-leap, the apple-toss and the mien of
+Cuchulain!
+
+Maneuvers
+
+Athletics
+
+Kippup (1, p. 26)
+Brawl
+
+Punches:
+
+Disarm (3, p.26)
+Sword Hand (3, p.30)
+Grabs:
+
+Choke hold (4, p. 33)
+Grappling Defense (2, p. 34)
+Joint Break (4, p. 34)
+Joint Lock (4, p. 35)
+Neckbreaker (5, p. 36)
+Throws:
+
+Throw (1, p.37)
+Flying Tackle (3, p. 34)
+Weapon
+
+Disarm (2, p. 47)
+Fleche (2, p. 47)
+Great Blow (1, p. 48)
+Parry (1, p. 48)
+Reposte (2, p.48)
+Slash (2, p. 48)
+Thrust (1, p. 49)
+Required Techniques
+Blades
+
+Polearms
+
+Pan-do
+
+Martin Adostopolus was the son of a British industrial-
+ist. He became a Victorian dilettante-adventurer, styling
+himself on the likes of Sir Richard Burton. He traveled the
+world studying martial arts, but in the end was still unsatis-
+fied. Despite mastering several martial arts forms, he never
+found one to take advantage of his fae physique, so he
+invented his own. Unfortunately, his two greatest students
+fought over the right to lead the school after his death. Both
+claimed to have won the fight, and eventually two very
+different sects were created. One student, who turned to the
+Unseelie, created Beastfighting. The other form, Pan-do, is
+province of Seelie satyrs.
+
+Schools: The only school of Pan-do was in Amsterdam. It fell
+during the war between Martin's disciples in 1882. To study Pan-
+do, a satyr must locate one of the traveling masters of this art.
+
+Members: Satyrs who are members of the Monkey's Paw
+are said to be students of the Unseelie version of this art. Most
+Pan-do practitioners live in Europe, the Mediterranean and
+Great Britain.
+
+Chapcter Three: Advanced Scoryctellong 39
+
+(
+
+%
+
+S
+Fs
+
+y q
+@
+
+-
+Q
+{\
+
+~SSESD
+ARAL. A
+
+SS
+
+LTS
+
+©
+Si
+
+ge te
+
+,
+
+CJ
+a oe
+
+(KX
+
+ar
+
+]
+
+\=s
+=
+V3
+Ss
+a
+
+Maneuvers
+
+Athletics Maneuvers
+
+Jump
+
+Kippup (1, p. 26)
+
+Brawl Maneuvers
+
+Head Butt (1, p.28)
+
+Kicks
+
+Axe Kick (3, p. 30)
+
+Double Kick (4, p. 30)
+Flying Kick (4, p. 30)
+
+Foot Sweep (1, p. 30)
+Handstand Kick (2, p. 31)
+Heel Stamp (1, p. 31)
+
+Iron Broom (4, p. 31)
+
+Knee Strike (3, p. 32)
+Reverse Front Kick (4, p. 32)
+Roundhouse Kick (3, p. 32)
+Spinning Thrust Kick (2, p. 33)
+Dodge Maneuvers
+
+Kick Defense (1, p. 30)
+
+Quote: Oh, "Pan-DA!" Like I never heard that one before!
+Looks like ‘you're about to come down with a bad case of hoof-in-
+
+spleen disease, Chuckles...
+
+‘The Three
+CInseelie Houses
+
+These houses were not included in the core rulebook for
+multiple reasons. Those of you who have read The Shadow
+Court are undoubtedly already familiar with these dark houses,
+but they have been reprinted here so that they may be made
+more readily available to all Changeling Storytellers.
+
+Developer's Note: The Flaw for House Leanhaun has been
+slightly modified as of this printing. The change requires mem-
+bers of this house to engage in Rhapsody only once per month
+instead of one per week, as was printed in The Shadow Court.
+
+House A\ilil
+
+House Ailil is the best-known of the Unseelie Houses. Its
+founder, Lord Ailil, was an astute politician, philosopher and
+scholar of the occult. Houses Ailil and Eiluned are both de-
+scended from him. It is said that when the nobles fled to Arcadia,
+Lord Ailil chose to stay behind and gather around him a house
+of sidhe that would stand against the onslaught of Banality. Ailil
+sidhe believed that he changed his name and accepted his
+Unseelie Legacy.
+
+Masters of politics, intrigue and manipulation, Ailil sidhe
+are often found as advisors and councillors to ruling sidhe.
+
+40) Book of Lost Dreams
+
+o
+
+A Ro gn > gen a gn ge ~ gm iY < iE ~— fm ~~ Irn
+
+
+Though they are rarely trusted, their advice is considered quite
+valuable. Because it is not always followed, they inevitably lead
+political factions of their own or seek weak rulers to prop up.
+Becoming the "power behind the throne" is the aspiration of
+many Ailil sidhe.
+
+Fiefs ruled by Ailil sidhe are hotbeds of intrigue, and
+commoners sometimes wonder who wields the real power in
+their freeholds. Is it the rulers they see, or the Shadow Court
+they don't see? Unseelie commoners often deduce that the Ailil
+could never have absolute control over the Shadow courtiers —
+Ailil arrogance would wear too much on them.
+
+Regardless of their political position or affiliation, Ailil
+sidhe always make the most of it. In fact, they are known for their
+overconfidence, arrogance and attitude. In any situation, they
+believe their heritage ensures their success. While they feel
+House Ailil is also naturally entitled to wealth, privilege and
+creature comforts, they love power even more. As one would
+expect, they will go through anything and scheme as long as
+necessary to get it.
+
+Many Ailil sidhe have dark hair and eyes. Regardless of the
+color of their eyes, they're known for their extremely compelling
+and penetrating gazes. They prefer dark clothing, especially
+black, set off with silver accessories.
+
+The blazon of House Ailil is sable, arampant dragon argent,
+between four stars argent. (A silver dragon rampant between
+four silver stars on a black background.)
+
+Boon: Sidhe of House Ailil are experts at political manipu-
+lation. All rolls involving Manipulation are made at a -1
+difficulty. Members of House Ailil can never botch rolls involv-
+ing Subterfuge or Politics.
+
+Flaw: Because they believe they are descended from a line
+of kings, Ailil sidhe are complacent in their abilities. Challenges
+others would shy away from pique their interest. Even when an
+Ailil sidhe is obviously wrong, she must still make a Willpower
+roll (difficulty 8) to admit it; this only applies, however, to
+noncombative situations.
+
+If an Ailil sidhe backs down from a situation (such as a
+battle she knows she cannot win), she suffers a +1 difficulty to
+all Social rolls until she gains a victory that restores her confi-
+dence and face. This may involve, for instance, abusing under-
+lings who cannot fight back. Ifan Ailil triumphs over impossible
+odds, she will become Seelie for at least a full day.
+
+Exile: The Ailil sidhe were allegedly banished from Arcadia
+for conspiring with Unseelie creatures who lived outside of
+Kithain society. Members of this house attest that they roused
+the forces of darkness that harried the Seelie sidhe from Arcadia.
+Enemies claim that House Ailil summoned up what it couldn't
+put down.
+
+High Lord Erdath believes firmly that he is enacting the
+will of the High Lords of Arcadia when he conspires against the
+Seelie Court. He tells his Unseelie brethren that the Seelie were
+exiled to Earth because of failure, and it is the sworn duty of
+
+Chapter Three: Advanced Szorycellong 4]
+
+
+Cad k CNY C
+
+aa
+
+ay
+
+v
+
+CI CRGY OL
+
+AR
+
+US
+
+'S
+YAY
+zy
+
+Nex
+va
+
+a
+va
+Bae
+
+\
+a
+
+Bu <a>. 8
+
+House Ailil to offer them "guidance." Each year, he accepts a
+wealthy sidhe into his entourage, who must finance his travels
+across the globe for one full year. In exchange, this pupil gains
+the great honor of learning from his Machiavellian tutelage.
+Though treacherous, Lord Erdath ensures that this chosen one
+will gain a political title of great privilege before the year is over.
+
+House Balor
+
+Most Kithain believe that the name of this house is an
+Unseelie joke, a slap in the face to the Seelie Court. Most Seelie
+see Balor sidhe as bad children — since they are so dissatisfied
+with fae society, they'll say and do anything to shock and offend.
+Accordingly, sidhe of this house live up to the stereotype and
+love it. Only a few greybeards and loremasters know the truth.
+The members of this house are descended from a line of sidhe
+who mixed their blood with that of the original fomorians.
+
+Legends tell that the house was founded by Lugh of the
+Long Arm, grandson of Balor of the Evil Eye. If it's true, it makes
+them doubly royal and a threat to the fae of House Gwydion. As
+such, they consider ridding themselves of the weak and foppish
+Seelie as their destiny. Humanity itself is also beneath them, and
+privately, they claim that the time will come when House Balor
+will rule over a world consumed by darkness.
+
+Since stating this view openly is not terribly popular, these
+rebellious fae have developed preternatural talents of intrigue.
+Some even infiltrate other houses. Houses Eiluned and Dougal
+don't know of these traitors in their midst, and House Liam
+doesn't pursue elaborate tests of lineage anymore. Many Balor
+sidhe are biding their time, waiting for the moment to strike.
+Those who openly profess to belong to House Balor flaunt their
+membership.
+
+42
+
+Book of Lost Dreams
+
+All members of this house carry a deformity of one variety
+or another, and they often carry something even more twisted:
+their tainted souls are unaffected by cold iron, which they
+treasure. Flirting with disaster is a way of life to them. In fact,
+they have been found allying with other tainted creatures,
+including Black Spiral Dancers and modern fomori. As far as
+they're concerned, the days of the modern age are coming to an
+end, and when eternal darkness descends upon the Earth, House
+Balor will stoke the bonfires and revel in the madness.
+
+House Balor's blazon is sanguine, a tower or entwined by a
+serpent sable barring a door gules (a black serpent entwined
+around a golden tower and barring a red door on a field of
+purple).
+
+Boon: The fomorian blood of these sidhe shields them from
+the worst effects of iron. Cold iron still causes them discomfort,
+but Balor sidhe take no penalty when performing tasks that
+involve contact with it. They do not lose temporary Glamour
+when struck with it. If slain by an iron weapon, however, their
+faerie souls are still destroyed.
+
+Although every Balor sidhe has a Seelie Legacy, it is always
+subdued. Though they can masquerade as Seelie sidhe, they will
+never actually become Seelie. For members of House Balor,
+that's a boon.
+
+Flaw: Each member of this house has a physical, mental or
+emotional deformity. Neither prosthetics nor psychological
+help can correct it, although it can be hidden. This Flaw can
+never be overcome. In addition, a Balor sidhe cannot have a
+Willpower rating higher than 6.
+
+Exile: Very few Balor sidhe returned to Earth during the
+Resurgence. The Balor insist that only a few of them were busy
+corrupting the lands of Arcadia, but enough of them were active
+
+
+to speed the decay of paradise. According to the legend, most of
+the descendants of this house left on Earth were Undone during
+the Shattering, but their spawn later awakened from Chrysalis
+during the Resurgence. The High Lord of House Balor speaks of
+being weaned in a hive of corrupted werewolves, though few
+believe him.
+
+High Lord Li-Tili rules an undersea kingdom in the derelict
+wreckage of an ocean liner, where his entourage has constructed
+a carefully maintained palace. His servants have an unnatural
+gift that allows guests to descend with them into the depths.
+Balefires light his audience chamber, and 13 Black Spiral
+Dancers guard it. It is rumored that each year the new High Lord
+of this house is devoured by his successor at Samhain, but there
+is no proof to substantiate this.
+
+House Leanhaun
+
+These fae crave Glamour like no other could. Without
+Glamour, a Leanhaun sidhe ages rapidly. Starved of this source
+of imagination, he can change from childling to grump almost
+overnight, feeling the pain of the transition every step of the
+way. Most fae know of this curse, and most believe that enough
+Glamour will hold it off. What they don't realize is that the
+forbidden practice of Rhapsody is one of the most effective
+methods for not only healing the symptoms of this curse, but also
+for temporarily stopping the aging process entirely and even
+
+reversing it slightly.
+
+A Leanhaun chooses a promising mortal and infuses him
+with a heady amount of Glamour. The artist becomes com-
+pletely consumed by his passion for creation, and works madly
+and unceasingly. In one glorious burst of creation, he creates his
+final masterpiece. The Leanhaun sidhe inspires and revels in
+this incandescent burst of creativity, and feeds off it until the
+mortal exhausts his creative instinct completely. This either
+results in a life of staid Banality or a tragic and horrific death.
+The artwork created is then destroyed, and the final ritual offers
+a feast of Glamour.
+
+As one would expect, this practice is forbidden in the
+society of the Kithain. A changeling who is convicted of this
+crime is summarily banished. Thus, members of this house are
+careful to display their more modest sides. They feast on Glam-
+our in epic sprees and decadent orgies. The Fiona may crave
+pleasure, but the Leanhaun hunger for what it brings: magical
+power that defies time itself.
+
+House Leanhaun's blazon is vert, a harp or entwined by a
+thorny rose sable (a golden harp twined with a black rose on a
+green field).
+
+Boon: All members of this house receive an extra point of
+Charisma, even if this raises the Trait over 5. Additionally,
+Leanhaun sidhe get a -1 difficulty on all Seduction rolls and can
+never botch them.
+
+}
+
+ig . ‘ OO Mabe
+
+Chapter Three: Advanced Storycellong
+
+-
+
+gy
+an a
+
+@.
+
+v,
+
+
+/
+
+(ae ee s Pet nte ‘aM e ao. ‘a8. Flaw: As a result of an ancient curse, Leanhaun sidhe age
+Mn! "eo tt m4 ' unnaturally. Those who do not engage in Rhapsody at least once
+
+a month age one year for every week beyond this time limit that
+they fail to do so.
+
+The simple version of Rhapsody involves a clique of
+Unseelie. The group invests from one to five points of Glamour
+as they begin. The victim — the artist involved — rolls
+Manipulation + Expression, and adds one success for each point
+of Glamour invested. The resultant masterpiece then has tainted
+dross within it, one point for each success.
+
+& - o_8 nee
+
+This masterpiece is then destroyed and appreciated by the
+fae. When this happens, divide the number of successes on the
+aforementioned roll among the members of the "audience."
+Seelie get one point of Glamour for each point of tainted dross;
+Unseelie get two Glamour for each point of tainted dross;
+Leanhaun get three Glamour for one dross.
+
+7.
+
+s
+S.
+
+m,
+
+Exile: Leanhaun sidhe were allegedly sentenced to exile for
+crimes against the court of the High King. Their geas demands
+that none may speak of what transpired, although it is known
+that a gathering of troubadours was slain for the High Lord of
+Leanhaun on the eve of her exile. In many Arcadian tales, a
+different version of this crime is woven into many epic stories.
+
+High Lord Eleanor enjoys the privilege of great wealth, and
+she rarely lives in the same city for more thana month. The curse
+of her house has resulted in her aging 70 years over the last 30
+years, but tenaciously, she survives. Each month, she hosts a gala
+at which her latest protégé is introduced. Her dark Arts allow
+her to assume a new identity each month, or sometimes each
+week. Though she has been condemned repeatedly by the
+Parliament of Dreams, the other High Lords insist that she be
+accepted at any gathering of the legislature.
+
+=)
+
+pe 44 Book of Lost Dreams
+Fal?
+
+2 ON Sue ~ gn ~ ge i YX
+
+
+New Background e One local destination accessible one-fourth of the
+
+time. »
+Some Storytellers have noted that getting a trod for free ee One local destination accessible half of the time, eS
+with the Holding Background is pretty powerful. And not only or 2-3 local destinations accessible one fourth of Ry
+that, but how do you determine exactly how and when the trod the time, or one local destination accessible all Ww,
+can be used? The following Background allows Storytellers to the time. Sy)
+have players purchase trods separately from freeholds as Back- eee 2-3 local destinations and one regional destination (L y)
+grounds. In addition, some guidelines are provided for how accessible half of the time, or 2-3 local destina- UX
+powerful these trods can be based on the level purchased. tions, one regional destination and one Near ( VJ
+Trod Dreaming destination accessible one-fourth of ry
+the time, or 2-3 local destinations accessible all J
+You possess access to a trod that leads to other earthly the time. x
+destinations, or even to destinations within the Dreaming. eeee 4.5 local destinations, two regional, one national y
+Trods usually have openings within freeholds, but not all (e.g. Concordia) and two Near Dreaming destina- BY
+freeholds have trods. Your trod may be in your freehold (if you tions accessible half of the time, or 4-5 local (: s
+have the Holdings Background), or it may stand on its own. destinations, two regional, one national, one Near Le
+Trods do not necessarily correspond in power to the freehold Dreaming, one Far Dreaming accessible one-fourth ww
+into which they open. It is possible to have an immensely of the time, or 2-3 local destinations and one (SS)
+powerful trod within a minor freehold (or vice versa). Trods regional destination accessible all the time, or 2- (- —
+follow the cycles of nature (seasons, movement of the planets) 3 local destinations, one regional destination and Ld
+and are only accessible at certain times. The player and the one Near Dreaming destination accessible half of Oy
+Storyteller should decide at which times the character's trod is the time. (WS
+active. eeeee 4-5 local destinations, 3-4 regional, two national, (=
+A trod that is open one half of the total time in a year may two Near Dreaming, one Deep Dreaming acces- C,
+be only accessible at night, on even-numbered days, or from sible half of the time, or 4-5 local destinations, 4- ~
+Beltaine to Samhain. Several, very powerful trods, such as the 5 regional, four national, two Near Dreaming, two WS
+one at Tara-Nar, exceed the scale listed below. The legendary Far Dreaming, one Deep Dreaming (maybe as far ( =
+Silvers Gate trod may have led everywhere. Any trod bought as Arcadia Gate) accessible one-fourth of the IY
+with this Background is relatively safe for the changeling at both time, or 2-3 local destinations, one regional desti- Oy
+ends. (It does not lead to the Nightmare Realms, etc.) The only nation and one Near Dreaming destination acces- KS
+exception are trods that lead to the Deep Dreaming, which are sible all the time. (&
+
+C
+‘
+
+completely unpredictable.
+Please note that just because one owns a trod, one cannot
+necessarily open it.
+
+g
+Y
+
+Pa
+
+6
+=
+wy
+=
+Ss
+=
+iS
+ws,
+
+X
+
+Chapter Three: Advanced Storytellong 45
+
+
+ae
+
+
+Faced with a crucial decision
+
+So many ways I can go
+
+Am I aman with a mission
+
+To carry on or leave well enough alone
+
+Can you give me an answer my friend
+
+I don't trust my own mind
+
+Is there some way to open my eyes
+When I pretend to be blind
+— Lowen & Navaro, "Writing on the Wall"
+
+Incroduction
+
+An important magical treasure has been stolen from the
+count's freehold, and the characters must see to its safe return.
+Despite attempts at secrecy, many people know about the theft
+and want the treasure for themselves. The characters must use
+their wits, following a few scattered clues to find the culprits
+while fending off the advances of people who would see the
+treasure delivered into their hands rather than the count's. To
+make matters worse, the treasure must be recovered quickly, for
+itis to be used to honor the duke, who is due to visit in just three
+days...
+
+‘Theme and CDood
+
+"Capture the Flag" is an intrigue and investigation story. At
+its simplest level, it isa mystery wherein the characters are the
+detectives looking for the criminal so that justice may prevail.
+At various stages of the investigation, the characters must
+choose between intimidation and persuasion. If all goes well, the
+
+characters successfully interpret the available clues, secure the
+lost artifact and become heroes.
+
+The resolution of the detective-story aspect of this adven-
+ture has larger implications. The players become involved in
+court politics as other parties interested in the stolen treasure
+seek to turn them away from the count, hoping to prevent that
+noble from regaining what he has lost. Questions of loyalty and
+honor conflict with personal gain as the characters must choose
+to whom they will surrender the treasure, if they choose to
+surrender it at all.
+
+Ploc
+
+Someone has crept into the count's freehold and stolen his
+pennon, the magical banner that symbolizes his right to rule
+over his lands, the token of his noble authority. The pennon's
+loss is a great blow to the count's personal honor, but the duke's
+imminent visit stands to make the loss much greater, for the
+duke puts great stock in symbols. The count must recover his
+pennon without word of its loss getting out. The count's chan-
+
+Chapter Four: Capture the Flay 47
+
+CS &,
+
+\/
+
+A EW
+
+MAM LLIVLAIVL
+
+aS
+
+
+Ss
+.
+
+>
+Pe
+
+re
+
+Z
+
+Tt)
+
+A
+_)
+
+\
+SX
+
+cellor hires the characters to perform a seek-and-recover mis-
+sion, warning them of the importance of discretion. He gives
+them his only clue to the culprit's identity and informs them
+that they have three days to regain the lost pennon.
+
+Unbeknownst to the count, spies in his court report to one
+of his vassals, Baron Miles Parke, a cunning sidhe of House
+Filuned. Sensing achance to prove his liege lord unworthy of his
+position and seize it for himself, the baron has his own agents
+looking for the count's pennon. These agents hope to find the
+pennon before the characters do, but they're prepared to follow
+and ambush the characters, if necessary. The baron is also open
+to persuading the characters to join his cause, if the opportunity
+arises.
+
+The characters' investigation leads them through the squalid
+city streets as they pursue their quarry, with each new clue
+leading closer to the goal. Along the way, they meet a mysterious
+individual who claims to have hired the thieves and is looking
+for his "employees," who haven't turned over the treasure. This
+individual tries to convince the characters that they should give
+him the pennon for the good of all who would see sidhe rule
+come to an end.
+
+Finally, the characters find the culprits, who are having
+second thoughts about what they've done. These fae realize the
+gravity of the situation, however, and they won't turn the
+pennon over to the characters without believable assurances of
+anonymity. Of course, the characters could just try to beat them
+up and take it.
+
+Once the characters have the pennon, they must decide
+what to do with it — turn it over to the count and save his honor
+before the duke, turn it over to the baron to further his political
+goals, give it to the sinister man who claims to have the interests
+of the commoners at heart, or keep it for their own ends.
+
+Storyteller Nozes
+
+"Capture the Flag" is designed to appeal to many different
+troupes and fit into many different chronicles. Groups that like
+to roughhouse can succeed by the judicious application of force,
+though roleplaying may be more likely to win the day. Inexpe-
+rienced characters might be selected for this mission because
+their lack of reputation helps preserve the secrecy of the task,
+while established characters may be selected for their discretion
+and reliability. Characters with little involvement in politics
+might be chosen specifically for that instance, while characters
+heavily embroiled in politics could become involved as just
+another day of playing the game. These events can take place in
+just about any city anywhere, witha little fine-tuning on the part
+of the Storyteller.
+
+"Capture the Flag" assumes that the count hires the char-
+acters, but either the baron or a sinister third individual de-
+scribed in the story could hire them instead if that suits the
+Storyteller's plans. There are many ways to introduce the players
+to the events detailed, though some require adjusting the plot.
+This adventure allows the characters to have a real impact on
+the political landscape of their area by virtue of what they decide
+to do with the recovered pennon. Storytellers who feel uncom-
+
+48 Book of Lost Dreams
+
+
+fortable with this potential for kingmaking should keep in mind
+that the fate of the count ultimately lies in the hands of the duke,
+who may take mercy on his vassal if the count's continued rule
+is in the story's best interests.
+
+Scene One:
+
+An Invicacion co Heroism
+
+The adventure begins when one character's evening of quiet
+relaxation and entertainment is interrupted by a knock at the door.
+The visitor is a well-dressed nocker who asks for the character by
+name and then hands him a large, cream-colored envelope. After
+delivering the missive, he waits for the character's response.
+
+The envelope is of thick parchment and emblazoned with
+the character's name in a flowing, artistic hand. The envelope
+is sealed with deep yellow wax impressed with the image of a
+wineglass and a rose. A successful Perception + Politics roll
+(difficulty 7) makes the character aware that this is the personal
+seal of Lord Piper Gaines, the count's chancellor.
+
+Ifthe character agrees to meet with the chancellor, the nocker
+escorts him to a car waiting outside. The nocker asks any other
+characters present to goalso, and he picks up any who are not there.
+Throughout the ride, the nocker remains quiet, deflecting any
+questions. If the characters persist, he says only that the chancellor
+willanswer them if he sees fit. Ten minutes after picking up the last
+character, the group arrives at Emily's, an exclusive restaurant in
+a posh neighborhood. The nocker leads the way into the restau-
+rant, where the characters are shown toacandle-lit private dining
+room with a long table set for an elegant dinner.
+
+Seated at the table, sipping dark red wine from a cut-crystal
+goblet, is a sidhe grump dressed in a well-made dark green suit.
+His long, silvery blond hair is pulled back in a ponytail, and he
+wears several pieces of silver and gold jewelry. He smiles and
+rises briefly as the characters enter, introducing himself as
+Chancellor Gaines. He then welcomes the characters, gesturing
+toward the waiting seats. As the characters sit, the nocker stands
+behind the chancellor as though guarding him. A moment later,
+two waiters enter the room and begin serving a sumptuous meal
+of creamy soups, large salads and luscious main courses. Through-
+out dinner, the chancellor makes pleasant and aimless conver-
+sation, addressing each character by name.
+
+After a dessert of flavored ices drizzled with sweet fruit
+sauces, the chancellor gets down to business. Before explaining
+his summons, he asks the characters to swear an Oath of Secrecy,
+charging them never to repeat what he reveals to them. If the
+characters refuse, he thanks them for their time and orders the
+nocker to return them to their homes. Chancellor Gaines is
+unlikely to approach them in the future, and he seeks other
+changelings to solve the count's problem.
+
+If the characters agree to swear the oath, it is a variant of the
+Oath of Guardianship (pg. 211, Changeling: The Dreaming
+second edition). There is no cost to swear the oath, but change-
+lings who reveal information they have been sworn not to reveal
+are cursed with the inability to keep anything secret for a decade.
+
+Oath of Secrecy
+
+As the Mists enshroud mortal minds and Arcadia's gate
+stands unfound, so shall I keep close and secret the knowledge
+I gain in this time and place. Never shall it pass my lips, else may
+night become as day and all things hidden be exposed.
+
+Characters taking this oath gain an additional point
+of temporary Willpower. If the oath is broken, two points
+of temporary Willpower are lost.
+
+After the characters swear the oath, the chancellor explains
+that thieves crept into the count's stronghold and left with a prize
+of immense value — the count's pennon. As nearly all changelings
+know, a noble's pennon is the symbol of his authority to rule his
+lands in the name of his liege. The loss of one's pennon is an
+embarrassment of the highest order and a great loss of personal
+honor. Fortunately, knowledge of the theft has been contained to
+a handful of trusted individuals, as it was the chancellor himself
+who noticed that the pennon was missing during a late-night walk.
+A chimerical copy of the pennon currently flies, preventing
+knowledge of the theft from spreading. This isa temporary solution
+at best, however. To make matters worse, the duke will visit in
+three days, andhe will not be fooled by the false pennon. The count
+wants the pennon returned before the duke's arrival, and the
+chancellor asks the characters to accept the charge.
+
+If the characters agree, Chancellor Gaines hands them an
+envelope that contains his only clue, a membership card for
+Hollywood Video Rental. One corner of the card has a hole
+punched in it to fit on a key ring. The plastic of this corner is
+torn, as though the card was caught in somethingas the thief fled
+and left behind in his haste. The card has no name, but is
+embossed with a membership number.
+
+If the characters ask about a reward, the chancellor seems
+amazed that the opportunity to serve the count is not reward
+enough for loyal changelings. He suggests that the count's gratitude
+is likely to manifest in myriad subtle and long-term ways. For those
+who insist on concretely defined recompense, he offers mundane
+money or other suitable amenities, or up to three dream stones per
+character. In the latter case, each dream stone contains 3 Glamour.
+
+Before allowing the characters to depart, the chancellor
+gives them instructions for contacting him secretly.
+
+Chapzer Four: Capture the Flag 49
+
+iS
+eS
+fy
+©
+eS
+
+G
+
+a
+a
+4
+
+le
+
+43
++o
+
+~
+
+SORIOSS.
+
+ISIE
+
+»
+
+\s
+Xa
+(=
+(=
+A
+
+lees Sele
+LHOLIWOOD VIDEO.
+
+ome Mone Seevice
+
+$5, OD per delivery
+Ask an emloyce
+
+peel
+
+ADULT VID
+AROUND BA
+
+Scene [wo:
+
+Have Thac Back dy Il Tomorrow.
+
+With the membership card in hand, the characters should
+easily find the video store. One or more of the characters may
+already be familiar with it, as Hollywood Video Rental is located
+in a low-income section of town. If no one knows the place, it's
+listed in the phone book. The store stays open until 11:00 P.M.,
+giving the characters time to investigate the store after their
+meeting with Chancellor Gaines.
+
+Posters advertising newly released videos cover the store's
+windows. Characters who enter see shelves lined with hundreds
+of videos in dozens of categories and an "Adults Only" sign
+hanging over a door leading to a back room. A handful of
+patrons mill about selecting the night's entertainment while an
+employee restocks the shelves from a haphazard pile of movies
+near the register. A second employee stands behind the com-
+puter register waiting on a customer. Above his head hangs a
+sign announcing Hollywood Video's new movie delivery ser-
+vice. For five dollars, the store delivers any video in stock toa
+customer's house.
+
+The membership card belongs to a wilder redcap whose
+mundane identity is Mark Shaker; the key to this scene is finding
+his name and address. There are several ways to get this informa-
+tion. The following list describes some of the most likely
+avenues, but anything the Storyteller deems reasonable should
+have a chance to succeed.
+
+e The characters can call the store and have a video
+delivered, using the membership number on the card. It's been
+a long night, so the clerk doesn't realize that the caller didn't
+give his name as well as his membership number. He thanks the
+caller, using the name "Mr. Shaker," then reads out Shaker's
+address for confirmation.
+
+e The characters can rent a video in person. After paying
+for arental, customers sign a printed receipt that lists their name
+and address. If the characters do this, the clerk gives them a brief,
+quizzical look and then says "New friends of Mark's?" If the
+characters answer affirmatively, the clerk says something akin
+to "I told him to call first. One of these days he's gonna lose his
+card, and someone's gonna come in here and use it, and I won't
+know not to let em." The clerk makes small talk for a minute,
+asking about Mark's health and recent activities. If the charac-
+ters play along, they should be fine.
+
+e The characters can strong-arm the clerk and demand the
+information they need. Not one to get into a fight over his job,
+the clerk punches the membership number into his computer
+and gives the characters the name and address. Other customers
+are shocked by the act and may flee the store if the characters do
+not stop them. Assoonas the characters leave, the clerk calls the
+police.
+
+OTICE:
+
+=e of «90
+
+e The characters can cause a diversion to drag the clerk
+away from the computer, giving them time to use it. Suitable
+
+2) diversions include having a loud argument, knocking over a
+(= .L BE ADVED shelf of videos or crashing through the front window. Such a
+A TAPES THAT
+
+OX 50 Book of Lost Dreams
+
+bs te
+
+2° AN Suse > > gn gm mn ai > > > gn > gn ~ ~~
+
+distraction pulls the clerk away from the computer for no more
+than a minute. A successful Perception + Computer roll (diffi-
+culty 6) retrieves Shaker's name and address before the clerk
+turns away from the distraction. If this fails, the character may
+roll Dexterity + Stealth roll against the clerk's Perception +
+Alertness (5) to step away from the computer without being
+seen. If the clerk achieves more successes than the character, he
+spots the character and immediately threatens to call the police.
+
+¢ The characters can tell the clerk that they're looking for
+the owner of the membership card and fabricate a reason to
+explain why. A successful Manipulation + Subterfuge or Ma-
+nipulation + Intimidation (difficulty 7) eventually overcomes
+the clerk's reticence to divulge the information, if the story is
+plausible. A less plausible story raises the difficulty to 8, while a
+ludicrous story given little thought raises it to 9. The clerk takes
+some serious convincing; don't just give the characters their
+information for a single roll of the dice.
+
+Scene Three:
+Home Swieec Home
+
+Shaker's small, one-bedroom apartment is on the third
+floor of a six-unit house on a side street near the video store.
+Finding it takes no more than 15 minutes, even for characters
+unfamiliar with the neighborhood.
+
+The front porch has a short staircase that slants to the right
+and is missing one step. Several broken windows have been
+repaired with cardboard and wood, and tall weeds grow com-
+pletely through the rusted chain-link fence. A bare light bulb
+flickers fitfully above the door, and the paint is peeling in wide
+strips. Inside, the hallway's plaster walls are gouged and pitted.
+The sections of wallpaper that haven't been pulled from the wall
+are faded and water-stained. The stairs creak with each step, and
+muffled rock music plays ina second-floor apartment. More bare
+bulbs give dim light.
+
+Shaker's door opens easily, and a quick examination reveals
+that someone forced the door open. Inside, the characters find
+the apartment in total disarray. Furniture has been upended;
+cabinets and drawers have been emptied, and their contents
+scattered across the floor. Though the situation looks bleak, the
+characters may find two clues. A successful Perception + Alert-
+ness roll (difficulty 4) reveals a pair of grease-stained overalls in
+a pile of dirty laundry; the overalls are embroidered with the
+name Mark and have a patch that says "Dave & Doug Auto
+Body." A character who specifically searches the kitchen trash
+container and makes a successful Perception + Alertness roll
+(difficulty 8) locates an empty matchbook bearing the name,
+phone number and address of the Ten Dollar Inn.
+
+When the characters leave the apartment, the hallway is
+dark, though this darkness does not include the third floor if
+anyone stayed on watch in the hall. A shrouded figure waits on
+the second floor at the bottom of the stairs. If the characters
+fashion a light, the figure somehow stays wrapped in shadow,
+making it impossible to identify him or her clearly. A successful
+
+Perception + Alertness roll (difficulty 9) allows a character to
+catch a quick glimpse of hooves.
+
+The figure addresses the characters, asking them to listen
+for just a few moments. He tells the changelings that he knows
+their purpose and would like them to give him the count's
+pennon when they find it. He explains that he is part of an
+organization that works to restore the days before the Resur-
+gence, atime when commoners lived as they pleased and did not
+have to bow and scrape to imperious sidhe lords. The figure
+speaks passionately and pounces on any favorable reaction,
+trying to stir anti-sidhe sentiment among the characters. If this
+tack doesn't work, the figure appeals to the characters' greed,
+offering to double any payment the count has promised them. If
+the changelings refuse, the figure vansishes into a pool of
+darkness, hinting that those who defy him always regret it.
+
+The figure is Oliver "Bloodhorn" Kress, an Unseelie satyr
+who is secretly a member of the Ranters (pg. 46, Nobles: The
+Shining Host). This radical organization despises royalty and
+works to undo the rule of the sidhe. Bloodhorn has no desire to
+fight, especially since he is alone. If attacked, he flees using the
+Wayfare cantrip Flicker Flash (pg. 208, Changeling: The Dream-
+ing second edition). Bloodhorn's ability to surround himself in
+darkness derives from his cloak, a treasure of moderate power.
+
+Scene Four: All Ina Days
+(Uork
+
+By the time the characters are done at Shaker's apartment,
+the auto body shop where he works is closed. If the characters
+break into the garage and look around, they find a small back
+room with a few lockers, a beat-up card table, three folding
+chairs and several old calendars showing mostly naked women
+lounging on motorcycles and cars.
+
+If the characters visit the garage the next day, they see a
+stunning sidhe woman holding an animated conversation with
+a gray-haired boggan who wears mechanic's overalls. The two
+fae stand in a glass-walled office with the door closed, but the
+characters clearly see that the woman is upset. The boggan wipes
+his hands on an oil-stained rag and slowly shakes his head, while
+the sidhe woman speaks and gestures wildly. After a moment,
+the boggan holds up his hands in a gesture of helplessness, and
+the sidhe woman stalks out of the office and away from the
+garage. The characters catch a spicy perfumed scent as she
+passes, and they can see anger flashing visibly in her green eyes.
+A successful Perception + Politics roll (difficulty 8) allows a
+character to recognize her as Lady Lilliana Shannon, a member
+of Baron Parke's retinue.
+
+The characters can try to talk with either or both of the fae,
+though they must act quickly to catch the sidhe woman before
+she reaches her Toyota Celica and drives off. She is angry from
+her conversation with the mechanic, so she is curt and short
+with the characters. She doesn't answer questions pertaining to
+the search for Mark Shaker or the pennon, and after a few
+minutes, she breaks off the conversation and gets into her car.
+
+>|
+
+Chapter Four: Capture the Flag
+
+|
+
+384
+
+\¢
+
+C/
+
+maw 4
+
+SS
+IAM
+
+Cried
+
+
+Before leaving, however, she calls the most attractive male
+character over to her window and speaks quietly with him for a
+moment. She tells him in no uncertain terms that she intends
+to see the pennon in the baron's hands, whatever she must do.
+She hints that the rewards will be great for those who help the
+baron take the count's place, but her special brand of gratitude
+awaits the character if he brings the pennon to her so that she
+may deliver it.
+
+Characters who introduce themselves to the mechanic
+learn that he is Douglas Bender, one of the shop's owners. Like
+many boggan grumps, he is a bit short-tempered and gruff, but
+a touch of politeness smoothes his feathers. If the characters ask
+about Mark Shaker, Bender happily talks about him at length.
+The old boggan has a soft spot for the young redcap and thinks
+of him asa son. Bender isa little worried about Shaker, since the
+redcap didn't show up for work the previous day, something that
+had never happened before. Characters who play upon Bender's
+feelings get quick and honest answers about Shaker. Otherwise,
+characters must convince Bender that they are acting in Mark's
+best interests. Such attempts must have a plausible story as
+support, and the character must succeed in a Wits + Subterfuge
+roll (difficulty 6). If convinced, Bender reveals that Shaker
+complained about having to spend a few nights at the Ten
+Dollar Inn while workmen repaired his plumbing. He also
+knows that Shaker is staying in room 13.
+
+Scene Five: $29 a Nighc
+
+The Ten Dollar Inn is a bargain motel that caters primarily
+to transients, poor traveling salesman and adulterous couples
+engaging in quick rendezvous. The rooms are small and cheap,
+with cracked paneling on the lower half of the peach or lime-
+colored walls and worn carpet that is stained where it hasn't
+faded. The televisions don't have remote control, and part of the
+neon sign doesn't work, blinking "Ten Doll In" into the night.
+
+A CDidnight Visic
+
+If the characters find the matchbook in Shaker's apartment
+and come straight to the Ten Dollar Inn, they arrive shortly after
+midnight to find a sleepy attendant on duty. The attendant is a
+mundane college student, and he reveals that Shaker stays in
+room 13 if the characters pay him at least $20. Intimidation
+tactics work very well, and a successful Manipulation + Intimi-
+dation roll (difficulty 4) secures the same information. Behind
+the attendant is a rack of message boxes, with two messages in
+box 13. For another $20 (or more intimidation), the attendant
+allows the characters to read Shaker's messages. The first is from
+Bender, asking Shaker why he didn't show up at work that day.
+The second is from someone named Nikki, asking Shaker where
+he is and saying that she'll call again the next day.
+
+Characters who check out Shaker's room find the door
+locked. No one is home. If the characters break in or convince
+
+pees 52 Book of Lost Dreams
+MOOT OT DDD ODDO DOPOD DODD DODO DODO OD
+WM SIICSIOSIIOSIOSIIOSIOSIOSICSIGSIOS
+
+Ar"
+
+the attendant to let them in, they see pants and shirts draped
+across the back of the room's lone chair, a toothbrush and
+toothpaste on the bathroom counter and an in-progress game of
+solitaire on a small table. A half-full can of soda sits beside the
+cards; there is no condensation on the can, and the liquid is
+warm and flat. Though someone has clearly been using the
+room, he hasn't been here in a while. Characters who decide to
+watch the room and wait for Shaker have a long night ahead; the
+errant redcap does not come to the hotel room that night.
+
+AFcernoon Rendevous
+
+Characters who visit the Ten Dollar Inn the next day find
+a middle-aged, balding, overweight clerk wearing a sweat-
+stained T-shirt and smoking a cheap cigar. He gives the same
+information as the night clerk (Shaker's room number or access
+to Shaker's messages), but the price is $30 for each "service."
+Intimidating the day clerk is harder, requiring a successful
+Manipulation + Intimidation roll (difficulty 6).
+
+Early that afternoon, Shaker receives another message from
+Nikki. Characters who gain access to this message find the
+following, written in the day clerk's barely legible scrawl.
+
+FOL Mak Shaker.
+FRO Nike U5
+
+mM)
+
+td
+o
+
+RE. Remember mectin Tonight Y,00
+Wat Aue, not (75%.
+with ct
+
+m place Del /
+a thee. Sotto foot what to do
+
+Further watching of Shaker's room or the motel office
+proves fruitless, as Shaker never shows up. The only remaining
+avenue is to show up at the meeting and hope for the best.
+
+Scene Six:
+Liccle Do They Know...
+
+At the address listed in Nikki's message, the characters find
+a used furniture store with apartments above. A residential door
+beside the store is locked, but it has a small window through
+which characters see a narrow staircase leading upward. There
+is a cheap intercom system and four doorbells, one of which is
+labeled "2A — N. Moore." A narrow alley leads to a small
+receiving area behind the store, where characters find a large
+door labeled "Employees Only" and a pair of fire escapes for the
+apartments on the second and third floor.
+
+Characters who break into apartment 2A find several
+sparsely furnished rooms. The main room contains a futon sofa
+along one wall, several folding chairs stacked in a corner, a
+portable stereo and a dozen or so plants. Fantasy prints of
+dragons and unicorns adorn the walls. The small kitchen has
+old, worn-out appliances and nearly empty cabinets. The bed-
+room serves as an art studio, with supplies scattered about and
+two easels supporting works in progress. The apartment takes no
+more than 10 minutes to search. The count's pennon is not here.
+
+The characters may decide to wait for people to arrive for
+the meeting. At 8:30 P.M., a wilder eshu woman unlocks the
+
+bl
+ys
+
++, 2h Oe ag
+
+Chapter Four: Capture the Flag 53
+
+@,
+
+,
+
+C\
+
+(<
+(&
+
+x
+
+<q
+
+sy
+&
+
+=)
+LS
+rs,
+
+\ ey
+ee
+
+a
+‘Da
+
+
+door beside the store and steps in. She wears black tights,
+combat boots and an oversized, dark green sweater. She has an
+olive complexion and black hair, which is pulled back in a
+ponytail. A few moments later, a light on the second floor turns
+on. Patient characters see two more changelings arrive 15
+minutes later, a male wilder nocker in torn jeans and a green
+leather jacket and a female wilder pooka in a short, red velvet
+dress and white, knee-high boots. The nocker rings Nikki's
+doorbell and holds a brief conversation over the intercom,
+identifying himself and the pooka as Cracker and Bonnie. A
+buzzer sounds a moment later, and the two fae enter.
+
+If uninterrupted, the three fae talk about things of little
+importance until 9:15. They wait for Shaker, but decide to
+proceed without him when he doesn't show up. Cracker takes
+the count's pennon from a large inner pocket of his jacket and
+tosses it to the floor, complaining as he does so that he's felt as
+though dozens of eyes were watching him all day. The three
+discuss their options in hushed tones. What started as little more
+than a prank has become a serious burden. Bonnie expresses
+second thoughts about turning the pennon over to "that creepy
+satyr Mark knows." She doesn't trust him to keep their names
+secret. All three want to avoid getting caught with the pennon,
+as punishment will be severe. They consider returning it anony-
+mously or dropping it in a dumpster somewhere, but decide to
+wait for Mark to resurface before making a final decision.
+Around 10:00, Cracker and Bonnie leave, taking the pennon
+with them.
+
+If the characters interrupt the meeting — be it by lying in wait
+for Nikki's arrival, pretending to be Shaker and coming in the front
+door or breaking into the apartment while the three changelings
+are discussing their choices — the evening's resolution depends on
+their actions. Nikki and her friends just want to avoid any trouble
+over the whole issue. They give the pennon to the characters if
+convinced that their names will be forgotten. If the characters
+attack, the three fae fight to defend themselves but seek the most
+expedient escape. Characters who use threats or intimidation do
+little more than anger Cracker. If angry enough, he launches an
+attack against the characters to cover Nikkiand Bonnie while they
+grab the pennon and make a break for the fire escape, leading to
+an exciting chase through the city streets.
+
+(Urap-up and Loose Cnds
+
+Storytellers who like to punctuate their chronicles with
+combat might choose to add a fight at this point. Baron Parke's
+spies are subtle and crafty, and might follow the characters to the
+meeting, planning to take the pennon from them once they
+have secured it. If the characters are working for the baron,
+Lilliana Shannon might ambush them so that she can deliver
+the pennon and take all the credit. If the characters turned down
+Bloodhorn's offer, he might catch wind of the meeting and show
+up with his thugs. He might attack all the changelings in Nikki's
+apartment, giving the characters a chance to prove themselves
+by fighting alongside the three other fae. He might attempt to
+discredit the characters by claiming that they work for him,
+which they might wish to disprove.
+
+p Book of Lost Dreams
+
+OY,
+Q
+
+\
+
+ae
+
+
+U
+\
+
+Once the characters have the pennon in hand, they must
+decide what to do with it. Presumably, they contact Chancellor
+Gaines and deliver it to him, performing a valuable and certain-
+to-be-remembered service for the count. They are granted an
+audience, where the count expresses his personal gratitude
+while reminding them of the need for secrecy in the matter.
+Though the necessary silence prevents him from openly pro-
+claiming the characters heroes, he can reward them in other
+ways. Having served him once, they may have the opportunity
+to serve him again, a "patronage" that is certain to make them
+famous.
+
+If the characters turn the pennon over to Baron Parke or
+Bloodhorn, however, the Storyteller has some interesting choices
+tomake. How does the duke react when he learns that the count
+has lost his pennon? If Baron Parke has the pennon, is his claim
+that the count is undeserving of title heard, and is he chosen to
+take the count's place? If Bloodhorn has it, how does he use it to
+further his anti-sidhe crusade?
+
+If the characters deliver the pennon to the count, there
+remain other unanswered questions which can serve as the
+starting point for further adventures. Who is Bloodhorn and
+what exactly is his organization? How does his anger at being
+denied manifest itself? What form does Baron Parke's own anger
+take? What comes of the three thieves? Where did Mark Shaker
+disappear to, and what might he do upon returning and discov-
+ering what the characters have done?
+
+as
+
+The world of fae politics is a tumultuous one. Whatever the
+characters' choices, they have landed in the middle of a particu-
+larly stormy time. Caught between three opposing forces, they
+can at best ally themselves with one and make enemies of the
+other two. What comes of these choices is sure to make an
+interesting story.
+
+Personalities
+
+The following characters play important roles in the reso-
+lution of "Capture the Flag." They are fully detailed to help the
+Storyteller play them to the fullest.
+
+Chancellor Piper Gaines
+(Honoradle Nodleman)
+
+Piper Gaines' memories of Arcadia are frustratingly vague
+and fragmented, but he remembers one thing clearly — he has
+always served the count. On Earth, he proved himself indispens-
+able by foiling two assassination plots from rival lords. He has
+always advised the count to keep the commoners' needs fore-
+most in his mind, to prove that the sidhe are most fit to rule the
+lands of Faerie. Though he is trained in the arts of war as befits
+a Seelie knight, he has always preferred the equally dangerous
+arena of politics and intrigue. His skills in this area earned him
+the position of chancellor 10 years ago, and he has acquitted
+himself well since then.
+
+Chapzer Four: Capture the Flag
+
+Zara
+oS M/)
+
+Y%
+
+O
+
+SSS
+
+Te
+
+~
+
+GC
+
+x
+
+Wn
+
+Sy
+
+y
+
+Q
+
+RZ
+
+»
+
+SS
+
+SASS
+
+SS
+
+
+You are honored to serve the count, and are surprised by those
+who don't feel the same way. Your long service has accustomed
+you to luxury, and you have developed a taste for the finer things
+in life. You enjoy sharing these things on occasion with those
+who don't have them, as a way of showing what can come of
+service to the sidhe.
+
+Quote: I trust you understand what an honor the count is
+bestowing upon you by entrusting this task to your care. Should you
+succeed, his gratitude is certain. Would you please pass the brandy?
+
+Oliver ‘Bloodhorn' Kress (Fiendish Ploccer!
+
+Oliver Kress was a street cop with a taste for mystery and
+occult novels when the flood of Glamour that brought on the
+Resurgence awakened him to his true nature. A long-time
+protector of innocents, he was horrified by the Night of Iron
+Knives massacre and the Accordance War. Though he believed
+in authority and discipline, authority belongs to those who earn
+the right to wield it. The actions of the sidhe made them
+singularly unworthy of the supremacy they claimed. He fell in
+with rebellious elements of the Unseelie Court and joined the
+Ranters, an organization devoted to tearing down sidhe rule.
+
+Court: Seelie
+Legacies: Regent/Riddler
+House: Dougal
+
+Court: Unseelie
+
+Legacies: Beast/Paladin
+
+House: Commoner (The Ranters)
+Seeming: Grump Seeming: Grump
+
+Kith: Sidhe Kith: Satyr
+
+Physical: Strength 2, Dexterity 3, Stamina 2 Physical: Strength 4, Dexterity 3, Stamina 5
+Social: Charisma 4, Manipulation 5, Appearance 5
+
+Mental: Perception 4, Intelligence 3, Wits 4
+
+Social: Charisma 3, Manipulation 3, Appearance 1
+
+Mental: Perception 3, Intelligence 3, Wits 4
+
+Talents: Alertness 3, Dodge 2, Empathy 3, Expression 3, Talents: Alertness 4, Athletics 3, Brawl 4, Dodge 4, Intimida-
+Kenning 3, Subterfuge 4, tion 4, Kenning 1, Streetwise 4, Subterfuge 4
+
+Skills: Archery 2, Etiquette 4, Leadership 3, Melee 3, Perfor- Skills: Drive 2, Firearms 3, Melee 3, Search 3, Security 3,
+mance 2, Seduction 2 Stealth 4,
+
+2
+
+Knowledges: Gremayre 4, Law 3, Linguistics 2, Politics 4,
+
+Knowledge: Gremayre 2, Investigation 2, Occult 3
+
+Arts: Chicanery 3, Soothsay 4, Sovereign 4
+Realms: Actor 3, Fae 4, Prop 1, Scene 2
+
+Backgrounds: Chimera 2, Contacts 4, Remembrance 1, Re-
+sources 3, Title 2
+
+Vv
+»,
+
+S
+
+ra
+S
+
+Glamour: 7
+Banality: 6
+Willpower: 9
+
+* Image: Chancellor Gaines is a Seelie sidhe grump who
+dresses in well-made suits, often of dark green or blue linen. He
+is thin of frame and slender of face, clean-shaven and quick to
+smile. He wears his long, silver-blond hair in a ponytail, held in
+place by a piece of silver jewelry worked in a Celtic knot. He
+always wears several pieces of silver and gold jewelry, including
+rings, a necklace or two and earrings in both ears. The chancel-
+lor has a slightly twisted left knee which requires him to walk
+with the assistance of a cane.
+
+e
+
+Meo _ gs ~ gen a gn =~ gn ~~ gm ~— iE ~— fn vg oY
+
+Roleplaying Hints: You believe in the rightness of sidhe
+rule, most especially the rule of the count. The sidhe have always
+taken care of the commoners, and will continue to do so even if
+the commoners are too ungrateful to know what's good for them.
+
+56 Book of Lost Dreams
+
+
+Arts: Chicanery 4, Legerdemain 4, Wayfare 5
+
+Realms: Actor 3, Fae 5, Prop 3, Scene 2
+
+Backgrounds: Chimera 3, Contacts 3, Resources 3, Treasure 3
+Glamour: 6
+
+Banality: 8
+
+Willpower: 8
+
+Image: Little is known about Oliver Kress' appearance,
+save that he is known to be satyr. Some who speak with him
+mention brief flashes of expensive clothing, but Kress wears a
+chimerical black cloak that magically wraps him in shadow and
+prevents anyone from seeing him clearly. Only the occasional
+flash of hooves and the small points his horns make in the cloak's
+hood betray his kith. His horns are rumored to be dark red in
+color, adding credence to the stories that he spent a lot of time
+with redcaps when he was younger.
+
+Roleplaying Hints: You plot and scheme for the day when
+the sidhe will learn they are not the natural rulers of Faerie.
+Commoners handled their affairs perfectly well for centuries
+without them, and their return brought nothing but pain and
+suffering. You will stop at nothing to see your goals accom-
+plished, and there is much blood on your hands. You have a hard
+time remaining calm when trying to convince others that they
+should help your cause; your satyr blood runs hot, and your anger
+runs away with you if you think about the wrongs of the sidhe for
+too long. You do not take well to being denied, and you always
+remember those who refuse you, especially if they serve the
+sidhe.
+
+Quote: If you won't see that the sidhe won't stop until we're all
+slaves, then you deserve what you get from them. Miserable kiss-ass!
+I won't forget this.
+
+Lilliana Shannon (Poisonous Vixen)
+
+Lilliana Shannon has always had something to prove. The
+daughter of an Eiluned sidhe exiled for plotting to assassinate his
+rightful lord, she has always labored under a shadowy legacy. She
+left her home far away to find a new court where she could escape
+her father's name and earn one of her own. She secured a minor
+place with Baron Parke and set herself to proving her value. Her
+ability to ferret out information quickly earned the baron's
+respect, but she created a long list of disgruntled lovers in the
+process. She is currently one of the baron's most valued "detec-
+tives," and the stolen pennon represents a great opportunity.
+Court: Seelie
+Legacies: Courtier/Peacock
+House: Eiluned
+Seeming: Wilder
+Kith: Sidhe
+Physical: Strength 1, Dexterity 3, Stamina 3
+Social: Charisma 4, Manipulation 3, Appearance 6
+Mental: Perception 3, Intelligence 3, Wits 3
+Talents: Alertness 3, Athletics 1, Dodge 2, Expression 3,
+Intimidation 3, Kenning 1, Subterfuge 3
+Skills: Drive 2, Etiquette 3, Firearms 1, Leadership 1, Melee 2,
+
+Knowledges: Computer |, Enigmas 3, Gremayre 2, Investiga-
+tion 4, Politics 2,
+
+Arts: Primal 3, Sovereign 1
+Realms: Actor 1, Fae 2, Prop 2, Scene 2
+Backgrounds: Contacts 1, Dreamers 2, Mentor 2, Resources 2
+Glamour: 5
+Banality: 3
+Willpower: 5
+
+Image: The classic image of a sidhe woman, this wilder's red
+hair flows in long waves to her waist, looking somewhat like a
+lion's mane. Her eyes are large and almond-shaped, accenting
+lips perpetually set in a slight pout. A look of calculation subtly
+undermines her beauty, however, giving her a cold appearance.
+She prefers to wear lace-collared white shirts belted over tight,
+clinging pants of a dark color. She does not use cosmetics and
+wears little jewelry, usually nothing more than a pair of silver
+hoop earrings and a simple silver chain around her neck.
+
+Roleplaying Hints: You are beautiful, intelligent and gifted,
+and you know it. All around you are inferior people, everyone a
+stepping stone. Everyone is a tool first and foremost, their
+emotions levers you use to get them to do your bidding. Men are
+especially easy to manipulate, since their brains usually stop
+functioning once they look at you, and sex has the double
+benefit of being a useful tool and a lot of fun. You serve Baron
+Parke partly out of house loyalty, but mostly for the sake of
+furthering your ambition. If the baron advances his career, he is
+certain to advance the career of the one who helped him most.
+Nothing will stand in your way. Not for long, anyway.
+
+Quote: Oh yeah, that feels so-o-o-0 good. Mmmmmmmmm.
+Did you get those pictures I asked you for? No! What do you mean,
+no? <thump> Get the hell out of my bed! What good are you?
+
+Chapter Four: Capture the Flag >]
+
+=)
+a)
+=
+
+
+4
+
+Douglas Bender (Facherly CDechanic)
+
+Douglas Bender grew up working with spare parts and junk
+cars in the lot behind his father's auto body shop. He and his
+brother left school to work in the shop full time when their
+father died of a heart attack, and the two were able to keep the
+shop afloat and support the family. In time, they earned a
+reputation as dependable and skilled craftsmen, and the shop
+prospered. One week, when Dave was struck by a terrible flu,
+Doug worked almost round the clock to keep up with the work.
+Something overtook Doug one night, and he finished almost
+three days' work in a furious burst of blinding speed and skill. He
+was so wrapped up in the need to finish that he didn't notice the
+new world he could see until the next morning, when he finally
+took a break.
+
+Court: Unseelie
+
+Legacies: Grotesque/Crafter
+
+House: Commoner
+
+Seeming: Grump
+
+Kith: Boggan
+
+Physical: Strength 2, Dexterity 3, Stamina 4
+
+Social: Charisma 2, Manipulation 3, Appearance 2
+
+Mental: Perception 5, Intelligence 3, Wits 3
+
+Talents: Alertness 3, Brawl 3, Dodge 3, Empathy 1, Streetwise 1
+Skills: Crafts 4, Drive 3, Instruction 2, Repair 4, Security 2,
+Knowledges: Automobiles 3, Enigmas 2, History 2, Science 1
+Arts: Primal 4
+
+Realms: Actor 1, Fae 2, Prop 5
+
+Backgrounds: Contacts 1, Remembrance 1, Resources 3, Trea-
+sures |
+
+Glamour: 4
+Banalitye 5
+Willpower: 7
+
+eS 58 Book of Lost Dreams
+
+o
+a
+A
+
+SS
+
+Wop > ~ > >= > >= > >= >
+
+Image: Even when he isn't at his auto body shop, this
+boggan grump often wears a pair of denim overalls, a black T-
+shirt and solid workman's boots. His baseball cap hides his
+balding head, and his short brown beard and mustache are
+heavily shot through with gray. He seems to study people he
+hasn't met yet, showing a neutral expression to those he dislikes
+but being open and friendly otherwise. His thick-fingered hands
+look clumsy, though they are not. He usually has an oil-stained
+rag in his back pocket, when he isn't using it to clean his hands.
+
+Roleplaying Hints: Like most boggans, you love working
+with your hands. You and your brother took over your father's
+auto body shop while you were in high school, and your
+Chrysalis only sharpened your appreciation for your craft. Like
+most grumps, you're a little on the irritable side, especially
+around youngsters. They have no sense of courtesy, and that's
+what's wrong with the world. When a youngster minds his
+manners, then maybe, just maybe, he's all right. You have a soft
+spot for anyone down on his luck, and you'll give anyone the
+benefit of the doubt, once. Most folks prove to be okay, if you
+give them halfachance. You get a burr in your shorts when sidhe
+are around, though. Worse than rude youngsters, they are.
+
+Quote: Yessir, we can have that ready for you before the end of
+business tomorrow. Nosir, there's nothing to worry about. We can
+replace your fender with an exact match, and even get the color right,
+too.
+
+Nikki CDoore (Scarving Arcisc)
+
+Nikki Moore always had a flare for painting and drawing.
+Despite her obvious talent, she has had no success with selling
+her work, so she labors away in her small apartment, hoping for
+the day when recognition and fame strike. She first met Cracker
+at a punk club, where she had gone with her friend Bonnie to
+blow off steam. Though the nocker was rude and not much to
+look at, he had a fire and a magnetism that drew Nikki to him.
+Under his influence, she has indulged her eshu nature much
+more freely. One night, Cracker introduced her to Mark Shaker,
+a long-time friend of his. In a fit of abandon she agreed to take
+part in a prank Mark had in mind and helped steal the count's
+pennon. Only afterward did Mark reveal that he had been hired
+to play the "prank," and at that point, Nikki's unusual pragma-
+tism took over.
+
+Court: Seelie
+
+Legacies: Troubadour/Fatalist
+
+House: Commoner
+
+Seeming: Wilder
+
+Kith: Eshu
+
+Physical: Strength 1, Dexterity 3, Stamina 2
+
+Social: Charisma 3, Manipulation 2, Appearance 3
+
+Mental: Perception 5, Intelligence 2, Wits 3
+
+Talents: Alertness 2, Athletics 1, Dodge 1, Empathy 3, Expres-
+sion 2, Kenning 3, Streetwise |
+
+Skills: Crafts 2, Painting 3, Performance 2, Stealth 1
+Knowledges: Art History 2, Enigmas 2, Gremayre 1, Linguistics 1,
+Occult 2, Science |
+
+re
+
+Arts: Legerdemain 2, Soothsay 2
+Realms: Actor 1, Fae 1, Scene 3
+Backgrounds: Chimera 1, Contacts 1, Mentor 3, Resources 1
+
+Glamour: 4
+Banality: 3
+Willpower: 4
+
+Image: This eshu wilder has an olive complexion and
+luxurious, long black hair that she usually keeps in a thick
+ponytail. She prefers to dress in black, usually wearing black
+tights, turtleneck and boots. When she breaks up her mono-
+chromatic look, she usually does so with an oversized sweater of
+some other dark color. She has a penetrating gaze that can often
+be unsettling, as though condensing whomever she is looking at
+into something she can use in her art.
+
+Roleplaying Hints: You've always had the knack for ex-
+pression that comes with your eshu blood, but your talent takes
+shape in images and painting rather than tales and words. Your
+art often requires isolation, which leaves you constantly at war
+with your nature. From time to time, your desire for social
+interaction overwhelms your self-discipline. When this hap-
+pens, you tend to turn into a wild party girl, taking chances and
+courting danger for a few moments of fun. Afterward, you
+usually find yourself wondering what got into you and resolving
+to be more disciplined in the future.
+
+Quote: You know, I'd really love to go dancing tonight, but I'm
+so close to finishing this piece that I really should stay home and work
+on it. <pause> Oh, the hell with it, let's go!
+
+Cracker (Redeltious Punk}
+
+Cracker's mother was a prostitute who had little time to
+care for him, and he never knew his father. At a young age he
+survived on the streets and took care of himself, often doing odd
+jobs for his mother's "co-workers." His familiarity with humanity's
+
+ON
+
+° .
+"image of a grunge rocker. He wears heavily worn combat boots,
+
+Sy
+
+carnal nature gave him a natural way with the ladies, and he
+recently enchanted two mortal women, just for the hell of it. As
+a teen, he fell in with Mark Shaker, who helped him adjust to a
+new life as a changeling. They have committed all kinds of petty
+crimes, and Cracker has a rap sheet as long as War and Peace.
+When Mark suggested the pennon prank, he was all for it,
+whatever the potential trouble. Now that the deed is done and
+Mark has disappeared, however, he's a little worried they might
+have gone over the edge.
+
+Court: Unseelie
+
+Legacies: Fool/Wayfarer
+
+House: Commoner
+
+Seeming: Wilder
+
+Kith: Nocker
+
+Physical: Strength 4, Dexterity 4, Stamina 2
+
+Social: Charisma 4, Manipulation 1, Appearance 1
+
+Mental: Perception 2, Intelligence 4, Wits 2
+
+Talents: Athletics 2, Brawl 4, Dodge 3, Intimidation 2,
+Streetwise 4
+
+Skills: Drive 2, Firearms 1, Melee 2, Search 1, Security 2,
+Stealth 2
+
+Knowledges: Computer 1, Law 1, Local Geography 2, Medi-
+cine |
+
+Arts: Primal 1, Wayfare 2
+Realms: Fae 1, Prop 2, Scene 2
+
+wa
+
+Backgrounds: Contacts2, Mentor 1, Resources 1, Retinue 1
+Glamour: 4
+
+Banality: 4
+
+Willpower: 4
+
+Image: This nocker wilder strives to present the perfect
+
+well-stained torn denim jeans and a tattered old green leather
+jacket painted with symbols and names of modern bands. His
+hair is so short it bristles, and he has pierced both ears (the left
+one twice), his nose and his right eyebrow. The back of his left
+hand is covered with a large spider tattoo. His cheeks are pock-
+marked and somewhat sunken, as though he were suffering from
+malnutrition.
+
+=
+
+}
+
+Roleplaying Hints: You are a child of the modern world, a
+lost soul adrift in a sea of defiance and rebellion, belittling those
+who are better off to avoid admitting that you envy them. You
+are a thrill-seeker with a short temper, and there's nothing more
+fun than a good old-fashioned slug-fest. Many of your friends feel
+the same way, and it's them more often than not that you beat
+up, just for kicks. You've been friends with Mark Shaker for
+years, and you've always been a little envious of his fighting
+skills. He's a redcap, though, so that's to be expected. He usually
+has great ideas for new and interesting ways to get into trouble,
+and hanging with him is never boring.
+
+Quote: Let's go knock over that little store with the nacho
+machine. I love hittin' that place, you get food and cash in one stop.
+After that, let's go see what Diane and Sheena are up to....
+
+Chapter Four: Capture the Flag 99
+
+a3
+
+
+\
+
+Rs
+a
+4
+A
+yA
+A
+
+Bonnie (Coy Groupie)
+
+The only daughter of middle-class, wishy-washy parents,
+Bonnie is a spoiled little girl who is used to getting her way. She
+learned at an early age how to wrap her father around her little
+finger, and often applies the same skill to other men. She spent
+most of her adolescence going to concerts and reading trashy
+fantasy novels. When her father recently demanded that she do
+something with her life, she decided that a career as a beautician
+would be fun and let her meet a lot of people. She met Nikki
+while working, and the two quickly became friends despite the
+bad job she did on Nikki's hair. She's gotten better since then
+with practice. She has strong memories of Arcadia, and some
+think Bonnie is a reborn sidhe who died during the Accordance
+War.
+
+Court: Unseelie
+
+Legacies: Peacock/Wayfarer
+
+House: Commoner
+
+Seeming: Wilder
+
+Kith: Pooka
+
+Physical: Strength 2, Dexterity 2, Stamina 4
+
+Social: Charisma 4, Manipulation 3, Appearance 3
+
+Mental: Perception 2, Intelligence 2, Wits 2
+
+Talents: Athletics 1, Dodge 2, Empathy 1, Expression 1, Kenning
+3, Streetwise 2, Subterfuge | .
+Skills: Drive 1, Etiquette 2, Hair & Cosmetics 2, Performance
+1, Seduction 3, Stealth 3
+
+Knowledges: Computer 2, Politics 1, Rock Bands 2
+
+Arts: Chicanery 3
+
+Realms: Actor 4, Fae 2
+
+Backgrounds: Contacts |, Dreamers 1, Remembrance 2, Re-
+sources |
+
+Glamour: 7
+
+Banality: 3
+
+Willpower: 3
+
+Image: A curvaceous young woman, this pooka wilder likes
+to wear short, revealing, clingy dresses in bright colors and knee-
+high white leather boots. She keeps her curly brown hair short,
+and wears a lot of make-up and some simple jewelry. Her chubby
+
+Book of Lost Dreams
+
+cheeks make her face somewhat reminiscent of a chipmunk's.
+Her bright eyes and ever-present smile give her a cheer that is
+infectious. She has a small tattoo of a rose near the top of her
+right breast, where it just peeks out under the necklines of the
+dresses she usually wears.
+
+Roleplaying Hints: You are, quite literally, a party animal.
+You love dancing, drinking and dabbling with drugs. If there's
+a cool rock show in town, you're there, and you usually have no
+trouble getting backstage. Some say you're too quick to hop in
+the sack, but that's never bothered you or the guys, who usually
+leave exhausted. You're always looking for fun and excitement,
+‘cause life is pretty boring otherwise. You've been friends with
+Nikki for a while now, and lucky for her. Otherwise, she'd never
+leave her apartment and have some fun. This thing with the
+pennon, though, that's got you nervous. Stealing it was fun, but
+now you're worried about what the count will do.
+
+Quote: Of course I'm supposed to be here. Do you really think
+I would lie to you about it? Look at me, do I look like the kind of person
+who would lie about something like this?
+
+A — ga gn ne ~ ga a ge ~~ gn ~~ ge = > a
+
+
+and Storytellers alike. Herein
+
+ng and other
+
+lost informati
+
+@ Complete crossove
+@ New rules to expand
+including expanded cantr:
+
+@ An introductory Chingelitg adventure.
+
+re options and possibilities
+
+us e — = = aS -
+
+CEN CHG ie
+
+ISBN 1-56504-717-6
+WW 7302 $15.00 U

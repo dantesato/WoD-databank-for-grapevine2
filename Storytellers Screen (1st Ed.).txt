@@ -1,0 +1,897 @@
+# File: Storytellers Screen (1st Ed.).txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+
+U
+
+Combat
+
+Maneuvers Table
+
+Maneuver Roll Difficulty
+Bite Dexterity+Brawl 7
+Overbear Str + Brawl Opp. Dex
+Body Slam St+Brawl = Opp. Str
+" Evasive Act. (*) Dodge + Wits
+Fur Gnarl (*) Per + Brawl
+Hamstring (*) Dex + Brawl
+-Immobilize (*)' Dex + Brawl
+Jaw Lock (*) Str + Brawl
+Kick Strength + Brawl
+Leaping Rake Dex + Brawl
+Punch Dex + Brawl
+Rake Dex + Brawl
+
+Taunt (*) Manip. + Exp. Varies
+(*) — This maneuver may not be used by a character in a frenzy.
+(**) Damage for special manuevers found on pgs. 239-241
+
+te
+>
+
+Damage
+Special**
+Special**
+0
+Str + Special**
+Special**
+Strength + 1
+Strength + 1
+Strength
+Brawl+ 2
+Special **
+
+DORN A Ho wo 1
+
+nN
+
+First Rank Gilt Chart
+Roll Difficulty Effect
+Cha+Subterfuge Per+Empathy No flaws are detectable _
+n/a n/a
+
+Blur of the Milky Eye
+Call of the Breeze _
+Call of the Wyld
+
+Control Simple Machine
+
+"Create. oo
+Fatal Flaw
+
+Hei ightened Senses
+
+Lambent Flame
+
+Leap of the Kangaroo
+
+Mindspeak
+Mother's Touch
+Open Seal
+Persuasion
+Razor Claws
+Resist Pain
+
+Resist Toxin
+
+Scent of Running Water —
+
+Scent of Sweet Honey
+Sense Magic
+
+Sense Wyrm
+
+Shroud
+
+Smell of Man
+
+Spirit Speech
+
+The Falling Touch
+Truth of Gaia
+
+Fia
+
+Rag
+Bon
+Ukt
+Met
+
+ Ukt
+
+Hom
+
+The
+
+Ahr n/a
+Phi
+
+Cha+Animal Ken
+Man + Stealth
+
+. nla
+
+n/a
+
+n/a
+
+Man+Repair
+
+‘Wit+Survival
+
+n/a
+
+- Per+Empathy
+
+n/a
+
+nla
+
+n/a
+
+7 + Perform
+
+‘Int+Medicine-
+
+Gnosis vs.Gauntlet
+
+Cha + Subterfuge —
+
+n/a
+
+n/a
+
+Sta+Survival
+
+Per + Occuli
+n/a
+
+n/a
+
+.
+
+.Dex+Medicine
+
+"Int+Empathy
+
+Wit+Survival :
+
+6&up
+Gnosis
+Wit+Subterfuge
+
+n/a
+
+vary
+
+n/a
+
+varies
+n/a
+
+6
+
+n/a
+
+n/a
+depends
+
+n/a
+
+n/a
+
+Sta+Athletics
+Man+Subterfuge
+
+Difficulties for climbing rolls are reduced by three
+Speak to animals :
+
+Increased Per rolls to detect the Garou _
+
+A 20mph wind is directed by the Garou
+
+Summon others by howling
+
+The Garou increases all rolls to Spot her by three. Itis only usable in
+the wilderness
+
+The Garou is able to control simple meshanteal devices, such as locks
+and buttons.
+
+The Garou is able to make an edible mush from refuse #_
+
+Create rs cu.ft. of thet ice
+
+-3 to all Per difficulties
+
+Add 1 success to any WP or Rage rolls made by companions ,
+
+All hand to hand attacks on the Garou are at -1. All missile attacks are
+at +1
+
+1) Delbieimmpigditene ly
+WP/person
+
+Silent communication
+
+"Each success heals one wound level
+
+Open locked or closed device
+
+Reduces difficulty of Social Rolls: 1/success
+
+Add 1 die of damage
+
+Ignore all penalties for wounds .
+
+Aggravated wounds require Gnosis.
+No damage from disease or poison
+Masks scent
+
+Attracts vermin to opponent _
+Sense the presence of magic
+Senses manifestations of the Wyrm
+
+For each success a 10'x10' area is covered in pitch-black darkness
+
+-1 die for all animals within 20 feet
+Communicate with spirits
+
+Sends opponent to the ground
+Detect iies *
+
+Name refers to the name of the Gift. Tribe refers to the origin of the Gift. Point is the amount of points required to use the Gift. Roll describes the appropriate roll t
+Difficulty is the difficulty to use the Gift. It may also describe the resistance roll of the Garou's opponent. The Effect column describes the effect of the Gift in play
+
+
+Character Gene
+
+eration
+
+Step One: Character Concept
+Choose Breed:
+
+Lupus - Initial Gnosis 5
+Metis - Initial Gnosis 3
+Homid - Initial Gnosis 1
+
+Choose Aspect
+
+Ragabash (New Moon): Trickster - Initial Rage 1
+Theurge (Crescent Moon): Seer - Initial Rage 2
+Philodox (Half Moon): Ritualist= Initial Rage 3
+Galliard (Gibbous Moon): Moon Dancer - Initial Rage 4
+Ahroun (Full Moon): Warrior - Initial Rage 5
+
+Choose Tribe
+
+Black Furies - Initial Willpower - 3, Backgrounds: 3 points,
+no limit.
+
+Composed almost entirely of women, the Furies are the
+servants of the Wyld, and the avengers of the Garou.
+
+Bone Gnawers - Initial Willpower - 4, Backgrounds: 3
+points, no Resources, Fetish, Past Life, or Pure Breed
+
+Living as vagrants on the streets of the city, the Gnawers are
+always well-informed and universally despised.
+
+Children of Gaia - Initial Willpower - 4, Backgrounds: 2
+points, no limit.
+
+The most moderate of all the tribes, the Children have
+
+become the mediators of the Garou and the defenders of
+
+humanity. Their young, however, often become radicals and
+join various subcultures.
+
+Fianna - Initial Willpower - 2, Backgrounds: 4 points, no
+limit.
+
+Every member of this tribe is of Irish descent, and the Fianna
+are exceedingly proud of this heritage. They live wherever their
+Kinfolk make their homes, and keep close contact with them at
+all times.
+
+Get of Fenris - Initial Willpower - 3, Backgrounds: 4 points,
+no Past Life, Mentor, or Allies.
+
+Savage and bloodthirsty, the Get are largely of Norse
+descent, and proud of it. They tend to dominate the rural
+countries and towns where they live.
+
+Glass Walkers - Initial Willpower - 3, Backgrounds: 4
+points, no Pure Breed, Mentor, or Past Life.
+
+Of all the tribes, the Walkers are the most well-adjusted to
+the city and the least trusted by the other Garou. They tend to
+mix with the underworld and frequently employ high technol-
+ogy.
+
+Red Talons - Initial Willpower - 3, Backgrounds: 4 points,
+no Resources, Allies, Contacts, or Kinfolk. Allmembers of this
+tribe are of the lupus Breed.
+
+Comprised entirely of lupus, the Red Talons think that the
+best way to save Gaia is to destroy the cancer - the humans -
+once and for all.
+
+Shadow Lords - Initial Willpower - 3, Backgrounds: 4
+points, no Allies or Mentor.
+
+Very dominant and demanding, the Shadow Lords are trying
+to win over the leadership of the Garou from the Silver Fangs.
+
+They would do almost anything for power.
+
+Silent Striders - Initial Willpower - 2, Backgrounds: 5
+points, no Resources or Past Life.
+
+They live their lives on the road, constantly moving and
+traveling. They breed almost exclusively with gypsies, circus
+performers, and other wanderers. They know many of the
+secrets of both the mortal and the spirit worlds.
+
+Silver Fangs - Initial Willpower - 3, Backgrounds: 5 points;
+at least three must be Pure Breed.
+
+The most prestigious of all the tribes, the Fangs have mated
+with the noblest humans and wolves for centuries. They are
+inbred, however, and have become tainted with sickness.
+
+Stargazers - Initial Willpower - 6, Backgrounds: 2 points,
+no Allies, Resources, Totem, or Fetish.
+
+Cerebral and contemplative, the Stargazers wander the
+world in search of Enlightenment and truth, but are staunch
+opponents of the Wyrm nonetheless.
+
+Uktena - Initial Willpower - 2, Backgrounds: 4 points, no
+limits.
+
+The sly and mysterious Uktena are the most capable magi-
+cians of the Garou, and are widely distrusted as a result.
+
+Wendigo - Initial Willpower - 5, Backgrounds: 2 points, no
+Contacts or Resources.
+
+The only purely Native American Garou left, the Wendigos are
+fiercely independent and still determined to drive the invaders from
+the North American continent.
+
+Step Two: Select Attributes
+
+What are your basic capabilities?
+¢ Prioritize your three Categories:
+Physical, Social & Mental (7/5/3)
+
+Step Three: Select Abilities
+
+What do you know? (13/9/5)
+* Prioritize your three Categories:
+Talents, Skills & Knowledges
+
+Step Four: Select Advantages
+
+In what ways are you unique?
+
+* Choose Renown: an indication of your character's stand-
+ing among the Garou - spend 500 points.
+
+¢ Choose Backgrounds: May be limited by Chronicle
+concept (5 dots)
+
+* Choose Gifts: (see Gift chart below) Determined by your
+Breed, Auspice, & Tribe (3 gifts, one from each.)
+
+Step Five: Last Couches
+
+Record base Rage
+
+Record base Willpower
+
+Record base Gnosis
+
+Record Rank
+
+Spend your 15 Freebie points as follows: Freebie Cost -
+Gifts: 7, Attributes 5, Abilities 2, Gnosis 2, Willpower 1, Rage
+1, Backgrounds 1, Renown 1 point per 50 Renown.
+
+Be sure to fill out the back of your character sheet as well as
+the front.
+
+
+‘Se,
+
+Homid Glabro
+(Human) (Near Man)
+No Adj. Str. +2, Sta. +2, App. -1
+Difficulty 6 Difficulty 7
+Stepping Sideways
+Successes Shift Time Typical Gauntlet
+0 Failure; lose one Gnosis point, and Inner city
+may not enter for another hour
+1 1S minutes — Rural countryside
+2 5 minutes
+3 30 seconds Typical active caern
+4+ Instant
+The greatest caerns
+Frenzy
+ehh Sneaking s
+Dif f ! culty Moon S tage Dariables Feet Moved per Success J] um p in g
+8 _ New | : " sie When a player announces that he wants to make a jump, have him
+q Crescent make a Strength roll. If it is a horizontal jump and the character can
+6 Half make a decent running start, then allow him to make a Strength +
+5 Gibbous C Athletics roll. The difficulty for jumping is almost always a 3 (unless
+" ae there are difficult weather conditions or there is a narrow landing
+4 Full ee space). The Storyteller calculates how many successes are needed to
+make the jump. The number of successes required is based on the
+number of feet that need to be jumped, and whether the character is
+jumping horizontally or vertically (see the chart below). There are no
+Stre ngth Fe ats partial successes in jumping; you either get it in one roll, or you fail
+= and fall.
+Dice Pool Feats Lift A failure or a botch indicates that the character falls, trips or for
+: bs eee some reason fails. If it was only a failure, you might give the player
+1 ot Crush . beer can asecond chance by having the player make a Dexterity + Athletics roll
+2 Break a chair es ee 80 Ibs. to see if he can grab onto the ledge, etc. However, a botch is always
+3 Break downa wooden door . a complete failure — a fall. The wounds sustained by falls are
+4 Break a 2' x 4' board 250 Ibs. discussed in the Injuries section of the Development chapter.
+5 Tee oe If the player makes a Perception + Athletics roll before he makes
+i Q aii the jump (average difficulty of 8) and receives at least one success,
+6 Throw a motorcycle then you can tell him how many successes he will need in order to
+q Flip over. car make the jump. You should actually make the Perception roll, so that
+8 Break a thre eee inch lead pi pe he is uncertain of how accurate the estimation was.
+9 Punch through a cement wall : Type of Jump —_ Homid Glabro Crinos Hispo Lupus
+10 Rip open a steel drum 1500 Ibs. . eo " ey ee | ™
+il Punch through 1" sheet metal
+12 Break a metal lamp post
+13 Throw a car
+Fire ;
+Falling
+Difficulty Heat of Fire OD (i fe t)
+Three Heat of a Candle (first degree burns) istance (in eet
+Five Heat of a Torch (second degree burns) Five: :
+Seven Heat . a Bunsen Burner (third degree Ten: Two Health Levels
+Nine Heat of a Chemical fire Twenty: AON AAW chad blade
+Ten Molten Metal Thirty: Four Health Levels
+; | Forty:
+Wounds Size of Fire Fifty: Six Health Levels
+One Torch, small part of body burned sail '
+Two Bonfire, much of body burned | d f 1 0 iy al th | +.
+[ Three Raging Inferno, all of body burned ~ ..and so on, to a maximum 0 e eve s.
+
+
+Skull Head
+
+Missing Eye
+
+Experience Point Chart
+Type of Trait
+
+Cost
+
+3
+
+Level of Gift x 3
+Level of Gift x 5
+current rating
+current rating x 2
+
+current rating x 3
+
+current rating x 3
+
+current rating x 4
+
+Hispo Lupus
+(Near Wolf) (Wolf) |
+Str. +3, Sta. +3, Dex. +2, Man. -3 Str. +1, Sta, +2, Man. -3 |
+Difficulty 7 Diiticulty 6 —
+Battle Scars Delirium Chart )
+Result Effect Willpower Reaction 7
+
+te
+ment isn't hindered.
+
+Berserk
+aracter cannot run,
+
+walk.
+
+Character is severely injured and can
+only hobble about.
+
+Slaying a Vampire, ancient
+
+Defeating a spirit in spirit combat
+
+Defeating a manifestation of the Wyrm
+
+~ 100-2000 Honor
+
+Adhering to the codes of the Garou
+even at cost to oneself
+
+Supporting an innocent being accused
+of a crime (who is later
+proven innocent)
+
+100-1000 Wisdom
+
+Proposing a plan that worked 100-1000 Wisdom
+
+
+Crinos
+(Wolf Man)
+Str. +4, Sta. +3, Dex. +1, App. 0, Man. -1
+f Difficulty 6
+
+Cover Difficulty Maneuvers Table
+
+Maneuver Roll Difficulty Damage #A
+
+Overbear = Str + Brawl Opp: Dex Special** 1
+
+Evasive Act. (*) Dodge + Wits 7 0 1
+
+" Hamatting (°) Daneel 8 Str + Special** rl
+
+Jaw Lock (#) Str + Brawl 6a Special** 1
+
+a Lanpliy Rake — ‘Dex + Brawl 8 Strength + 1 2
+
+epee: Rake Dex + Brawl 6 Brawl+ 2 1
+
+Full cover within diving
+(*) — This maneuver may not be used by a character in a frenzy.
+(**) Damage for special manuevers found on pgs. 239-241
+
+Combat: Weapons Chart
+
+Stage One: /nitiative. Declare actions, roll Wits + Alertness (see Initiative Difficulty Weapon Initiative Accuracy
+chart). :
+
+Stage Two: Attack. Roll Perception + Firearms (for Firearms), Dexterity + Melee (for
+weapons combat) or Dexterity + Brawl (for brawling & fighting manuevers). May split
+dice pool for Dodge.
+
+Stage Three: Resolution. Determine damage as per chart. Roll Soak (Stamina + 2,
+difficulty number varies.) Add to Soak dice the number of successes obtained from any
+Dodge roll.
+
+Initiative Diffiaulties
+| Difficulty Situation
+
+(3 includes Klaive
+
+Firearms Chart
+
+Weapon is ready
+Weapon Init Accur Range Dam_ Rate Im Recoil Clip Con
+
+Weapon must be drawn from
+hip-holster
+
+Weapon must be drawn from
+
+Shotgun, S-auto -4 +3 20 6 3 q 2 8+1 a
+* indicates that the gun is capable of three-round bursts, full auto and sweeps.
+
+
+Combat
+
+Combatis probably the mostcomplex system in the Werewolf
+game, yet it is not particularly tricky, especially with practice.
+
+Initiative (who goes first)
+
+Wits + Alertness (the difficulty depends on the readiness of
+the weapon); the winner of the contest declares her action last
+(thus getting to hear what everyone else is going to do) and
+performs it first (possibly taking out an opponent before he can
+act).
+
+Attack
+
+Firearms — Perception + Firearms
+
+Melee — Dexterity + Melee
+Brawl — Dexterity + Brawl
+
+The difficulty of an attack roll depends on the proximity of
+the target, the visibility and footing, and various other factors,
+but is usually a six or seven.
+
+Dodging: A character may forfeit some or all of his Dice
+Pool to dodge. This is accomplished by rolling Dexterity +
+Dodge; each success on this roll subtracts one from the
+opponent's successes.
+
+Resolution
+
+Damage: The number of successes is added to the Damage
+Factor of the attack (a set number for guns, based on Strength
+or Brawl for melee and hand-to-hand attacks) to determine the
+damage of the attack. Each level of damage takes away one of
+the opponent's Health Levels.
+
+Soak: The defender may attempt to "suck up" some of the
+wounds by rolling Stamina + 2 against a difficulty of the
+weapon deadliness + 2. Each success.on this roll reduces the
+damage of the attack by one. For each dodge success during the
+Attack Stage, add one die to the soak roll.
+
+Werewolf Storyteller's
+Screen
+
+Werewolf
+
+Combat in the Umbra
+
+Garou are creatures of two beings, human and wolf. They are
+also creatures of two realms, the physical and the spiritual. By
+"stepping sideways," a Garou can physically enter the spirit
+realm. In the Umbra, a Garou can attack spirits and Banes with
+
+' all the powers he possesses in the physical realm. He can choose
+
+to rake a Bane with his claws, slash it with a sword, or even
+shoot it with a gun. However, only natural weapons (claws,
+bite), or weapon that have been mystically treated, have an
+effect on a spirit in the Umbra. A Garou can take anything into
+the Umbra that has undergone the Rite of Talisman Dedication.
+
+Spirits do not have Physical Attributes in the Umbra unless
+they have the Charm Embody (see below). Instead of attacking
+with claws or fists, they use their Rage. To attack a Garou in the
+Umbra with Rage, roll the spirit's Rage (difficulty 6, or 8 if the
+Garou is moving). The number of successes is the number of
+Health Levels of damage done. A Garou can soak this damage
+by rolling her Gnosis versus the spirit's Willpower, with the
+number of successes being the amount of damage soaked.
+
+If the spirit botches its Rage roll, it loses a Rage point. There
+may also be another effect, depending on where or when the
+botch was rolled.
+
+When Garou attack spirits in the Umbra, they can use the
+attack maneuvers of Rake or Bite (see the Maneuvers chart in
+Werewolf). The difficulty is +1 for all physical attacks in the
+Umbra. For example, Gnasher uses a Rake against a Bane. He
+rolls his Dexterity + Brawl versus a seven. The number of
+successes is the amount of Power points the spirit loses. Garou
+can spend Rage points to gain extra actions as usual, however.
+
+A spirit can try to avoid this damage by rolling its Willpower,
+just as with a dodge roll. The difficulty is the attacker's
+Dexterity + 3. The number of successes rolled subtracts from
+the number of attack successes. A spirit cannot also attack in the
+same turn. Itmay, however, divide its Rage and Willpower pool
+(just as multiple actions are normally done), using the lowest
+Pool to divide from. A spirit does not get a,soak roll.
+
+A Garou can also use any magical weapon against a spirit,
+such as a Fang Dagger, a Silver Sword or a Bane Arrow. The
+Garou must still make a Gnosis roll to activate the fetish, but the
+difficulty is two less in the Umbra, although the minimum
+
+
+4
+
+difficulty is always the character's Rage. Remember that a
+Garou cannot activate a fetish (make a Gnosis roll) on the same
+round she spends Rage.
+
+Chasing spirits in the Umbra: when a spirit tries to flee the
+battle, the Garou can chase it, for he is now physically in contact
+with its reality. Use the Pursuing rules in Werewolf, except that
+the fleeing spirit rolls its Willpower. The spirit begins with an
+automatic three successes, due to its ability to fly in the Umbra.
+If the spirit gets eight successes more than the Garou, it gets
+away, outdistancing its pursuer. If the Garou matches the
+spirit's successes, he moves alongside the spirit and may attack
+| it. A spirit with the Charm Reform may simply dissipate
+instead, coalescing again elsewhere.
+
+Yew Spirit Charm
+
+Embodiment: This Charm allows the spirit to take physical
+form in the Umbra, and acts just like Materialize in every other
+way. Spirits often use this Charm to attack Garou who have
+stepped sideways onto the spirit plane, preferring to rake with
+claws rather than use their Rage.
+
+New Gilts
+Theurge and Uktena
+
+Umbral Sight (Level Three): a Garou can spend a Gnosis
+point and roll Perception + Alertness, versus a difficulty equal
+to the Gauntlet of the area, to see into the Umbra. This is like
+Peeking, but from the other side, the physical realm. The ability
+lasts for the rest of the scene, or until the character moves to an
+area with a higher Gauntlet rating. Note that, while focused on
+the Umbra the character cannot see in the physical realm.
+
+Uktena
+
+Sideways Attack (Level Four): a Garou can (after using
+Umbral Sight, above) spend a Gnosis point to attack anything
+she sees in the Umbra. This can include spirits who are not
+Materialized. She rolls her normal attack maneuver roll (Dex-
+terity + Brawl for a Rake attack). The difficulty is two higher
+than normal. Combat against spirits is resolved as above, in
+"Combat in the Umbra."
+
+Moon Bridges
+
+The distance a Moon Bridge can traverse depends on the
+caern where the gate is opened. If the Moon Bridge is not
+opened at acaern (suchas by a Lune or other spirit), the distance
+is 1000 miles.
+
+Caern Ranking Distance Possible
+1 1000 miles
+2, 2000 miles
+3 3000 miles
+4 6000 miles
+5 10,000 miles
+
+Using the Power of a Spirit
+
+There are three ways that Garou can utilize the power of
+spirits. These ways are: spirit binding, talen creation and fetish
+creation.
+
+Binding
+
+Spirit binding is a result of the Rite of Binding. It forces a
+spirit to serve a particular Garou whether it wishes to or not. The
+spirit will use its Charms and its Power on behalf of the Garou
+in the Umbra. It can easily be forced into a talen or fetish (after
+the proper rite). Once within the talen or fetish, however, it
+becomes non-sentient and non-self-aware, devoting its full
+being to fulfilling the powers of that talen or fetish. A spirit
+always maintains its sentience while simply bound.
+
+Talen Creation
+
+Talens are one-shot mystical objects that are more common
+among the Garou than their more permanent siblings, fetishes.
+They are often created as part of a Moot and distributed to the
+attending Garou as needed. Talens can also be created sepa-
+rately by individual Garou. The power and effect that the talen
+has is based on the intent of the talen creator, not necessarily the
+spirit that is bound into it. Garou create talens using the Rite of
+Binding. Unlike fetishes, which are usable only by those who
+are attuned to them, talens may be used by anyone (including
+non-Garou).
+
+A talen receives Gnosis equal to the bound spirit's Gnosis.
+One extra talen of the same type can be made for every success
+received on the Rite of Binding roll. For example, three
+successes will make four Bane Arrows. At the Storyteller's
+discretion, certain spirits can make multiple talens easier, such
+as Jagglings. These would add an automatic two or three extra
+talens to the total number. There is no Binding time limit, except
+that the talen may only be used once.
+
+Fetish Creation
+
+Rules on Fetish Creation are given inthe Werewolf rulebook,
+page 192.
+
+2 Werewolf Screen Addendum
+
+
+A Note About Spirits
+
+In order for a Garou to create a specific kind of fetish or talen,
+he must first procure a spirit affiliated with the fetish or talen's
+intent. For example, a spirit of healing would not enter a fetish
+like a Fang Dagger or a talen like a Bane Arrow, although a
+spirit of war, pain, or death might. Below is a brief list of the
+better-known fetishes and talens and what kind of spirit might
+be needed for each.
+
+Fetish Requires a spirit of
+
+Fang Dagger War, Pain, Death, Snake-spirit
+
+Harmony Flute Peace, Calm, Water, Bird-spirit
+
+Phoebe's Veil Illusion, Shadow, Hiding, Chameleon-
+spirit
+
+Spirit Whistle Screaming, Madness, Discord, Screech
+Owl-spirit
+
+Baneskin a Bane
+
+Sanctuary Chimes Protection, Guardian, Turtle-spirit
+
+Monkey Puzzle Ghost, Illusion, Trickster
+
+Spirit Tracer Hunting, Predator
+
+Silver Sword War, or even an ancient Garou
+
+Calens Requires a spirit of
+
+Bane Arrow War, Air, Pain
+
+Death Dust Death, Communication, Divination
+
+Moon Glow ; Lune
+
+Moon Sign Moon, Change, Wolf, Wyld
+
+Wyrm Scale Bane scale, Destruction, other Wyrm
+spirit
+
+Nightshade Shadow, Night, Hiding, Darkness
+
+Proauring Spirits
+
+Garou can procure spirits by a number of means. If they
+encounter a spirit while in the Umbra, they can either attempt
+to bind it to them or negotiate with it to enter a fetish or talen as
+part of a rite. They can receive a spirit bound to an object as
+payment or a reward that they can then turn into a talen or a
+fetish. They can summon a spirit using the Rite of Summoning.
+They can reduce a spirit to 0 Power during spirit combat.
+Furthermore, high-ranked Theurges can use the Level Four
+Gift Spirit Drain to reduce spirits to 0 Power, or change the
+affiliation of a spirit using The Malleable Spirit (turning a spirit
+into a fetish requires a roll against a difficulty of 9). Remember
+that a fetish or talen created without the free consent of the spirit
+empowering it may be cursed.
+
+It is much easier to convince a spirit to enter a talen than a
+fetish, because talens are by nature temporary.
+
+Credits:
+
+Williams
+
+Development: Bill Bridges
+
+Writing: Bill Bridges, Sam Chupp, Rob Hatch, Travis
+
+Graphic Design & Layout: Sam Chupp
+Covers Design: Chris McDonough
+Art Director: Richard Thomas
+
+© 1992 by White Wolf. All rights reserved. Permission is
+given to photocopy the character sheet and gift chart for
+personal use only. An Electric Scan.
+
+Werewolf 3
+
+
+| First Rank Gift Chart
+Name
+
+Man + Stealth
+
+The Garou is able to control simple mechanical devices, such as locks
+and buttons.
+
+"All hand to attacks on the Garou are at-1. All missile attacks are
+at +1
+
+-1 die for all animals within 20 feet
+
+Sends opponent to the ground
+
+Name refers to the name of the Gift. Tribe refers to the origin of the Gift. Point is the amount of points required to use the Gift. Roll describes the appropriate roll to make .
+Difficulty is the difficulty to use the Gift. It may also describe the resistance roll of the Garou's opponent. The Effect column describes the effect of the Gift in play.
+
+ISBN 1-56504-035-X
+WW 3002 $8.00

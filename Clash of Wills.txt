@@ -1,0 +1,3289 @@
+# File: Clash of Wills.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+R VAMPIRE 4
+
+A spORY
+
+
+BY STEVE MILLER
+
+
+CrepITs
+Author: Steve Miller
+Developer: Justin Achilli
+Editor: Eid Hall
+Art Director: Lawrence Snelly
+Layout & Typesetting:
+Interior Art: Leif Jones
+Front Cover Art: Dan Brereton
+Front & Back Cover Design: Robby Poore
+
+Robby Pore
+
+735 PARK NORTH BLYD.
+& SUITE 128
+
+CLARKSTON, GA 30021
+
+USA
+
+GAME STUDIO
+
+© 1997 White Wolf Publishing, Inc. All rights
+reserved. Reproxluction withoutthe written permissionof
+the publisher is expressly forbidden, except for the pur-
+poses of reviews, and blank character sheets, which may
+be reproduced for personal use only. White Wolf, Vam-
+pire the Masquerade, Vampire the Dark Ages and Mage
+the jon are registered trademarks of White Wolf
+Publishing, Inc. All rights reserved. Aéon, Werewolf the
+Apocalypse, Wraith theOblivion, Changeling the Dream-
+ing, Werewolf the Wild West, and Clash of Wills are
+trademarks of White Wolf Publishing, Inc. All rights
+reserved. All characters, names, places and text herein
+are copyrighted by White Wolf Publishing, Inc.
+
+The mention of or reference to any company or
+product in these pages isnot a challenge to the trademark
+or copyright concerned.
+
+This book uses the supernatural for settings, charac-
+ters and themes. All mystical and supematural elements
+are fiction and intended for entertainment purposes only
+Reader discretion is advised.
+
+Check out White Wolf online at
+
+butp:/wwww.white-wolf-com;alt gamesavhitewolfand
+ree.games‘tp storyteller
+
+PRINTED IN USA.
+
+SpEcIAL THANKS To:
+
+Michelle "Passive Resistance" Prahler, for wishing to die
+before she killed anyone.
+
+Robby "Young, Thin Elvis" Poore, for teaching the insand
+‘outs of guitar chords to one who should have never leamed.
+
+Justin "Fat, Old Elvis" Achilli for taking his guitar chord
+knowledge and using it for evil.
+
+Matt "Seung Mina" Milberger, for schooling the uniniti-
+ated with modesty in Soul Blade.
+
+Ethan "We Could Leave Out the Verbs" Skemp, for
+‘making skilled incisions to Wild West.
+
+Auruor's Speci THANKS
+Special Thanks to Mike Oldfield for Tubular Bells 2, 10
+which much of Clash of Wills was written.
+
+
+TABLE OF CONTENTS
+
+INTRODUCTION: How To UsE THIS Book
+
+Act ONE
+
+Acr Two
+
+Acr THREE
+
+Dramatis Personae: A Cast oF CHARACTERS
+
+
+Vio moral system can vest solely
+on authority.
+— GA Gyee,  Durtenist Outlook
+
+this poy is intended for Storntetl-
+es ons at pou ace a player in a
+
+Specie , 8 inttend to assume
+the vole o fa cacter in re stor
+prt it doven, 1 Pempice,
+is st annie o ee oe and dis-
+covery of the unknoven as much as
+cong ease. You should not cheat
+once Storyteller or wr fellove
+yoges theopy: dredaa) © disco~er
+a, as it unl
+
+
+There are many different ways to use this supplement.
+Individual Storytellers know the needs of thei teoupes far better
+than any author ever could. Storytellers need to decide which:
+elements of Clash of Wills would be interesting co their troupes,
+ancl emphasize those over things thac don't fit the play style in
+question, Storytellers also need to decide whether they want to
+use che tory as written, or scavenge itforideasand characters to
+use in a story or chronicle of their own devising. Regardless, it
+can'cbestressed enough that the Storyteller may need tochange
+some things when running Clash of Wills. To make this
+supplement work, Storytellers need to make it their own. Atno
+point should the plot in these pages override the Storytellers
+own sense of the dramatic, or his knowledge of the troupe. For
+this reason, Storytellers are encouraged to read this book from
+start to finish before actually running it. Possessing an overview
+oftheaction willallow the Storyteller‘opresentamore coherent
+session for the players. The Golden Rule of storytelling games
+applies here — use what you like and throw out the rest!
+
+ForMaT
+
+Clash of Wills roughly follows the three-act structure
+prevalent in plays, television programs and movies, and even
+some novels, and certainly in most novel erilogies. in ActOne,
+‘we meet all the major characters in the story, chough some of
+them manipulate pawns from behind the scenes. In Act Two,
+thesituation gets aboutas bad for the protagonistsasit possibly
+could, and in Act Three the characters must rise to various
+challenges or suffer defeat at the hands of their opponents.
+
+Although storytelling games have much in common with
+other dramatic media, this genre has the distinction of being an
+interactive one. The Storyteller and the players are creating the
+story in collaboration with one another.
+scenes that builds to a climax. The scenes themselves, however,
+are broken into smaller segments that give the Storyteller an
+overview of what's happening in each scene, thus making the
+ler sections are as follows:
+es that unfold
+
+adventure easier to run. The st
+Plot: Thissection outlines the story elem
+inthe scene.
+
+Setting: This section describes key points of the scene's
+location, so the Storyteller can better capture the mood of the
+Charactes
+about characters
+
+This section gives the basic information
+
+nd creatures who appear in a scene. Their
+
+key personality taits and goals are mentioned here.
+
+Drama: This section illuminates the heart of the scene.
+ledescribes potential interactions between players' characters
+and Storyteller characters or even just the setting, and the
+likely resolutions of these encounters.
+
+Outcome: This section outlines the consequences of the
+scene, based on what the author assumes to be the most likely
+actionsofthe characters itfearues, suggestsencounters that the
+Storyteller must ad-lib, and tells what scene is likely to follow.
+
+When Clash of Wills ends, Storytellers and players may
+notice that several plot threads are left dangling, and certain
+story elements are nearly undeveloped. This was an inten-
+tional move on the part of the designer. The object was to
+provide Storytellers with enough fuel for the imagination to
+expand this story beyond che 40 pages you are currently
+reading. This book can offer a stand-alone story, its plot
+threads can be tied into the troupe's ongoing chronicle, or it
+can he used asthe starting point for an entirely new chronicle.
+
+SETTING
+
+Clash of Wills takes place entirely in the fictitious
+County of Galere, whose adjacent geography is purposefully
+kept vague in order to make this book useful to the greatest
+number of Storytellers. The author assumes the lands of Galtre
+to be located between London and Nottingham in England.
+However, with a little work on the part of the Storyteller, this
+story can take place practically anywhere.
+
+The story takes place around 1197. England is till recov-
+ering from a long war of succession, during which the nobility
+became unruly and defiant, and their lands emerged more
+independent of the king than ever before.
+
+The intricate Norman legal system has disintegrated in.
+the decades leading up to this adventure, but the Church
+remained neutral in the conflict and thus stands as one of the
+few remaining stable institutions. As such, the importance of
+the Church grows, and so does its power.
+
+Behind the scenes, Cainites patiently manipulate the con-
+sequences of mortal power hunger. The Ventrue put their
+support behind the faction striving to put King Henry Il on the
+throne, and they eventually win the day. However, Richard the
+Lionhearted proves to be a problem, so the Ventrue begin
+scheming to place his brother, John, on the throne instead. Inthe
+meantime, the Toreador continue to arrive on the British Isles,
+increasing their numbers there. They all but seize control of
+England's Church. By threatening God-fearing nobles with
+‘eternal damnation for their sins and by offering absolution in.
+retum for these nobles' lands and worldly possessions when they
+die, the Toreador increasingly expand the Church's wealth and
+power base. Other clans, such as the Brujah, control one or more:
+British cities, and they tooare hoping to seize a part of Britain for
+their own during these tumultuous times.
+
+In Clash of Wills, immortal plots collideasa corrupt lord lies
+dying and the Cainites converge to seize what power they can.
+
+Tue PEOPLE AND PLACES OF GALTRE
+
+The County of Galereisa forested land that is bisected by
+twostreams, each flowing fromaspring-fed lake atthe county's
+heart. A low, seemingly endless stone wall surrounds the land.
+It encitcles the county and runs along the King's Highway,
+which cuts through Galere. The walls mark the testitories that
+are under the complete and total control of the earl and his
+duly appointed sheriffs, troops and regulators,
+
+INTRODUCTION
+
+
+The carl's seat of power is Millstone Castle. Built by the
+current earl's forebears, the walls surrounding the central
+fortified tower are roughly a decade old. Like many other
+nobles in this time of uncertainty, Edmund, the Earl of
+ho has concerned himself more with his
+the welfare of England or with
+
+Galtre, is a man
+own hold on power than wit
+the serfs wh
+Galtre is dotted with peas
+typically house ewo adults and a
+
+dren, dictated by the whims of the woma
+ters survive their first year
+ome livestock, these
+t night, both to
+mals safe from the
+
+end his lands
+nt cottages and small fields.
+
+number of cl
+fruitfulnessand
+
+nd to keep the
+
+ive in the forest.
+
+Ven peasants are not working their fields, the center of
+is the village of Redford. The estate's mill, tannery,
+smithy are here, as well as the Maiden of the Mist Inn. The
+tsofa dozen buildings. All are built from stone, and
+
+we thatched roofs. A
+lage, and a tree-lined
+Redford's edge.
+
+ids at the heart of the
+path winds ies way from here to the gravey,
+
+CLASH OF WILLS
+
+The Maiden of the Mist Inn standsat the edge ofthe road on
+the outskirts of Redford. A painted sign depicting a golden-haired
+‘woman in ared dress hangs above the door. Tendris of white mist
+‘wrap around her as she beckons passersby to step inside. Like most
+business signs during this time period, there is noname painted on
+the sign. The vast majority of locals can't read
+picture serves adequately for those trying to locate the inn, even
+those who have never been to Redford before. It issmall inn, with
+
+ghtroomson the second floor. The inn
+
+messengers who
+
+gather in the common room to gossip and exchange news over
+
+during late aftemoon and early evening
+
+gan tosense hisown mortalityyand
+tofearforhissoul. Father Lucien found himself accepting the first
+
+confessions from the eatl in years. The enormity and variety of
+
+ked Lucien to the very core of his soul
+
+earl had not craficked with demons, there was notone
+
+!s Commandments that he hadn't broken innumer
+fashion. Buritwascleartharthe
+
+
+soul. Lucien contacted the diocese, which decreed that the
+step toward Galtre'ssalvation wouldbe forhimtofund construc
+tion of a monastery on his land.
+
+Craftsmen employed by the earl completed construction
+‘ofthe monastery within a year, at great expense to the county
+treasury. It was named in honor of St. Christopher, in hopes
+that the saint of travelers would watch over the earl along the
+path to etemal salvation. However, as the monks took up
+residence in the monastery, something sinisterjoined them: A
+member of Clan Toreador named Remus secretly took up
+residence in the monastery. He quietly fed upon the monks,
+and made many of them his ghoul servants. Remus even
+ghouled Father Lucien himself.
+
+Remuscame to the County of Galtre to ensure that the earl
+leaves all his lands to the Church, and, through that honored
+institution, to Clan Toreador — which controls the archbishops
+asfiemly as Clan Ventrue controls the Norman lordsin London.
+
+the Church remained stable during the war, the Torea.
+
+rue. However, Remus knew that he had to act with care, If
+clans discovered the Toreador attempt to take control of
+Galtre, everythi
+His caution was futile, however. Other poweful Cainites
+began to suspect that one of their kind was exerting undue
+
+he'd built could be lost
+
+influence upon the dying Earl of Galtre (the definition of
+"undue" being "contrary to the best interests of the clan 10
+which they belong.")
+
+The Prince of London (or some other powerful Cainite, if
+you choose to set Clash of Wills outside England) sends the
+players' characters to Galtre, in hopes of swaying competitors
+to his point of view. Should they fail in that mission, the
+characters' orders are co take ition, and, if
+
+necessary, to destroy it
+
+ie cage
+
+ROSS, |S)
+
+
+
+VOhecein the characters accive
+in the County of Galtce, and
+become embroiled in the plots
+and schemes of both local
+mortals and others who like the
+coterie, have come to Galtce
+with secret agendas,
+
+
+-onuos ano sapun
+Ajeuay st yoryas — wmoury ays Ag pastas aq 20 Uos A[UO sty] or
+ssed saypio p]nom spe] os0q 2] gous0UrUL est xyse "wIa>U0De
+9q 10 pjnom xp "AypeuON BuLAp st aNeD Jo [Beg MULL,
+suafin sow s9nseW & UF LHIY 24F9s 02 Lasoo axp NOK S190
+Aqosay oy "uopuoy Jo soutig 'seanpayy Jo asanbor 94 ae 9194
+azeno Aaynuaiiur pu yppjsnos Aq possaudun ase ay pnoad sous
+ano4 op ows azjqoue 01 soneuodU. Fuyjquuny Hoy SsxsIoKE NOs
+poypren aavy | pue siapj2 424 ‘BuNLUOD 10} NOK UCL,
+"syeads pue preauoy sueay sejoypiyy "Apeuty (-9u9109
+yp Gurunwexa s1 ay sv Apuanun se sejoupiny HupuRMEXd yu 01
+suey zonseseyp v J uornenas axp dn se9]9 ayBnu xadsmyy $0 2579)
+20s Aayp ump aysiu siaroeney> atp SuoLOUID Z9y0s9A91e498 PUR
+"luv on prs 01 BurpeuDus wos} yEYs 01 Was UORSOAdSD SeOU!N,
+yeu smopeysoyp ‘2ane|duroios pue asea west ay ysnoup|y ‘peat
+‘on appoyprp vowssaudxe s1y Tupjews "wry punowe je 29uep soypue>
+Suan jo spapuny dq porearewopeys auf SiarDeIEy> 941990
+Stuxdhans acu jfunenaucd sty rey sty un aj{qouut §pse9u sus sey
+-o\pN "92u9}19jqeuoyWO.uN Ut aouaypHe atp JosoINUTL D,ASIY
+yp puds Aotp SeOUPIN La. RAUSHDENYD ap RURUNSSY
+‘tera 40) uonisas awooIng ays 295 —
+ployun jjasaysi Aaoas ayp ayos.souuad yp asnyou so.oesEYD
+24 J120 ‘Kea siyp MOY siuBA2 pjnoys "pare>y}diuo> azo 198
+sSuigp uopuo7] aay sntp pur my Yate i9Dw Lose Aayp a10}>q
+poyoods 198 dayp pynoyg "auryo ,sejoysiyy adaooe Aaya jt
+aos sitp Ynonp stoisesey ay apm o2 9‘se9 $1] s9AdMOT]
+‘qyop1as0 01 10U Jryaseo ag 01 spadu J9y]akL0Ig BY] way 92s
+on saysia sojoypy Aya noge Sunpou yeads suorururs, sound
+dup Suraey Aq suriiog 1 se uorsuar uanysioy weD so] ordI0g
+YL ssvunodUa HuLAe|dajor e ApoEAss| auD9ssH "SPLaP]
+WNwAT
+"sBjOypIN 02 pions woYs &
+sinoutp wotp jodu0 Sjpene s]noys ayp FE PUE ZaAdMoY asUIY
+Fuypypam oust peypsounss sound ay | -Aeyayp urof pur aBiawe
+sinoys axp ‘seoypiy, apene siorexeyD oup Pinoys "Ansader
+pulp sun spuentApog Noy anoj ‘ouope pue powueun
+sujoeaey ayy Sunoour Ajnuaredde st sejoy>IN ysnouTY,
+soodsousip ssou8 J0u Sypnsur Yoyo
+opiqe yang ‘sroroeseyp yp yim som o2 stuTEM IE TJOAK Se
+Jasgp ssuueauas dseuuids, somsd ay joauose SejOyI!N,
+-xlomg jo soured ayo a4p1 Suowe ng UE sty Jo sourduIES
+ay} Suoue sjuo1ousmels yiy yp annua, est ay pue *wopuOT,
+yo a0uL4g atp st sep TesseA s1 OY PUL PID] st Os 2080}
+02 saiouityp v SO]]E JADU SeOYPIN "Os "sud ay ards
+‘or siues ays aztear soy pereyp e aye On adUiosAY puw aeUTWO,
+jo Azoasew sty Suysn aAoge JOU 8} 2}] "TM 99y) UNO sty OM
+‘fuuds wispisnupiu asoysn ‘4}RUNy IL S9A19S OYA aUO Se BALDANE
+se tou st 9uuas ou} passoud UOIUNH PK MOU or YBNOUD
+sia pur plo st 9} "AjeUNjOA aoutad ayp aAzas 02 tuoKp STU
+¥[OGIIN
+sue >|siny & jo Aary HuyBes a4 Uo so>4ed SeJOYDIN P9880 Jf 24,
+orsiues ay uaya — Anjnudd jo woneayuosiad Az9a aup pue
+apjnonue Turwreyp st pf "FHay!s puE pjo8 jo Auppmaf yryaiser
+
+padsars
+
+3p] Storoeseyp ayp yates zur perpu0d v sidop\
+
+STHA\ dO HSWID
+
+iim paiussoe pue sy>"q pue sper wioyy and "uorysey as020]
+yp jo soupopo Ur sassaup oY WEL aUIOSpuEY est 9} (UORNEDID
+uo 2944 Jo auODLOS PEA UN 990]daI2,UsDOP 19]]>A{UOIg 4p
+Sununsse) auaos sj yo raz esey> pasnaeaj aya st SeOy>!N,
+
+SUALOWAMHS,
+
+‘uvjd s,pog un aoejd sadoud
+
+‘iy aapisto pue zayjej 01 a1ure snojje> as0UH aYp2 UDAd 2
+
+aeyp padesmod jam
+
+‘up wo s0H191 Jo Yoo] aN | "TyTH }aReF, sued] osnuawour eu
+xp sioidap af ‘sejoysaN Pulyoq |e axp Jo Yppearg pur yu}
+‘yp si2a09 Aassades aajsseuu Vy "S>yeUS Jo s]rypUeY tps sem
+Sunuaopod puv supys snourumypoa BuyseaN UaWIOM poUti0sog
+-oieq pur juedures usw papeay-jnq kag oneupy oy
+4josaunayno quatoue ays (sioa2eseyp pare anpa A] yBIYy 20}) 9400
+deyp Aaemers paw soso) soimaeay Joquuey> ox], so]puE>
+uusayotyj Jo spoupuny Aq 21} woor parynea afae} & ‘raquuey>
+‘20uaIphe sty ut so19usey> ays soaraza1 9} "OpUOr] Jo 49400 |,
+
+up yiwsu9g pULssqe] 9199s e UIEPUA st UDAEY,SP|OYD!N,
+ONLLIAS
+wayp wodn passos9q,
+souoy 2yp [enba spaap stay Ysnoup se 99} 02 ‘posuayTey
+'9q 01 paou siokeyd aup ‘pasn aq pjnoys pury yap v ‘s1a1201e4>
+‘au jo ssazons ayp aunsua 01 1a}jauuors ay 4g parejndiwews og,
+pinoys saimuaape asaya yo autoaano atp ysinoupy y "siaxoeseYD
+|UD UE isn saouLd oY uEAEA od YNoUD a]qeyEUIEI 9g
+
+pynoysar ‘soyea aamauDape Goronpomul ys UO ORIYA
+‘opnyoud atoy wt
+uontione sepypy sung parsed osje aavy Avur sian2c1ey>
+yp ‘faroyjduns 20g -suowtuns sound ayy puarxa voy pur
+‘{jjenpnipur suose2eyp ayp ism auUtED jnpsomodayp onusse.
+{ypiyss uy sakeyd ypeo yuu oMeuars au0-t10-au0 v uN E> 94s
+<dgorewiayje Baqiesor suaiserey> axp sung 2eyp aposida A102
+-ahponuy ur asaap ues 9}jar4i01g 9up ‘dnoas poryrun v Apeaye
+Jou aze siisesey> siadeyd axp 3] -sapstuoMy> [enprarpur ut
+_96n9 9p 9g Ajtaessozou 1oU Ae sIyp saaamop{ aeID08 ame)
+‘uy sioyjeys Pu SI9A0W Jo UORUDNE ay poIENIE YD |e
+40 speap paunopiad aaeq Aoup vet pu ‘o1s0109 e ut oyRo8}ON
+
+Apeayye aze suaigeieyp ayp souinsse aua2s siya *Apsno1aqQ)
+lumas quazayip ¥ asooy> ays
+plnoys s9jpu aurdures soxpoue ypu sexy Soejdon we 3912
+Sup ‘ostayy] eisexey> wyp yatas sopoyDIN, 20ejdou
+‘oa preyye 9q 20u pjnoys ays usteduess ayjauiorg axp UI SASSI
+Apeasje anny jnjtoaod v jf ss909ns ut pus worsen a19Up PINOYS
+spremar jo Aaja ¥ saspword sejoy>IN 2IeD jo ALUNED,
+‘yp 01 aum09 ay2 Saye YP OSH e Yar WIAD s9*EYD
+apy "Aad ayp Jo uanay ayy Iw UaPpR] qUIEYD o2 siarDeILY
+IAI 02 UU
+
+not] Jatyp se sates oye onaiua [ramod e 'Se|OYDIN
+
+Lod
+NOISSININOD,
+3H XN 3
+
+‘yp SuOWUNS "UopUOT] Jo s>UHY ap
+
+
+"However, certain events have come to the prince's
+attention, events that indicate Cainites acting contrary to the
+interests of London might be attempting to manipulate the
+earl and others in his service
+
+"There are members of Clan Toreador who wish to
+challenge Ventrue authority here in Britain and they areusing
+the Church todoso.Itisalsosaid thatthe Prince of Nottingham
+wishes to expand his influence and base of power. Rumors
+have it
+the will of our prince.
+
+"This will not do. The lands of Galere m
+the control of London. Prince M
+
+in. We would that it re-
+
+‘one or more Cainites now hunt in Galtre, against
+‘ome under
+
+thrasis the strongest ruler in
+
+"Thus, Ibid you to go—go
+forth toGaltre and uncoverany
+Cainite ion there. You Jan
+
+go with the authority of Prince
+Mithras, and you act in his ACARI.
+name. Uphold the Traditions a
+and stop ourenemies rom gain-
+ing the upper hand, and you
+will be generously rewarded.
+Should additional news come
+
+icters have
+
+Robin Lee
+for his protection, Le
+to our attention, we will send a
+servant to meet with you in potential Ventru
+Galtee. Further, while itis our
+hope that whatever you find in
+Galtse will be within yourcapa-
+bilities to address, it wll noc be
+a stain upon your honor if you
+
+to make some
+
+characters find thi
+
+returnto London foraid, should OM
+
+youdiscovera foe possesses over-
+whelming force id the char:
+"You will each be granted a
+should easily reach Galtre by
+dawn. I shall also supply you
+with a letter of introduction from a mortal in our thrall. He is
+hhoisaged and frail. Thisletcer
+dians who might otherwise wish
+
+anoldacquaintance of Galtre,
+
+should get you past any gu:
+to keep you from the earl."
+
+Unless the characters press the issue, servants appear at
+the far end of the audience hall to escort the characters from
+Nicholas' presence. They supply the characters with the letter
+of introduction and take them through an underground tun
+nel to stables a few streets away from the Tower of London.
+Bold characters may wish tonegotiate with Nicholas over,
+the nature of their rewards before leaving for Galtre. Assum-
+sive, Nicholas reminds them
+hey should simply accept the
+Should the charac-
+
+ing the characters are not off
+that proper manners dictate
+prince's charge and discuss rewards later.
+
+Oops...
+
+Shoulda physical confrontation develop between
+is and the characters, the story may still
+unfold almost exactly as written (with minor modi
+oryteller weights the combat so the
+chance to
+afterward that only one Cainit
+even dare extending his protection over the fug
+d, Prince of Nottingham. In exch:
+1d, who is also interested in
+Galtre, sends the characters on a
+manipulation of events in the
+county. If things go this way
+modifications to Lady
+rs later in the story. As written, she
+who is trying to secure Galtre for her cla
+nselves in the service of
+, the Storyteller ca
+and her contingent to be a party of Ventrue, orhe can
+ters to support her efforts ther
+Wilfred, a Ventrue ghoul who also ap;
+the story, becomes a Brujah ghoul assigned to assist
+arin and the player char:
+
+ters persist, Nicholas grows annoyed by their presumptuous:
+ness, but says he will entertain any reasonable demands on the
+prince's behalf. The
+cemed, are the following:
+
+© A character may create one ghoul.
+
+imits of reasonable, as far as he is con-
+
+© A character may Embrace a favored ghoul,
+* A character may Embrace a loved one who is already
+aware of the existence of Cainites.
+
+* The characters, as a coterie, may govern Galtre in the
+name of London. If the characters demand this, Nicholas
+reminds them once again of the Traditions, and of the
+
+ainite forcesactivein Brit-
+ain. Heattemptstodissuade
+the characters from this
+experienced enough to as
+sume such roles in Cainite
+society. If they insist, he
+grants their wish,
+
+Additionally, Nicholas
+
+points out that the fine
+horses they will be rising
+
+ape, they may learn
+s powerful enough to
+
+are already gifts from the
+
+RANI prince, Further, simply ac-
+MRNRIMEE cepting this mission earns
+the characters the good will
+storytellers simply ne
+PARMMMOME of the Prince of London
+
+aBruj
+should the
+
+Nicholas does nc
+gotiate price with the
+characters. He either ac
+RAPESEED cepts or refuses any rewands
+theyask for, Should a char
+acter try to bi
+MEE Nicholas replies
+notamarket place, and you
+are not merchants."
+Further
+causesNicholasto orderthe
+
+dickering
+
+characters from his sight,
+anger lashing in his eyes. He gives them one last chance to
+accept the charge in retum for the horses and what he
+te reward
+
+con speaking with Pris
+
+himself receive Nicholas' word of honor that
+
+considers an adeqi
+Characters who in
+
+authorityofthe Prince ofLondon. Ifthey inss,
+them that the prince isimpressed with the char
+doesnothave timetoseeancillse. Any suggestionsthat Nic
+is teying to sec up the characters or is going behind the
+back are met with a gale of laughter, followed by the obser
+
+that the character will go far in Cainite so
+
+Nicholas gives his word of honor that he is
+
+prince' fll authority. Should characters continue to question
+
+hishonesty or authority, Nicholas grows angry. (Characters who
+
+ACT ONE
+
+
+have spent any time at all in London know Nicholas to be
+Mithras' most solid and trusted lieutenane and supporter.) He
+ordersthe charactersaway, or in the direst ofsituations,dolesout
+a drubbing. His bodyguards rush out to assist him, should their
+services be needed.
+
+OuTcoME
+The most likely outcome of this scene is that the charac-
+ters embark on their trip to Galtre. They may delay their
+departure by aday or owo, ifthey wish, burany longer and they
+an expla-
+
+After traveling for most of the night, the characters reach
+Galtre. A low, never-ending wall s King's
+Lands. ThecharactersfollowaroadbranchingofftheKing'sRoad,
+and find themselves riding through an ever-thickening forest
+
+The first structure the characters encounter is a small
+peasant cottage. Although there isat leastan hourbefore sunrise
+
+sound this cottage. As the characters approach
+
+n ride away, following the road deeper into the
+
+zhingloudlyasthey,o. A young woman, jillLetherder,
+stands at the door. She weeps soundlestly
+
+If the characters pause to ask Jill what is weong, she first
+attempts to downplay the tears. However, the slightest hint of
+kindness on the part of a character prompts her to reveal that
+‘Warden DuBois has been trying to force her to sleep with him
+and his men, fill tells the characters that they are an hour's
+hard ride away from the village of Redford, but she offers
+shelter to characters who have shown sympathy for her plight.
+
+SETTING
+The County of Galtte is sparsely populated and heavily
+forested near its boundaries. The lig
+
+Jills
+entrance and no windows
+kept stands behind it. F
+against onc of the cottag
+need of mending. Inside, the cottage consists of a single room
+
+with a floor of
+
+CHARACT
+
+The featured character of this scene is ill Lefthender. She
+is 19 years old and has brown hair and green eyes, Jill is
+beautiful both in body and spirit. She is devoutly Christian,
+and wants desperately to keep her virtue. However, Warden
+
+
+DuBois' advances are becoming more forceful, and he has
+hinted that he will harm her young brothers if she does not
+give herself to him.
+
+Her three brothers — Peter, Paul and Simon — are quiet,
+dark-haired youngsters ranging in age ftom five to seven. They
+have learned that strangers can be dangerous, and that it is
+rportanttoremain invisible around people who carry weapons.
+
+Drama
+As the characters follow the road into Galtre, the Story-
+teller shoutd ery to play up the shifting shadows of the forest in
+such a way that the characters might think they are being
+paced bysomethingamid the trees. While nospecificencoun
+ter is planned as part of the scripted adventure, Storytellers
+may pit the characters
+gthisstretch ofshadow-haunted
+ines have plans of their own f
+(Statistics for young werewolves can be fo
+se 248 of Vampire: The Dark Ages.)
+rrive in Galtte, the characters hear
+men laughing ahead on the road. The path bends, and they
+catch sight of a small cottage. Five men sit on horseback in
+
+e of their number — a balding man whose physique has
+
+J to slip with the onset of middle age — makes an
+
+exaggerated gesture of farewell toa dark-haired woman stand:
+
+ing at the cottage door. She has a blanket wrapped tightly
+
+around herself. He says, "Consider my offer, Jill. You will learn
+that we can make you hear the angels sing."
+
+The other riders laugh uproariously, and the group spurs
+itshorses and gallops down the road. The young woman leans
+against the door frame and slips to the ground, drawing her
+knees up uncler the blanket and resting her forehead on them.
+
+The riders are Warden DuBois and his men. If the
+characters call out to DuBois and his men, they are ignored.
+
+The characters may approach fill to discover the meaning of
+what they've just wimnesed. She remains motionless, with herhead
+clown, until the characters either stop in frontofher cottage or walk
+pan ackdres her (merely siding by does not gamer a reaction),
+
+Love iN Boom
+je that a Toreador may fallin love
+uty. The Storyteller may wish to oper
+
+er portraying such a
+his.
+
+rolls — the Storytellern
+ask Toreador characters to make Willpower checks,
+for which botches cause the Cainite to fall in love with
+Jill —it serves the story and the characters betterif the
+Storyteller simply lays the groundwork for potential
+roleplaying situations. The players can then follow
+
+ACT ONE
+
+
+‘siapeseyp ayp 205 21q e dn sump
+x1 01 Suen isnf so]porhuoIg yp jt 20 ‘uoMUARE sypIUg
+yp Janummg sigeme siaeeYD atp 02 parej>s aBeypta ax ur
+audao awos jt aysiu ayp uy ama Jay Yoor I~ wowDp pay
+sn] ‘Surfuup-poojg & anoge Sunues dn smoys yf 31 ‘28ey]14
+‘9yp un pooj on Sundwiane ays A|qesasiu prey siarseIey> ax0u,
+40 240 jt n290 puoypay punoze 30 UL JaTUNODUD POU
+
+LOI
+
+(JHNOLLEQ)
+
+HLING 3H] SNH INAS
+FIWODLNQ,
+
+‘aBeai09 say Ut aSaz 02 Slogng] WAIN Surpeap ut djay say parayo
+ae 304 Ue Aqpoorst en pepo jo aya
+
+STHA\ dO HSW1D
+
+"jasaa oumes up uo sfnpaay amuTeg axtssaoons yo synsar
+sop 3 ays aeIp aeTUBODDE 02 (¢ AAINDYHP) SOA 329
++ wondroo oyeur seu srafeyd ‘swoxduuss axp SqLDsOp a4 Sy
+<oupouuod ens ato Sue on papuodsaz uanns804f JO YON 3
+sup soyses 1 woy porp siueseadl uazop e AyyBnor wtp Ajuo SwoU
+nf suaned soy pouey> reap ,s9aay, 242 NOqE PauONSNb J
+(ApSurpsooze passaap paapun axe Sup jt
+squosajqouaq on wayp saunsse ays‘owi0y 294 y>eoadde ou op
+sranse1ey> atp j]) SHIByp se aUy sesasI0Y YIM sHOUOWIIOD U9Ds
+spx2uise4ays se sost0y tou woysstuors UoRdumNsse JO} 29Ue
+-readde statp yo sopprfioa Soeur ays yor "Anyiqouays jo axe
+soyp uondumnsse s yf 4q popures aq aystur sso 9e1e4> 94,
+_-spiopiu *djpy poe | ‘oseaq {sBuupjoy uno anos 02 NOK
+quis 'our Aygissod pure ‘staxpoug Str 9Ye2 2 NOK MOLE 01 UHIY
+aoutauos ued nos sdeysag sspeyag Aus uo pea up yp yeodsor
+Buyin aq nos pjnopy,, ‘Ase S|feuy ayg Peay JOY Ut SwHI0} EOP!
+cup "1yBipd x94 Jo srrserey> aH yPeEUIAS s]]91 aYS se LOADMOL]
+-kauno> aypj0 rauso> 1uerstp e UL TydOrsAYD "2g Jo A1orseUOPY
+‘yp ajing Spruanos ed axp aounIs "yunycy ayp Woy aWO> [96
+aouerstsse ou ume Ha9 st ]pF{ "eur don s,}289 aup st slogng,
+uum 07 azoymout
+>aey | "pud sata Aut 1e Ws "oguoHed aso] 02 SurUUTBag st
+srogng] uapre jy pury ‘adoy aso] 01 TuyuunBog we [ng HUF
+Aaaao aouer9atjap 104 poo 01 ded J, -wef x94 WOH MuNyTEy pur
+sojpayp say] Uaop Buy|for sieor oyp "ure 19 02 sUIB9q |
+<esiatpiong Aum "prom axp ta ystay | sunyp Joqpo oayp oy
+4yo 9 go! o2 puanuy days a} repuuans 3,uop 1 #1 pury ‘ama Aur
+Spjiom siga uy ystoys 01 ya] aaWy J SURE aay ax JO auO Jo aus
+ora ue fqu0 day. ‘3U4 pam o1 aisap Aue aaey tkioyp jo auOu
+pq uouisiyou uae aqdews pue ‘wry 02 sjasduadas5 pynoys yp
+quem 2p] "soyp019 AU Ing ‘9 AJUO IU pauarearyp sey ay ‘AIL
+{40 "2 pressor sooueape ynpsny pure spesodord A1osesun HuPyeU
+‘ubag sey Stogng] uBpae,y ‘9]Ys ayp [fy "@Np sty J3eO aup dass
+[pum saagasino paay pyno am os pay 4No puna 02 as9q ano Bu1op
+1u2aq 24,34 "syONg aan Aur dn sung o2 YP] sea] ‘OS,
+sueyd wast stpy jo used
+‘up0q 9A8q] nur sueap sFay,L aYsineU 40} axom suakead Aang
+‘peaisu au aye2 02 ssaunpp¥s a4p 20} p07] Pook ayp 02 paged |
+porp daxp jruun aysiu Surssed ypea yates za]ed pur 29429 204
+asn{ Aaup uot pur ‘Auppeoy 219m Aatp ‘Aep 2UQ -o]qHI0Y sea
+ay, shes ays , Suuads siyp 2949) a4p Jo paip sitaxed Ay,
+"ava onampedanss ©
+‘wep a20ur Sunpou spaau pu sypuous may ase] 942 105 suOpING
+aeau8 rapun Aauayts pazays sey ay "19y 02 dn suado Apy>inb>
+Inf ‘uonearasqo 40 uous HEypeduuss Aysno1ago awos
+{PIM wonesiaato> ayp seas 191 9weYD € P]NOYS 19AINOH
+‘uesead eyosuiaygoxd ayp ing SuMpoN "POU yJasiMog se Yans
+Syjojor ui20u00 joSumtpon,%‘stasuodsax 94 ‘9}qutwaxd 40AuoW
+aap Aue orp HiuowM SF IeYN YEP se SIINIEYD o4p
+gious aos ui sdiys4pey pur sdiyspro]
+sno asisse | ec "ypeoudde nox sway aupip pue ysnoup
+a ur aso] Sea J, 39Y PuNoie sox UE IOIYBH IxUEIQ,
+
+
+nuel either witnesses a feeding or some other
+
+activity and alerts Father Lucien to the
+
+re, oF Jill comes to h
+
+to Millstone Castle. In eithe
+dor master, t
+
+cakes the
+
+the character who
+
+SETTING
+The location can vary
+take place somewhere in o
+
+Cuaracters
+
+Together with Father Lucien, he destroyed the
+fled into the night. Sadly, his son die.
+
+‘Samuel has been watching for othersuch foul ereatu
+the night ever since, despite the vigilance of Redford'
+FatherLucien. Samuel hascollected
+
+cctually be aseriou
+around the county know Samuel as a fair and
+levelheaded m: hough everyone recognizes his brood-
+ing steeak since the death of his son.
+
+Drama
+
+Samuel attempts to catch Jill
+
+day. This isa loosely formarted er
+at virtually any time or
+
+Outcom:
+
+rytellercandecide
+whe el ha wow-how to destroy that character
+have serious impact on a
+ould think
+
+destroyed.
+
+permanently. A. characte
+corytellers.
+
+Storyteller should give other mem-
+
+maybedrama
+if his comrades fail to save
+
+tum his attention to the rest ofthe cot
+theyarevampi
+
+hould a
+body, the v
+will become impossib
+holds dangers of its own. If the smith simply vanishe
+will be conducted and hunting difficulties increase by one as
+
+nty re thrown intoan uproar. Huntin
+anywhere but in che castle — which
+a-search
+
+Samuels wife, Mary, insists something foul happened to him,
+
+
+
+YOherein the characters reach the
+art of Gattees castle, speak voith
+
+SyHing mer meet aloe positig as a
+friend and find both theic loyalties
+and their persons under assault
+
+
+Millstone Castle consists ofa three-story stone tow.
+point of the roof. The castle's main keep isa drafty bui
+
+repsingly common, the earl has yet to use any of it
+‘exterior wall: the stable for V
+
+stable boy is always on hand.
+
+surrounded bya
+‘with arrow slits for windows. Although
+his ancestral home. A wood
+
+irden DuBois and his mounted assessors. It also houses the earl
+
+STLE
+
+one wall. Thereisa chimney at each compass,
+ass is becoming,
+
+structure is built into the main
+
+swarhorse. A young,
+
+Guards do not patrol the wall, but the gate is closed at night. Heavy knocking and loud shouts will bring someone
+
+from the tower to oper
+Ground Flo.
+
+door leads into a small foyer, which perm
+
+‘on the eastern wall leads to the mess hall whe
+
+level houses servan
+
+asmall room t
+— who live in this cramped room.
+
+-First Floor: This level contains the quarters of Warden DuBoisand his men. He iv
+hambers. Each man keeps his ws
+
+the assessors live two toa room ina pair of the remain
+
+t floor and descent to the d
+
+e the servants t
+
+the dining hall reserved for the castle's noble visitors and residents. The ground floor also holds. kitchen. By
+serves as servants? quarters. There are three adults and two childeen — mi
+
+es for the entire castle. A narrow wooden
+ngeon and crypt area. A door
+door on the western wall leads to
+dit is
+
+ce their meals, wh
+
+room, while
+in his room.
+
+is brought to the castle, she is kept in one of these three rooms. The northwest room serves as the living quarters
+
+jidane
+ve and below
+
+for the four monks who, under Lu
+
+the Earl of Galtre, as well
+in one of the guest rooms, while Lord Alfred
+nites, if they pass themselves off as a married couple, or
+
+t be offered toa
+otherwise "involved") who claims to be the|
+but are as drafty as any others in the cast
+
+Roof: At
+sides of the tower. A chimney stands at ea
+24 hours a day so that the ailing earl may be kept war
+
+In addition, there is a dunge
+dungeon, and the family erypt contains only three corpse:
+
+Cainite (or
+
+SCENE ONE: REACHING
+MILLSTONE CASTLE
+
+PLor
+The characters reach Millstone C
+deal with the Earl of Galtre's unsavory right-hand man, Warden.
+by the Prince
+
+"astle, where they must
+
+DuBois. They also encounter Wilfred, a ghoul se
+of London. Finally, the characters catch their fist glimpse of
+Lady Karin, the Brujah emissary to Galtre
+
+This scene takes place in the small courtyard of Millstone
+Millstone Castle is a cramped, ugly structure. It squats on a
+hilltop likea broken tree stump. The courtyard is packed earth, but
+irtumsintoa mudbath during heavy rains Irisfairlysolid at present.
+
+CHARACTERS
+
+Featured characters in this scene are Warden DuBois and his
+They have employed Wilfred, a man they believe tobe
+awvanderingsel-sword. They methiminRedfordeaeierintheday,
+and DuBois took an immediate liking to him.
+
+key m
+
+Warden DuBois dominates this scene. He is a large man of
+His face bears the sears of many batel
+into a paunch that
+
+muscular physique slipping away, set
+strains against his leather hauberk. His dark hair is thinning a
+
+CLASH OF WILLS
+
+attend the Earl of Galtre's soul.
+
+ighest ranking character of the group. These roomsare:
+
+Each room has a firepla
+
+from the lower level onto this steeply pitched slate roof. runs
+cornet. They are quite hot, as all the castle's fireplac
+
+fh room has
+
+rooms for visiting noble:
+id Lady Karin share another one. The third
+
+ishly fi
+
+oundall four
+e stoked almost
+
+ind a family crypt under the castle, No prisoners an
+the earl's pare
+
+shot through with gray. His eyes always hold a hine of barely
+retrained violence, and his smile can chill most God:
+i' chief assessor and right-
+man forthe past 12 years. With the decline
+warden's dark side has hecome pronounced. He and his men were
+ly, they have
+taken toforcing the county's young women intosleeping with one
+of theit number. This lechery is tainted heavily with
+
+people. DuBois has been the
+cheeaul's health, the
+
+once brutal yet fair; now they are just brutal. Lat
+
+violence, and at least one young woman did not survive their
+attentions. Fathers who have dared to complain have likewise
+ended up maimed or worse. DuBois is the cruelest and crudest of
+them all
+
+‘While the players' characters deal with the warden and his
+men, another important character observes them quietly and
+unobtrusively. He is Wilfeed, a short man with stringy, redals
+blond haie. He is not an attractive fellow, but he makes up for it
+with a charming and witty personality. Wilfred tries to get by on
+illed warrior.
+Wilfred is an agent of the Prince of London. Mithras
+aid the characters, and co warn them of his
+certainty that other rival Cainites are active in Galtre. He
+
+his wits instead of his brawn, even though he isa
+
+sends hit
+uses his Auspex Discipline to be certain the characters are
+
+Cainites, and then incroduces himself as an agent
+prince coward the end of this scene.
+
+
+Drama
+
+Millstone Castle's closed gates greet che characters. However,
+the Cainites hear raucous laughter beyond the walls Characters with
+Alertness ratingsof# or higher recognize the laughterasbelongingto
+‘one or more of the men they saw upon thei atival in Galere
+
+If they pound on the gate or otherwise make noise
+outside, one of the assessors opens it. He snarls ac the
+characters to identify themselves. Whatever explanation
+they offer, they are admicted, but the scruffy-looking man
+says, "You'll have to clear it with Warden DuBois."
+
+Headmits che characters to the small courtyard ofthe dismal
+castle. By the light ofasmall campfireand several torchesthey can.
+see several figures gathered before the weather-beaten door that
+leads into the keep. Fourmen siton barrels and stools around the
+fire, while a fifth sits farther away. Two young women, both
+partially naked, wander from man to man, Each man cuts away a
+litte more of their clothing with a dagger, or runs his hands over
+the women's exposed skin and laughs loudly. One woman looks
+frightened, while the other has a blank expression on her face.
+Both women have tiny cutson their armsand chests and legs, and
+both are haphazardly smeared with blood.
+
+The man who admitted the characters sits heavily on a
+barrel as he says, "DuBois, we got some late night visitors here."
+
+One of the men rises slowly. Iris Warden DuBois, and he
+regards the characters through narrow eyes, grimacing. He
+offers his dagger to Wilfred and says, "Would you like to take
+my turn, Wilfred?"
+
+Wilfred shakes his head and rakes a deep drink from the
+flagon he is holding. "No thanks, Warden. | gave it up forLent."
+
+DuBois laughs, and the man seated co his right pulls one
+ofthe woman toward him, "Let's see what we can do about the
+rest of the skirt, dear," he says.
+
+Meanwhile, DuBois approaches the characters, his gri-
+mace becoming a scowl. He snarls, "Who are you people, and
+how dare you disturb our fun?" Alcohol taints his breath.
+
+Ifthe characters show DuBois the leter from the Prince of
+London (who is known by the kine to be a powerful noble), the
+‘warden says the carl is currently speaking with hisson. However,
+the young lord will surely step aside, DuBois says, for such
+important visitor, asthe earls time in this world is growing shor.
+He orders one of his men to escort the characters upstairs, but
+‘Wilfred — the red-headed man seated outside the circle — leaps
+cohisteet, wily offering orake the charactersup tosee the eat.
+
+Turing to the characters, he speaks in a quiet voice:
+"Soon after you left London, word reached the prince that
+there are indeed other Cainites in Galtre, They may cause
+problems. I have been sent to help you address them."
+
+‘Wilfred opens the door, revealing a torchlit hall Stars rise
+steeply to the left. He gestures toward them and follows the
+characters in. The ghoul introduces himself to the characters
+and says Nicholassenthim with instructionstohelp them in any
+way he can. Ifthe characters are suspicious, Wilfred produces a
+signer ring bearing the personal seal of the Prince of London,
+
+‘Wilfred explainshowheposedasa bruralruffian ikerhe scum
+in the courtyard to get their assistance in exploring the county for
+suitable Cainite lairs. He intends to continue his search the
+following day, whether the characters trust him or nor.
+
+Asthecharactersteach the eat'sdoor, have the players make
+Perception + Alertness rolls (difficulty 4). If they are successful,
+theycatchsight ofa beautiful woman gazingacthem fromtheroom
+across the hall. Ifthe characters look in her direction, she lowers
+her eyes and swiftly closes the door. [Fasked, Wilfred says thar he
+thinks the woman isthe wife of Lord Alfred, the eat!'s son,
+
+OutcoME
+Atthe end of thisscene, the characters should havea taste
+is and his men are. Characters
+who had even the slightest inclination toward helping Jill
+Leftherder by dealing with DuBois should now feel as though
+doing «0 would be a good deed.
+
+Kany character takes offense tothedisplay they witnessin the
+courtyard, he or she probably berates DuBois and the other men.
+Allow the player to roleplay the chiding. If you deem the repr
+mandeffective, DuBoisapologizes profusely and becomes farmore
+subdued. He orders the women from the keep, assigning one of his,
+sen to escort them home only ifa character insists on it,
+
+ScENE Two: THE EARL
+
+PLor
+In this scene the characters meet the Earl of Galtre, his,
+son, and Father Lucien. Observant Cainites with Soulsight
+
+may recognize Lord Alfred as a Cainite
+SETTING
+
+This scene takes place inside the cramped and unpleas-
+ant Millstone Castle, The hallways are narrow, most rooms
+are small with low ceilings, and most windows are no more
+thanarrowslits. A constant draft moves through all chambers
+and hallways, causing the tapestrieson the
+
+Asthecharactersspendtime in he castle, the Storytelleshoukd
+rmakeitfeelclasstrophobic. They encounteraservant,amonkorone
+of the earl' other subjects everywhere they go. They cannot find
+privacy, and the only remaining guest room will hold no more dan
+two characters comfortably. The characters will have to split their
+
+Istostir gently
+
+group at sunrise, seay at the Maiden of the Mists Inn, or sneak down
+into the dungeon arxl family exypt area to shelter there for the day.
+
+CHARACTERS
+
+The featured characters in this scene are the Earl of Galtre,
+Father Lucien, and Lord Alfred, the eal' son. Aside from these
+three major characters, the castle is populated with servantsand
+menials The players' charactersalways meetone ormore ofthese
+people, even in the dead of night; Millstone Castle, much like its
+dying master, never fully sleeps
+
+‘The Earl of Galtre isan evil man, hislife steeped in debaue
+ery and violence. Once physically powerful, he has ll but wasted
+away under the weight of old age and disease, The smell of death
+
+HCT TWO
+
+
+isthick in hisroom. His skin isa
+
+wisps of thin, white hair cling to his bony pate.
+
+h the earl permits the characters to see him,
+
+hey say is of any real interest to him, He
+
+g, and he isconvinced his soul will goto Hell.
+
+.cters have something to offer him that may
+
+prevent that from happening or return him to his "lusty
+
+he quickly orders them from his presence.
+
+ather Lucien, a small
+
+cll-fed and healthy,
+
+: arely smiles and the
+vwrinkleson his
+
+hhim as a man who has grown old before his time.
+
+Father Lucien wasa able task of trying to
+
+togain absolution
+
+ruction of the St
+
+stery. In doing so, he brought Galtre to the
+
+elder who
+
+J him to urge the cor
+
+to seize the county for himself
+
+In this scene, Lucie ke a simple, devout
+
+priest. He or one of his monks, however, will be in the
+ity of the characters at all times, eavesdropping
+
+If at any time it becomes clear they are
+
+ites, he sends word to Remus. Lucien is nor too con-
+
+cters' presence at thispoint. He knows
+
+cealready won. The earl has agreed
+
+cerned about the chi
+thavhe and his master!
+
+CLASH OF WILLS
+
+to will his lands to the Church, and the seribes have just
+completed the document. Now Lu
+
+signature.
+
+jen requires only the earl'
+
+The third major character appearing in this scene is
+Alfred, adarklyhandsome man with an easysmile, The youngnoble
+treats the s with warm civility, He seems
+dened that his father is about to pass on. Hac
+up with him, at some point he expresses relief thar he and his wife
+are able to be with his beloved father dur
+The fact of the matter is that Lord Alfr
+
+father fron
+
+has hated his
+hildhood. He has come to Galtrein an attempt to
+
+secure his inheritance of the land,
+
+DraMA
+
+k on the door of the
+tet." Beyond the door i
+
+Ps chamber prompts a
+n opulent
+
+Fine animal skins cover the floor. A large fireplace
+
+comer of the room, cast
+and furniture within. C
+dlisplaysnocoat of arms,
+it. An exceptional t
+with their Saxon foes covers the entire eastern wall
+deskanda chairstand nearan arrow slit,andatall
+but th
+
+combat
+
+four-poster bed. The eat restson the
+
+iscomficed. Three other men—ayyoung
+
+
+OML JOE
+
+-soouaraytp atotp appaas ue
+ays sodoy ays pue ‘saruisus uryp sare: spudiay fet 02 $2132
+sfempeaygaouertje ue a8i0j on duane we ur woyp saypeordde
+ays samaeu in DeseL aup Jo axe sOWO?Ig LEY 2910)
+
+"us sit Jo ayo ue YE ype) st ypeoudde pure n 995 YE OMY
+*(snwoyjoraSesoue Burypiedap st uar>nr sa4pey ay pu apse>
+ypaae9]Aatp way 20 san] auaNg Ur UNE tpl avoU Saree
+xp ay upto) sos siuasaad Bunvado ue -].5r] ‘uaprewapurey
+aUIUIED) 29y PUL UNE UadAIDG sIIKD aeYE diysuoHE|AL a
+nog apes sey ay suoniduunsse to paseg ‘pareax> are SAU POO}
+‘soy pure ‘soexqurg 24p Jo Suipueisiopun aoayadus ue sey pa4yy
+‘saying -fauno> ap Jo yonuod payy saaiB exp wuDuuND0p atp
+‘uoaumapufis e208 0 19puo ULsPayorsiueN ay DAmEyN uEW PION
+sq]>»pue ioxpey styonius| nogesuoneasasasousey pass y "YIN
+242 02 08 anyep 29s 01 ysis 20U S90 94 Ing "EES 30} 940] 04
+set} onde aumes doa atp uapisuos wa99 ApasDossey ap -20uT
+-puni soy ise on soysna pe paraisny pure pouanyyy sou0o9q 94
+"pea ap aoexqung or uuayo sonseneyp axp sweayson0 Posy yj]
+
+‘om | Py Jo Moy auaDg UI Ysnqure jeuondo ayp :warp Konsep
+1 uonour tt uejd e stds ay ‘anqeD UF are somUIED J9YR0 ey
+piom staff ay se uoos sy "sanantoy Jonag smouny smtuoy "Aouasin
+Aue st a1aqp 2uryp 10U Soop ay os ‘mou e uy sIYsHU 9914p 10} UO
+/pojaq asm waar esoaarjaq a} 210] paEoY pure suosiadns jo
+‘Aaaqava apis & Aq pazojoa si smOUY ay IeY.AY adeIqNU 94p Jou
+-pueisiopun apiaduuy ue sey uaton "snulay o2 pom puas Soop
+ang ssorseneyp atp dois or woys ou sayew ay ‘SIE=YPaAO WAIN]
+JL tpog 40 payyyy poy ‘uaron zaypey Aq, preaysoao oq 4]>%N
+2Sowl jon 9 dtp aoeaqg 01 sionrereyp ayp Aq stayo Au
+
+-anjeg Jo spur] pur apise> atp paztos oaey |p sty
+sopeaio y akf) — tumas arp ways Tuaraysp ag fa UoneNass ay
+pu ‘onjep ur sapfinroma aso] jf Aaup ang ‘panties uorsstunsad
+
+‘op Aaxpyy uorsstuniad 488.01 uopuo OV WMIAIOaPID—p ALL
+xpSurseaquig jorapiaxp yim dnawiosoynsiaarereyo)
+"somres) 204 Arepurenb jezow v ose stat ang ‘azay wonnjos 2015e>
+axps peo ayp Sur>exquyg wore jo asinoasyp on presn yn peoy
+uasoup sp to dip Jim siangexey> atouu 30 a0 Ieyp apgISSOd S13]
+"uy ursexquig jo uonou Aue pure ea axon uoREaHUSio Zee
+up Aq paunopiad spaap Aue yeas 01 spaau Jopfaukiong ay
+"eu pjo Jey © se z9a940j aay] UE — UOREULUEP HOI,
+Jos ty anes paopur yas ysiny agp On snpjoy sry Sumas we
+‘upton Jo pom a4p Uo Ayou pue— |]9} pure UasKDH{ ypIMsoouEY>
+say oye s20per p.ap{ "an]eO Jo jonuo> urayp swUEAB aexp 9039p
+ USis ay yf 204 ‘Stayo aioyp xda008 20u JTL ay "Jam Se YANO
+yous aney [eas ay eK NY fod stoneIEE axp ss9puN ang "9p
+
+Jeuraia 9aet{o19A0) pynom apy "9oeAquiy atpjo ward so FNLAVe
+29,00 un ysion dau JF ea ox 02 ay 02 Paou sareTeYD ay
+
+‘presnye ae suoa2exe4> oxp sdows 2ey™ pue OU
+20 Jayo atp sadaooe j2e9 yp soypaua Jo ssaypuea ‘21 SuPpEUL
+
+wouy suone>ypiuned qj} 3394p 2eMP 4f>3 S12] sAdMOY 390
+snip quinn ypeoudde stay w yryases aq 01 paau Aay "9ar9s Kew
+Aotp uomed jnpiamod saxoiey 0240 ‘srax>exeyD aup 01 Arye}
+
+seams dyiddey yun prea ayp "any o» sammpge ouiduea stax
+yo 90s Joonas pure app jeusaao wy astusOsd Aagp J TesOXIIp
+alot ae dryp Sutureszeq zofeurayp sisiy J "24p you faye
+yo ayp azeaquag pinoys wayp Jo ou0 jr exp way o 3N230
+Sew a "Je 28 [sea ay pia Iss9auos ss—9"Ie4 OY. J
+
+HIXODLNO,
+
+-suunay] sy Fuump pareniadiod ay spasp yao axp ype opun 02 sans
+aye ussop ays! MOTTO} ARUIIEYA SIEDJoY|Se_YSMUNSe YpLApsPa} Lou
+soop 9} "]9H Ul tang 3,u0% Joos jeoun sy ep os Y>uNY aU
+on somiadond iy pe pa 02 spuorur ay re4p dquado sioisesEyD o4p
+519} SurepAtte werp 2304 yaeap sivay ay eyp wa} sowod9q 1
+pure ‘sue épinb wopuo7] ur pudty st Jo sau 1930 1uaWHOHDXe
+Sy}{ sims 9 ayp sonbad Avs sion>ere4> axp apt 49,
+-yoresiaauo Ur wry soBeBua pure apysino
+‘uy sujof sooereyp e ssayun "oop axp ae suns pue Avsaypey aye
+‘uy supewon poagry"Aansadea atp puryag urradoaoao9se yon
+tuonesiantion ayp uo sdospsoeoAjjemiseay ng ]noss, 99120},
+ad pue awn v soyamnason spuarul oy retp Surdes ‘woo xau stp
+(015908 ua}on7]"aprsano nts 9g yea Soup exp soupy sty Sasnsse
+poyyy ‘umn ase] uo sioNeUL aWeDH[9p UT a>LApe PuNos s3e9 9x7.
+yo soajasurayp eae on ys spuayy [pro wod 5 zane sy Jo Ate
+aetp spuersiopun ay s4es pio] unos ayp ‘suedop oy sy "jane
+-spowiut wo003 24p 289] wo!9NY] pu payyy ‘uo [29.942 yPL
+ajeads on ysis Aaup reap aun Aue we 7UNY sso9eIeY a4p J]
+ppasteag axdor ap pnous yun ayp on a} 9 EN ANTES Jo spuE]
+up soaayog ay e4p sionoeayp atp on seapp at soyeur pan U!]
+jposod axe Aaxp suonsonb Aue on Stansue yey, uous sadsiys pue
+2yquiny axe spog -possuppe axe Aotp jun punaashye9 ap 1904,
+ang ‘Sianoenet aip ypeoxdde 10U Op uow a4p pw WIN]
+"ry 07 spur] axp ps8 01 Huro8 st soKE ST UMENDD spay "EYL
+soupRy sty Ip soyTNEY oa aup Uods9g drysuoNEjaratp aNUALOD
+61 a4] pjnow ay exp shes paayy-zaiseusssoxsere4y> ayp 02 Says
+3x s1Y Bupuanxa jo soayy Jeuowad axp wy op qj za1DeIe49
+up sodoy 94 2e4p shes off "pea ayp ystas Supyeads ou st ou
+sprereyp & 01 yaswNy soonponur pay pur] yelrug ay
+-(a10]9q Ny, 2xp payfods sor eIeYD AMP 9AD) WeAIONLJOSOUD
+Suiggos aup (piss sojiluras ap ays Mou axp nop sy pred
+~auno> ay Suryfine] uaw siogng Jo punos ayp ‘pea axp tp
+yeads sioizezeyp amp sy "Bulop si seatprpy Noy zeoy or suEM UE
+"aopuo7 wy, pudty po, sIysioquiowar ap -pantox0.4uDasoiH09
+ag Hea aup ‘Soappsuioup aonponut sior2eIY> ay 20UG,
+4S]}sap 20u are Aaxp puy suousta
+aystu-are] awios aaey nos savadde ap, "uwew pjo axp 02 >eq
+‘uonuaae s}y Struma ‘shes ueUr9]|qou 942 , FAY] "ON,
+Sane aut fen 01 HUNHOD "149
+ay exp sf, SAS pag 94 UF URAL Plo aUp ,Z2PHP St OYA
+saaua day sv sionoeaeyp ayp 1» éjutu9]0s yoo) aanyp fy "aEGoU
+se wy peur Ayre9]> ssaup Spoygty ay ABL9,> ayp Jo soqox
+‘wnoig 2tp 2eam uous aip pue uar>mr] pag atp pumore pues
+ou plo7] pur "uoton7 'saKa st punose sa}>11> yep ypLA AUOU
+
+
+the Earl of Gal
+characters are C
+example). If th
+Embrace the
+
+inites (following a poor
+haracters return to London for per
+it takes place upon their reaur to Galtre.
+is Lady Karin's handmaiden
+wishes to speak
+importance. If the
+
+-e Lady Karin, she seeks them out inst
+
+her in this
+
+acters before her
+
+Karin wants to ney
+
+and theirsendupat each other's throats, both figuratively
+
+and literally. She barely has a chance to outline her intentions
+before Lucien arrives with the news of the ear's death, Depend.
+
+urn ofeventsruins Lucien and
+plan to
+
+ed by on
+
+acters — before he could
+
+Alfred or
+Lucien's will
+becomes furious and storms out of the c
+
+he outcome, Karin still wishes ton.
+1cters. She has nodesire to see Galtreandits kine tom apart
+inateritorial warbetween the PrincesofNottingham and London
+
+CLAS
+
+She asks the characters to meet her again the followir
+
+SETTING
+
+expensive mirrors on the inside of its doors
+
+Cuarac
+
+The feat
+Lith Generation Brujah who serves her u
+also plays a minor role, as do Alfred and L
+
+Drama
+When Lucille escorts the characters into L
+chamber, the elder Brujab is in front of the c
+
+xd character of this scene is Lady Karin. An
+‘a Blood Oath
+
+yy Karin's
+
+t mirror
+
+Depending on the time of night, she is ei
+rich, red hair fo in
+
+activities. (The Storyteller needs to be sure to mention this
+mirror to the characters. It may become t
+Three.) She initially speaks with the characters while observ
+
+ing them in the mirror and finishing her hair.
+
+mportant in
+
+"Lam glad you have come to see me," she says. "I believe
+valk a path from which there isn
+before itbegins foritwill leadusall train,
+
+
+OML LOW
+
+sutuns 2x0joq 298 ypu Aoup se
+aby se sf exp ang ‘OBEN szopI94}Y> [Hf A|q!ss0d 30 ‘pLOspaY,
+\ypeat ue Aay f "ane aay on warp J0} 1y}u 4p UE 91e] 001 st
+a1 ou 20 payy puke UNS} asta suDIDeAEYD amp AYALA,
+-4saxay anqures atp ypu pareroosse st uondusuy axp wep MOUy,
+01 (p Aajnoyp) Snuapeoy + aouadyjaruy ssorserEyp sty [fOr
+AeuaXejd yoeg pase puey yo} sty Uo 1auy Ruy oy Buysstutst
+9} ‘pueqaysusty uo (,AX:A[],) Wouduosut ue swvaq Ip Hu
+spayIseSuuvam say 99!20U pueys PuoU>yp we Yoo] Or YUPOys
+siPEIYD AU IYFIs UE SAYA" S| UIINT Ing Kpoq S9n]eD
+soo Fuybead JuOW v PUY TEM soJOq dks oy ora} auMUDA
+‘oy Aue ‘opse> ayp Ut uneUIaY Oy as00yD SHaRDEIEYD 249 JT
+‘§joanua sniew quarDyip e are suo snUIDY
+-sauydusen yefnag ays wioyy seo] ae — so rweur ey 40} aNpLO JO
+JP pue ‘apse auoasy|ypy wr ayes 9q [44 AOU] ‘SUINUDA st 19
+Jay ‘uney Ape] asa 20u AeA sIIDeFEYD ayp YFMOyPTY'
+(Cqyessp suey tyr] se sn ennp sty 2g,
+[es peasqnaerp seaayeq sjuayersu payyy) Sunmnsiag wouesiago.
+spe} sty Sodoy 2y pur oy Woy aHUEADS apy v avy or SIEM ay,
+sSysoao] ay ysnoypyy "UuEY |JoroUsSOPay ‘Be ayppo>esquIg sey,
+pouy s'2unuE] Jo um snp ssHop on 9uOyE pay y pue soy 9A09]02
+sropereyparpaxopzeup surfs [sosn ays SNOUT APY
+SINODLNO,
+Buyu9ao 1x9U ayp Uo syfeD dUINsaE Or SOYstaL
+uuredie uney Aper] guopuor] jo aouug parwonstydos ayp ueyp
+uurwysumony Jo aoutug ayp 02 parins snag yoru aq AuNo>
+Jean siyp 2,upfnogy "2N}eO Jo suozAID ay wey Ajsso]pa9u
+[plnom pur] 07] pue senyatpy uomrag astue pjnom ae4p 391 yuo
+kp wayp 02 awa] 21 eu! O2 S9HN AYS "WOLD YALA aIeROHIU
+on soystas |[]38 UEEYy *]]EM pauds v spjoy sorsereyD v JL
+_"stsan3 sno saajasinos s9pisuog "1 9sn 02 980049
+‘nod pjnoys ‘Rod 10} uoawy ayes se spuelsapse> axp pure ue,
+CounOs Ysta\ ans ‘prom AW NO 9ANB | AUMOPUNS JOYE SINOY Maye
+‘ywousouio) uorreaAUOd sno awn 98 WLS) "UI SaA]ASINO PUY,
+‘9m wonennis 2ex9 a4p puerssapun | aans ure [os asf, ‘s4es ys
+"Pay y panojaq Aur yar Ajpieaud siuasa jo usm porsadxaun
+SQ) SsnosIp o2 paau |, TuaWoTURLE AoepsHES AyjeMInU
+wae anne qe ues Adyp ae pue sSuIoq pacar axe Aoyp
+auapytio> st ays shes ay "IMOge Aasom on BuROU Sey dy WHR,
+s]]9} Uney, Ing "Ajsnoyoidsns simoeweyD axp sada poyyy
+_cJagsew 319¢7 0) spur] $ Jaye) MOK auNd9s O2 2194 aUUID ‘Cor
+SAay 1 "somure jo dhox# satpoue or nos sonponut or 9w NOT
+[]9 uEYPUMON Jo pio] 4p PUL UE|D NOs paatas aaey HOA
+soy nok B40] [Ng ‘pup NOS rey avoury 3,UOP J, ‘Sun op
+sey sty yBnoatp purey © sure ays ‘paypy $1 J] THe pauls yp
+spjoy oss uo spuadap suaaa jousm sitp oy uon>eass ue
+‘yons se onsuoo pjnos siaXejd atp Sunpouos aq pjnoys
+ay ang "Appoexe awanip vq 10U pjnoys au] aH -aN]EO Buyer
+soaou J}In s1e2eyD au UY Aavay vst eIp aun HUISO}> v SUL
+gn uodn woos ayp woyy saysna U2toN] ‘st aSueYDXD jemIe
+tp weya Jo ssappreoy s98ue sowooag Loup pu Jor]aqsIp 02
+sagiys ey Aroid — ates aq 99 [1 suonseas s,ua!oNT Ne)
+Jo [onuo> uny Surat Le pouBis e seq sargeIEYD eT
+
+‘miooy ay} woxs saysns pu ,‘p10} Au Sax,
+"Ssapaouoa ang ‘soygisuayut 990) sasdtud aya uo Josue ay
+‘aidpoq aup s9a0 Avad on ans aq pury -1du>
+Ajpuey oyp uy pooeyd Apiadoud st soyaey Aun rey 21 0 998 pue
+09 ‘a]2q J0.39]N2 a1 AOU UIE  ‘papuodUT pey nod 949249),
+woud ‘yjasinok y9s0} nog,, "WUMDI UT sopsizq PAY
+ikog UOp 94,n06 Beye
+puvastepuna,uopno4,,'928)s,us}o"]ssaue saysey JOY.
+"Ayuuuayos shes poyyy 294}
+soy ‘sinoy yeuy sty uy Apuarayyp 21 ud9s asey IsntU >},
+audwU0) [ew9I9
+‘oy jasunny pauwopuos sey Joupey nox, "uaWNDop ap spLat
+ay se sojed ay "spuewop asoud ayp ,,Teya 998 2 39"),
+pauiis 94 188
+Snip pay "tos 4]u0 siy ‘au 02 sojan pur spur] sty patytas oypey
+4yX,, 214M IY 9pisut Wo qUdMY>Ied Jo 201d dn paljo E
+Suyjjnd ‘sdnusoaut poypy ,*uyerstun Ajurenio> ae no4,,
+{THE nos asm | UBS on ouTEYD v pey Joxdu ay YBnoMpE
+pur ‘dn useap ytave pey ap yoanyy 2yp 02 Of on aams9 ANNU Sty
+20}poystn z94p2jano.,soq|dan u2}on7, "tos duu ‘yESMUON,,
+2oypey Ajoy "uadperstu are nos aaayp9q J, "MorgaKa
+
+pay200 8 quia asotad aya 18 S40] 94 poop a4 pip pap VAL
+
+Jf pause funAuze>  ooeseyp salou peop siy paste snip
+Ajense oy uo Sunpusdag -pousisun
+IpIOY Sax[eD Burstuosd TuoWIND0p &
+
+pure ‘pea ayp poreag
+st a younysy axp 01 sé
+soquse9 asaqad axp 9]nyyqy 0M ST SDI axp Y991109 0 PIPNAIO}
+dans pjnoys paayly 30 siaxoeseyp ayp aaypr9 ‘2urod sip Ty
+w farsoxaual sty preaay [ta poo pur "y>snyo,
+‘yp 02 spurl sty Je pares aff ‘pua oy we wy Gaim sew
+ysouud ou J! Uda ‘uONINpOSAE UDAIs sem HOS SHE ISwO] HY ~sNOY
+poruiodde-pog siy, ‘sanunuios uaromry ,aun sry see ap,
+OY] 9]osuo> or sue 494,
+suado ays se aseur spoypeduuss e ovut sapys 998} s,uLeN,
+«Suns yeuy sry wry 9418 on axoqp OU Sem sonIMp AU Ss
+‘uaag aaey | preyewne | uopassedsey, "uaion]stes,|3e99q ],,
+-pooey-auois are Yog -uny tain st 2jgoU unos 4p "WOOL
+‘qn ur Apeaye ious paypy J] SHto9JoM 40} SuFEA NoKpN sto
+‘upton 294 JOOP ate xpou| est axoUp "ysimaNo say 1>9K03 HED
+‘sonpezeypayaioy2q 0 'unoquesuonesiasuosjear sue aoa
+‘s]Bou4p aSIOM 94 UAAD Jo dU 94 UH UHTED suIEMDL
+pue ‘ued 219 uo astuystp 4g paxjnsuy 10u st ayg "stzeIey>
+Sy ypta a>qyuoo ploawon aaisop 49y urs} aysse puey soddn ayp
+‘aney payy|y pure ays 2eyD Jorfaq JOY] UE asoUED se st UTES,
+"34 PreMO AYO DALY NOK eK ado] PIO | UE ‘NOK jo
+‘fue preaor aysoumtue ou aaey J, siso88ns ays , Suoq a|qeuoseay
+29] sep sass oy, stuEN duO OU Yong nysy PEIN e BESO
+puniuy Aatp ssajun ‘payyy por pure aay dois op ueo sreney>
+up ajay stazayp ae wound oxp jost ays "wmeysuMON Jo 2>u
+yp soy anpeqjainaasoyas9y stays yep ULE|SKA OY UOSIOH AS
+BME Jo PIP # Se nos anoyag popeasay PURI | ‘poagy POT] Pur
+_jsktu jo amnaeu ann atp pounostp Apeasye20u ane POLY, SHUTE)
+AojaFejosuy cheysoyp seanannepauseutsch soy yeqTUHAAP
+‘snipeseyp orp prema suum ayg, 2809s Asoo wisn ueaw op] PUY
+
+
+ScENE Four: Tue
+Monastery(OpTioNaL)
+PLor
+
+In this scene, the characters go to St. Christopher Monastery
+inadistantcomerofGaltre. They either follow Father Lucien there,
+‘or come with Wilfred, who determines it is likely that a Cainite
+makes his haven there. The characters walk into an ambush,
+however. They mightalsoencounter Remus, the Toreador vampit
+who dwells in the monastery.
+
+SETTING
+
+The characters travel through the dark woods of Galtre
+until they reach the location of St. Christopher Monastery. A
+light fog hangs over the nearby lake, and tendrils drift around the
+rombsones in the nearby cemetery
+
+The monastery is only a few years old. It stands on the site
+ofachurch built several centuriesago that was sacked during the.
+
+civil war that took place during the previous Earl of Galtre's
+
+reign. Theruinsand thecemetery lay untended for decades, until
+the current earl funded the reconstruction of the monastery on
+theancientsite. The workers used stones from the ruined church
+aspartof thenew structure. The monkshave putsome effort into
+cleaning the wild vegetation from
+the old cemetery, but there isstill
+much work to be done, and the
+leaning, weatheredheadstonesgive
+theimpression thatthe place might
+still be abandoned. Lights in the
+
+-monastery'swindowsindicateoth=
+
+the monastery would be pure folly
+
+CHARACTERS
+
+Wilfred, the ghoul sent to
+assist the characters, may appear
+
+and Remus' power n
+Only thro
+pidity or unwaveri
+
+in this scene. He has a tense air
+
+about him, asi is part of his goal
+turn the characters oneachother,
+
+so he can attack them with the
+
+Brajah he believes to be waiting.
+
+at the ambush site. Those Brujah are a ruse created by Lady
+Karin, who wishes the turncoat Wilfred to lead the players'
+characters into fatal conflict with Remus and his heretic
+monks.
+
+If Wilfred does not lead the charactersintothisscene, Father
+
+ent, as the characters follow him to the mon
+
+jon, the characters face members of Remus
+devoted to the Cainite heresy. There are two cultists for
+each character.
+
+Finally, should thecultists manage todefeat the characters,
+they meet Remus himself, Such a defeat may prove disastrous for
+the characters' free will (and the story), at the least, and their
+very existence, at the worst
+
+CLASH OF WILLS
+
+Give THEM A CHANCE
+Storytellers must taketheactionsof their players,
+-count during this scene.
+should always be left the option of escape, even if they
+have to drag their fallen comrades with them. It
+should become painfully obvious that an as
+
+this option unsavory.
+
+bull-headedness should the
+wholesale capture of the players' coterie bellowed.
+After all, the story would draw to a close at that
+
+Drama
+
+‘One of two paths leads the characters ro St. Christopher's
+Monastery. They may be suspicious of Lucien following his
+outburst in Scene Three, and they may follow him there.
+(Rather than tend the ear!'s body himself, Lucien orders a
+monk to do so, and then heads into the night.)
+
+Ifthe characters follow Lucien to the monastery, they can
+do so without any difficulty. The priest makes no effore to be
+stealthy about his travels, and unless the characters are sloppy
+he does not seem to notice he is being followed
+
+Alternately, Wilfred, the ghoul originally sent from Lon:
+don tohelp the characters, may approach them. Wilfred takes
+the characters aside before they have a chance to meet with
+Karin on the following night, and reveals that he has found the
+location of aCainite'shaven. Ifinformed that Karin and Alfred
+are Cainites, he reacts with surprise and says that the haven
+‘may belong to another ally of theirs. He shows the characters
+silver ring that one of the monks dropped while washing in
+the castle courtyard. It is inscribed with a symbol the ghoul
+knows to be the sign of the Cainite heresy, a perversion of
+Christianity based upon the worship of vampires. He finds it
+disturbing that there may be a vampire in Galtre who has a
+horde of fanatically devoted monks at his disposal
+
+If Wilfred bri
+acterstothemonastery,theghoul
+seemstenseduringthetrip. Heis
+veryeoncemedaboutthe monks
+
+the char-
+
+SEEM OW, andexplains chat he hada
+
+confrontation with a group of
+such religious fanaticsin France.
+NRE They are impossible to reason
+with, and lay down their lives
+willingly for the vampire they
+worship. They are often spurred
+
+sheer numbers
+
+(on, he says, by something far
+more powerful than the statusof
+ghouldomorthe powerofa Blood
+Oath: Many believedeath in the
+service of their "divine" masters
+‘earns them an automatic place
+in Heaven. The ghoul fears that any Cainite who might be
+lurkingin the monastery representsaserious problem, even more
+serious than the Brujah.
+
+‘The trip asts.a few hours. The characters followa path that
+is barely distinguishable from the thick forest around them. The
+woods eventually give way to the ancient graveyard. The mon:
+astery looms beyond, lights blazing behind its windows.
+
+Heretic monks lurk in the woods, waiting in ambush. If
+the characters follow Lucien here, the monks are present
+because of a message the priest sent earlier. In this case, the
+attack is staged without warning.
+
+
+haractershere, theambushersawait;his
+the day did not go undetected. In this
+across the graveyard
+ound. A crossbow bole
+juts frombisfore 1ediestwitchinglikea ish out of water.
+There are two monks per characte
+rosbows immediately. As soon as the shots have been taken, the
+ambashers emenge from the mist shrouded woods to finish
+aractersarevictoriousin thisbattle,and
+werthateach hashisheadshavedin the
+
+theirambushers they
+fashion common to monks. Further,
+
+areall missingring fingers. If Wilfred:
+
+the characters, each player may roll his
+Gifficuley 4) to know that
+nite heresy
+
+‘meaning of these ri
+character's Intelligence + Acad
+the inscription
+Ifthe z , they are not destroyed, but
+id. They recover eventually, wracked with a
+Jood and chained to the walls ofa small ell. Rermus and
+Lucien are there with them. Remus explains thatthe Brujah
+who would snatch rasp have already been
+his blood in their veins
+(which roused them from torpor), he can't bring himself to destroy
+them. He offers them a chance to serve him under Blood Oaths.
+
+fall into torpor inst
+
+stroyed, but since the characters now hav
+
+Outcome
+
+Ifthecharacters triumph at the ambush, they shouldbe able
+tofigure out hat there are other Cainites besides themselvesand
+the Brujah coterie abroad in Galtre. Some characters may decide
+they have had enough at this point. They make ready to return
+to London and inform the prince of events in the county. The
+characters must still spend one night in Galtre, because the
+farthest they'll be able to travel before dawn is the village
+Redford. Other characters may return to Millstone Castle
+inform the Brujah of th
+
+Many characters, howe
+Ratherthan retreat from thea
+those who were most likely responsible. Ifthe characters kno
+that either Lord Alfred or Lady Karin is a Cainite, they may
+assume that the nobles were behind the attack. Ifthey return to
+Millscone Castletoengagein alittle payback, Act Three unfolds
+(The Storytellershould see co it thatddawn is upon the characters
+before theyhaveachance toact, forcing them otake shelterand
+delay their revenge until the following night.) Other character
+however, may wish co investigate the monastery, o determine if
+any more enemies urk within, orftheCainite behind the assault
+makes hishaven inside. Ifthey do, they find themselves acinga
+superior number of heretic monks. If the characters don't flee,
+they are defeated and captured as described above
+
+Situation.
+may takethe opposite
+
+
+
+eae learn
+
+thet sleep gre death of Goltee
+were greatly ecaggecated and
+mann kine and Cainites go to their
+firteal cevoards.
+
+
+In this scene, the characters meet with Karin in an.
+
+attempt either to settle their differences or p accuse her
+
+the ambush they suffered at the end of Act
+
+wut ro begin, they leam that Fathe
+organized a memorial service at the village church, and th
+DuBois Il the servant
+ted. (Al
+
+ervants to attend so he can Embrace
+
+toattend, leaving the castle
+
+isk of discovery.)
+Lond Al
+
+cd says that he will lave the negotiationsto Karin
+
+‘haracters, claimi
+
+whohave
+to join hin
+orytellers be aware that if the characters have
+the inn in Redford or Jill's home as their haven,
+hree, Scene Two probably unfolds instead of this one,
+
+or at least hefore this one
+
+CLASH OF WILLS
+
+TING
+This scene takes place
+are visibly fewer people there than there were
+vers in her chan
+
+ide Millscone
+
+meets with the ch
+
+CHARACTERS
+The p Karin. Lord
+;chandmaiden appear, as does one of
+
+ssessors, and possibly Warden DuBois him
+
+mary character in this scene is Lad
+
+interaction with Karin is the focal point,
+however.
+
+Drama
+
+The details of dl spend primarily on how the
+he other characters. There are
+
+ar must take place. It
+
+playe acters approa
+few scripted lines, and very few events
+is roleplaying that determines the course of this
+
+eit temporary havens in the cast
+
+thar there are fewer peopl
+she grave. Thefi
+
+placeisas:
+ne of DuBois' henchmen, a callow
+
+in the entrance hallon the ground
+
+the "deceased" ear!' nthe
+
+
+perform memorial service for the old ear. The new earl ordered
+all the servants to attend. James says that his horse threw a shoe,
+so he decided to remain behind. A lurid grin appears on his face,
+and he adds, "So did Warden DuBois. The poor warden was 30
+sriefstricken that a few of the men went and got him a little
+something special. He's cheering himself up with her right now."
+
+Ifthe corerie decides to investigate, they can first listen at
+DuBois' door. They can here the sounds of a creaking bed
+frame, DuBois grunting and an occasional sob in a distinctly
+feminine voice. Any character with high Perception who has
+spoken with Jill during the course of this adventure will
+recognize the voice as hers.
+
+If the characters have any decency in them, they may
+
+attempt to subdue or even kill Jill's despoiler. The young
+
+woman shows signs of a s beating. She alternately sobs
+and mutters prayers under her breath. She is deeply in shock
+and barely aware of her surroundings.
+
+If the characters do not check on DuBois, they probably go
+straighttosee Karin. They find herwith Lord Aled. Shebasplainly
+just risen, and Lueille is fixing her hair forthe night. (Storytellers
+may wish toemphasize the mirrorsin thecabinetagain atthispoint.)
+Karinengagesthecharactersinsmall talkuntil Lucillefinishesdoing
+hechairandiirmly insiststhatimpatient charactersslow down. They
+haveall of ewemity before them, afterall.
+
+Once Karin isdone, she bids Lucille to leave them. Alfred
+likewise excuses himself, saying that he wants tosee his father
+one last time before interring him tomorrow.
+
+As soon as the younger Brujah are out of the room, Karin
+immediately starts trying to settle any differences between
+herself and the characters. Her main points are:
+
+‘ She swears she had nothing co do with the ambush.
+They may have a common enemy, she says, a third group of
+Cainites lurking in Galtre. (And if she learns the castle has
+been all but vacated by the kine, she becomes concerned over
+the possibility of another attack, saying she'll order Lord
+Alfred to Redford as soon as he returns from the crypt. She
+wants the kine here, either as protection or as buffers.)
+
+© She doesn't want Galtre destroyed due to Cainite
+conflicts, nor does she want to attract the attention of inquisi-
+tors over the same.
+
+© If Alfred and Karin control Galtre, the Prince of
+Nottingham controls it through them. She is relatively cer
+tain the characters won't be able to stand against the Brujah
+should it come to battle. Nottingham has won, she claims.
+
+* If the characters control Galtre, she tries to share her
+idealism with them and her belief in a beteer world where the
+children of Caine live together in peace among themselves
+and the kine, She paints the county asa place where they can
+begin to build a better future, as a place where London and
+Nottingham can begin co patch their differences, and the
+destructive conflict between Brujah and Ventrue can be
+brought ro a close. Although her remarks may appear self-
+
+Waar le Tie Pus
+EMBRACED THE EARL?
+
+If the earl was Embraced by a member of the p
+
+coterie, he will flee their
+
+CHARACTERS
+
+ompanya
+willnor leaveth
+
+ssoonastheopp
+presentsitself, thoughh
+claim thatheis truly theearl'ssire, still ho
+
+‘of Galtre by establishing himself as the Earl's master:
+
+serving, Karin wishes in her heart for these words to be true.
+(She explains to the charactershow the Ventrue destroyed the
+perfect society the Brujah had built in Cartha
+which Cainites and kine lived together in harmony.)
+
+the characters appear to be intelli
+cunning. If they weren't, they would have initiated combat
+immediately, or would have fled back to London and reported
+to the prince already. She is curious about how strongly tied
+they are to London and its prince. If they are free agents who
+serve him because he asked them to, orbecause of geographical
+happenstance, she encourages them to join herand the Prince
+of Nottingham. She says the Prince of Nottingham will offer
+the characters a better deal. (Karin has no intention of
+insulting the charactersorcalling their honor into question. If
+they give initial answers that show they are unecringly loyal to
+the Prince of London, she pursues this matter no further.)
+
+Meanwhile, characters who followed Alfred to the crypt
+find themselves in a lot of trouble.
+
+Ifthe characters are not the ones who Embraced the earl,
+all who follow Alfred now learn of the ears undead state. As
+they watch from the shadows, Alfred stands before his father's
+tomb and says, "I have given you eternal unlife, father, but it
+is unlife in eternal servitude! Come forth and get on your
+knees! Bow to your new master!"
+
+‘Agrowlissues rom thetomb, and the old earl launchesforth
+suddenly, using his bony fingersand newly acquired fangs to tear
+at his disrespectful offspring. Alfred sereams in pain and horror
+as his blood splatters across the dusty floor and stone walls. The
+‘ld earl diablerizes his son before the characters' eyes.
+
+Before the characters can intervene, a group of armed
+monks rushes down the stairs into the erypt. These ghouls
+part of an attack force that Remus sends into the castle to
+destroy the Cainites who are threatening his efforts to take
+control of Galtee. There is one for each character present
+(including the earl).
+
+As the characters battle the ghouls, Alfred dies with an
+unearthly wail, The old ear flees up the stairs, cackling insanely.
+
+OurcoME
+
+Karin genuinely wants to head off a conflict with the
+characters. However, she may answer belligerence with bellig-
+erence after a while. Particularly grievous insults may send her
+
+intoa frenzy raded by insults directed at her clan,
+
+ACT THREE
+
+
+Storyteller shou
+Likewise, should characters witr
+
+the crypt and defeat the attacking monks, they know that a
+
+vampire is loose in the castle. The story continues in
+
+SS
+SN
+
+Scene Three for this group as well.
+ScENE Two: _
+THe MEMORIAL SERVICE
+
+AX
+:
+
+SS
+
+\
+~
+VEN ASS
+
+SX
+OS
+RSs
+
+who return to havens at the Maiden of the Mist
+
+SASENY
+
+\
+\
+
+Inn or Jill's cottage learn of Father Lucien's memorial service
+fromthe c Some may choose to attend, just
+
+*
+Ras
+
+to keep an eye on the priest. Characters who do so find
+themselves in grave danger.
+
+San
+
+\
+
+‘Upon leaming that his plan to rake control of Galtre is
+threatened by outside Cainite interference, Remus decides to take
+Galtre by force. His first step is to make sure that his opponents
+hhave no kine at their disposal. Once the assessors, servants and
+assorted villagers are inthe church, Remus' ghouls barall its doors
+and windows and set the place afte. f they are inside, the players
+characters have a chance to save themselves. they are not, they
+might simply save a building full of innocents
+
+This event u ther any players' characters are
+
+present or not,
+
+ING
+This scene takes place in the village of Rediord.
+
+Remus' cultists will b
+lighting ie on fire.
+
+Drama
+
+‘Should the characters decide to attend the memorial ser
+
+it. A successful Perception + Awareness oll (difficu
+
+that the monks a the church doors and preparin
+s. It is clear they intend to bum the church and
+rs move 10 stop this monstrous act, perfect
+
+orytellerrohave Samuel attack
+is at hand, assuming the characters have botched huntin
+or otherwise revealed themselves as Cainites.
+
+During the battle, F uucien comes to make sure
+everything proceeds according to plan — he leaves the
+church If the monks clearly have the
+
+
+¢ joins the fray, shouting his delight that he is
+nies of the Lord! If the characters are win:
+
+Ny
+‘.
+
+NN
+\N
+
+tle to await Remus.
+
+Outcome
+
+Characters on the Road of Heaven or the Road of Human-
+ld certainly wish to stop the horrible event that isabout
+
+WNL
+ONG
+Wy
+
+\
+AN
+
+ld. Other characters may wish to become involved as
+well, if they have any decency. The Storyteller may require
+degeneration checks for characters who allow all the innocents
+
+\
+
+AN
+
+ay
+Wn
+
+within the church co burn to death. If the characters choose to
+beheroic they should beable tosave some ofthekine, even ifthe
+church catches ire (assuming the characters are not defeated by
+the monks and thrown into the fire themselves).
+
+ScENE THRE
+THe Assaacr
+
+PLot
+
+This scene continues the roleplaying in Scene One. The
+c'characters may be speaking with Karin, fighting Remus' min-
+ions in the erypt under the castle, or both if the group is
+divided. The characters may also artive from Redford to
+become embroiled in Remus' strike at the castle. In this
+instance, they have likely just witnessed the burning of the
+church, and may be in pursuit of Father Lucien.
+
+As negotiations with Karin unfold, a loud, wailing shriek
+echoes through Millstone Castle. Ifthe heroes investigate, they
+find Lucien, brutally slain. Mad cackling comes from DuBois'
+room. Before they have a chance to investigate, Remus and
+several ghouls comerushing up the stairsat them. Remusengages:
+Karin, while che characters are let to fight the ghouls.
+SETTING
+
+Thisscene of carnage and violence takes place within the
+shadow-filled hallways of Millstone Castle.
+
+CHARACTERS
+Thisscene isprimarilya combat encounter. Remus, Karin
+and a number of ghouls are present.
+
+Drama
+
+This scene should be played in a fast-paced fashion. Hit the
+characrerswitheventafterevent,ardallow them barelyenough time
+tothink about whatthey areseeing- Makethem react ratherthan act.
+Ifthe Storytellerisrunningthisstoryasastand-alonestory sheshould
+have no compunetion about killing several ofthe characters should
+
+the oppositi the upper hand. However, if this is part of a
+chronicle, the Storyteller may consider fudging a roll or two.
+Whether the charactersare discussing their differences with
+
+Karin in a rational fshion, or whether things are about to come
+toblows, an uncarthly shriek suddenly echoes through Millstone
+‘Castle (This isactually Alfred's death scream from Scene One.)
+
+Karin suggests the charactersshould investigate. She goes
+with them, ifthey insist
+
+AC
+
+
+Whetherthescene precedingthisoneis:
+‘Two, the characters find Father Lucien' body, horbly mutilated
+suming he wasn't killed by anyone in Scene Twos fhe was, the
+tim is one of DuBois' asessors). The man's entrails are tied
+around his neck in a twisted parody of a hangman's noose. Ifthe
+characters move the entrails, they find tears in his neck that
+resemble those of a Cainite bite mark that has not been licked.
+they make this discovery, a wild, insane cackling issues
+from DuBois' chamber. Before they can investigate, however,
+there isa commotion downstairs. As they look down, they see a
+priest with angelic facial features who wearsanecklace ofhuman
+fingers. He leads a group of equally handsome, robed monks up
+the stairs coward them. (Players who think to look at Remus!
+hand see that he bears a familiar silver band on his left and right
+ring fingers) The priest bares his lips, revealing fangs, and says,
+"lamRemus. You wouldstand in the way of the Church claiming
+Gealtreas its own, and thus you trespass against the Lord. That
+transgression will be punished with Final Death."
+
+Lady Karin replies, "I did not come here seeking conflict,
+but I meet your challenge willingly, weakling. Make peac
+with the God your very existence shame:
+
+Karin lunges at the priest as he reaches the top of the
+stairs, while the monks move toengage the players' characters.
+‘There is one heretic monk ghoul for each character.
+
+Characters who explore the geound floor of the keep
+before heading upstairs hear Karin and Remus' exchange
+echoing down the staircase. They also make a shocking
+discovery in the dining room: Lucille laid out with a stake
+through her heart and her head severed from her body. They
+are attacked by the opponents deseribed above, as Remus'
+‘minions return to the ground floor in search of more victims.
+
+Ifthe characters ate splic into ewo groups, then so are the
+ghouls and monks.
+
+‘The battle should unfold in such a way that as soon asone
+character defeats his or her opponents, another nearby char-
+acter requires asistance
+
+‘The battle between the two elder vampires is not one the
+Storyteller should waste time on by actually rolling dice. He
+should just assume that Remus has the upper hand, and that
+‘without character intervention, Karin will surely be destroyed.
+‘As soon as the characters defeat the ghouls, Remus rips Karin's
+throat open with his claws ina savage blow that sends her lying,
+across the landing. He movesin tofinish her, and will destroy her
+if the characters don't intervene.
+
+‘Assume Remus spends five Blood Points in his bactle with
+Karin. Then tum him loose on whatever characters are trying to
+stop him.
+
+OaTcoME
+
+Ifthecharactersdo not stop Remus from destroying Karin, he
+drains ewo Blood Points from her, then beats her Final Death
+with his ists. He then tums to the character, ready to destroy
+them, too. Justa this battle is about to start, Scene Four begins
+
+‘Should the characters defeat Remus, Scene Four begins
+immediately after that conflict ends.
+
+CLASH OF WILLS
+
+ScENE Four: THE FINAL
+
+CONFRONTATION
+PLoT
+
+This scene sees the Final Death of either some or all ofthe
+remaining characters, or destruction of the monster that was
+once the Earl of Galen
+
+Asthe characters either face Remusor decide what todo
+next, there is a mad cackle behind them, The earl enters,
+
+ing DuBois' head and an uncon-
+rantings mark him as dangetously
+oy him.
+
+covered in gore, and cat
+scious Jill. The earl's
+insane. If the characters wish to live, they must de
+‘Some of them may die in the fight, but if they pay attention
+to the earl's ravings, smart characters realize that the earl
+elf to be young again. The shock of seeing
+
+ing that he still appears old and
+frail, would give them the advantage they need to get a few
+unopposed attacks on him.
+
+What Ir tie Prayers' Ci
+Recarp Jats
+
+The coterie may have rescued Ji
+Warden DuBois in another scene. This v
+earl's.rapaciousnes
+
+believes him
+himself in a mirror, of re:
+
+|RACTERS
+
+ARLIER?
+
+and dealt with
+not curb the
+
+I have assailed
+
+dofoneof Remus'
+
+however. He
+another peasant girl, and carry the hi
+heretic monks.
+
+With luck and skill, they should be able to defeat him.
+‘And with quick thinking, they have che opportunity to ensure
+Galtre falls under control of the Crown, and thus the Prince of
+London, if they have retained their original loyalties.
+
+SETTING
+
+Inside Millstone Castle.
+
+CHARACTERS
+tured character in this scene is the Earl of Galt
+Storyteller charactersare little more than partsofthe
+background. If Remus is still alive, he fights one of the
+characters, ignoring the presence of the earl. Remember that
+Remus' current Blood Pool is reduced by three, and possibly
+more if the characters have moved against him.
+
+Drama
+
+Insane laughter emanates from DuBois' room. When the
+characters tum toward it, they see a terrible sight: The Earl of
+Galt steps out of the room, still wearinghis white nightshirt still
+pale and withered from age and disease. However, he is also
+spattered with gore. He stares atthe characters with a mad hunger
+inhiseyes,andbitsof flesh between his teeth and hanging from his
+Tower fangs. He carces the severed head of DuBois, a final look of
+startled horror etched on the warden's face, in one hand. In the
+other, he dragsan unconscious Jill by her brown hair. She isnaked
+and covered in blood, but she appears to be alive
+
+
+‘Only: I may deflower my peasant wor
+in a regal tone of voice. "It is my right as master of this
+main! Andnow that have my youth es
+themallanddrink their virgin bloodevenas:
+other gout of mad lauy
+J rule me. I puni
+
+shall be mine. By God, it's good to be young
+'h more power than I have ever
+tersstand aside, orhe will destroy
+drops Jill ac their feet and turns
+
+Karin disintegrates into dust
+
+Finally, hi
+them. Ifthe ch
+to Karin's ©
+des the waves of frenzy and attacks the charac-
+chey will nor knuckle under to him —
+
+‘The earl then
+ters Hopefully, howev
+yteller should
+eve out him horrifies and disgusts the character
+after the battle they have just completed, the
+players' characters may be too weak to take him on. They can
+still defeat him, however. The key lies in his repeated re
+ences to being young. He believes his body has been restored
+
+portray the earl in such a way that
+
+to peak physical condition. By showing him the truth with a
+
+mirror (perhaps from one of the cabinets), they will shock hi
+
+into inaction for two turns. During this time, they can st
+
+him, take
+OurcoME
+
+The Earl of Galtre isa monster. Ther
+among the chat
+
+ee attacks or simply flee the area
+
+would roam the
+and Cainites alike. The
+
+AFTERMATH
+Galtre is in chaos. As Alfred and Karin are both de-
+
+stroyed, the lands pass to the Crown of England. Since the
+
+Ventrue are the characters
+
+could like, the playe
+et rewards
+
+clean and orderly as the elder Cainites
+characters are successful nonetheless, and
+Furthermore, Nicholas ¢
+
+they ask for are grant
+
+consider the cefulness. He
+upon them a
+
+nd the characte
+chemselves embroiled in Cb
+
+ainite politic
+arin was a close friend and ally of Ri
+Prince of Nottingham. He is J in the events
+
+that caused her death, and he may have the characters
+
+
+summoned before him to hear the story of what happened —
+forcefully if need be. Leeland may alternately send his top
+lieutenant, the savage and cunning Patricia of Bollingbroke,
+to investigate the circumstances of Karin's disappearance.
+Should Patricia become aware of the characters' involve-
+ment, they find themselves in danger of the gravest kind as
+they are stalked by a brutal killer with cent
+
+ence. They may seek protection among their Ve
+
+bur the only guarantees of their safety are to destroy Patricia
+— who will be followed by other hunters — or to seek the
+forgiveness of Leeland. The Prince of Nottingham may ex-
+tract many dangerous services from them before he feels they
+have paid for the death of Karin.
+
+Itis likely that the characters have a thoroughly trauma-
+tized Jil in their care. Any character on the Road of Heaven
+‘or Road of Humanity should feel a desire to help her and her
+‘young brothers, who have lost their guardian. Jill's road to
+recovery will be long, and she is never quite the same — she
+never again sleeps a full night without waking up screaming,
+and her faith in God is destroyed completely — but by
+
+involving themselves with her and her brothers, the charac-
+ters may earn the gratitude of these ki
+
+c.lfthey approach the
+
+CLASH OF WILLS
+
+situation correctly, the characters may cultivate this geati-
+tude intoa relationship with the Leftherder family that might
+lastforcenturies, as parents pass their loyalty tothe characters
+om to their sons and daughters
+
+If Samuel the Smith survives the events in Clash of
+Wills, he travels to Canterbury where the archbishop listens,
+to his tale of blood-drinking demons with great alarm. The
+archbishop, bucking the will of the Toreador trying to ma-
+nipulate the English Church from behind the scenes, sends
+teams of inquisitors and vampire hunters to Galtse. What
+remains of the sect devored to the Cainite heresy (including
+Remus, if he survives) is destroyed, and the St. Christopher
+Monastery is rededicated to the true service of Godt. All
+Cainites who remain in the County of Galtre must be very
+careful for the next few months. Church inquisitors,as well as,
+the king's investigators, will be very curious to locate the
+source ofthe carnage that unfolded here. If Samuel knows the
+players' characters are Cainites, he can point them out to
+either group of hunters, and the characters may find them-
+selves stalked and hareied if they remain in Galtre.
+
+thatcanarisein the wake of Clash
+
+of Wills. [tis up to the Storyteller to make them come to
+
+
+Oramatis Personae:
+at Cast of Characters
+
+THE CAINITES
+
+NICHOLAS, SENESCHAL TO THE PRINCE OF
+LONDON
+
+Background: Nicholas wasa minor knight in the court of
+an English Ventrue whose ranks were decimated during a
+Viking raid in che seventh century. Although his early unlife
+\was painful, he has now outlived several mastersand currently
+stands as one of the Prince of London's most trusted advisors
+and allies.
+
+Image: Nicholas is a darkly handsome man with deep
+brown eyesand long black hair. He typically wears it tied back
+in a ponytail. He was Embraced at the peak of his physical
+health andstill has the appearance of young, striking warrior.
+He dresses in the latest fashions, except that his clothes are
+always cut from reds and blacks and accented with tasteful
+jewelry of gold and silver.
+
+Roleplaying Tips: You are in control and you know it
+You have no particular need to prove your power or your
+
+authority to others, so long as they serve you and your master,
+Prince Mithas. You lord over lesser and insist on formalities,
+only if youbelieve that not doingso will cause them to mistake
+themselves for anything but servants.
+
+Haven: Tunnels under the Tower of London, Nicholas'
+haven lies adjacent to that of Michras, the Prince of London.
+
+Secrets: Nicholas isa natural diplomat who has contacts
+in Cainite communities throughout Europe. Its this wide net
+of friendships and contacts that has allowed him to survive
+even while his masters have fallen to their enemies. On more
+than one occasion, Nich
+to enemies as his masters' stars waned
+
+even provided minor assistance
+
+Influence: Nicholas has the ear of the Prince of London
+and is respected by a number of Cainites across Europe.
+Destiny:
+his master's request. It proves fatal for him — Nicholas dies in
+the Battle of Tewkesbury
+Clan: Ventrue
+Sire: Malthias
+
+icholas gets involved with the Tudor family at
+
+Nature: Survivor
+Demeanor: Judge
+Generation: 7th
+
+Embrace: A.D. 832
+Apparent Age: inid-20s
+
+Physical: Strength 4, Dexterity 4, Stamina 5
+
+Social: Charisma 5, Manipulation 5, Appearance 4
+
+4, Wits 4
+
+Athletics 2, Brawl 4, Dodge 3, Intimida-
+
+Mental: Perception 4, lntelligen
+Talent
+tion 4, Leadership 5, Subterfuge 6
+
+Skills: Archery 3, Etiquette 6, Melee 6, Ride 3
+
+Knowledges: Academics 2, Investigation 4, Law 5, Linguisties
+3, Occult 2, Politics 5, Seneschal 4
+
+Dominate 6, Fortitude 3, Potence 2,
+
+Alertness
+
+Disciplines: Auspex
+Presence 5
+Backgrounds: Allies 4, Contacts 5, Influence 5, Resourc
+
+Retainers 5
+
+
+Virtues: Conscience 3, Self-Control 6, Courage 4
+Road: Road of Chivalry 6
+Willpov.
+
+Nicuotas' Bopyeuarps (Four Guouts)
+Physical: Screngch 3, Dexterity 4, Stamina 4
+
+Social: Charisma 3, Manipulation 2, Appearance 3
+Mental: Perception 4, Intelligence 2, Wits 2
+
+Talents: Alertness 4, Brawl 2, Dodge 3
+
+Skills: Etiquette 2, Melee 4, Ride 3
+
+Disciplines: Fortitude 3, Potence 2
+
+Willpower:
+
+WILFRED CVENTRUE GHOUL)
+
+Wilfred is at first a loyal servant of Nicholas. The sen-
+eschal sends him to Galtre to provide the characters with.
+assistance, should they needit. He isastocky man witharound
+face and carrot-colored hai.
+
+Wilfred gets in over his head as the events in Clash of
+Wills unfold. He believes that Nottingham will emerge victo-
+rious and scurtilously changes sides to support Karin and
+Alfred's bid for power. He meets his demis
+by Remus.
+
+Nature: Autocrat
+
+Demeanor: Judge
+
+Physical:
+Social: Charisma 3, Manipulation 3, Appearance 2
+
+Mental: Perception 2, Intelligence 2, Wits 3
+
+Talents: Alertness 1, Brawling 2, Dodge 1, Empathy 2, Sub-
+cerfuge 4
+
+Skills: Archery 2, Etiquette 2, Melee 3, Ride 2, Stealth 2
+Knowledges: Academics 1, Occult 3, Polities 3
+
+strength 3, Dexterity 4, Stamina 3
+
+Disciplines: Auspex 2, Dominate 1, Potence 1
+Willpower:
+
+Equipment:
+of London
+
+Tue Eart or GALTRE
+
+Background: The Earl of Galtre led a life of self-
+indulgent brutality satislyinghisevil passions freely. Heswept
+enemies and competitors aside with unrestrained violence,
+exploited friends and allies without a second thought, and
+callously disposed of lovers and wives who had grown uninter-
+esting.
+
+As Galtze felt old age and illness steal his vitality, fear for
+his immortal soul grew in him. Although he gave generously
+tothe Church, he feared that not even all his earthly belong-
+ings would cleanse his soul.
+
+Image: Galre'sboxlyappearsfrailand discase-ravaged, Hisskin
+clings to his bones, andis sickly white even before his Embrace.
+
+Roleplaying Tips: Your frail body holds a soul that is
+thoroughly corrupt and saturated with depraved evil. You are
+violent, brutal man, and you follow your bases
+
+CLASH OF WILLS
+
+snetring bearing the personalseal ofthe Prince
+
+Haven: Millstone Cas
+
+Secrets: A lifecime of foul, evil deeds.
+
+Influence: None
+
+Destiny: Ifthere'sany justiceatall, the earl diesby theend,
+of the story
+Clan: Bruja
+Sire: Alfred (or possibly a player's character)
+Nature: Monster
+Demeanor: Autocrat (Monster, post-Embrace)
+Generatio
+diablerie)
+Embrace: A.D. 1197
+Apparent Age:
+Physical: Serength 1, Dexterity 1, Stamina |
+Social: Chatisma 2, Manipulation 4, Appearance |
+Mental: Perception 2, Intelligence 2, Wits 3
+Talents: Alertness 3, Intimidation 4, Leadership 3
+Skills: Archery 3, Etiquette 3, Melee 3, Ride 3
+Knowledges: Academies 1, Law 1, Occult 2, Politics 5
+
+ines: Celerity 1, Dominat
+
+Backgrounds: Contacts 3, Influence 3, Resources 4
+
+(Oth (this may vary, based on his sire and his
+
+ate 60s
+
+Potence 2
+
+Virtues: Conviction 3, Instinct 4, Courage 3
+Road: Road of the Beast 5
+
+Villpower: 6
+
+a
+
+~y
+
+
+Lapy Karin
+
+kground: Karin was the daughter of a Scottish noble
+who was never happy with his own possessions. Disappointed
+that his only child was female, he nonetheless made the best
+of a bad situation, training his daughter in
+
+of courtly life. By the time Karin reached marriageable age, she
+
+e subtle nuanes
+
+was attractive enouigh to be considered a prize by the Saxon
+nobility of England
+
+Her be: and she post
+mmediately after
+she married, denying her dumbfounded father any possible
+benefit he may have gleaned. Though she suffered some pangs
+of guilt and remorse at her father's betrayal, Karin knew that
+her own desires must come first, and she took to political lite
+with remarkable ease
+
+When her Embrace came, she saw it as a gift (although
+the long years have colored her vision differently), giving
+Karin ever greater skill and acumen.
+
+Image: Lady Karin carries herself with a nobility that
+most queens would envy. She typically wears gowns of sap-
+phire blue or emerald green, which accent her red hair and
+
+green eyes. Her body is trim and willowy
+
+Roleplaying Tips: You possess great poise and dignity
+You project an air of nobility even when you are sad, angry or
+inthe heacof combat. You are deeply in love with Alfred, and
+cannot imagine treating him as you did your long,<dead father.
+Haven: Small estate north of Nottingham, or Millstone
+Castle
+Secrets: Karin yearns to be alive again. Even after her
+ies of unlife, she misses the feeling of the sun on her face
+and the taste of food in her mouth. Karin also tums Wilfred
+
+from the service of Nicholas, though shedoesn't truly trust him
+which becomes moot after his death
+Influence: Karin isa favored companion and trusted advi-
+sor of Robin Leeland, Prince of Nottingham. They have stood
+side by side for several centuries. Another prominent friend of
+Karin isthe deadly Patricia of Bollingbroke. Both would do their
+utmost to aveny visited upon Karin,
+
+Destiny: Could be better
+
+Clan: Brujab,
+
+Sire:
+
+Nature:
+
+Demeanor: Gall:
+
+Generation:
+
+Embrace: /
+
+Apparent Age: early 20s
+
+Physi
+
+Soca
+
+Mental:
+
+Talents: Acting 2, Brawl 3, Dodge 3, Empathy 3
+
+Skills: Crafis 4, Etiquette 4, Melee 3, Music 2, Ride 2
+
+Knowledges: Academics 3, Occult 5, Science 2, Senes
+Auspex 2, Celerity 3, Chimerstry 4, Potence 3,
+
+Strength 3, Dexterity 5, Stamina 3
+Charisma 4, Manipulation 4, Appearance 3
+erception 3, Intelligence 3, Wits 4
+
+Road: Road of Huma
+Willpower: 4
+
+Laci..e
+11th Generation, childe of Jackdavy
+Nature: Penivent
+
+ity 5
+
+Demeanor: Defender
+A.D. 1165
+Apparent Age: early 20s,
+
+Lady Karin saved Lucille ftom destruction. The inexperi-
+enced vanipie's sire, a prolific yet irresponsible young Brujah
+in Nottingham, refused to acknowledge Lucille as his child
+so Karin took her in. A bright young woman in life, Lucille
+
+serves Karin wil 1d devotedly,and she would doso ever
+
+ifa Blood Oath didn't exist berw
+
+Embrac
+
+te » them.
+
+DRAMHTIS PERSONAE: A CAST OF CHARACTERS,
+
+
+Lucille hasa fine-featured face and mouse-brown hair. She
+dresses in gowns not unlike those worn by her mistress, and rests
+‘on the floor in Allred and Karin's chamber during the day.
+
+Lorp ALFRED, SON OF GALTRE
+
+Background: Alfred grew disgusted with this father's
+violent, twisted excesses at a young age. At 15, he left Galere
+behind for the life of a sell-sword. After nearly a decade of
+violence and camage, be came inta the employ of Lady Karin,
+a minor noble with lands north of Nottingbarn.
+
+Hier graceful manners, slim body and attractive features
+captivated him immediately. Karin admired the young man's
+spirit and his vocal disgust with nobles who mistreated their
+subjects. Aftera year of courtship, Karin revealed to lfredher
+true nature and the Brujah vision for a better world. His love
+
+on for a better
+tomorrow, so he traded his life for eternity at her side,
+
+Two years later, word reached Alfred that his father was
+dying. He saw thisasan opportunity for Clan Brujah to spread
+its influence beyond the Nottin,
+
+Image:
+powerfully
+and his arms bear the scars that evidence his
+
+Ifred has noble features and an easy stile. He is a
+leman inhisprime. Hecartieshimselflike a wartior,
+fe as.asell-swor.
+‘ou treat servants with brusqueness
+
+and women with con to some degree, your
+sire Karin). You were raised to be a ruler. Although you have
+nothing but contempt for lords who misteeat their subjects,
+youare sill keenly aware that you are a lord, that peasants are
+subjects and that women are second to men,
+
+Haven: Small estate north of Nottingham, or Millstone
+Castle
+
+Secrets: Despite his love for Karin, or perhaps because of
+it, Alfred has grown increasingly uncomfortable with the fact
+thar he is subservient to her. He is a man after all. Alfted
+intends to Embrace his father, believing that the old man will
+feel the kind of devotion tohim that Lucille feels to Karin. He
+has a flawed understanding of the nature of the Embrace, and
+an inflated opinion of himself. He believes that hestill retains
+total free will because his will is stronger than Karin's
+
+Influence: Aled has little influence among Cainites, but
+
+he is well-c ine warriors and lesser nobles.
+
+yanected among
+
+Destin best.
+Clan: Brujah
+Sire: Karin
+Nature: Rebel
+Demeanor: Defender
+Generation: 9th
+Embrace: A.D. 1195
+Apparent Age: mid 20s
+exterity 3, Stamina 4
+ipulation 2, Appearance 3
+Mental: Perception 3, Intelligence 4, Wits 2
+Talent thletics 3, Brawl 4, Dodge 3, Intimidation 3
+CLASH OF WILLS
+
+Skills: Archery 1, Etiquette 2, Mel
+Knowledges: Academies 1, Hearth Wisdom 1, Law 2, Occult
+
+Celerity 2, Potence 3, Presence 2
+nntacts 3, Influence 1, Mentor
+Conscience 1, Self-Control 4, Courage 3
+
+Road: Road of Humanity 6
+
+Willpower: 6
+Remus
+Backgeou
+
+celled at calligraphy and sculpture. H
+sect devored to the Cainite heresy. The Toreador vampire on
+
+Remus was a monk in Germany who ex
+belonged ro a minor
+whom the sect's services focused was so taken with Remus'
+work that he Embraced the talented monk.
+
+Since that time, Remus has managed to improve his art,
+something very rare among Cainites, many of whom lose the
+genuine creative spark upon their Becoming. Remus is also
+tunusual in thar he managed to befriend one of the Fiends and
+learn theartof Vicissitudle from her. Now, Remus craftsbeaury
+from stone and mortal flesh alike
+
+Clan Toreadlor wishes to repeat in Britain itssuccesses with
+the Roman and Easter Churches. Toreador have manipulated
+
+cessive Archbishops of Canterbury. The Cainites hope to
+expand their influence further, seitingcontrolof land by convine
+
+ing the rulers to will it to the Church. Remus has dwelt in the
+
+
+Monastery of St. Christophersince its founding five yearsago,and
+
+personally overseen the creation of the structure's beautiful stone
+‘omamentation. He has swayed all the monastery's monks to the
+wisdom ofthe Cainite heresyandused Vicissitude togive themthe
+likenesses of angels. Of course, this wisdom comes with a price
+Remus itually removes the ring fingers of his monks'leftharndsto
+symboliz viee to God through the Blood.
+
+Image: Remus bears all the trappings of a priest, with the
+
+he sacrifice of s
+
+exception ofthe necklace of fingers he wears. His ace isalmost
+, but not unnaturally so, and his haie
+
+angelic in appearan«
+consists of golden curls,
+Roleplaying Ti
+and the Cainiteheresy. These are notalwayscompatible goals,
+and you become angry and frustrated when you must sacrifice
+
+‘ouseek tostrengthen Clan Toreador
+
+one to advance the other.
+
+stopher Monasteryin the County of Galtre
+
+f other powerful Toreador were to learn of
+
+Remus' adherence to-and open practice of the Cainite heresy,
+
+he would find himself hounded from Britain. Many of the
+Toreador involved with the English Church do not
+
+fforsjeopardized by such sel
+
+Influen
+
+heresy, While he commands respect among those who know
+
+sgrandizem
+
++ Remus isa leading practitioner of the Cainite
+af him, however, it does not necessarily mean he has access to
+any allies (due to the secretive and fragmented nature of the
+sect). He has some influence amongthe Toreador who wish to
+
+nen their position in the British Isls.
+
+Destiny: Remusis likely tobe thwarted, either by charact
+intervention or by happenstance as the events of Clash of Wills
+unfold, Remus iskilled by either the players' charactersor in the
+Church's purge of the Cainite heresy after the close of the story
+Clan: Toreador
+Sire: Talios, the Black Patriarch
+Nature
+Demeanor:
+
+Fanatic
+retaker
+
+Generation: 8th
+
+Embrace: A.D. 982
+
+Apparent Age: late 30s
+
+Physical: Serength 2, Dexterity 5, Stamina 3
+Social: Charisma 3, Manipulation 3, Appearance 3
+Mental: Perception 4, Intelligence 3, Wits 3
+Talents: Alertness 3, £
+4, Sculpture 3
+
+Skills: Crafts (Stoneworking and calligraphy) 5, Herbalism 2,
+Melee 2, Music 5
+
+Knowledges: Academics 4, Linguistics 2, Polites 2, Seneschal 2
+Disciplines: Auspex 4, Celerity 4, Dominate 3, Potence 3,
+
+pathy 2, Intimidation 1, Leadership
+
+Presence 3, Vicissitude 3
+Backgrou
+Virtues: Conscience 3,
+Road: Road of Heaven 5
+Willpower: 7
+
+Farner Lacien (TorrADOR GuouL)
+Background: Father Lucien was once a devoted parish
+
+priest. He grew old before his time trying to protect his flock
+
+from the Earl of Galtre's worst excesses. As the life
+
+Sontacts 2, Herd 3, Resources 2, Retainers 4
+
+iE-Control 2, Courage 4
+
+waned, Lucien was drawn closer to the old man, as the
+nobleman tried to salvage his eternal soul by making offerings
+tothe Church. Lucien wasas repulsed asever, but hissuperiors
+wanted him to work with Galtre.
+
+This association brought Lucien into the clutches of
+Remus. The Toreador needed a servant in Galtre, someone
+who was close to both the Church and the earl. The elderly
+priest was the perfect choice
+
+Father Lucien has been a ghoul for almost four years now
+During that time, his grasp on sanity hasslipped somewhat; He
+has become a devout follower of the Cainite heresy, and se
+Remus as his lord and savior.
+
+Nature: Fanatic
+Demeanor: Penicent
+strength 3, Dexterity 4, Stamina 3
+
+Charisma 3, Manipulation 3, App
+Intelligence 2, Wits 3
+Talents: Empathy 3, Subterfuge 2
+Skills: Etiquette 2, Melee 1, Oration 2, Stealth 2
+Knowledges: Academics 2, Hearth Wisdom 1, Medicine 1
+Politics 1, Science 3
+
+Mental: Perception
+
+
+Unsigned will that leaves Galtre to the Church,
+silver ring inseribed with V
+
+Social: Charise pulation 1
+Mental: Perception 3, Intellig
+Talents: Brawling 1, Dod
+
+Archery 3, Melee 3, Ride 1
+
+Disciplines: Potence |
+
+Willpower: 7
+Equipment: Crossbow, shore sword, silver ring with the in
+scription "I:IV:XV"
+
+KINE
+
+Jit, LeEFTHERDER
+
+rength 2, Dexterity 4, Stamina 3
+arisma 2, Manipulation 1, Appearance 4
+
+Mental: Perception 2, Intelligence 2, Wits 3
+
+Talents: Alertness 1, Empathy 2, Leadership 2
+
+Skills: Animal Ken 1, Cooking 2, Etiquette 1, Farming 1
+Herbalism 2, Weaving 1
+
+Knowledges: Hearth
+Willpower:
+Merits/Flaws: True Faith 2
+
+Wisdom 2
+
+harisma 2, Manipulation 2,
+
+Perception 3, Intelligence 2, Wits 2
+Talents: Animal Ken 2, Brawl 2, Empathy L, Intimidation 1,
+Leadership 1
+Skills: Crafts (Blacks
+Knowledges: Hearth Wisdom 5, Occult
+Willpower: 7
+
+ce 1, Farming 1
+Science 2
+
+Four stakes carved from ash trees, crucifix
+
+Warben DaBors
+
+Nature: Monster
+Demeanor: Tyrant
+
+CLASH OF WILLS
+
+Stamina 4
+Sharisma 3, Manipulation 3, Appearance 1
+
+|: Perception 2, Intelligence 2, Wits 3
+Alertness 1,
+
+Physicals Strength 3, Dexterity
+Social:
+
+awling 3, Dodge 2, Intimidation 4,
+Leadership 3, Subterfuy
+
+Skills: Archery 2, Briquette 1, Melee 3, Ride 3, Stealth 1
+Knowledges: Seneschal 2
+
+Willpower: 6
+
+Equipment: Personal seal of the Earl of Galtte, short sword,
+dagger
+
+County Assessors (DuBors' Four
+HENCHMEN)
+
+Nature: Varies
+Demeanor: Tyrant
+
+Physical: Strength 3, Dexterity 2,
+Social
+
+charisma 2, Manipulation 3, Appearanc
+Intelligence 2, Wits 2
+
+Dodge 2, I
+
+Perception 2,
+imidation 3
+
+power: 4
+Equipment: Dagger, club
+
+
+ey
+
+The Earl of Galtre lies on his deathbed and his lands
+hang in the balance. Fearing for his immortal soul,
+the earl wills his lands to the Church in
+
+exchange for absolution —or does he?
+ws, lis son produces what appears to be.
+a a valid will that designates him as heir
+to his father's lands. Add the players'
+characters under the direction of
+Mithras, Prince of London, and what
+becomes of the situation? An
+unforgettable journey through the
+darker side of Cainite politics and
+morality!
+
+CLASH OF WILLS
+
+includes:
+
+» An easy-to-run adventure, ready
+to pick up and play;
+
+A versatile setting: Drop the
+story into an existing chronicle or
+play it as a one-shot;
+
+© Tips for launching a chronicle
+using this story as a springboard.
+
+!

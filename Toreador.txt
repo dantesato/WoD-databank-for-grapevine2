@@ -1,0 +1,4459 @@
+# File: Toreador.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+A Sourcebook for VAMPIRE: The Masquerade"
+
+
+And under this carnival disguise, the heart of an old
+youngster who is still waiting to give his all. But how to
+
+be recognized under this mask? This is what they call a
+
+fine career.
+
+— Jean Anouilh, The Waltz of the Toreadors
+
+
+Music, lights, beauty and blood! Plunge into it.
+Grasp it with those clutching, cloying hands. Hold
+it against your dead bosom. Raise it to lifeless lips
+
+and kiss it with a mouth that knows nothing but
+obscene lies. This is the vibrancy you cannot feel.
+This is the raging excitement you have forgotten.
+This is the seductive siren's call you lack. This is
+
+inspiration. This is life.
+
+
+Credits:
+
+Written By: Steven C. Brown
+
+Developed By: Andrew Greenberg
+Edited By: Brian Campbell
+
+Art Director: Richard Thomas
+
+Layout and Typesetting: Aileen E. Miles
+
+Art: Joshua Gabriel Timbrook, Doug Alexander
+Gregory
+
+Front Cover: Timothy Bradstreet, Grant Goleash
+
+Back Cover: Michelle E. Prahler
+
+Word from the White Wolf Game Studio
+
+We have two new pigeons... er... persons... er...
+people here at White Wolf. lan Lemke and Mike
+Tinney of Night Owl Productions have decided
+to nest in our library, cranking out releases for
+Mind's Eye Theatre and running live-action games
+at conventions and anywhere hunters won't find
+them. When we got them to write bios for us,
+Mike said he enjoys long, quiet walks in a DMZ
+and Ian likes badger wrestling. Right.
+
+a Fs 4598-8 STONECATE IND. BLYD.
+AE , STONE HTN, Gh 30083
+
+U.S.A.
+WHITE WOLF
+GAME STUDIO
+
+Special Thanks To:
+
+Josh "Aaaaaaahhhhh!!!!" Timbrook, for experi-
+encing a cracked water krawler (I mean water
+heater).
+
+Sam "I'm Broke!" Chupp, for barking up the
+wrong Prahler.
+
+Chris "Summer Vacation" McDonough, for
+sharing his photos (and tattoo) with the world.
+Richard "To the Sun" Thomas, for his exquisite
+sense of timing. Push the Button!
+
+Michelle "Happy Hat" Prahler, for throwing such
+a topical party. ~
+
+Ben "Gym? What Gym?" Monk, for the better
+things he could have done with those bucks.
+Steve "M. Bison" Wieck, for living the honorable
+code of the Streetfighter. ;
+Jim "Key Chain" Townsend, for getting one that
+reveals such a truth — NOT!
+
+Aileen "Nightmare Before Toreador" Miles, for
+listening to the soundtrack non-stop while laying
+out this book
+
+© 1994 by White Wolf, Inc. All contents herein are copy-
+righted by White Wolf, Inc. Vampire The Masquerade (TM) is
+a trademark of White Wolf, Inc. All rights reserved. Reproduc-
+tion without written permission of the publisher is expressly
+denied, except for the purpose of reviews.
+
+Disclaimer: The characters and events described in this
+book are fictional, any resemblance between the characters and
+any person; living or dead, is purely coincidental.
+
+The mention of or reference to any companies or products
+in these pages is not a challenge to the trademarks or copyrights
+concerned.
+
+Due to the mature themes presented within, reader discre-
+
+tion is advised.
+
+aa Y
+
+ol CS
+
+Pe ti
+
+42
+
+foreador of Note
+64
+
+Contents _ 5
+
+th
+
+
+Clarissa was not happy. She had no choice but to leave.
+There just wasn't time to see her stepdaughter's performance as
+one of Santa's reindeer. Her husband would understand as
+much as any human could. Explaining it to Mandy, her
+stepdaughter, would prove to be a little more difficult, how-
+ever. Clarissa walked out of the auditorium to her convertible
+BMW.
+
+She was already running late, and Annabelle would not be
+pleased. It was expected that undead guests would be fashion-
+ably late, but Clarissa was still a neonate, and the deadline for
+fashionably late ended over an hour ago.
+
+Clarissa put the pedal to the floor and ignored all the red
+lights she could. Her straight, black hair whipped behind her
+in the cold Chicago air, but she did not notice. While she had
+dressed more for the school play than for a Guild party, her
+white blouse and gray skirt hugged her shapely body which,
+coupled with her gorgeous dark blue eyes and perfect smile,
+would make up for the outfit's lack of flair.
+
+The party was being held at one of Annabelle's many
+extravagant mansions. Clarissa knew the location of three of
+them, but there were certainly more. Each home had a huge
+hall that served as her gallery for displaying the works of her
+favored artists: Max Ernst, Juan Mird, Salvador Dali, Alexander
+Rodchenko, Francis Picabia, Gianlorenzo Bernini, Caravaggio,
+Rubens and others. The ghoul servants who cared for the
+mansions were all attractive, and none of them appeared to be
+over 25.
+
+As many as 40 Kindred would show up at the more promi-
+nent socials, all dressed in the finest of fashions and accompanied
+by their ghoul consorts. The refined Damned who gathered for
+
+them always provided witty and provocative conversation. If
+only the mortals in the nearby houses could have known what
+savagery was seething beneath the coats and evening gowns of
+these honored and mannerly guests.
+
+Clarissa handed the keys to one of Annabelle's valets and
+entered the mansion. One of Darian's ghouls immediately
+greeted her and took her coat. Clarissa studied his features as
+he hung her coat on the huge mahogany hat stand in the front
+sitting room, but she could not place where she had seen him
+before. Darian inevitably made ghouls of artists with limited
+talent, and Clarissa took pride in the fact that she never knew
+them.
+
+Clarissa quickly made her way through the front parlor. The
+room was filled with important Cainites in antique Queen
+Anne chairs discussing current Kindred events. Clarissa hur-
+ried to the next room, only taking time to note that Annabelle
+had the good grace not to place couches in the room. These
+noted undead would not have the displeasure of sitting beside
+one another.
+
+She spotted Annabelle talking with the beautiful raven-
+haired neonate, Portia, and her handsome and narcissistic
+lover, Bret Stryker. Bret once belonged to Annabelle, and
+Clarissa was struck by how flagrantly he and Portia flaunted
+their relationship before Annabelle.
+
+Annabelle turned as Clarissa approached. "Darling! It is so
+good to see you," Annabelle said with feigned delight. "I'm glad
+you made it, even though we've already toasted Darian's
+success in New York. I'm sure you'll love his work. It's quite
+unusual for him... a radical departure from his last showing."
+
+Introduction _» 7
+
+Clarissa said little to Annabelle. Annabelle had a way of
+twisting what Clarissa said, making her feel ignorant and rude.
+Annabelle knew about Clarissa's former rivalry with Darian,
+and Clarissa did not want Annabelle to remind her of it in a
+room filled with her peers.
+
+The pair entered a long hallway filled with various sculp-
+tures. Despite Clarissa's dislike for Darian, his works were
+incredible. She had long considered him a poseur, no matter
+what the other Toreador claimed, but this challenged even her
+conviction. As she moved around the works, she joined in a
+number of discussions concerning various pieces.
+
+"The texture in this is just amazing. lt conveys to me that
+Darian had a real vision when he created this. | can see the
+energy of his libido springing forth form all angles," one critic
+proclaimed.
+
+"The juxtaposition of those figures is outstanding. The
+interval and rhythm are such that he evades direct symbolism,"
+another announced.
+
+Such lofty praise usually meant nothing, but in these works,
+she could see the critics were right. She examined one of the
+larger bronze works, Acclamation of the Pariah, which showed a
+pitiful figure tormented by something looming outside the
+work. She could feel the force's presence as much as the
+character in the work could. And then it hit her.
+
+Her mind shut down all outside functions. She let herself be
+drawn into the work. She followed every line, every contour
+and each pattern that emerged. The work took on new mean-
+ings, deeper meanings. Her subconscious was being altered by
+it, scarred by it. The work was powerful because the emotions
+it conveyed were real.
+
+Clarissa saw what lay outside the work itself, what fright-
+ened the figure in it so much. It was fear of the self, fear of utter
+failure, hopelessness, meaninglessness— it was the Truth. The
+work had not let her senses go so easily. The revelations were
+not over, and the mechanisms in her mind refused to shut
+down. Then she saw what was never meant to be seen, and she
+knew the most horrible secret buried within the work— Darian
+had nothing to do with its creation. It could only be the work
+of her missing sire, Emily.
+
+Clarissa left the party early. She knew she had to reveal
+Darian as a fraud. She had long sought to do so, and now she
+would destroy him. Her three ghouls, Peter, Jacob and Bill,
+would aid her by spying on Darian. Her Jacob was once a police
+detective. Besides, Darian's flamboyance would make it an
+easy task.
+
+The next night, as her ghouls scoured the city for clues,
+Clarissa sat in her big lazy recliner, gazing at Emily's ring. It
+seemed as though she found it an eternity ago. She had picked
+it up from the dewy grass of the cemetery, where Michael Paine
+accidentally dropped it as he ran away. Another Kindred was
+running from the site after his clandestine meeting with
+
+Michael— the Sheriff, Balthazar.
+
+8 @ Clanbook: Toreador
+
+The only reason Clarissa withdrew from her performance
+work was to hone her vampiric powers until she could use them
+against Michael and the Sheriff. She had hopes of capturing
+Michael Paine and torturing him for information about Emily.
+Now he was gone, destroyed by Lupines in their attempt to take
+the city. Ewell, as Sheriff referred to himself after Lodin's
+demise, was still too dangerous. He had gained the primogen's
+support after helping to restore order to the city.
+
+Asher thoughts drifted, her gaze was locked on the intricate
+detail of the ring. Before she could react, she found herself
+fixated upon its design. She fell into the fascination, taking
+pleasure in what other vampires considered her clan's weak-
+ness. -
+
+Suddenly, a shock ran down her spine as a new image took
+form— an image of the ghoul who accompanied Paine and
+Ewell in the graveyard. "My God," she screamed aloud. He had
+taken her coat at the party. He was Darian's ghoul— she had
+overheard Darian tell him to return to his haven to check his
+phone messages.
+
+Questions boiled in her brain. What was the connection
+between Darian and Ewell? Could they be connected to the
+Sabbat? Darian was going to New York, and the Sabbat still
+controlled that area. The ring's spell over her finally faded, and
+she awoke from the nightmare to find herself still in her easy
+chair, crying bloody tears.
+
+By the next night, her ghoul Peter had discovered Darian's
+huge phone bill. Most of the calls went to two Manhattan
+numbers. One number checked out as the gallery, but the other
+was untraceable. Clarissa's only choice was to follow Darian to
+New York. Bill and Peter could go on ahead, while Jacob would
+travel with her. Then, imagining that she could hear her dead
+heart beating, Clarissa called Annabelle and arranged a meet-
+ing near the Fine Arts Theatre early the next night.
+
+Upon awakening the following sundown, Clarissa adorned
+herself with a beautiful black silk dress, clipped her hair to
+about half its normal length and put on a perfume her sire had
+used to drive Annabelle mad with passion. Then she did
+something she had never done before. She put on Emily's ruby
+ring.
+
+The coffeehouse where they were to meet emptied shortly
+after Clarissa arrived. The mortals had merely been there
+biding their time before a play. Clarissa waited for Annabelle
+until 9:30. She was about to leave when she saw the Toreador
+leader come through the door.
+
+Annabelle had tied her hair back in a ponytail. She wore
+jeans anda flannel shirt. Her look did not fit her image, but she
+still stood out as the most beautiful being in the room. Clarissa
+lost herself in Annabelle and remained quietly entranced as
+the angel walked over and sat down across from her.
+
+"I love you, Clarissa," Annabelle said. The words struck her
+like a blow, and they returned Clarissa to her senses with an
+explosion.
+
+th
+
+"What?" Clarissa exclaimed.
+
+"T said, ‘What can I do for you, Clarissa?" Annabelle said,
+smiling.
+
+Disconcerted, Clarissa wondered what Annabelle had re-
+ally said, and then shook her head. "I need a favor."
+
+"Really." Annabelle shifted moods, suddenly becoming
+very serious.
+
+"I need permission to go to New York City for an indefinite
+time. I need you to make a call to your friends there," Clarissa
+declared.
+
+Annabelle looked into Clarissa's eyes. She seemed about to
+refuse, but then her eyes glanced down to Clarissa's hand, and
+she caught herself. "Do you know what you're asking of me?"
+
+Clarissa found her throat too dry to answer, and nodded
+instead.
+
+"And what do you offer in return?" Annabelle asked
+
+"Another drink is a
+
+"This would be your'second. You would only need one
+more," Annabelle said without emotion.
+
+shave to give," Clarissa whispered.
+
+"T know."
+
+Annabelle's only response was a smile. She ordered the
+waiter to bring her an empty cup. Once the mortal left,
+Annabelle drew her wrist quickly across her mouth, and
+Clarissa caught only the barest hint of a fang before Annabelle
+allowed her vitae to spill int the cup. Then Annabelle licked
+her own wrist until the red line across it was gone.
+Without speaking a word, shi ed the cup across the table,
+and Clarissa drank.
+
+"T will make the call as soor
+to New York, you will be und
+member known as Shawnda De
+1 ility for their
+actions," Annabelle said. ‘Now, having tak é iness,
+tell me what you think of Son's new friend.
+
+: Aher up, along witl
+LaGuardia Airport. He to
+he had rented for them near Central Park. Un
+Darian's show, Clarissa only left the hote,
+ghouls managed to check out the gallery.
+opening, Clarissa had made her plans, and
+gallery party from across the street, hiding in
+a young man she effortlessly seduced.
+
+For hours she sat there, watching Darian th
+windows of the gallery as he mingled with his gues a
+when the gallery closed, Darian left with another man, most
+
+likely Kindred, although Clarissa could not tell. If the stranger
+was Kindred, he was most likely Sabbat. She had to follow,
+reminding herself to thank her mad friend lan for teaching her
+how to fade into the night.
+
+When the pair walked under a streetlight, Clarissa got her
+first good look at the stranger. He seemed to be a man in his 50s,
+with short gray-black hair and a well-trimmed moustache and
+beard. He wore an expensive black suit, carried a tan trench
+coat under one arm, and held a walking cane in the other hand.
+His aura was a pale light blue and was filled with the black
+tendrils of a Diabolist.
+
+When the two sat on a bench on the outskirt$ of Central
+Park, Clarissa drew as close to them as she possibly could. She
+focused her thoughts and remained very still, tuning into their
+conversation from a distance where most humans would have
+been unable to tell that a conversation was taking place.
+
+".. as | promised. I haven't betrayed you. Besides, [ want it
+even more than you do. Just doas I say and everything will work
+out fine," the stranger said in a deep, gravelly voice.
+
+"I will do as | have promised. But I need the rest of Emily's
+work now," Darian said.
+
+"You will have it when I say so. Not before. You still have
+work to do," the stranger replied harshly.
+
+Clarissa heard Darian stand and rub his hands together —
+an action he usually took when he was exceptionally nervous.
+"My Blood Cult is growing stronger night after night," he
+explained. "Everything is going according to plan. You have no
+right to say I have not proven myself. I will destroy them."
+
+"You will wait until 1 give you the go ahead. 1 want to see
+what happens with Balthazar first. If we are lucky, the primogen
+will make him prince. Then we can remove anyone who poses
+a threat to us. Within a year, Chicago will fall," the stranger
+said.
+
+faithfully," Darian
+
+t be careful. You
+‘ou. | have to go. |
+. We must meet
+
+issasaw him walk off into the
+‘retiring to the streets
+at.she had heard,
+
+would be away—
+
+Introduction » 9
+
+th
+
+
+_ Chapfer One:
+The Despised |
+
+and Adored
+
+What happens when the intoxication of success has evaporated?
+— Bauhaus, "Silent Hedges"
+g
+
+Effete poseurs, naive dreamers, hedonists, lovers, creators of
+beauty, sardonic critics, murderous seducers and devout vi-
+sionaries— the Toreador are all these things and more. The
+Toreador, despite their vampiric nature, are more like us than
+any other Kindred, for they still possess the energy and vision
+they had in life.
+
+Though they intermix with the kine more than other
+Kindred, they hide behind the Masquerade they have created,
+keeping their secrets safe. As we get a glimpse of them, do not
+fix your gaze for too long. They are masters at perfecting
+appearances. We can only see a brief vision of what they
+truly are.
+
+A Brief History of
+the Toreador
+
+Don't mock the faith . . . to hell with the truth! As the history of
+the world proves, the truth has no bearing upon anything. It's
+irrelevant and immaterial . . .The lie of a pipe dream is what gives
+life to the whole misbegotten mad lot of us, drunk or sober.
+
+— Eugene O'Neill, The Iceman Cometh
+
+The Hellenistic Period
+
+Toreador spread across the ancient world, playing promi-
+nent roles in Crete, Mesopotamia and other lands, but Ancient
+Greece hosted the first concentration of the clan. Here they
+brought about the establishment of civilization as they per-
+ceived it should be.
+
+The Kindred were as gods to the kine, and some Toreador
+claim they inspired Homer and others in creating the tales that
+became Greek mythology. Even after the age of heroes, vam-
+pires continued to play an important role in Greece, and the
+Toreador were a major factor in Athens. Even faeries and
+mages joined the Kindred there. For a while, it appeared as if
+Arikel was trying to establish a third city, one far greater than
+the first two.
+
+The Lasombra and Ventrue who controlled Sparta had no
+desire to see Athens overtake their city in political influence.
+Thus, the Peloponnesian Wars were fought. The war left the
+Toreador in power, but any chance of turning Athens into a
+great city had passed. Within a few generations, the Ventrue
+and Brujah of Macedonia invaded Greece. They cast the
+Toreador from power, Arikel's messengers disappeared, and
+the clan was no longer united.
+
+The Punic Wars
+
+After the decline of Greece, Toreador spread out across the
+Mediterranean and into Persia. A number of Toreador went to
+the city of Carthage, joining the Brujah to continue their
+pursuit of the arts. Over time, Carthage drew not just Brujah
+and Toreador, but Kindred of all bloodlines. Together, they
+began a united quest for Golconda.
+
+At the same time, Rome, controlled by the Ventrue and
+Malkavians, was becoming a major power. The Ventrue wanted
+control over Carthage, and this led to the Punic Wars. At first
+it appeared as though Carthage would triumph, but the wars
+were long and bloody. Eventually, most Kindred realized both
+sides were near equals. Rumor has it that a Toreador traitor
+provided the Ventrue with the information they needed to
+
+Chapter One _® 11
+
+ck
+
+A Frightening Legacy
+
+My dearest Geneveve: I have come across the most darling little story, and thought you would appreciate it. All my love, Rafe C.
+
+One night, shortly after Caine became ruler of the First City, he sat atone in his palace. While the people of
+the city worshipped the First Immortal, crafted sculptures and sang songs in his honor, loneliness set in, for even
+with their love, Caine was the only one of his kind. He left the city for the desert, where he encountered a tribe
+of nomads.
+
+Among the nomads was a youth of such great beauty that Caine was struck dumb. Caine took the youth back
+to Enoch, watched the child grow and, when the child became an adult, made his beloved the first Born. Later,
+two others were also Embraced, but they are not important to our story.
+
+The First Born, who remains nameless (though not forgotten), became the prince of the first City. Uhe new
+prince served Caine zealously, bringing him gifts of incense and gold, though such things did not hold value For
+He Who Was Cursed. Caine sought only forgiveness, but he knew now that the city he had created For good had
+become decadent under the rule of his First Born.
+
+It came to pass that Caine's two other childer made childer of their own. Caine was Furious, for he knew their
+misplaced Love of him would be blasphemous to the Father of his Father. After the Deluge came and the First
+City was destroyed, Caine wandered the deserts once more. Misery tore at his heart, For he knew what he had
+created should never have been.
+
+The First Born, who had not created progeny, came before his Father and bessed For his return. His pleas Fell
+on deaf ears, and Caine slipped into the night. The First Born returned and joined his brother and sister, and their
+own progeny, in creating the Second City.
+
+The loss of the Father and the destruction of the First City hardened the First Born. The survivors worked
+to build the Second City, but the First Born sat at the center, alone in a sea of servants, worshippers, soldiers
+and merchants. It was not long before the First Born Felt as the Father had Felt and Finally made his own progeny
+to ease the loneliness. These twins, a brother and a sister, were named Malkav and Arikel.
+
+Arikel was a sculptor— an odd profession for a woman in those times, yet her work silenced those who woutd
+have spoken against her. She was Embraced because her wondrous creations spoke to the heart of the First Born,
+the one who had sired both her and her brother. The First Born was kind to her, providing her with everything
+she would ever need to continue ber work throughout eternity. However, the First Born demanded she not
+produce any progeny of her own.
+
+The young immortal pursued her art for decades, but eventually she grew weary. While she loved the company
+of mortals, and immersed herself in it, she Found it somehow lacking. Eventually, the urge overtook her and she
+Embraced one she did not wish to see srow old. Her passion had overwhelmed her, and she knew she would be
+punished.
+
+Seeking any way to avoid this Fate, she convinced Brujah, another of the Third Generation, to slay his sire,
+whom he hated very much. The war between the ages erupted. She gathered those of her generation, and
+together they banded together to destroy their parents.
+
+Legend has it, however, that the First Born, sire of the sire of the Toreador, survived. Escaping into the desert,
+the First Born Followed the setting sun as his Father had done and was never heard from again. Some sugsest
+that Arikel could not bring herself to slay her sire, while others say she merely did not set the chance.
+
+Thus. for those who would believe old legends like this one, it might be said the Toreador is the eldest of clans,
+for its line is unbroken. Caine still exists. The First Born still exists. Arikel still exists. And her progeny have
+continued to multiply.
+
+12 @_Clanbook: Toreador
+
+defeat the Carthaginians, though the Toreador say this is
+typical Brujah whining.
+
+Whatever the case, the Ventrue and their mortal legion-
+naires protected the Toreador who came to Rome after the
+sack of Carthage. Toreador like to brag that it was the Toreador
+art, architecture, theater and love of beauty that made Roman
+civilization great.
+
+By the time the Roman Empire fell, many of its Toreador
+had moved to Byzantium, where they believed they were safe.
+Some claim that if the Toreador had never left, the Western
+half of the Empire would never have fallen. Others say a
+traitorous Toreador provided the Brujah, Tzimisce, Giovanni,
+Lasombra and Gangrel with the information and aid they
+needed to destroy Rome. Many elder Ventrue believe this, and
+they secretly harbor a grudge against the Toreador they will,
+one night, repay.
+
+Byzantium
+
+The Toreador benefited greatly from the decline of the
+Ventrue in Rome. They established themselves in Byzantium,
+secretly controlling much of what happened there. While
+
+Sf OR
+
+there were grave conflicts with various groups of mages, as seen
+through the Iconoclast Controversy, the Toreador claimed a
+great deal of power.
+
+Haughty and proud, the Toreador of Byzantium managed to
+offend almost all the other groups of Kindred, but no one could
+equal their incredible talents at intrigue and subterfuge. In-
+deed, some Cainite scholars say this period shaped the Jyhad
+into what it is today, and "Byzantine" became a lasting word for
+intrigue and complexity. Under Toreador direction, Byzantium
+had its Golden Age.
+
+Between the 10th and 12th centuries, however, the Brujah
+became more powerful in the city and, under the direction of
+many ancient Kindred, became the Toreador's equals, Torea-
+dor claim, with some justification, that this period led to
+Byzantium's eventual collapse, for Brujah-controlled noble
+families battled the families controlled by the Toreador, and
+outside enemies began to cast covetous glances at the empire.
+
+Other Toreador, unwilling to share their city, banded to-
+gether to cast out the Brujah, but their battles greatly weakened
+the empire. Orher clans and enemies of Byzantium took
+advantage of their weakness, and attackers from cast and west
+
+Chapter One_® 13
+
+14
+
+@_Clanbook: Toreador
+
+beset the empire. Though they succeeded in reducing Brujah
+influence in Byzantium, by the 15th century, other forces
+combined to destroy what the Toreador had created. Thus, the
+Byzantine Toreador were chased back to Italy, where they
+helped start the Renaissance. .
+
+The Middle Ages
+
+While some believe the time between the fall of Rome and
+the beginnings of the Italian Renaissance was a "Dark Age", it
+was not so. When Rome fell, many Toreador headed south and
+east to more civilized cultures, leaving Europe to their less
+sophisticated kin. African civilizations flourished during this
+time, and Islamic culture reached its peak during the 9th
+century. Toreador influenced many Islamic writers, musicians
+and architects.
+
+During the ninth century, Europe also become more appeal-
+ing. With the rise of the Carolingian Dynasty, the arts began
+to grow there once again. A few Toreador, such as Callisti y
+Castillo, actually returned to Europe during this period and
+established political foothotds. Unfortunately, the Giovanni
+and Ventrue had great control over the Church, and the
+Brujah and Lasombra wielded much of the secular power.
+Despite this, the Toreador became entrenched in Europe.
+
+During the Late Middle Ages, the Toreador set to work on
+the creation of new art. Looking back to the work they
+produced with their sires in Greece and Rome, and remember-
+ing their own efforts in Byzantium, they began laying the
+groundwork for the Italian Renaissance. New interests in
+Humanism, literacy and education spread across the continent
+and eventually led to the Renaissance.
+
+The Renaissance
+
+A general Renaissance swept Western Europe at the end of
+the Middle Ages, but nothing could compare with what took
+place in Italy. In a bold attempt to claim power, the Toreador
+took advantage of the growing curiosity and eagerness of the
+kine, and, through their efforts, both the clan and the Renais-
+sance thrived.
+
+Those living during the time clearly recognized it as a new
+and better age. Through their unique methods and allegiances,
+the Toreador assumed control over much of Italy. However,
+the process was not asimple one. Just as the Toreador intrigued
+against the other clans, their own interpersonal rivalries com-
+plicated their efforts.
+
+The Renaissance involved far more than art, education and
+literature; it was a new age for both Kindred and kine. Though
+there had heen a gradual rebuilding of civilization after the fall
+of Rome, the Toreador were back in full force. Through its
+efforts, humanity changed forever to suit the vision of the
+Toreador.
+
+Some would claim the Toreador's efforts were not without
+cost, for they were the catalyst for the greatest changes among
+the European Kindred, leading to the Reformation, the Roman
+Inquisition, the Age of Reason and more.
+
+we
+The Napoleonic Era
+
+Though the kine were actually responsible for the French
+Revolution, the Brujah, Sabbat and Setites milked it for what
+it was worth. They chased many Toreador from France, though
+rumor has it that anarch Toreador greatly contributed to this.
+The Toreador who had not fled with the nobility managed to
+use their influence among the squabbling Brujah. The release
+of Napoleon Bonaparte from prison was one result. After
+Napoleon emerged victorious over the masses and saved the
+Directory government, the Brujah and Toreador worked to-
+gether to affect his appointment as a general.
+
+The Brujah had hesitantly agreed to this collaboration. It
+proved to be their undoing. Napoleon was a strongly indepen-
+dent kine who crushed the plans of the Brujah, though he
+unknowingly aided the French Toreador by acquiring and
+bringing to Paris many of the greatest works of art in European
+history.
+
+The Modern Age
+
+Other clans complain that since the onset of the Industrial
+Age, the Toreador have become a stagnant clan. They hold a
+great deal of power, but they seldom use it. Its members have
+once again turned to their pursuits of pleasure and the arts.
+Some say the Gothic-Punk world is entering a new Dark Age.
+Only time will tell whether or not the Toreador will be able to
+lead the world into a new Renaissance.
+
+Around the World
+
+While this clanbook looks at the Toreador in general, it is
+worth noting some important interests of the Toreador in
+various parts of the world.
+
+North America
+
+The Toreador of North America are second only to the
+Ventrue in power within the Camarilla, and they have achieved
+this success without suffering the distrust the Ventrue have.
+The Tremere are not too happy with the situation, and they
+have turned many Toreador into enemies by quietly and
+gradually siphoning away power and authority for themselves.
+Perhaps this quiet aggression will force the Toreador to take
+some united action. Despite the Tremere's magical potency
+and solidarity, a united effort from the Toreador would be a
+terrible threat to the Warlocks.
+
+Despite the fact that the Toreador and Nosferatu seem like
+natural opponents, the Toreador manage to keep their troubles
+with them to a minimum. Some Brujah and Ventrue claim
+there is something sinister going on between the two clans,
+possibly an alliance, a secret network or something even more
+dangerous. Toreador who hear this rumor smile smugly, though
+if someone were to repeat it to a Nosferatu, the Sewer Rat
+would probably look at her as if she were mad.
+
+Beauty and the Beast
+
+There is a myth most fitting for the most beautiful and the
+most hideous of the Kindred. While wandering through the
+gardens of the city, Arikel the beautiful met Nosferatu,
+another Kindred a little older than herself. As Nosferatu was
+the most beautiful being Arikel had ever seen, the two fell
+hopelessly in love. They began resting in crypts together,
+feeding from one another from sunset to sunrise. Within a
+short time, each was Blood Bound to the other.
+
+Their affair went on for decades, but Arikel noticed that
+Nosferatu's renowned vanity was more than a keen interest.
+It was an obsession— an obsession to hide his greatest flaw.
+Nosferatu's face bore a blemish, asmall mark placed upon him
+by Caine himself. Even blood could not heal the scar. Arikel
+began to worry for her lover and decided that if she could not
+help him rid himself of the mark, she would help him accept
+it.
+
+One night, shortly after they had risen from their tomb,
+Arikel mentioned to Nosferatu that he should not let such a
+little scratch bother him. She told him that she could accept
+his beauty, even though it was flawed. Nosferatu fell into a
+rage unquenched by the blood of a dozen young mortals.
+Arikel tried to stop his frenzy, but could not. Nosferatu
+skulked out of the city, ashamed of his actions, and fell into
+a deep depression— not because of the crimes he had
+committed, but because he was not the most beautiful crea-
+ture in the world anymore. His secret was out.
+
+Nosferatu mutilated his own face. If he could not be the
+most beautiful, he would be the most horrific. Because of his
+Blood Bond with Arikel, Nosferatu could not bring himself
+toslay her, for he loved her so. Still, he tormented her and her
+progeny for a long time. Arikel took no action against him,
+and her pity only drove Nosferatu to further extremes in his
+insecurity, which he expressed through evil and mayhem.
+
+Supposedly, Arikel met with Nosferatu one final time in
+Rome during the secondcentury. They came toan agreement
+and broke their mutual regnant over one another in some
+mysterious and unknown way. They parted without good-
+byes or forgiveness. Although they were no longer bound by
+the bload to one another, some claim that they still secretly
+harbored deep love for one another.
+
+Perhaps this tale is a lie. Perhaps not.
+
+In Mexico, the Toreador are the most powerful of the
+Camarilla Kindred, controlling Vera Cruz and other areas. A
+long time ago, the Camarilla of Texas used Vera Cruz as a
+gateway into Mexico in their fight against the Sabbat. How-
+ever, in the last hundred years, the Camarilla Kindred of Texas
+have become involved in problems of their own, and the
+Kindred of Vera Cruzare sitting ducks. Despite this, the Sabbat
+seems to believe the facade of strength shown by the Camarilla
+in Vera Cruz.
+
+Chapter One _» 15
+
+th
+
+Central and South America
+
+The Toreador have the most influential clan in South
+America. They make up the greatest percentage of Kindred
+and boast a number of the continent's princes. However, there
+are almost no Toreador in Central America, as the conflicts
+there are not to their liking. Most Toreador of South America
+are filthy rich, possessing huge estates and enormous herds
+composed of locals of great beauty.
+
+Europe
+
+The Toreador of Great Britain play almost no role in the
+current turmoil besieging the Camarilla. While the Tremere
+and Ventrue struggle to destroy one another and claim the
+mantle of leadership, it appears that the Toreador are true
+neutrals, interested only in survival. However, this may not be
+the case. Some claim the Toreador are in league with certain
+powerful and ancient Gangrel, though this is merely a rumor.
+
+For the Toreador, France is the center of their world, and
+Paris lies at the very heart of it. In France, the Toreador
+outnumber and overpower any other clan by at least three to
+
+16 @_Clanbook: Toreador
+
+one. The country is the sole bastion of their continued solidar-
+ity. In Paris, Toreador elders may be found sharing the night
+with one another, free to roam the halls of the greatest Elysium
+in the world.
+
+There are few Toreador in Germany. While many of the
+country's Ventrue leaders welcome them, others make them
+distinctly unwelcome. Even in Berlin, the height of German
+culture, Toreador often find themselves to be the target of
+violent opposition.
+
+Toreador are numerous in Barcelona, Spain. They take no
+side in the war between the Tremere and the mages, but they
+make every effort to use the situation to their own personal
+advantage. Toreador still visit Spain regularly despite the
+dangerous situation there.
+
+In Italy, several cities belong to the Toreador, including
+Naples, Milan, Genoa, Pisa, Verona and, most importantly,
+Florence. Milan also has a sizeable number of Lasombra, who
+protect the city. Despite the fact that other clans go to
+extremes to protect their own areas, the Toreador travel freely
+throughout all of Italy. Italy is often the first place Toreador
+visit when they begin their world travels.
+
+ve
+
+Eastern Europe
+
+There are very few Toreador in any part of Eastern Europe.
+The Oradea League of the "Old Clan" Tzimisce, the Inconnu
+and the Russian threat tend to make this region of the world
+off-limits to Toreador travellers. Things are really bad in
+Russia, one of the few places Toreador used to risk visiting. Not
+even the most powerful clan members are willing to risk a
+conflict with whatever is controlling the country.
+
+Africa
+
+Many Toreador have become enraptured by the natural
+beauty found throughout many parts of the continent, and the
+clan used to play a prominent role in the northern part of the
+continent. However, few make their permanent havens here
+any more. Those who do are among the most adventurous of
+the clan. Some clan members in the southern part of the
+continent are said to possess strange powers and are allegedly
+in league with Lupines who protect the nature preserves.
+
+Middle East and Near East
+
+Many Toreador are attracted to the art, architecture, history
+and culture of these regions. Despite warnings by the Assamites,
+Followers of Set and others, they continue to travel these lands
+seeking out some of the greatest and most exotic pleasures in
+the world. A few Toreador Ancients maintain permanent
+havens in Yemen, Iraq, Jordan, Syria, Egypt and Turkey. Many
+of these Toreador maintain personal cults to deal with any
+threats to their security.
+
+Chapter One _?
+
+€£
+
+
+Chapter Two:
+- Onlife Amons
+
+the Beautiful
+Damned
+
+‘Living' for Your Work
+
+The Devil whispered behind the leaves, "It's pretty, butisit Art?"
+— Rudyard Kipling, The Conundrum of the Workshops
+The Toreador exist in a world of darkness, a world where
+exploitation and unpredictable violence reign supreme. Turn-
+ing their hearts and minds away from the ugliness they must
+endure, they give themselves entirely to their vision of perfec-
+tion. The pursuit of beauty is their noble vocation. As they
+follow this pursuit, the Masquerade requires them to draw
+upon what is held deep within their hearts. They must imitate
+humans to survive. However, although they love humans and
+live like humans, they will never be human again.
+Nonetheless, their unlifestyle is dear to them, and to keep it,
+they would give up everything other Kindred hold dear, in-
+cluding political strength, ungodly wealth and personal power.
+Toreador see such things as mere trappings of the mortal world.
+Many Kindred pursued these things when they were alive, and
+many pursue them even more fervently now. The Toreador,
+however, look directly to the source of these trappings by
+examining the mortal world. They quest for something mor-
+tals hope these trappings provide— the "Good Life". By
+pursuing this quest, they have found a way to cope with the
+Beast that not many have found.
+
+Playing the Mortal
+
+Her heart is racing ... you can't keep up
+The night is bleeding like a cut
+Between the horses of love and lust
+We are trampled underfoot
+— U2, "So Cruel"
+The Toreador love of humanity is a tainted affair. Mortals
+act as family members, wards and lovers, yet they are also prey.
+
+Most Toreador consider a comfortable place in the world of
+mortals as important as any other part of their unlives. Indeed,
+they consider mortals far more trustworthy, beautiful, unpre-
+dictable, vibrant, sane and energetic than other Kindred.
+Because of this, the Toreador have become the most adept of
+the clans at interacting with humans, moving freely in their
+world as no other Kindred can.
+
+It is not uncommon for Toreador to go to great lengths to set
+up mortal identities, complete with friends, lovers, pets, a nice
+home and a "day job" that prevents them from secing anyone
+until dark. Some Toreador spend an entire lifetime with a
+particular group of people entirely devoted to them. Others
+discard their chosen mortal cohorts as soon as they grow
+tiresome.
+
+Seldom do they Embrace these mortals, though many make
+them into ghoul lovers. These immortal lovers rarely serve as
+bodyguards. Toreador rely on expendable servants for such
+tasks— animal or human ghouls for whom they have no real
+attachment.
+
+The bonds some Toreador share with their mortals are so
+strong that they might actually make them their spouses. A
+Toreador might simply live with a mortal spouse forever,
+making him intoa ghoul, or until the spouse grows old and dies.
+A few actually Embrace their spouses so they can share in the
+same pleasures (and curses) for the rest of their unlives.
+
+Toreador rarely, ifever, feed from their mortal friends. Many
+believe doing so devalues the victims, so they avoid it except
+when absolurely necessary. In addition, Toreador usually will
+not feed in the sight of their mortal friends, even those who
+know they are vampires. They fear the impressions it might
+teave on them.
+
+Younger Kindred find themselves existing for the nightlife,
+sharing whatever new experiences they can find with their
+mortal friends. Many Toreador have attachments to the rap-
+idly growing Blood Doll subculture, but few actually use them
+
+Chapter Two _» 19
+
+as a herd, fearing they might carry diseases or endanger the
+Masquerade.
+
+Toreador love humans so much that they spend many years
+perfecting the art of "living", allowing them to interact with
+mortals on almost every level. Eating and drinking is a major
+problem, but most Toreador develop skill at Carousing and
+Masquerade (see The Vampire Players Guide), allowing
+them to get by. Some Toreador have even learned how to
+become flush and warm through the expenditure of blood
+points (using a secondary Talent called Body Control).
+
+The Artiste
+
+There are no teachers, saints, prophets, good people, but the
+artists.
+
+— Virginia Woolf
+
+What does it mean to be an Artiste? The word is a double-
+edged sword. Invented by the Poseurs in retaliation to their
+own name, Artiste is a derogatory term. It implies that the
+Toreador is naive, otherworldly, effete, egotistical, obsessive,
+fickle, weak and quite possibly insane. Conversely, it also
+means the Toreador possesses dedication, unnatural talent and
+an eye for beauty.
+
+While Toreador Artistes speak of themselves as artists, the
+derogatory term issued by the Poseurs has clung to them. Now,
+all Toreador with unique and original vision, and the talent to
+express it, are considered Artistes. Some Artistes have mag-
+nanimously accepted the name as a sign of distinction and
+Poseur jealousy, while most others still see it as a stigma.
+
+Each Artiste has a own unique vision; that is the key.
+Toreador Poseurs are some of the most skillful in their chosen
+areas of artistic expression, but they are merely clones of the
+real artists. They bring nothing original, nothing new to their
+work. It is the Artiste who can look upon the world and see
+something new even after centuries of existence.
+
+Many Artistes pursue perfection— not necessarily in form,
+but rather in the feelings their works convey. Their vision
+allows them to quest for the truths of existence, and their
+insight guides them in appreciating the beauty in all things.
+This internal process is reflected externally in their art. In fact,
+many Artistes pour so much of their souls into their work that
+awork of art can take on supernatural qualities. A masterpiece
+can actually contain a part of the Artiste.
+
+A Toreador writer can spark ideas never before realized; a
+Toreador musician might play a tune which overwhelms the
+listener with emotion; a Toreador sculptor may instill in his
+work a semblance of life. From this vision, and the dedication
+to that vision, magic flows.
+
+Toreador Artistes can achieve prestige by throwing parties
+and gaining patronage, bur the edge they have over the Poseurs
+is the prestige gained from their own work. Their clan is not
+one with a stable hierarchy. Greatness achieved today may be
+gone tomorrow. No Artiste can rest on the laurels of past
+accomplishments. Because of this, the efforts of the Toreador
+
+20 gQ Clanbook: Toreador
+
+
+Artistes never end. As is necessary in real art, there are new
+ideas, new modes of expression and opportunities for radical
+breakthroughs.
+
+Toreador "Art" :
+
+I don't want life to imitate art. 1 want life to be art.
+— Carrie Fisher
+
+While most Toreador are interested in traditional forms of
+art, many have much broader definitions. There are Toreador
+Artistes involved in most fields of human endeavor requiring
+creativity and talent. While this includes theater, ballet,
+classical music, opera, sculpting and painting, it is not limited
+to these areas. Photography, architecture, modern dance,
+modern music, performance art, martial arts, body building,
+philosophy, film, television, illustration, poetry and writing
+have all attracted Artistes.
+
+In almost every area, two or three Toreador stand out, but
+many who are equally skilled remain behind the scenes, train-
+ing mortals and their own progeny. These Toreador are
+considered the "teachers", and their students form their
+"schools." However, there are no actual schools. [n most cases,
+the teacher simply acts as mentor and patron to those with the
+proper talent and vision. Only the most paranoid Toreador
+teachers Blood Bond their students, fearing it might stifle their
+creativity.
+
+Students of a school commonly share a bond with one
+another through a particular style or area of focus. In fact,
+rivalries often develop among pupils seeking to be the best.
+Once a student has learned all she can, the teacher turns her
+loose to pursue her craft in her own way.
+
+Toreador also try to develop mortal artists. While most
+Artistes let talented mortals work without their influence, all
+clan members seek out new talent. Some of the most talented
+musicians, singers, movie stars, directors, comedians, modern
+artists, novelists and dancers were Toreador pets. Their abili-
+ties to shape the mortal world make the entire clan more
+influential.
+
+While the use of mortals is common, a few rare Toreador
+Artistes never let mortals view their work and never use
+mortals as pawns. These elitists are considered Artistes equal
+in every other respect, and their desire to reach only an
+extremely limited audience is often considered noble. How-
+ever, they seldom achieve the popularity or greatness of their
+influential colleagues.
+
+The Poseur
+
+Oh we're so pretty, we're so pretty vacant.
+— Sex Pistols, "Pretty Vacant"
+
+It is remarkable how many "beautiful people" are in a clan
+which prides itself on its artistic nature. According to older
+Artistes, too many mortals were chosen for the Embrace based
+solely on their looks. Some Toreador have not buried their old
+sex drives, and perhaps some were Embraced as acts of rebel-
+
+Chapter Two _» 21
+
+vk
+
+lion. Whatever the case, the Poseurs are now great in number
+and power.
+
+Poseurs set the standards of social grace in Camatilla society.
+They hold parties, often inviting prominent mortals, espe-
+cially those who serve as pets. They also serve as patrons to all
+sorts of artists and performers. Poseurs gain prestige through
+these methods, and set trends in both the mortal and immortal
+communities. While Artistes also influence society through
+their work, the real impact is never felt until many years or
+decades (or possibly even centuries) have passed.
+
+Poseurs are not necessarily arrogant buffoons. They serve a
+vital role to the clan in providing cohesiveness and serving as
+links to the highly independent Artistes. They also serve as
+critics, ensuring that masterful Artistes are rewarded. The
+inadequate artists are properly chastised and sent back to their
+havens to try again.
+
+While most Poseurs accept their roles with good humor,
+many wish to be Artistes themselves. Indeed, even those who
+do accept their roles as Poseurs cannot stand the word itself. It
+is a derogatory term invented by the Artistes to offend those
+whom they deem unworthy of consideration as real Toreador.
+Despite the fact that many Poseurs are experts at their craft,
+they lack the vision required for greatness. Because of this, they
+will never become true masters.
+
+Some younger Poseurs become very embittered with the
+way things are within their clan and instead turn to the anarchs
+for acceptance. Once these Toreador abandon their clan's cast
+system, they stand very little chance of ever being accepted
+back into the fold. When a Toreador chooses to become a
+social outcast, he must accept that fate for the rest of his unlife.
+
+Degeneracy at its Finest
+
+It's all right letting yourself go, as long as you can get yourself
+back.
+
+— Mick Jagger
+
+Aside from the typical Artistes and Poseurs, there are the
+burnouts. These Toreador once had vision, and may still have
+it, though it is clouded by self-doubt, insanity, the Beast,
+depression or worse. To the burnouts, the world will never
+again hold the luster it once held, the moon will never shine
+as brightas long ago, and the smile on a beautiful face will never
+again hide the realities of pain and death.
+
+Most burnouts are older Kindred. Many horrid events have
+tarnished their shield of idealism. These Toreador tend to be
+among the wealthiest members of the clan, and they usually
+have some of the most beautiful ghouls. They no longer
+pretend to he human and instead concentrate their time on the
+undead world, allowing them to increase their power and
+influence.
+
+They dabble in vampire politics as a diversion from other
+interests, and unfortunately, they tend to lead most Guilds.
+Because of this, they provoke younger Kindred to great feats of
+treachery for the sake of art (in addition to the near-mandatory
+
+22 Q Clanbook: Toreador
+
+treachery for personal gain and glorification). If the young did
+not do so, true Toreador art would vanish.
+
+Toreador Guilds :
+
+Death and sorrow will be the companions of our journey;
+hardship our garment; constancy and valor our only shield. We
+must be united, we must be undaunted, we must be inflexible.
+
+— Winston Churchill, Report to House of Commons
+
+With rare exceptions, all Toreador belong to a political and
+professional body known as the Guild. The Guild serves as the
+primary political tool for the clan. It also provides a hazy
+picture of hierarchy among the Toreador within the city.
+
+The Guilds seldom meet, but when they do, all Toreador put
+aside their differences between one another to serve the good
+of the clan. Disrupting such solemn occasions with personal
+arguments assures that no one invites the offender to clan
+socials, and continued disturbances can lead to expulsion from
+the Guild.
+
+Most Guilds are moderate to conservative in their political
+positions, despite their members' liberal unlifestyles. Toreador
+enjoy their protected status within the Camarilla and do not
+wish to jeopardize it. However, they must weigh this comfort
+against the growing influence of the Ventrue and Tremere. To
+maintain the balance of power, Toreador Guilds will take
+drastic action.
+
+Despite all this talk about the solidarity of the Toreador
+through their Guilds, it should be noted that Guilds seldom
+meet. As a matter of fact, there are many Guilds which have
+never even met. Others only meet to deal with questions of art
+and expression, and never deal with politics.
+
+The Guilds hold meetings in secret, well-guarded locations,
+and only Guild members may attend. The Toreador settle most
+questions in one night of polite discussion. However, in par-
+ticularly divisive issues, meetings lasting a week or more are
+net uncommon.
+
+I's a Dead Man's Party
+
+Won't you come and dance with the beautiful dead?
+— Killing Joke, "The Beautiful Dead"
+
+For the Toreador, there is a killing field where battles are
+won or lost. Some think of it as a court of honor where the
+highest praise is given and the greatest condemnation is meted.
+Some see it as asymposium where brilliant ideas are expounded
+by the keenest of intellects. Others use it as a sanctuary where
+one can act freely. Regardless of personal interpretations, it is,
+for everyone involved, a laboratory where one is poked, prod-
+ded and tested. To most Kindred, it is simply referred to as the
+Toreador social.
+
+In fact, if you ask any vampire what is most characteristic
+about the Toreador, they will tell you about their marvelous
+parties. Invitation to a party hosted by a Toreador elder is
+indeed a great honor for someone outside the clan.
+
+The art of invitation is one of the clearest ways of viewing
+clan hierarchy. Those with the highest prestige receive their
+invitations first, while those with little or no prestige are
+seldom, if ever, considered as guests. Hosts rarely gain prestige
+by selecting the appropriate guests, but they do lose it through
+inappropriate selections. Those who invite bitter enemies to
+the same function also risk losing prestige.
+
+Crashing a Toreador party is the height of gaudiness, and
+party crashers dig their own social graves. Not only do the
+Toreador blacklist them from future events, but anyone else
+who wants Toreador support must do the same. Any Toreador
+who crashes an event will lose prestige based on how they crash
+the party, their behavior, their company, the type of party and
+who held it.
+
+In many ways, Toreador socials are works of art unto them-
+selves. The more outlandish and stylish the social, as expressed
+in location, theme, attire, servants and ambiance, the more
+prestige the host receives. However, good tastes must be
+balanced into the equation to get the most out of the experience.
+
+Only Kindred attend most of these parties. On rare occa-
+sions, well-chosen kine, usually pets or the untalented nouveau
+
+riche, may attend. The latter serve as an inside joke among the
+Kindred, while the former provide new and interesting conver-
+sation, helping to offset the carefully spoken "conversations"
+of the Damned.
+
+Few socials are purely social affairs. Most hosts have an
+ulterior motive. The reason may or may not be obvious, and
+could be something as benign as an opportunity to introduce
+a new ghoul lover, or a motive as devious as the chance use
+innuendo to rip apart the prince's latest schemes. Whatever
+the case, a social event, on the surface, can gain a Toreador
+prestige, but it is the party's underlying purpose and its success
+which often garners the greatest reward for the host.
+
+Many Kindred use Toreador gatherings to form alliances,
+check on the recipients of boons, and stay up to date on events
+in the mortal world. In addition, parties are generally consid-
+ered "safe" events in that violence rarely, if ever, occurs. Too
+many Kindred attend for a troublemaker to start a fight and
+survive. Also, parties open solely to Kindred allow for open
+blood drinking without fear of breaching the Masquerade.
+
+Chapter Two _® 23
+
+wh
+
+Harm without Violence (or
+"The Tongue is Sharper than
+the Stake and Twice as
+
+Deadly')
+
+Satire should, like u polished razor keen,
+
+Wound with a touch that's scarcely felt or seen.
+
+— Lady Mary Wortley Montagu
+
+Every Toreador would be well-advised to master wit, in-
+trigue and language. These are the greatest weapons a Toreador
+possesses, and they are especially important to the Poseur who
+has no special talent to fall back upon. With these weapons, a
+Toreador can (figuratively) stake an adversary to the ground or
+shield herself through biting sarcasm and sly insinuation.
+
+Toreador incapable of witty repartee seldom go far, simply
+because the clan will not accept those who are not socially
+aggressive. Getting one's point across without being blunt is
+the key to success. The more subtle one is, the more respect one
+gains. Such is the language of refined bullying.
+
+In fact, many Toreador gain and lose respect simply through
+conversation. Those who sense weakness move in on it and dig
+at it with sharp tongues. Those defending themselves learn to
+turn a poorly chosen phrase upon its wielder. The objective is
+to make an opponent lash out. Among the Toreador, this is a
+powerful game. It allows those with good Self-Control, Ma-
+nipulation, Wits and daring to advance more rapidly.
+
+Because of this "game", many social gatherings become very
+tense occasions. Everyone present harbors some secret scheme
+and searches out weaknesses in rivals while staying on the
+defense against all others. As with any other sort of warfare, the
+key to success is knowing when to attack and when to retreat.
+
+Artistes must endure some of the greatest hardships at
+parties, since their work is usually the topic of conversation. If
+an Artiste is unprepared for terrible criticism, her self-confi-
+dence and determination may be shattered. The key is knowing
+how to play the critics. Even when they shower an Artiste with
+glowing praise, the best thing the Artiste can do is give little or
+no credit to the critics. This will make responses to later
+criticisms much more credible. Many Artistes are not brave
+enough to be critics themselves, since doing so would open up
+their work for attack by those who have been criticized.
+
+Poseurs are often subject to the tastes of their fellow clan
+members as well. However, the critics seldom take the efforts
+of Poseurs as seriously as those of the Artistes. Usually, a
+Poseur's efforts as a host and a patron are opened for criticism,
+although it is considered poor taste to criticize a party while in
+attendance. Subtle Toreador can cast their opinions around
+the room without speaking a word.
+
+Aside from criticism, most Toreador consider rumor-mon-
+gering of utmost importance. Every Toreador social features
+the gossiping and the trading of little lies for valuable informa-
+
+24 @  Clanbook: Toreador
+
+Arts Defilers
+
+The Toreador have never understood the attacks on the
+arts which have occurred throughout history. Even in
+more enlightened times, groups of mortals gather together
+to stop those with artistic vision and talent. These attacks
+rarely involve physical conflict and often concentrate on
+the artists' credibility and funding.
+
+Artistes have long sought to uncover the root of this
+problem, and most have blamed it on Poseurs hoping to
+destroy the Artistes' base of support. A name has recently
+emerged in connection with this threat — the Seventh
+Generation. Nobody knows whether this is a group of
+powerful Poseur Ancillae or something worse, though
+rumors have hegun to stress the latter possibility.
+
+tion. Gossip has ruined many Kindred, especially when the
+Toreador spreading the rumors is not a known enemy. Torea-
+dor who practice this art make it appear that such rumors
+originate from some source other than themselves. While a
+vampire can fight enemies with claw and fang, rumors are far
+more insidious and impossible to combat effectively.
+
+On the other hand, Kindred cajoled or taunted into a
+violent outburst provide a source of amusement to other
+vampires. No one will let a vampire get out of control, but even
+so, most will use the loss of temper as an opportunity to
+embarrass the Kindred. Should it really become necessary,
+other guests will subdue their rowdy fellow in an unkind
+manner, usually with a stake through the heart (adding injury
+to insult). Because of this, most Toreador do not take sarcasm
+and hurtful remarks too seriously.
+
+Impressing Others
+
+Give me a minute to talk away my face, and I can seduce the
+Queen of France.
+
+— Voltaire
+
+Toreador have a certain protocol which any vampire who
+hopes for at least a modicum of acceptance must follow. This
+section merely details some of the best ways to gain and lose
+prestige. Toa lesser degree, this also applies to Status, since the
+Toreador set the social standards for the Camarilla. Toreador
+protocol sometimes clashes with Status, however, so these are
+not hard-and-fast rules.
+
+Behavior at social functions is extremely important. Mak-
+ing the simplest wrong move could set a character back years
+in prestige. Because of this, those who attend Toreador parties
+know how to swim with the sharks without being eaten. Of
+course, this means they have to join the rest of the pack in
+eating the scared and wounded.
+
+Generally, the most embarrassing and stupid thing one
+could do at a Toreador social is physically assault someone.
+This is very tacky, and the attacker will be escorted out, never
+
+th
+
+>
+
+to be invited to another social again. Even those who are
+eventually invited back must suffer heing the butt of jokes for
+years to come.
+
+The next worst thing a Kindred can do is bring someone who
+was not invited. This is rude to the host and especially insulting
+if the uninvited guest is disliked by the host or is not Kindred.
+The character will likely get plenty of stares and some rude
+comments. The host's servants may escort the vampire and his
+guest out into the street where they can have their own little
+party.
+
+It is considered bad manners to act rudely to the host, and
+toa lesser degree, to the guests. However, all Toreador (except
+the one on the receiving end) appreciate quick wit and
+sarcasm. Guests should never excessively drink alcohol-tainted
+ot drug-tainted blood either before or during the party, since
+such vite reduces inhibitions and makes the wit dull and
+vulgar.
+
+Characters can also put on parties of their own — if they
+have the guts. Remember, nothing is as simple as it seems in the
+world of the Toreador. A party is more that a simple gathering
+of vampires fora good time. It is a demonstration by the host
+of her understanding of everything it means to be part of a
+community of vampires.
+
+It requires good taste, knowledge of the latest trends, sizable
+sums of cash, a suitable location, good organization ability,
+incredible social graces and acknowledgment by all other
+Toreador within the Guild. If a young Toreador sends out
+invitations only to find most of them politely declined, or
+(worse yet) ignored, it isasign she is not considered a respected
+member of the clan.
+
+Of course, Toreador may gain admiration through other
+methods. Art is certainly the greatest means possible. Art, by
+definition, includes all areas of human interest relying on
+vision, originality, talent and dedication. By presenting a
+work, whether it is a performance of some sort or an art
+showing, a Toreador who is good at her craft gains respect. The
+best work is original, regardless of its medium, design, effect or
+intent. For Poseurs, knowledge of the arts and the ability to
+critique with an eloquent but caustic style is helpful.
+
+Also, patronage of mortals is a good source of prestige,
+especially if the Toreador can claim the mortal as a pet, or has
+her own school. Because Kindred patrons have limited control
+over these humans, they may gain from the mortal's successes
+without taking full responsibility for the mortals' blunders.
+
+In dealing with mortals, Toreador consider the regular use
+of vampiric powers on friends and students a mistake. The best
+control is enforced through manipulation, thus avoiding the
+loss of creativity often found in mortals subject to Dominate
+and Presence. Those who do subjugate their mortals through
+Disciplines find it harder to gain respect.
+
+Finally, boons may prove a valuable source for increasing
+one's social standing. Toreador have an advantage in this area
+hecause of their mortal ties. Since they often have Influence,
+Fame, Contacts, Resources and other backgrounds, they can
+
+Chapter Two _»
+
+25
+
+26
+
+Q Clanbook: Toreador
+
+get things done other vampires can't. Additionally, since
+events of great importance to the undead often occur at
+Toreador socials, these invitations can be very valuable.
+
+The Importance of Art
+
+It is the glory and good of Art,
+
+That Art remains the one way possible
+
+Of speaking truth, to mouths like mine, at least.
+
+— Robert Browning, The Ring and the Book
+
+Since the importance of image and the snares of the critics
+have been discussed, it is time to look at the importance of art.
+Most Toreador were selected for one of three reasons: because
+they were beautiful, because they had a talento create things
+of beauty, or because they could appreciate beauty more than
+the average person. Because of this, there are very few Toreador
+who did not appreciate art as mortals, or learned to appreciate
+it after the Embrace. While art is not necessarily beautiful, the
+fact that it conveys emotion is.
+
+Most Toreador own works of art or personal art galleries.
+The size, quality and choices making up one's collection
+reflects wealth, prestige and personality. Even Poseurs or those
+who engage in some artistic pursuit other than classical forms
+of art still own galleries, because it helps define one's self and
+present that image (even though it may be a false one) to those
+who visit.
+
+Toreador often share their private galleries with one an-
+other, since they are rarely located near their havens. Toreador
+often use these galleries for very private parties, and usually
+keep their private galleries in locations as secure as their
+havens. Still, most Toreador keep one or two of their favorite
+pieces in their haven.
+
+Buying and selling art is a major Toreador concern. Owning
+works by the masters only heightens one's reputation. Many
+Toreador pay exorbitant amounts or valuable boons for hard-
+to-find works. It is rumored that only about one-third of the
+greatest works of the masters are in museums or known galler-
+ies. The vast majority are in the possession of Toreador. For
+instance, the Toreador Prince of Santiago, Chile has in his
+collectiona forty-foot statue by Michelangelo depicting Ulysses
+(despite the fact that the artist preferred sculpting Christian
+figures).
+
+While it is important to own art, it is equally important to
+note that stealing from Elysium marks a Toreador, or any other
+Kindred, for destruction. All Toreador seck the death of those
+who steal from these sacred places. Despite this terrible warn-
+ing, it is done. It is said that one of the greatest art thieves isa
+Toreador elder who paints undetectable forgeries of the great
+works and steals the originals.
+
+For an Artiste, and for some Poseurs, creating art is very
+important. Through their work, many Kindred learn to under-
+stand their inner feelings and visualize their constant internal
+struggle between Man and Beast. In some cases, creating art
+can actually restore Humanity to a Toreador, It is as if by
+
+P=)
+ry ~
+‘4 Yr. a
+(es pry
+MS i
+an ig oe
+a ae
+ye
+
+creating works of art, the Beast is somehow whipped back down
+for a time, allowing the Man to rise to the surface again.
+
+The Importance of Travel
+
+If you want to know a man, travel with him.
+— English proverb
+
+Most Kindred prefer establishing themselves in a set loca-
+tion and working towards increasing their respect, security and
+influence. While these are important goals for Toreador, few
+stay put in one city year in and year out. Unlike other vampires,
+most Toreador travel abroad.
+
+Toreador know they can see only so much of the word from
+the windows of their havens. To get the most out of undeath,
+they must visit all the beautiful and exotic places in the world.
+Doing so teaches them about their world, humanity and
+themselves. By travelling the world, they better appreciate and
+utilize their own power and place in Kindred and mortal
+society. The Toreador love of art is another big reason for their
+constant travels. By visiting Elysiums of all major cities, they
+enjoy the art, architecture and other works of civilization.
+
+Some claim that by travelling, they are able to stay "alive"
+in some respects. [t prevents them from growing stagnant and
+falling into boring routines for eternity, unlike many other
+Kindred. Through travel, Toreador form greater connections
+and relationships to vampires outside the microcosm of their
+home city, giving the clan an edge. It also allows them to stay
+in constant communication with one another.
+
+Because most of their time in other cities is spent in the
+Elysium, they are generally safe from harm. A traveller will
+seldom take a large entourage, and usually leaves his progeny
+ot a number of trusted ghouls in charge of his property while
+away.
+
+Because New York and other important cities are controlled
+by non-Camarilla sects or clans, or even by Lupines and other
+beings, elder Toreador have made solemn pacts with these
+enemies to assure the safety of clan members visiting cultural
+centers. Some pacts are tenuous at best, and in some instances,
+there are no deals at all. Through this method, however,
+Camarilla Toreador travel freely where others of the Camarilla
+may never go. Clan members have travelled safely through
+New York City, Toronto, Montreal, Detroit, Philadelphia,
+parts of Japan, Mexico, Asia, Africa and the Middle East. Many
+other Kindred of the Camarilla point to these pacts as another
+sign of Toreador treachery.
+
+The Source of Power
+
+Itis of great consequence to disguise your inclination, and to play
+the hypocrite well.
+— Niccolo Machiavelli, The Prince
+Let it not be said thar all Toreador are complete hedonists.
+Most know what it takes to survive. Beauty, wits, talent and
+
+mortal friends alone do not make a Toreador, and even the
+greatest of Poseurs knows it takes more than clever repartee
+and stunning good looks to get by in the world. In fact, many
+develop keen interests in temporal power. Ancillae and elders
+alike increase their influence through their understanding of
+and relations with mortals. While Toreador dislike flexing
+their muscles, most can. When the need arises, they can
+surprise both the Ventrue and the anarchs.
+
+Unlike the Ventrue, who latch onto whatever mortal is in
+power, the Toreador groom their own and assist in their climb
+to power. Because of this, Toreador rely almost completely on
+elected officials, while the Ventrue control appointees. This
+gives the Ventrue more staying power and the opportunity to
+create a more stable power base, though Toreador often con-
+trol the bureaucracies of local and national arts councils.
+
+Few Ventrue attempt to override the influence of the
+Toreador, who are among their primary supporters. Rather
+than challenge them, Ventrue attempt to work against more
+immediate threats to their position. In addition to political
+officials, Toreador control many community interest groups,
+especially those with an interest in the arts.
+
+Generally, Toreador lack control over mass media, which is
+primarily in the hands of the Ventrue, mages and other forces.
+However, the clan would love to gain a hold over television so
+that they could revolutionize it and put it to artistic and
+cerebral uses.
+
+Some Toreador own their own businesses, giving them
+financial security and supporting their outrageous unlifestyles.
+Most possess chic and trendy retail stores, the majority of
+which sell clothing or jewelry. One of the more popular ways
+to support one's self is by owning a nightclub. In addition to
+providing an income, it also provides access to mortals and a
+good location for parties.
+
+Many Toreador keep a sizable number of attractive ghouls to
+serve and protect them. Few clan members enjoy engaging in
+fisticuffs, preferring their ghouls do their dirty work for them.
+However, valued ghoul friends and lovers are almost never
+used as bodyguards.
+
+Toreador are skilled at intrigue and gathering information.
+Most elders know this and consider the Toreador to he a clan
+of traitors. Why else would they hold all those parties and
+invite Kindred they do not like unless they were up to some-
+thing? While not on par with the Nosferatu, they are the equals
+of the Tremere when it comes to information.
+
+Toreador, unlike the Nosferatu, almost never let on that
+they are fully aware of all that is going on and rarely trade
+valued information to those outside their clan. Also, Toreador
+seem less organized and threatening than the Tremere. What-
+ever the case, the Toreador enjoy heing considered
+"degenerates." They prefer to be underestimated, because it
+provides them with a valuable edge on their enemies.
+
+Chapter Two _» 27
+
+The Source of Beauty
+
+But if you could just see the beauty
+
+These things I can never describe.
+— Joy Division, "Isolation"
+
+What causes a Toreador to find rapture in the oddest things?
+What makes their entire minds and bodies lock up so they
+cannot see, feel or do anything but experience one thing? Not
+even a Toreador can answer these question, but there are
+legends.
+
+Many Toreador believe the Embrace brings out the Man in
+them rather than the Beast, allowing them to experience a far
+greater range of nositive emotions. Others believe it is similar
+ineffect to the altered perceptions experienced by Malkavians.
+Whether this is true remains unanswered, and possibly unan-
+swerable. However, many Toreador claim their libidos are far
+stronger than they were when they were alive, and most attest
+that unlife increases their creativity.
+
+Whatever the cause, little details, minor nuances and in-
+sight into mundane things often entrance Toreador, possibly
+proving them to be more closely related to the Malkavians
+than either group wishes to believe. When a Toreador takes
+notice of something that strikes him as amazing or beautiful, a
+process in his brain sets into motion.
+
+It is as if an entire program has been built into their brains
+granting them a new sense of perception; one which recognizes
+and analyzes anything extraordinary. It focuses mostly on
+beautiful things. However, as a Toreador's Humanity de-
+creases, the process slowly broadens in focus to include more
+negative things. Thus, the higher the Humanity, the less
+chance of suffering the weakness.
+
+The mental program is not under the Toreador's control. It
+may take only a few seconds of entrancement, or it can take
+hours. Legend has it that some Toreador have become en-
+tranced for weeks at a time over particularly interesting
+sensations, and some joke that Arikel is not in torpor, but has
+sat entranced in front of a mirror for 2,000 years. Most Torea-
+dor do not see this fascination as a detriment, for they believe
+it provides them with the insight needed to create new art.
+Many even attempt to reach such states of fascination for sheer
+pleasure.
+
+While the entrancement is in effect, it is as if the Toreador
+is in a daydream. They are often unable to snap out of it
+without a degree of outside effort. If the process is halted
+midway, the Toreador often becomes irritable.
+
+The fascination may be triggered by works of art, talented
+performances or beautiful music. Itseems Toreador are as easily
+entranced with everyday things as they are with "artistic"
+things. Therefore, it is possible for a Toreador to walk through
+
+28 @_ Clanbook: Toreador
+
+an entire museum without triggering the process, only to walk
+out into the street and become fascinated by a cigarette butt
+lying by the curb.
+
+Mortal Love :
+
+If I could stay
+Stay, and the day would keep its trust
+
+... then the night would give you up
+
+Stay, and the night would be enough.
+
+— U2, "Stay"
+
+Because most Toreador do not lose the inner light within
+themselves, they still see mortals as creatures of beauty. While
+dual lives among Kindred and kine are common among the
+Toreador, some go far beyond this — some fall in love.
+
+In most cases, intimate relationships with mortals are disas-
+trous, but for a brief moment, the Toreador experiences love,
+something most Kindred have forgotten. Through love, Hu-
+manity is restored, insanity cured and zest for unlife renewed.
+It is, perhaps, the possibility of love that makes the Toreador
+so special. Love is a powerful force, superior in many ways to all
+the dark powers of the Sabbat, the respect of the Ventrue, the
+intrigues of the Tremere and the secrets of the Nosferatu. Ir is
+a force of good that nurtures and heals.
+
+Despite all the wonderful things that can come out of such
+relationships, they are generally discouraged. Fortunately, few
+Kindred actually take action in such cases. Unfortunately,
+mortal mates are usually the first victims of attacks on Torea-
+
+dor.
+
+Love Among the Damned
+
+Love is the distance between reality and pain.
+
+— Robin Hitchcock, "One Long Pair of
+Eyes" (Spoken Word Version)
+
+Sometimes the Toreador obsession with beauty leads to
+romance with another Kindred. Flings with other Toreador or
+even members of other clans (or even other supernatural
+creatures) are not uncommon. These romances usually last
+only a short time, but some legendary ones have lasted for
+centuries.
+
+It seems that Toreador love company far more than other
+Kindred do, and they are among the few capable of developing
+real relationships with others of their own kind. Because of
+this, many Kindred see Toreador as either impressively brave
+or incredibly naive. It also makes more than a few jealous.
+
+In the long run, there are only fleeting comforts gained
+through such relationships, but pain and problems resulting
+from breakups can haunt them for a long time. Still, many of
+these heartbroken Toreador do not give up. Instead of wallow-
+ing in self-pity (like most Kindred), they seek out new lovers.
+
+Po ; . became as (_ ~ \
+LR rN
+
+The Forever Tragic Tale
+
+Love will save you from the black night and the lightning and the
+ghost
+
+And love will save you from your misery, then tie you to the
+bloody post
+
+And love will save you from the hands that pull you down beneath
+the sea
+
+Love may save all you people, but it will never save me.
+
+— Swans, "Love Will Save You"
+
+Loss of Humanity is terrible for any vampire, but for Torea-
+dor it is particularly pitiable. Because the clan maintains such
+close relations with mortals, using humans solely for food is a
+terrible thought. However, in many cases, this will happen.
+
+As centuries pass, many Toreador grow cold-hearted. They
+begin pursuing base pleasures. The first sign something is
+wrong is when a Toreador begins feeding off her mortal
+students, friends and lovers. Most Toreador are loathe to do
+this. At this point, most consider the Toreador in question to
+be a burnout.
+
+After existing in this burned-out state for some time, most
+lose interest in maintaining any sort of connection with
+humans. Instead, they see mortals only as cattle. The beautiful
+cattle are transformed into ghouls or Blood Bond members of
+their herds. Finally, loss of beauty and loss of vision is inevi-
+table. The Toreador weakness begins to function only on that
+which is evil and vile, which may explain why many Sabbat
+Toreador antitribu show a particularly strange bent in their art.
+
+The Darker Side of the
+Clan
+
+_..when you have extinguished his soul in this world and placed
+him where the ray of hope is blown out as in the darkness of the
+damned, are you quite sure that the demon you have roused will not
+turn and rend you?
+
+— Abraham Lincoln, speech at Edwardsville, illinois
+
+While the Toreador have may wonderful aspects, the clan
+has a dark side as well. Even though one of its most prominent
+aspects is a general love and respect for humanity, there is an
+element within the clan which thrives on exploiting kine.
+
+Made up mostly of burnouts, the exploiters are those who
+have learned to draw power, wealth and influence from the
+pleasures humans demand. Many of the Toreador involved in
+exploitation form gangs unto themselves, while others gather
+mortals around themselves and create ghoul servants.
+
+These Toreador operate in child pornography, prostitution,
+slavery, gambling, black marketeering and cultism. With their
+great experience in mortal dealings with humans, they have no
+problem establishing themselves in any of these fields.
+
+Chapter Two # 29
+
+SP 2 x
+ae em 3
+Pee TF no anes Egon,
+
+Within the pornography industry, there are many sleazy
+clan members who Blood Bond young innocents and can force
+them into doing anything, no matter how degrading or per-
+verse. Aninteresting side note is that some Toreador who have
+perfected the art of Masquerade and who possess Thaumaturgical
+means of simulating human functions have been porn stars
+themselves. They love the notoriety and consider their work
+counterculture art, or anti-art.
+
+Pimping is a common practice among Toreador. Some will
+readily put young men and women to work as prostitutes,
+providing themselves with a nice income. They usually Blood
+Bond their "employees" by giving them their blood in a cup.
+Most do not drink prostitute blood, however, for fear of
+diseases.
+
+Though some Toreador sold African slaves centuries ago,
+other Toreador were in the slave business long before that, and
+some still practice it today. While there is a big market for
+white women and children among the rich in the Third World,
+business has opened up so much that persons of any race, color
+or background can be sold into slavery. Some believe the
+Toreador who control the slave markets are in league with
+Assamites and Followers of Set.
+
+30 Q Clanbook: Toreador
+
+Gambling has been around almost as long as the human
+race. Life isa gamble, and gambling games are just the conden-
+sation of risk into a form of entertainment. While Las Vegas
+may seem the worst thing a Toreador could experience, others
+have said it represents the ultimate Poseur rejection of the
+Artistes. Controlling casinos all over the world, often vying
+with Ventrue and Setites, the Toreador have found a way to get
+rich without any real effort.
+
+There are many types of black markets, but the illegal trade
+of stolen artworks, ancient artifacts and other items of rare
+beauty are the most appealing. Often those involved in slavery
+also work in this line. Those who claim there is an art mafia
+formed of Toreador elders would link them to this group, but
+so far nothing has been proven. If such a secret organization
+does exist, Toreador black marketeers most likely serve as
+pawns.
+
+The most vicious and power-hungry Toreador are those who
+have their own cults. They are referred to as Blood Cults,
+because the cultists give their masters sustenance and power.
+Blood Cults can be very dangerous to even the most powerful
+of kindred. Cult masters establish hidden temples and gather
+followers ranging from homeless people, to mercenaries, to
+
+politicians, to CEOs, to the family next door. Most Blood Cults
+are versatile and powerful, yet small enough to act with
+precision. While cults vary in purpose and practice, the sharing
+of blood, the creation of great numbers of ghouls and even
+progeny, blood orgies and occult rituals are commonplace.
+
+Rivalries
+
+Winning isn't everything, it's the only thing.
+— Attributed to Vince Lombardi
+
+Some Toreador develop rivalries with others of the clan. In
+most cases, some past conflict touched off the rivalry, and each
+Toreador tries to outdo the other. In some cases, the rivalry is
+a game which neither party takes too seriously, making it more
+for show and protecting themselves from loss of respect. In
+these cases, the rivalry often serves as a prod to make sure each
+always warks to the best of her ability.
+
+Serious rivalries often last for centuries. In fact, some have
+become so serious that one rival ends up destroying the other.
+In most cases, whenever one Toreador does something to gain
+positive attention, the rival will do something to gain even
+more. Occasionally, rivals do everything they can to draw
+negative attention to each other through the use of rumors,
+intrigue and setups.
+
+Toreador who admit defeat and move on to other areas of
+interest usually lose some respect, but if they do so with
+incredibly good grace and make their retreat seem less serious,
+they might get away almost unscathed, Utterly shaming a rival
+is generally frowned upon, since there is no need to do so, and
+doing it is seen as a sign of insecurity or megalomania. Of
+course, the victor still goes to great lengths to subtly ensure that
+everyone hears about what happened.
+
+Chapter Two > 31
+
+
+How does it feel to be one of the beautiful people?
+— Paul McCartney, "Baby You're a Rich Man"
+
+Too many players view the Toreador as effete artists, rock
+stars, models and hapless poets. Toreador can be the most
+interesting or the most derivative characters in Vampire,
+depending upon how they are played. Ifthe distinctive strengths,
+weaknesses and interests of the clan are played up, the game
+takes on another dimension by adding moral conflict. Torea-
+dor attempt to deal with their human identities, conspire at
+Toreador socials, struggle for power, strive to create master-
+pieces, protect their human loves from enemies and rival one
+another for critical acclaim and prestige.
+
+Creating Art (and
+Less-than-ArD
+
+This became a credo of mine: attempt the impossible in order to
+
+improve your work.
+— Bette Davis
+
+Due to the limitations of game mechanics, it is hard to
+convey the subjectivity of art. In spite of this, the following
+system provides for the creation of art. The system gives the
+Storyteller a fairly accurate interpretation of the quality of a
+work, which she can then relate through the criticism and
+praise of supporting characters. As with all systems, this method
+is optional. Storytellers who do not like it should not feel
+obligated to use it.
+
+First off, there is a new Trait which all Toreador, and only
+Toreador, should have— Creativity. The Storyteller will know
+the character's rating, but she does not have to tell the player.
+
+This makes knowing ifacharacter's art is goad enough to make
+her an Artiste harder. Creativity is used whenever a character
+is developing a concept for an art project, no matter what the
+art form.
+
+A character's creativity is left to chance. To determine the
+Creativity score, roll one die and subtract three. If the score
+comes up zero or less, then the effective score is zero. Whenever
+a character wishes to create a work of art, be ita dance, a new
+martial arts move, a painting, a piece of prose or anything else,
+she must make an Intelligence + Creativity roll to develop the
+concepr.
+
+The Storyteller has the option of keeping these die rolls
+secret. The player describes what his character is attempting
+to create, and the difficulty for each roll is based on the
+complexity of the work, Compare the number of successes to
+the following chart to determine the originality of the work:
+
+Botch The concept is so simple you are amazed
+no one has thought of it before. You are
+truly brilliant. (Of course, everyone else
+will sce you for the fool you are.)
+
+Osuccesses Think again. The idea is stupid.
+
+1-2 successes It's derivative, but a few people might
+not notice.
+
+3-4 successes New concept, but nothing outstanding.
+Maybe that's why nobady's used it yet.
+
+5S successes Really neat idea. People will notice.
+
+Everybody will wonder where you get
+your ideas. Very interesting.
+
+6 successes
+
+7+ successes If you pull this off, ic will be a true master
+piece.
+
+Chapter Three _» 33
+
+ae
+
+Once you know how good the idea is, move on to the
+production of the work itself. You do not have to tell the player
+how good the idea is, but you can throw out some hints,
+especially if the character (or the player) is experienced in her
+field. If the player wants to proceed, then move on to the
+production stage.
+
+Producing art or staging a performance requires a Dexterity,
+Charisma, Manipulation, Intelligence or Wits (Storyteller's
+Choice) + Expression roll against a difficulty equal to the
+complexity of the work. Complexity can be arbitrarily set by
+the Storyteller bused on the description of the work or by some
+random method, such as adding three to half the result of a die
+roll. After rolling against the complexity of the project, the
+number of successes gained should be compared to the follow-
+ing chart:
+
+34 . Clanbook: Toreador
+
+Botch
+
+O successes
+
+1-2 successes
+
+3-4 successes
+
+5 successes
+6 successes
+
+7+ successes
+
+While you think it is a masterpiece, every
+body else laughs at it— and you.
+
+Better start over, This work sucks.
+
+It's okay, but only a few people will really
+notice it and like it.
+
+It's a quality work, but nothing extra-
+ordinary.
+
+It's better than average.
+It is an outstanding piece.
+
+If the work was based on a brilliant idea,
+it is A masterpiece.
+
+You will notice that Creativity and the actual creation of
+the work have little to do with one another. This is because
+there are many good ideas that are never carried out well, and
+there are many wonderfully-executed works based on medio-
+cre ideas. Coming to some balance near the upper end of the
+scale is the main objective.
+
+After a work is completed, it must be critiqued. Most
+Toreador know how to critique at least one form of art. A
+character may critique the work of others, but it is almost
+impossible to objectively appraise one's own. It is assured the
+character has already gone through a process of revision and
+self-criticism while creating the work.
+
+Critiquing requires a roll against Perception + Art Appre-
+ciation (difficulty 7). The resulting number of successes can be
+referenced on the following chart:
+
+Botch You utterly condemn a masterpiece of
+
+praise a piece of crap.
+
+You have no clue. You simply do not
+
+understand the work.
+
+{-2 successes You know within a range of two successes
+(higher or lower) the originality of the
+work and quality of the work (as deter-
+mined by the earlier charts).
+
+3-4 successes You know within a range of one success
+(higher or lower) the originality and qual-
+ity of the work.
+
+ses You know exactly the originality and
+
+WI
+a
+
+10
+
+oO
+
+ce:
+quality of the work.
+
+Same as five, but you can add amazing
+insight into the work.
+
+6 successes
+
+7+ successes Same as six, but you can add insight even
+
+the artist missed.
+
+All the information presented in this section is totally
+useless unless a Storyteller plays up the Toreador attraction to
+art. Storytellers should not limit themselves to the mechanics
+explained here. Feel free to alter any of the rules to make the
+game more realistic and enjoyable.
+
+A Toreador's Double Life
+
+[t's a sobering thought that when Mozart was my age, he had been
+dead for two years.
+
+— Tom Lehrer, 1968: That Was the Year that Was
+
+Players should know Toreador have a fondness for mortal
+society, and Storytellers would do well to encourage interest in
+the kine. When a player becomes interested in her character's
+mortal relations, provide assistance. Players should roleplay
+developing relations instead of arbitrarily making up "friends"
+for the vampire to automatically know and trust. Allow players
+to decide the types of mortals their characters are interested in
+
+Artiste or Poseur?
+
+Let the world know you as you are, not as you think you
+should be, because sooner or later, if you are posing, you will
+forget the pose, and then who are you?
+
+,
+
+— Fanny Brice
+
+When players start the game with new Toreador char-
+acters, they should be unsure whether the characters are
+Artistes or Poseurs. Players with Toreador Poseurs could
+find hidden talent in their characters, making them Artistes,
+while Artiste characters might suffer difficulty finding
+inspiration, lack training or be subjected to critics who rip
+their efforts to shreds. The line between Artiste and
+Poseur, for neonates, is very thin.
+
+Eventually, characters (and players) learn which cat-
+egory they fall into through the opinions of other Toreador.
+A character who attains a number of critical successes, or
+who is pursued by clan members wishing to act as patrons,
+is assured a place among the Artistes. A character who is
+constantly embarrassed, discredited or snubbed might soon
+realize he has no chance of becoming an artist (or an Artiste).
+
+befriending, including personality types, occupations, inter-
+ests and looks. While some mortals may be developed in the
+Prologue, many should be added over the course of vampiric
+existence.
+
+After discussing this with the player, occasionally drop a
+supporting character into the character's path. Meeting and
+developing relations with the mortal is then up to the player.
+This makes relationships a little more realistic and interesting.
+
+Some very interesting stories come from relations with
+mortals, especially if the mortals are involved in dangerous
+activities — police work, smuggling, gang activities, serial
+killing, reporting, thrill-secking, the occult or exploration, just
+to name a few.
+
+An additional conflict inherent in these relationships is
+how to tell the truth concerning undead existence (and if you
+should tell them anything). How can a Toreador he sure she
+can trust her mortal friends when they find out she is a
+hloadsucker? These relationships allow players to test out their
+characters' humanity when they must come to the aid of their
+mortal friends, even when doimy so risks the Masquerade.
+
+In addition to the double life Toreador lead, many spend a
+great amount of their time seeking out and patronizing mortal
+artists. Toreador who reach mortals their own understanding
+of their art lead interesting double lives as well. This may also
+he a source for excellent roleplaying as the character jets
+around the globe looking for talented kine while competing
+against Toreador rivals.
+
+Chapter Three ® 35
+
+om
+
+ae
+
+Toreador spend a great deal of time pursuing art. Because of
+this, many transcend mortal abilities and enhance their work
+through undead powers. The following Disciplines, Merits and
+
+Flaws are primarily for Toreador, though a few rare Kindred of
+other clans may possess them.
+
+Disciplines
+
+Both the Artiste and the Poseur seek to master their craft.
+Some Toreador learn to apply their disciplines to their chosen
+field of expertise through long and difficult effort. For the
+Artiste, this stands out in the quality of the work. For the
+Poseur, it shines forth in their mastery of social graces. The
+following collection of special powers will help Toreador stand
+out as the truly great artists and charmers they are. While it is
+possible for a character to have more than one of these special
+Discipline powers, it is rare.
+
+36 . Clanbook: Toreador
+
+Insight of fhe Talespinner:
+Level 6 Auspex
+
+Insight allows a character to delve far ito her own mind,
+finding entire hooks and stories. The Toreador can summon
+forth highly detailed characters and picture them in any
+situation to gain an innate feel for how each would react. In
+addition, the Discipline opens up the writer's vocabulary to its
+full expanse, allowing her to customize each character's vo-
+cabulary to fit his personality and background.
+
+A Toreador using this power finds it easier to write good
+stories. This does not help creativity, since the writer must
+come up with the situation on her own. However, if the
+Toreador comes up with a good plot, the characters will
+practically tell the tale on their own. Often, the writer will not
+even know how the story will end until she is finished.
+
+In addition to its artistic uses, the power has another
+function. An entertainer can attempt to tell a story off the top
+of her head. All those who are listening may try to resist. If they
+fail, they find themselves so caught up in the story they will be
+unable to do anything else. The character using this power may
+
+ik
+
+4. ¥ 4
+
+determine the length of the tale, but it cannot last longer than
+one scene.
+
+System: If the Toreador uses this power to capture the full
+attention of the listeners, anyone within listening range must
+make a Wits + Empathy roll (difficulty 8) and gain three
+successes. Those who fail their roll must listen to the tale
+without interruption. In addition, all Artistic Expression
+(Writing) rolls are at -3 difficulty when using this power. This
+power costs a Blood Point to use.
+
+What People Want to Hear:
+Level 6 Auspex
+
+Acharacter with this power automatically knows the appro-
+priate things to say in a conversation. The character does not
+have to say anything and may alter the words in any way. The
+character may even take an opposing viewpoint on the subject,
+but she can relate her points in such a way that the listeners will
+treat them with respect and admiration. This does not neces-
+sarily mean the listeners will change their own views, though
+it could happen.
+
+System: By spending one Blood Point and concentrating for
+one turn, the character knows what to say to get a desired
+response, The Storyteller must decide exactly how listeners
+react. Ifa character is using this power to advance an idea the
+listener finds fundamentally wrong, the listener is allowed a
+Willpower roll (difficulty 7). This power functions for up to
+one scene, but works only on the individual or group it was
+directed against.
+
+Personality Metamorph: Level
+7 Auspex
+
+This power allows a Toreador actor to actually reach within
+her own mind and draw forth original characters, complete
+with backgrounds and personalities. The Toreador then takes
+on another personality as if it were her own.
+
+Basically, this power gives the character a controllable
+multiple personality disorder. The character could become a
+skilled assassin, an outstanding artist, a small mortal child or
+the spirit of a murder victim. The only limits are those imposed
+by the Storyteller and the player's imagination. However,
+alternate personalities should not be more powerful than the
+core personality.
+
+System: By using two Blood Points, the character can create
+a new personality for one scene, though one additional Blood
+
+The Toreador Weakness
+
+Its horror and its beauty are divine.
+
+— Percy Bysshe Shelley, "The Medusa of
+Leonardo Da Vinei"
+
+On the surface, there appears to be very little usefulness
+in the Toreador weakness, but it can serve as a useful
+Storytelling device with a little effort. Rather than simply
+relling a player "four guys with Uzis hop out of a limousine
+and start shooting, but your character can't take any
+action this turn because he is fascinated by the bricks in
+the wall to his right," make the weakness part of the
+roleplaying experience. -
+
+For example, the Storyteller could say, "Oh, my, The
+wall two feet to your right seems to have been laid by the
+finest of masons. The technique is exquisite. The smooth-
+ness of the conerete grooves augments the natural beauty
+of the color variations among the bricks. There is a pattern
+toirthat is recognizable on some primordial level. [t seems
+that the bricks are conveying to you a feeling of pride while
+balancing this with stoicism ..."
+
+Take the player aside and describe the scene to him. Do
+not describe what is going on around him. Instead of
+telling the player what is going on in the outside world, try
+to describe the beauty of the moment. Convey, with as
+much attention to detail and beauty as you can, the object
+or event that has captured the character's mind entirely.
+
+The player might catch on and attempt a Willpower
+roll, but do not ask him if he wants one unless he is new to
+playing a Toreador. Even if he does make the roll, the
+Storyteller might attempt to talk him out of it. Also, you
+can occasionally throw in some special insight the charac-
+ter may glean from the rapture concerning problems he is
+currently facing. If the character resists the clan weakness
+too often, then the Toreador should become irritable and
+more likely to frenzy.
+
+Point may be spent for every additional scene it is maintained.
+The new personality will have its own Social and Mental
+Attributes, Abilities and Virtues, along with its own Humanity
+and Willpower scores. In some cases, it might even have its
+own set of Disciplines. While the new personality is dominant,
+the character's actual Virtues, Abilities, Humanity, Willpower
+and Disciplines may not be used. Blood Pool is not affected,
+and Health and Physical Artribures remain unchanged.
+
+Chapter Three _» 37
+
+ae
+
+Aire of Elation: Level 6
+Presence
+
+Characters skilled in Presence and comedy can actually
+combine the two for new results. The effect is similar to
+Majesty, but instead of making the Toreador feared and re-
+spected, it makes her hilariously funny. At any time when the
+character is speaking, she can make the audience perceive
+what he says as an incredibly funny joke. Listeners can hurt
+themselves from laughing too much. This power is more
+effective than Majesty. It makes the character less threatening
+and more friendly and harmless.
+
+System: This power can temporarily Incapacitate a target.
+Victims may make a Self-Control roll [difficulty of the
+character's Wits + Artistic Expression (Comedy}] to act fora
+turn. Otherwise, the effects lasts up to one scene.
+
+Capture Reality: Level 6
+Presence
+
+Same Toreador filmmakers and photographers pour an
+amazing amount of reality into their work. Clever Toreador
+create films or photographs conveying various sorts of subcon-
+scious messages. This is easier to do in a film— the message will
+be clearer and more detailed than in a photograph. However,
+a series of photographs bearing the same message will convey
+the message just as clearly as a film.
+
+System: The character must succeed in a Creativity +
+Artistic Expression (Photography or Film) roll (difficulty 8).
+
+Viewers feel there is something unusual
+about the photograph or film.
+
+1 success
+
+Viewers feel as if they know exactly what
+the people in the photograph or film are
+
+2 successes
+
+tecling.
+Viewers feel as if they are in the photo
+
+graph or film, witnessing the events first-
+
+hand.
+
+Viewers believe they are smelling, hear-
+ing and seeing things in the photograph
+or film. They might also form a strong
+sympathetic bond to a particular charac-
+ter in the work or to the work itself.
+
+3 successes
+
+4 successes
+
+Same as above, but the viewer will also
+have flashbacks from the photograph or
+film that go beyond the scope of the work
+itself, If possible, she will begin having
+regular dreams concerning the work's
+
+5+ successes
+
+setting or the characters in it.
+
+38 Qe Clanbook: Toreador
+
+Intensification: Level 6
+Presence
+
+Certain Toreador, including artists, sculptors, filmmakers,
+photographers, writers and composers (i.¢., Artistes who cre-
+ate works instead of performing them) can put a part of their
+Presence in their work. The viewer of the work will feel
+particularly intense emotion towards it, The object must carry
+at least some obvious symbolism for the emotion conveyed in
+the work. With this power, a Toreador can produce a magical
+item of sorts, such as a photograph which makes the viewers
+feel sad, a goofy-looking wooden figure which causes those
+viewing it to laugh, and so on. ~
+
+System: Twenty Blood Points:must be spent to make one of
+these objects, although no more than five may be spent in one
+night. Anyone who views the object can resist it by making a
+Self-Control roll (difficulty 7), Only one emotional response
+may be conferred per object. The effects on the object are
+permanent.
+
+Siren's Song: Level 6
+Presence
+
+This power allows a Toreador musician to reach a state of
+awareness using one particular type of musical instrument. She
+will feel as though it is an extension of her own body and soul.
+Italso lets Toreador singers produce similar effects. In this way,
+the character can create some of the most beautiful music the
+world has ever heard. The character can influence the emo-
+tions of all listeners. The effect is based on the type of music
+created. Additionally, the audience will he drawn to the music
+and unable to take any action to either harm the music-maker
+Or Tun away,
+
+Emotions instilled by the music may vary, bur despite the
+emotion created, the Toreador will not have any direct control
+over the listeners' actions. While the music and lyrics can
+direct the audience to perform particular actions, the listeners
+will not all interpret the music in the same way.
+
+System: The character automatically receives a bonus of
+three dice to his Music or Singing Skill and can make music
+that has startling results. When this power is used, anyone
+within listening distance will be hit with effects similar to Awe
+unless a point of Willpower is spent. The effects of this power
+vary. In certain cases, such as trying to induce bravery, the
+music might just add one or more dice to half the listeners'
+Courage ratings while making the other half Frenzy. The exact
+effects are left up to the Storyteller. Effects of this power last as
+long as the music is continuously played, up to a maximum of
+
+one scene.
+
+Star Magnetism: Level 6
+Presence
+
+This power allows the character's Presence to carry over
+onto film, video tape, photographs or any other sort of visual
+recording. It even carries over to paintings if the portrait is an
+accurate representation. It may be consciously turned off, but
+it will otherwise snap into effect whenever a camera is turned
+towards the Kindred.
+
+System: The representation resembles Awe, and the effects
+are permanent. Anyone who sees the image will be affected
+unless he spends a Willpower point every turn he sees it.
+
+Two-Tiered Communication:
+Level 6 Presence
+
+The Toreador can speak to someone in such a way that
+everything she says has a hidden meaning to it. The Toreador
+may talk about one thing and actually tell the listener some-
+
+thing else, even if it is in radical opposition to the surface
+message. While the listener only hears the normal conversa-
+tion, he will subconsciously understand the underlying message.
+A Toreador using this power might tell a person her art work
+is incredibly beautiful, while on the subconscious level be
+telling her that he would not even use it to start a fire. A
+Toreador might openly profess her love for someone while
+she's really telling him to jump off the nearest building. If the
+character spends more than one Blood Point per turn, this
+power may be used in conjunction with Domination.
+System: This power lasts one turn per Willpower point
+spent. low well the underlying message is conveyed requires
+a Manipulation + Empathy roll (difficulty of 10 - the listener's
+Perception, with a minimum of 3). One success conveys a
+simple message, and elaborate messages may require as many as
+
+SEVEN SUCCESSES.
+
+Chapter Three ® 39
+
+ae
+
+"a
+
+ite ree
+‘
+
+nee pero, 3
+
+Merits and Flaws
+Controllable Thirst: @ pt Merit)
+
+Because Toreador spend so much time around mortals,
+resisting Frenzy caused by the smell, sight or taste of blood is
+easier for them. Whenever the Kindred makes a Frenzy roll
+over blood, reduce the difficulty by three.
+
+Eye for Beauty: @ pf Merib
+
+The Kindred is a natural critic. Reduce difficulties for Art
+
+Appreciation by four.
+
+Mortal Double: (2 pt Merib
+
+You have the services of someone alive who looks just like
+you. This person might be your actual twin. (Other explana-
+tions are possible: a long-lost brother, a master of disguise, a
+Progenitor clone, a victim of Vicissitude, etc.) However,
+unless he is made into a ghoul, he will continue to age
+normally. Eventually, he will no longer be your exact double.
+The double may move about freely during the day, aiding you
+in hiding your vampiric nature. The double must be fully aware
+of your personal life, including all your relationships and
+activities. He must also be a good actor.
+
+Refined: (2 pt MeriD
+
+You a member of the elite. You are at home in high society
+and you never feel out of place around the "beautiful people."
+The difficulty on all Etiquette rolls involving high society is
+reduced by three. In addition, you are often invited to Torea-
+dor socials reserved for those of higher Toreador Prestige (or
+Camarilla Status) than yourself.
+
+Blasé: (3. pt MeribD
+
+You are not easily impressed by others. You automatically
+resist all Presence powers. However, if the Kindred using
+Presence is far more powerful than yourself, the Storyteller
+might require you to spend a point of Willpower to resist.
+
+"Gifted": (3. pt MeribD
+
+The difficulty on all Creativity rolls and Artistic Expression
+rolls are reduced by three.
+
+Greater Colors: (3 pt MeriD
+
+The vampire sees colors more distinctly and with greater
+definition. The world is far more colorful. Unfortunately, the
+
+40 @_ Clanbook: Toreador
+
+vampire is more likely to become enraptured by colorful
+
+objects. Despite the drawback, when used in conjunction with
+Aura Perception, the vampire will discover far more informa-
+tion about her target. The difficulty for reading a target's aura
+is reduced to five. The player may ask the Storyteller one
+question about the target for every success, and the Storyteller
+must provide accurate information. This may be used only
+once per story on a particular target. Finally, all Artistic
+Expression difficulties involving color are reduced by one.
+
+Supernatural Spouse: (4 pt
+Merit
+
+~
+
+You share a relationship equivalent to marriage with a
+supernatural creature other than another Kindred. Both of you
+receive the benefits of the True Love Merit for one another.
+This creature may bea mage, a werewolf, a changeling, a wraith
+or something even more unusual. Unfortunately, both of your
+kind would consider you threats if they knew of your relation-
+ship. You may declare your love for one another openly,
+although you tisk becoming an outcast— or worse. You and
+your spouse would die or kill for one another.
+
+Powerful Ghouk (5 pt Merit
+
+You have a very powerful ghoul Blood Bound to you. The
+ghoul has six points to put into any Disciplines other than
+Thaumaturgy, although at least one point must be put into
+Potence. The ghoul is also very competent, possessing 15
+points to distribute among Attributes, 27 points to distribute
+among Abilities and 5 points to put into Backgrounds. The
+ghoul has reasonably good Virtues and Willpower ratings and
+will do anything you say, since it loves you so much. However,
+the ghoul might also get jealous of any relationships you have
+
+with others,
+
+Vampire Spouse: (5 pt MeriD
+
+You hold regnant over another Kindred, though she holds
+regnant over you as well. The two of you are in love, and you
+automatically have the benefit of the Merit: True Love. Your
+vampire spouse is your equal in terms of power and status.
+However, as a couple, you are very formidable. You allow
+nothing to get in the way of your love. You and your spouse
+would die or kill for one another.
+
+Poor Taste: (I pt Flaw)
+
+You can never have the Art Appreciation skill, You are
+forever a Poseur, and you have no ability to judge a masterpiece
+from trash. In fact, if you had the choice, you would choose the
+trash.
+
+3 as rN d ~~, -
+
+~ aa ~
+
+‘oe: Nise
+
+all ~ id ON » AO
+. Ne ee Sh aa
+
+Rival: (| pt Flaw)
+
+You have an intense rivalry with another Kindred. You are
+always competing with this individual, either for fun or out of
+spite. In besting this individual, you go to extremes, and he
+behaves similarly towards you. Your rival occasionally gets the
+best of you, but you do the same to him.
+
+Tortured Artist: d pt Flaw)
+
+You must suffer for your work. Your work is never good
+enough to suit you. You often suffer ennui for extended periods
+of time, preventing you from working steadily. In addition, you
+constantly find yourself in heartbreaking positions; perhaps
+you subconsciously lead yourself into those situations to ac-
+quire the experience you need for your work.
+
+Vulgar: ( pt Flaw)
+
+You will never fit into high society. You are crude, rude and
+socially unacceptable, forever a Philistine. You are treated as
+having one less level of Status when invitations to Toreador
+socials are prepared. You will never be fully accepted as a
+Toreador. Many will question your Sire and possibly ridicule
+him for choosing you.
+
+Artistically Inept: (2 pt Flaw)
+
+You must work harder than most artists to accomplish great
+work. You are still capable of creating a masterpiece, but it is
+tougher for you than for someone else of equal training. All
+difficulties on Creativity rolls and Artistic Expression rolls are
+increased by two to a maximum of nine.
+
+Social Outcast: (3 pt Flaw)
+
+You have severed your ties to the Artistes and Poseurs. You
+no longer play their silly games. You will never rise in Clan
+Prestige, and you are the equivalent of an anarch. However,
+the anarchs will not accept you due to some past transgressions
+you have committed against them. You have no place in the
+world of the Damned.
+
+Chapter Three _» 41
+
+
+Chapter Four
+
+Templates
+
+It is the addition of strangeness to beauty that constitutes the
+
+romantic character in art.
+
+— Walter Pater, Appreciation
+
+As mentioned earlier, the Toreador definition of art is
+anything involving creativity, talent and dedication. Because
+of this, the clan boasts an incredible diversity. Rather than
+present variations on the typical Toreador Artiste and Poseur,
+this collection of templates contains alternatives to the stan-
+dard Toreador. Remember that concepts of "Artiste" and
+"Poseur" are simply stereotypes. Attaching one of these labels
+should not define the entire character or limit the character's
+personality and goals.
+
+Feel free to tamper with the numbers, Nature, Demeanor or
+anything else in the description to make the character fit your
+needs. These templates serve as guides to creating your own
+characters. However, the best characters are the ones you
+design and develop on your own.
+
+Also nore that some of the Natures and Demeanors for these
+templates are from The Vampire Players Guide.
+
+ae
+
+Lhave stood here before inside the pouring rain
+With the world turning circles running ‘round my brain .
+I guess I'm always hoping that you'll end this reign
+
+king of pain
+()
+
+But it's my destiny to be the
+
+— The Police, "King of Pain"
+Quote: Yes, yes, | see what you are saying.
+The light textures do offset the blue tones in the
+way you describe. All I am saying is: so what?
+I cannot understand how you can babble on for
+so long about such trivia. Ob dear, I seem to
+have finished this cocktail. Oh, waiter—
+another please, a draught from one of the
+, healthy ones this time.
+Prelude: You were the talk of the
+Guild for the first 10 years of your
+‘ unlife. A great artist in life, your
+paintings were unmatched even
+among the undead. Then your unlife
+suddenly changed for the worse. You
+found your mortal children dead and watched your husband
+die at the hands of ruthless Setites. You frenzied, destroying
+two of them before the others could stake you. They tortured
+you for nights, but one of their servants made the mistake of
+removing the stake, and you repaid him in blood.
+
+You killed anyone who came across your path. After escaping,
+you tried working again, but found you could not. You travelled the
+world partying, but after growing weary of it, you returned to your old
+city, hoping fora new start. This time, you will acquire all the power you need
+to make sure no one degrades, hurts or controls you like the Setites did.
+
+Concept: You no longer value mortals and drink far more vitw: than you need,
+Art no longer concerns you. To you, it 1s 4 silly waste of time. Everyone knows
+power is the key to everything. You will use anyone and define any Kindred as
+
+either an enemy ora tool. You have many beautiful ghouls; your pet dogs receive
+better treatment than they do. Much of your time is spent engaging in politics,
+schemes and perversity.
+
+Roleplaying Tips: You are ruthless, cruel and inhuman. Your vision is
+
+clouded with pain. The world is a far uglier place now that you have lost your
+family. It may be possible for you to love, work and laugh again, but finding a
+way will not be easy. Worse yet, you chose not to look. You prefer wallowing in
+
+your self-pity.
+Equipment: Expensive, custom-fitted suit,
+
+small-caliber pistol and large
+
+amounts of cash.
+
+TOREADORL-LL,
+
+VAMPIRE: The Masquerade"
+
+Name: Nature: Survivor Sire:
+Player: Demeanor: Curmudgeon Generation: 11th
+Chronicle: Concept: Burnout Haven:
+(pe = Aibates =e
+Physical Social Mental
+Strength @@000000 Charisma __ @@000000 Perception @@000000
+Dexterity @@000000 = Manipulation @0000000 Intelligence. ©@@00000
+Stamina @@000000 = Appearance @@0@00000~ = Wits @@@00000
+eqge.,8
+Talents Skills Knowledge -
+Acting @0000000 Animal Ken 00000000 Bureaucracy 00000000
+Alertness 00000000 Drive @0000000 Computer 00000000
+Athletics 00000000 _ Etiquette #e@000000 Finance 00000000
+Brawl_ e@@000000 Firearms @@000000 Investigation____O0000000
+Dodge @0000000 = Melee @0000000 _ Law @0000000
+Empathy 00000000 Music ae g000000 Linguistics #0000000
+Intimidation ee@00000 _ Repair 00000000 Medicine 00000000
+Leadership oo000000 | Security ss g@ 000000 Occult @0000000
+Streetwise o0000000 Stealth. 00000 Politics @€@000000
+Subterfuge ee@00000 = 3 Survival 00000 Science 00000000
+———— Oa
+<0 sss = Advantages = Ww
+Disciplines Backgrounds Virtues
+Auspex ooo00000 «Fame @0000000 _ ~— Conscience @@000
+Celerity @0000000 Generation _ee000000
+Presence ee@000000 Resources @@e@00000
+ooo00000§ =. Retainers eoo00000 ——Self-Control____eeeoo
+00000000 )=«—_ Status 0000000
+00000000 00000000
+00000000 oov00000 | ©—-"urage._eeeee
+SSE
+commen Other Traits Humanity se ve Health ————.-—-
+isti ineeeeoc00 9 @@eSBO0O0I00DO Bruised Oo
+otyle @@000000 Hurt 41a
+Art History @0000000 ere Willpower x .
+00000000 In 10
+00000000 @ee@aeeeee000 Wounded -2 O
+00000000 Crippled 5 O
+00000000... Bigod Pool Incapacitated O
+00000000 Weakness
+oooooo00 FITJOXOOOOOOUU ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+r vy
+
+r T Yt
+
+
+Concept: All the fanboys idealize you. You
+are just plain awesome in their eyes— and in
+your eyes, too. You have an inflated ego, but
+your past success has given you reason to
+have one. You are still new to the World
+» of Darkness and have much to learn. Your
+creativity has improved since your Em-
+brace, and all the new challenges you have
+had to face have given you new inspiration.
+Roleplaying Tips: You are uncomfortable
+in situations involving other Kindred. They
+frighten you. Many claim you are a Poseur, but
+you know they're just jealous. You refuse to
+
+Co
+Celebrity
+
+Bite Me, Fanboy!
+— Lobo
+
+Quote: Yeah. I'm one of the founders of Facade Com-
+
+ics, the hottest comic company around. We were tired of
+
+working for the other guy. Now we make the Big
+
+Bucks, and we can do things our way. No more
+
+modifying the art to fit the story. Nobody reads
+
+comics anyway. They buy them for the art. | listen " melt crincisms, ut you now
+We give them what they want. Work less and less. "Found Comic
+
+Lae , collectors, your egomania shines
+" | forth.
+
+Equipment: Box of draw-
+ing utensils, bristol pad, roller
+ruler, new sports Car, some
+unfinished comic pages and
+agold pen for autographing
+comics,
+
+Prelude: You gota lucky break
+
+from one of the big comic eg
+companies and worked --
+hard. You played it 4 .
+straight and narrow
+until they realized
+you were depend-
+able. Then you
+began develop-
+ing your own
+style. You were
+hot. Then you
+joined up with
+some other big
+names and
+founded your
+own com-
+pany. You
+were at the
+top of the
+field— so
+what __ if
+some jeal-
+ous people
+said you had no
+talent? You knew \.
+
+you were great.
+
+While on tour,
+you were abducted
+from your hotel
+room in the middle
+of the night and Em-
+braced by a Toreador
+fanboy. Now you never meet
+your deadlines, but you're a
+part-owner in the company.
+Besides, you're rich and im-
+mortal. What does it matter,
+anyway?
+
+* =
+
+46
+
+
+wee
+aaa Dhl
+
+og
+
+»)
+
+TOREADORALL@
+
+VAMPIRE: The Masquerade" ¢
+Nature: Autocrat
+
+JS
+
+Name:
+
+Sire:
+
+Player: Demeanor: Architect Generation: \2th
+Chronicle: Concept: Comic Book Celebrity Haven:
+2 Attrhiaites SS
+Physical Social Mental
+Strength @0000000 — Charisma @ee@e@0000 ——~(Perception @@@00000
+Dexterity @@@00000 = Manipulation @@@00000 _sIntelligence @@000000
+Stamina __ €@000000 Appearance @@e@00000 Wits @@@00000
+sisty —————— OOS
+200 = Ab ities HP
+Talents Skills Knowledge -
+Acting : @0000000 Animal Ken 90000000 Bureaucracy 00000000
+Alertness @0000000 sD rive @e@000000 Computer. @@000000
+Athletics 00000000 Etiquette : 80000000 Finance @#@0e@0000
+Brawl 00000000 Firearms 00000000 Investigation #@000000
+Dodge @0000000 Melee 00000000 Law___. 00000000
+Empathy @0000000 = Music 900000000 Linguistics 00000000 s
+Intimidation @e@000000 _ Repair. 00000000 Medicine 00000000
+Leadership @0000000 _ ~~ Security__ QO D0000 Occult 00000000
+Streetwise ooo00000 —s_ Steallth__ 0000 Politics @0000000
+Subterfuge ee000000 3 Survival sO >710000000 Science @0000000
+=—_—_—_$== Op
+Disciplines Backgrounds Virtues
+Auspex ooo00000_—s Allies @e@000000 Conscience 00000
+Celerity __ @@000000 Contacts @e@000000
+Presence eo000000 3 §=Fame @@000000
+00000000 Herd eee0o0000 =. Self-Control____eeeee
+00000000 Resources ©@@80000
+00000000 00000000
+00000000 00000000 © Courage_________#@000
+woe — ——— = — aoe Sal
+co—- Other Traits ——<— Humanity 2 _— Health ——+«—
+Artistic Expression #@000000 eeoeoaeveee00 Bruised oO
+Masquerade _ @@000000 Hurt 4 da
+Sooooooo corm Willpower —«— Injured 1 0
+00000000 eee@eeee 000 Wounded 2 OF
+Soooo000 }=CIOOOOOOOUOL Mauled 2 O
+00000000 Crippled = 5 O
+00000000 Weakness
+awa Weakn
+cooooo00 FIO OOOOOUOUU ENRAPTURED BY BEAUTY.
+\ 00000000 WILLPOWER ROLL REQUIRED
+
+*
+
+md
+
+ee
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5
+
+Virtues:7 Freebie Points:15 (7/5/2/1)
+
+a ng poem omer een a een pe
+r v TT & sd.
+
+r 7 ot
+
+Y |
+
+
+Roleplaying Tips: You act a little crazy some-
+times. The power you wield over the lives of your
+followers has made you a bit giddy. You speak with
+passion about everything. You are slightly para-
+noid, but you are also very excited and Itappy.
+You can see the pain in others and bring it into
+the open to help them confront it. The only
+cost is that you usually convince them you are
+the answer to all their problems.
+Equipment: Custom-fitted black suit, straight
+razor, beeper, Glock 18 and a new black lim-
+ousine.
+
+It's not enough merely to worship a gud.
+You've got to know which one's in
+charge. And Heaven help you if you
+mess around on the wrong turf.
+
+— Harlan Ellison, Deathbird Stories
+Quote: Serve me, for | am the chosen one. I have seen the
+hollowness in your heart, and] will fill it. Come to me, my children.
+
+Let my love for you extinguish the flames of this Hell on Earth.
+
+We shall live in peace away from the eyes of man. I will
+
+protect you and give you everything you need. The price
+
+you. say? Nothing. Nothing but your faith and devo-
+tion. We shall seek out the mysteries of the universe
+together. Companionship ts all T need.
+Prelude: You dabbled in the occult as a
+teenager, though you never really took it
+seriously, Your clean-cut good
+looks and charm made all the
+adults think of you as a little
+angel, though you were far
+from it. After you went away
+to college, you began delv-
+ing deeper into the occult
+after taking a sociology
+course on the subject.
+Your innate ability to
+win people over to your way
+of thinking was what at- tracted
+your sire. You were at a__ fraternity party with
+two attractive young women, and you had con-
+vinced them that you possessed psychic powers.
+You took the women back to your place only to
+find that one of them was not human. She Em-
+braced you, and together you drank the other
+woman dry. Your sire taught you about the Kin-
+dred, but she has shown you only the darker side
+of your existence. She left you a year ago, and you
+have since organized your own cult, feeling it
+would make your existence safer and more plea-
+surable. Now you no longer have to hunt to feed.
+Your prey is ready and willing.
+
+Concept: You can convince people of just
+about anything, and you can bring them into your
+service with ease. You wish to become a powerful and
+respected member of your clan, but you must hide your
+cult from the eyes of other Kindred, or they will be used
+against you. You have begun training some of your
+cultists to become vampire hunters.
+
+48 aq Clanbook: Toreador
+
+manmaagey"
+
+1G
+
+VAMPIRE: The Masquerade" LD <
+
+Nature: Director
+
+@-LTOREADOR!
+
+Namie: Sire:
+
+Generation: 13th
+
+ty
+|
+*
+i
+\
+*
+
+Player:
+Chronicle:
+
+Demeanor: Visionary
+Concept: Cult Leader
+
+Haven:
+
+f
+
+toy Attributes
+Physical Social Mental
+Strength @@000000 = Charisma___ @0e0e@e@000 ~3= Perception @@000000
+Dexterity @0000000 Manipulation  _— @®®00000 Intelligence @6@000000
+Stamina... = @@@QO00N0 Appearance @@000000 Wits @@e@0@0000
+Talents Skills Knowledge
+Acting @@000000 Animal Ken O0000000 Bureauctacy___ 00000000
+Alertness @0000000 Drive @e@000000 Computer 00000000
+Athletics 00000000 _ Etiquette @e@000000 Finance 00000000
+Brawl 00000000 _ Firearms @@e000000 Investigation 00000000
+Dodge @0000000 Melee 00000000 Law 00000000
+Empathy @@0@@0000 = Music 00000000 Linguistics @0000000
+Intimidation @@000000 _ Repair. 90000000 Medicine 00000000
+Leadership @ee0@@0000 = Security. @@000000 Occult @@000000
+Streetwise 00000000 Stealth a gQCQDO"DN00 Politics @0000000
+Subterfuge 00000000 — Survival 00000000 Science @0000000
+<Os0 pss SS Ahvantages ——SSSSSavow——-
+Disciplines Backgrounds Virtues
+
+Auspex 00000000 Herd @e0e@0000 = Conscience @@000
+Celerity oooo0000 => Mentor @0000000
+Presence eee00000§ = Resources @8@@00000
+
+00000000 ~=— Retainers @0000000_~—- Self-Control____eeeeo
+
+00000000 00000000
+
+00000000 00000000
+
+00000000 ooo00000 — Pourage ooo
+
+~——= Other Traits oo Humanity ee ve Health —-—«--
+00000000 , Hurt 4 dO
+soooooe0 eeeoveeee00n0 Wounded 2 O
+coooooon |= WOooooo0o0o Mauled 2 O
+00000000 Crippled 5 OU
+00000000... Blood Pool —— Incapacitated 9 O
+00000000 . Weakness ;
+ooooo000 FIDO OOOOOOU ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+DNOOOOOOOOU TO BREAK FREE.
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backg
+1 ' ‘ a ' "ai
+
+altar = Ae
+
+a
+
+~
+
+rounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+|
+
+rot
+
+
+My business took over my life— by choice.
+— Riva Yares
+
+Quote: It's tough breaking into the field today, but somehow I
+
+made it. Now look at me. New home. New car. Wife and kids. I
+
+got it made. Well, almost. You see, | *m now one of the creatures |
+
+write about. Bad side is that I have to deal with a lot of powerful and
+
+evil beings. Good side is that they give me a lot to write about.
+
+Prelude: You never really grew up. The monster under the
+bed, the werewolves who patrolled the woods behind your
+house— you carried them all with you into adulthood. You
+graduated college with a B.A. in English and tried to find work
+as a teacher, but had no luck. You ended up in a mill job, but
+spent your free time writing.
+
+You had it tough at first. The rejections were hard to deal
+with, but you finally gota break. Within 10 years, you had
+sold seven best-sellers and a massive number of short
+stories. They even made a movie based on one of your
+works. Youattracted the attention of another writer,
+an undead writer. Your work touched her like no Q /
+other mortal's had, so she Embraced you. 4
+
+Concept: You lead a double life and still
+live with your family. You told your wife the
+truth, and your kids are asking questions.
+You are still writing, but your grim
+work has become even darker than it
+was be-
+fore the
+Embrace.
+Perhaps the
+change has
+affected you
+on a deeper
+level than you
+realize.
+
+Roleplaying Tips: You are
+very endearing and down-to-earth.
+You have done well for yourself, but you have
+not let fame ruin your life. Making friends
+among the Kindred has been easy, but many of
+them fear they will become characters for your sto-
+ries. You are slightly paranoid, but you hide it well. Perhaps
+your fear is justified: there are rumors that some of the elders
+want you destroyed. After all, your writing might breach the
+Masquerade.
+
+Equipment: Miniature tape recorder, note pad, pens, laptop
+computer, Rolex, Colt Anaconda, shoulder holster, extra
+ammunition, beeper and a couple of new novels by other
+writers.
+
+50
+
+OL
+
+U
+i
+"
+t
+Y
+*
+
+JS
+
+TOR
+
+EADOR:
+
+VAMPIRE: The Masquerade"
+
+Namie: Nature: Architect
+
+Player: Demeanor: Optimist
+
+Chronicle: Concept: Horror Writer
+Loy Attributes
+
+Physical Social
+
+Strength @@@00000 == Charisma @@e@00000
+
+Dexterity @8000000 = Manipulation__ ®©® 000000
+
+Stamina @@0@00000 Appearance @0000000
+
+8 SSE Abilities
+
+Sire:
+
+Generation: 13th
+Haven: .
+
+—__—_- AL
+
+Mental
+Perception @@000000
+Intelligence. @e0@e0000
+Wits @@00@0000
+
+OH
+—_—————— ese
+
+Talents Skills Knowledge"
+Acting 00000000 — Animal Ken 00000000 _ Bureaucracy. @0000000
+Alertness @0000000 Drive 2e000000 Computer #8000000
+Athletics 00000000 _ Etiquette 80000000 Finance @0000000
+Brawl eo000000 Firearms. 80000000 Investigation @@000000
+Dodge 00000000 Melee 00000000 Law 00000000
+Empathy @@@00000 = Music 00000000 Linguistics @@000000
+Intimidation @0000000_ Repair T0000 Medicine 00000000
+Leadership Qo0000000 Security 900000000 Occult @80660000
+Streetwise 00000000 _~‘Stedlth_———— {0000000 _—s~Poilitics 00000000
+Subterfuge 00000000 Survival. QQ:00000 Science @@000000
+——— OOS
+<0 ees SSS ANvantages a SSPE!RE
+Disciplines Backgrounds Virtues
+Auspex ee@00000 = 83=6©Contacts @@000000 ~=Conscience e00e0
+Celerity 00000000 Fame @0@000000
+Presence 00000000 Resources @@0080000
+00000000 00000000 _— Self-Control_____eeooo
+00000000 00000000
+00000000 00000000
+00000000 ooo000000 = Courage ooee0
+come Other Traits —<-- occa Humanity r= Health ——--
+Masquerade @0000000 @@@@@ e800 Bruised Oo
+Poetic Expression @@@00000 Hurt 4 0
+coooooe0 coon Willpower ——— Injured -1 O
+00000000 ee@eeee@00d0 Wounded -2 0
+ooooo000 =CIOOOOOOOO0 Mauled -2 O
+00000000 Crippled 5 O
+00000000 Blood Poo! — Incapacitated 9
+a 90000000 oeseeme Weakness ——<--
+ooooo000 QUO OUOUUUUO ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+ONOOOOOONo TO BREAK FREE.
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+eat te
+
+|
+
+1 |
+
+|
+
+—
+
+1 |
+
+1 |
+
+|
+
+a
+
+A)
+
+AG
+
+f
+}
+
+
+Masquerade. You must be careful, or they might
+decide to destroy you.
+
+Roleplaying Tips: You are cold and haughty,
+except when interviewed by the media, in
+which case you turn on the charm and humil-
+ity. You see yourself as the star. Everyone else
+exists to serve you. You get tired of your fans
+always bothering you, but you secretly cannot
+
+stand it when no one recognizes you. You con-
+sider yourself the ultimate in toughness, beauty
+and charisma. You cannot stand it when anyone
+bests you in anything.
+
+Millions
+
+I have never quite understood this
+sex symbol business, but if I'm going
+to be a symbol of something, I'd rather
+have it be sex than some of the other
+things they've got symbols for.
+
+— Marilyn Monroe
+
+Quote: Darling, how wonderful! You
+made it! It's so good to see you. You look
+fabulous. Have you seen my new movie? ...
+Why, thank you ... Oh, well, yes, it was
+tough, but the director was just a peach.
+The schedule worked out perfectly. You
+know, it's grossed over 40 mil so far ...
+No, I'm not surprised. I'm glad people
+recognize talent when they see it.
+
+Prelude: You grew up in De-
+troit, one of seven children in a
+poor family. Well, at least that's
+how you tell it. You worked ‘.
+your way through college, get-
+
+ting a degree in drama. You we
+went to Hollywood and ac-
+tually managed to geta small if ,
+part in a low-budget film. A big-
+name director recognized your talent
+and made you a success. By the time you
+were 23, you had starred in seven movies, and your
+name was almost always first in the credits. Your
+wild personal life was a hot subject for tabloids
+and television shows.
+
+One night, a Toreador production assis-
+tant came into your dressing room and
+Embraced you. Since that time, you have
+managed to continue working some,
+though far less than if you were still
+mortal. You would not like being a
+vampire, except now you will never
+grow old. Still, you know you must
+retire from the movie business some
+day before everyone begins to notice
+your ageless grace.
+
+Concept: Most of the public
+adores you. You were once voted
+one of the sexiest people alive, and
+now you are certainly one of the
+sexiest people undead. The other
+Toreador grow weary of you be-
+cause you jeopardize the
+
+Equipment: Trendy outfit, quby ring, shades
+and a.357 magnum revolver in a shoulder
+
+52 @_ Clanbook:
+
+
+Namie:
+Player:
+Chronicle:
+
+OREADO
+
+VAMPIRE: The Masquerade"
+
+Le)
+
+$0 Attributes =
+
+Physical
+Streneth @@000000
+Dexterity @#@@8@00000
+Stamina @6000000
+
+eS bites —— ro
+
+Nature: Competitor Sire:
+Demeanor: Praise-Seeker Generation: 13th
+Concept: Ido! of Millions Haven:
+on
+
+Social Mental
+Charisma e@e@00000 ‘Perception @@000000
+Manipulation___ @@000000__sIntelligence @@000000
+Appearance_____—s@@@@@000_~— Wits @@000000
+
+Talents Skills Knowledge~
+Acting @e€e@000000 ~~ Animal Ken 20000000 Bureaucracy 00000000
+Alertness oo00gn0g0000 Drive BO0000000 Computer G0000000
+Athletics @@000000 _ Etiquette @2e@e@00000 Finance @@000000
+Brawl @0000000 _ Firearms @®0000000 Investigation 00000000
+Dodge _ @eeo000000 Melee  noog0000 Law @0000000
+Empathy @0000000 = Music __ @e@000000 Linguistics @0000000
+Intimidation 00000000 _ Repair 00000000 Medicine @0000000
+Leadership 00000000 _ Security @0000000 Occult. 00000000
+Streetwise @0000000 Stealth 00000000 Politics 00000000
+Subterfuge ooo00000 © Survival QQ 00000 Science 00000000
+=== Oa
+0s 0 = Advantages Sot
+Disciplines Backgrounds Virtues
+Auspex 00000000 Contacts @@000000 ~— Conscience @0@00
+Celerity 00000000 Fame @0000000
+Presence eeeo0000§3=>. Resources @@0@00000
+00000000 Retainers @0000000 Self-Control____———s @@@00
+00000000 Status @0000000
+00000000 00000000
+00000000 oo000000 ©" Courage_____eeeeo
+=== Other Traits = Humanity Health ———-.--
+Masquerade eeeoo000 9 © 0 OO ® @eooo Bruised oO
+Seduction @@@00000 Hurt 41 0
+50000000 seg Willpower ——--- Injured 4 O
+00000000 eeeeoeeeodoododod Wounded 2 UO
+cooooo0nd COU OOOOOUUU Mauled 2 O
+00000000 Crippled 5 U
+00000000. Breod Pool Incapacitated =
+90000000 mum Weakness
+saree = —
+ooooo000 FOO OOOOUO0 ENRAPTURED BY BEAUTY.
+oo0000000 WILLPOWER ROLL REQUIRED
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+—— a —IT x
+
+omen | at
+
+ ———
+
+=
+
+r t tT iO
+
+r tf
+
+
+interferes with your studies. Recently, you have come to the
+conclusion that you must achieve some degree of power among
+the other Kindred, just so they will leave you alone and quit
+using you as their pawn because of your physical prowess.
+
+The combat deepens. On, ye brave,
+Who rush to glory, or the grave!
+— Thomas Campbell, "Hohenlinden"
+
+Quote: Hear the wind upon the water. It flows
+like the churning in my soul.
+
+Prelude: You spent much of your childhood
+in Hong Kong, the son of an American business-
+man. Your parents returned to America when
+you were 12, but they allowed you to remain in
+Hong Kong with your uncle, who ran a
+martial arts school. You had the
+potential to one day become a
+superior martial artist, and your
+parents decided to allow you to
+pursue your gift.
+
+When you were 15, however,
+your uncle died in a car wreck,
+and you returned to America to
+live with your parents. You hadsome
+trouble fitting in at school, but you
+
+continued your training, and it -
+occupied your YY \
+
+time. After
+
+Roleplaying Tips: You are quiet most
+LEB of the time. However, much of
+a ree what you say is enigmatic, vague
+"  anduseless. You carry yourself in a very hum-ble
+"a} manner, but when you are presented with danger, you take
+a bold stance and glare at your enemy. When presented
+with a chance to fight, you move with unnatural
+beauty and mechanical precision.
+Equipment: Jeans, black heavy metal
+T-shirt, trench coat, combat boots
+and a concealed martial arts wea-
+pon of some sort.
+
+~~
+
+winning a
+number o
+tournaments,
+
+you attracted
+the attention of a Toreador who
+recognized your talent and dedi-
+cation. She decided to provide
+you with all eternity to per-
+fect your arts.
+
+Concept: You are an
+artist. Your unattainable
+goal is the ultimate and
+perfect union of mind,
+body and spirit through
+the martial arts. The
+Toreador recognize
+you as an Artiste, but
+you have little to
+do with them.
+You develop
+your talents
+not for others,
+but for yourself.
+You have had some
+difficulty since your Em-
+brace. The fact that you
+do not breathe bothers
+you and occasionally
+
+54
+
+TOREADORL-L,
+
+VAMPIRE: The Masquerade"
+
+Name: Nature: Perfectionist Sire:
+
+Player: Demeanor: Loner Generation: Oth
+Chronicle: Concept: Martial Artist Haven: .
+0 Attributes ——————-+>
+Physical Social Mental
+Strength @@@00000 = Charisma @@000000 ‘Perception @8@000000
+Dexterity @6eee0000 Manipulation___ @® 000000 Intelligence @ee000000
+Stamina @e@@00000 Appearance @@000000 Wits @@e0@0000
+
+2S ————EESE==—————— Abilities
+
+rn
+
+Talents Skills Knowledge
+Acting 00000000 Animal Ken, 20000000 Bureaucracy 00000000
+Alertness @e@@00000 =~ — Drive 00000000 Computer 00000000
+Athletics @e@00000 _ Etiquette @0000000 Finance 00000000
+Brawl ee@eeeooo — Firearms 00000000 Investigation 00000000
+Dodge @@@00000 Melee @@@00000 Law. 00000000
+Empathy @0000000 = Music 00000000 Linguistics @@000000
+Intimidation 00000000 _ Repair 00000000 Medicine__ @0000000
+Leadership 00000000 Security. @0000000 Occult @@000000
+Streetwise 00000000 — Stealth @e@@00000 Politics 00000000
+Subterfuge 00000000 — Survival 00000000 Science 00000000
+=——— eee OO
+<0 ess sss Avant §¢S —SSSS=Swm
+Disciplines Backgrounds Virtues
+Auspex. ooo00000-—_ Allies @0000000 ~~ Conscience e0ee0
+Celerity @@@00000 Generation @000@0000
+Presence ooo00000 3 => Mettor @0000000
+00000000 oooco000 — Self-Control____eeeee
+00000000 00000000
+00000000 90000000
+00000000 oo000000 «TC ourage_______9#ee@0
+some Other Traits —~ Humanity Health ———.—
+00000000 @@@ 08 eee800 Bruised q
+00000000 Hurt 4 0
+09000000 m= Willpower—e~ ned
+00000000 @ee@e@e@e eo e200 Wounded -2 O
+sooooo0g COODOUOOOOO0 Mauled 2 O
+00000000 Crippled 5 O
+90000900 ove Weakness ——<--
+cooooo00 FQIQOOOOOOOUU ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+r Yt
+
+
+Equipment: Needles, inks and
+all other tattooing paraphernalia,
+
+jeep, Desert Eagle
+Better to die on your feet than live on your knees. with laser sight and
+extra q ammunition,
+
+— Dolores Ib4rruri, speech in Paris . '
+
+Quote: Piss off. Unless you came here to have some work done, ae belt > holster and sil-
+you might as well walk outta here before I throw youout...Oh, you <a "A x ver dagger.
+want a tattoo, huh? You seem a little too scared for that. You sure? $6) a
+... Well, okay then. Have a seat and I'll be right with you ... What ( TOA
+do you mean, do I throw away the inks when I'm done? Of course \ :
+I do. I'ma professional. A real artiste. \\' <r ™S
+
+Prelude: As a kid, you were a juvenile delinquent. We ©
+After you graduated high school, you went into the e
+Marines. They threw you out after one enlistment,
+so you began working as an apprentice to a
+tattoo artist. Soon your work was better than
+his. You left town and started your own busi-
+ness.
+
+A Toreador came into your shop one night and re -
+quested a tattoo of a phoenix on her back. You did the work,
+and she was so impressed by it that she Embraced you in
+payment. However, you quickly found out that you did not fit
+in among the other Toreador. Your sire had Embraced you only
+ona dare, and you came to hate her.
+
+One night, you led a group of anarchs to her haven and they
+destroyed her. They also forced you to commit diablerie on her. i
+Afterwards, they told you that you were one of them, and you ‘a
+could never be accepted within your clan as an Artiste. f
+
+They threatened to tell others how you betrayed your sire,
+so you were forced to join them. While hunting one night, a {
+pack of werewolves spotted you. The Lupines were going to
+destroy you, but you promised to lead them to your anarch JUST DO No TH
+gang if they would spare you. They agreed. You led the ING
+Lupines to their haven and ran away as the Kindred were
+torn apart. You have remained an outcast ever since.
+
+Concept: You are an independent. You enjoy unlife on
+your own terms. You can be cruel and deadly in protecting
+your freedom, but you prefer to be friendly. However,
+since your Embrace, you have become more and more
+distrustful of Kindred and kine alike. Now you focus on
+your work, and you plan to close your shop so you can
+travel the world to train with the real masters of your
+craft.
+
+Roleplaying Tips: You hate taking orders from
+
+others. While you would like to be accepted
+back into your clan or the anarchs as an equal,
+you will not let others control you. You are 4
+loud-mouthed and mean when neces- ti
+Ze :
+
+sary, but if a person shows an interest
+
+in you or your work, you can really a
+open up. If someone gave you the
+chance, you would be a loyal friend,
+but so far you have only met Kin-
+dred who want to use you.
+
+56 @_ Clanbook: Ww
+
+Y \\
+
+i"
+as ~<a
+
+~~ _—
+
+OAT
+
+OREADOR
+
+VAMPIRE: The Masquerade"
+
+Name: Nature: Rebel Sire:
+Player: Demeanor: Survivor Generation: 11th
+Chronicle: Concept: Outcast Haven:
+SSS A hates SS
+Physical Social Mental
+Strength @@@e@00000 Charisma @0000000 Perception, @6900000
+Dexterity @@@00000 = Manipulation @@000000 Intelligence @@@00000
+Stamina @@000000 = Appearance @@@00000 ~~ Wits @@0@60000
+00ers Ait = Mw
+Talents Skills Knowledge-
+Acting 00000000 Animal Ken 00000000 Bureaucracy 00000000
+Alertness @0000000 Drive 20000000 Computer___ 00000000
+Athletics 900000000 _ Etiquette 00000000 Finance _.00000000
+Brawl @e@000000 Firearms @e@e@00000 Investigation @0000000
+Dodge @@000000 ~~ Melee @0000000 Law @0000000
+Empathy 00000000 = Music 00000000 Linguistics @0000000
+Intimidation @0000000 _ Repair @0000000 Medicine 00000000
+Leadership oo000000 | Security__— @@ 000000 Occult @0000000
+Streetwise @@@00000 — Stealth @@000000 Politics 00000000
+Subterfuge @0000000 Survival gO 00000 Science @0000000
+——_
+<0 0s = Advantages ==EEESERE
+Disciplines Backgrounds Virtues
+Auspex eooo0000-—s_ Allies @0000000 Conscience @0@00
+Celerity e0000000 = Contacts @0000000
+Presence ee000000 Generation @@000000
+00000000 Resources e000c000 — Self-Control___eeeeo
+00000000 00000000
+00000000 00000000
+. 00000000 oo000000 = Courage e000
+RN
+soem Other Traits —~ ——— Humanity te Health ———-—
+Artistic Expression ee@00000 @ @ @ee@eee00d Bruised oO
+00000000 Hurt 4 0
+50000000 sora Willpower ——<— Injured 4-1 O
+00000000 eee@eee@00d Wounded 2 O
+oooooond COOOUOOOUO00 Mauled 2 O
+00000000 Crippled 5 O
+00000000 - Blood Pool Incapacitated O
+00000000 Weakness
+ome Weakn
+oooocc00 QU OOOOOOUU ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points: 15 (7/5/2/1)
+
+1 |
+
+|
+
+r 4
+
+©,
+
+
+Concept: You are an excellent plastic
+surgeon and continue to practice your craft,
+operating only at night. You claim this is
+to protect your clients from paparazzi. You
+J wish to attain respect and status among
+the Toreador as an Artiste, and it annoys
+you that most of them consider you a
+Poseur. Still, if they were aging mortals
+with money, they would come to you for
+help. This gives you the strength-to resist their
+criticisms with a smile. You have heard of
+something called Vicissitude, a power to shape and
+mold living tissue. Now you have dedicated yourself
+to discovering a vampire who possesses this power.
+You'd give just about anything to learn it.
+
+Surgeon
+
+I often say a great doctor kills more people than
+a great general.
+
+— Baron Gortfried Wilhelm von
+Leibnitz, Bulletin of the New York Academy of
+Medicine, vol. V
+
+Quote: You are very beautiful, but yes, can
+improve upon your nose. After all, no one
+is perfect, youknow. I couldalso thicken
+your lips to enhance that new nose.
+Would you be interested? Please
+sit by the computer and let me
+show you some of the various
+looks you could pick from. I
+can work wonders with the
+flesh, my dear.
+
+Prelude: You were born
+in Burbank to a wealthy fam-
+ily and have never wanted for
+anything. In high school and
+college, you graduated near the
+top of your class. You went to one
+of the finer medical schools. Even-
+tually, you opened your own practice,
+specializing in cosmetic surgery. It did
+not take long for you to build up a large
+clientele of rich, well-known people.
+
+You received a call one night from
+a woman who claimed to have a rare
+skin condition that would allow her
+to see you only at night. When you
+met her at your office, she Embraced
+you. You had done some work on
+her ghouls, and she loved it. In her
+eyes, there is no question about
+your talent.
+
+Roleplaying Tips: You are sophisticated,
+wealthy, educated and talented, and many
+important mortals fawn over you. You
+hate being treated as inferior to anyone
+else, which is how many of the Toreador
+elders and critics have treated you. You
+would like to see them put in their
+place, but you are too afraid to do it
+yourself. You are something of acon-
+
+niver and manipulator, but most
+consider you too cowardly toserve
+as an actual threat.
+
+Equipment: New, black
+
+BMW, cellular phone, beeper and
+a bag of operating tools—scalpels,
+sutures, latex gloves, a mask and
+other goodies.
+
+58
+
+a
+
+Name:
+Player:
+Chronicle:
+
+TOREADO
+
+VAMPIRE: The Masquerade"
+
+Nature: Autocrat
+Demeanor: Ferfectionist
+Concept: Plastic Surgeon
+
+Sire:
+Generation: 12th
+Haven:
+
+0p = Att ih tes
+
+Physical
+Strength @@000000
+Dexterity @e@e@e@0000
+Stamina @@000000
+
+SR —— EEE Abilities
+
+Charisma
+Manipulation @@@00000
+
+Social
+@@o000000
+
+Appearance @@000000
+
+Mental
+Perception @@@00000
+Intelligence @00ee0000
+Wits @@e@00000
+
+——————— ns QO -
+See" or
+
+Talents Skills Knowledge~
+Acting @0000000 Animal Ken 00000000 _ Bureaucracy #0000000
+Alertness @0000000 Drive @@000000 Computer @@000000
+Athletics @0000000 _ Etiquette 00000000 Finance @@@00000
+Brawl 00000000 _ Firearms 00000000 Investigation, 00000000
+Dodge @0000000_ Melee @e@000000 Law. 00000000
+Empathy @0000000 Music 00000000 Linguistics 00000000
+Intimidation @@000000 _ Repair @0000000 Medicine @6000000
+Leadership @0000000 -~—_ Security__ QQ 000000 Occult. 00000000
+Streetwise 00000000 Stealth jp 0000000 _—s=~Pooilitics 00000000
+Subterfuge ee@00000)—)0 Survival 7.000000 Science 00000000
+— ee PO
+<50+0 ass SS Advantages —=>==>>E!y
+Disciplines Backgrounds Virtues
+Auspex ee000000)—s Allies @0000000 Conscience @@000
+Celerity 00000000 Fame @0000000
+Presence @0000000 Generation @0000000
+00000000 = ©§Resources ee0ee00co = Self-Control___eeeee
+00000000 Status @0000000
+00000000 09000000
+00000000 oo000000 © Courage_____@@@00
+ee ee
+ow—— Other Traits - a Humanity Health ——+-—
+Artistic Expression eeooo000 | @ @ @ @e@eee 000 Bruised 0
+00000000 Hurt 40
+00000000 jured
+00000000 eeeeee@edaoodondd Wounded 22 O
+oooooo0gd CHOOOOOOOO0U Mauld 2 O
+00000000 Crippled 5 O
+a) . n i
+00000000... Broad Pool ; Incapacitated 0
+00000000 Weakness
+oooooo00 QOOOOOO00O0U ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+nooooooooo OWER ROLL REQ
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+( Ul
+
+r Tt Tt
+
+
+for his work. You see your music as merely a vehicle for
+
+pe eC a expression. You would make a wonderful anarch, but you have
+
+yet to give them your full attention. Turning to them now
+
+y v would limit your ability to influence others af cre-
+
+Ul aris ative ability. Right now, you are trying to figure
+And I ain't in it for the power
+And I ain't in it for my health
+
+Nout what your fellow Toreador are like. You hope
+to convince them of your way of seeing things. In
+
+I ain't in it for the glory of anything at all
+
+And I sure ain't in it for the wealth
+
+fact, some of them have developed an apprecia-
+tion for your work.
+
+Roleplaying Tips: You believe the message
+in your words and music. Though you are some-
+thing of an anarch, the Toreador do not
+
+recognize you as one. They regard you as an
+intellectual rebel with a message to spread.
+Youdo not seek power for its own sake.
+You seek power for the purpose
+of breaking the bonds of stag-
+
+But I'm in it ‘til it's over and I just can't stop
+
+If you wanna get it done
+
+You gotta fight for yourself
+
+And I like my music like I like my life
+
+Everything louder than everything else!
+
+— Meatloaf, "Everything
+
+Louder than Everything Else"
+
+Quote: I'm not a musician. I'm
+an anarchist and a mental terrorist.
+I practice what | preach, and I teach.
+the youth to open their eyes and see
+beyond the intellectual prisons in
+which their parents force them to
+live. The kids who listen to my music
+understand where I'm coming from.
+It's something they already feel —
+something primal. I just show them
+how to express it.
+
+nation, so you and
+everyone who listens
+to you Cal really
+live. You are loyal
+to your clan and
+yourcoteric, but you
+still do not fit in very
+well, since you refuse
+to conform to the
+thoughts, appearances
+and actions of others.
+Equipment: Fender
+Stratocaster, black
+leather pants, black
+trench coat, black T-
+shirt, shades, silver
+jewelry, Case knife,
+Ithaca M37 pump-ac-
+tion shotgun, two
+pockets full of shells,
+Harley-Davidson mo-
+torcycle and whatever
+sound equipment you
+
+Prelude: You grew up ina nice
+suburban neighborhood. You had
+good friends, though you were
+never really popular in school. You
+were neither a geek nor a trouble-
+maker; you were just one of those
+kids who never got noticed. You
+
+went to college at your parents'
+behest, where you met the guys in
+the band. Together you formed a
+group called Hecate's Fiasco and
+began playing where you could
+
+find work. You quit college a
+year before graduation and
+moved to Los Angeles with your
+band. You played in clubs, and
+eventually a minor label signed you.
+You did okay for yourself for a few
+years, but your band eventually broke
+up over petty squabbling. While visiting
+some old friends, you were recognized by
+a Toreador who adored your work. She
+Embraced you, and you have continued
+to make records.
+
+Concept: Youare an Artiste (though
+some would claim otherwise) who lives
+
+60
+
+A
+
+@! TOREADORI LLG
+
+JS
+
+VAMPIRE: The Masquerade"
+Namie: Nature: Visionary Sire:
+Player: Demeanor: Revel Generation: 12th
+
+Chronicle: Concept: Speed Metal Guitarist Haven:
+
+cp = Attributes ——=——————— G0
+
+Physical Social Mental
+Strength @@000000 ~~ Charisma @@0@00000 _ s—Perception @@000000
+Dexterity @@@00000 = Manipulation @@000000 Intelligence @e@000000
+Stamina @@@00000 = Appearance @@@00000 ~~ Wits @e@000000
+<6 ———E™™EEE——E—E—EE state
+es Abilities OOS
+Talents Skills Knowledge~
+Acting @0000000 Animal Ken 00000000 Bureaucracy 00000000
+Alertness 00000000 Drive 88800000 Computer. 00000000
+Athletics @e@@00000 Etiquette #0000000 Finance @0000000
+Brawl. @e@000000 _ Firearms @@000000 Investigation @0000000
+Dodge @0000000 ~~ Melee e@0000000 Law 00000000
+Empathy 00000000 Music @@8@0000 Linguistics 00000000
+Intimidation @0000000 _ Repair @0000000 Medicine 00000000
+Leadership 00000000 Security. @®0000000 Occult, @@000000
+Streetwise @0000000 _ Stelth__ gD 00000 Politics @0000000
+Subterfuge 00000000 Survival 00000000 Science 00000000
+=<=_*** TT OPO
+Disciplines Backgrounds Virtues
+Auspex 00000000 Contacts @0000000 ~~ Conscience e0000
+Celerity @e0800000 Fame @8000000
+Presence @0000000 Generation @0000000
+00000000 Resources e0000000_~—Self-Control____eeeoo
+00000000 00000000
+00000000 00000000
+00000000 90000000 ‘Courage_______@@eo00
+LE
+== Other Traits omen Aamanity = Health -
+00000000 @@@e@eeee@00 Bruised o
+00000000 ; Hurt 41a
+soooooo0 seme Willpower ——<— Injured 9-1 O
+00000000 eeeeaeeee@eodoodndn Wounded 2 O
+oooooongd CKOOOOOOOOO Mauled 2 O
+00000000 Crippled 5 O
+00000000 Blood Pool Incapacitated 9 O
+00000000 Weakness
+<SOt eee
+oooooo00 FIQOOOOOOO0U ENRAPTURED BY BEAUTY.
+00000000 WILLPOWER ROLL REQUIRED
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+1
+
+|
+
+1 |
+
+1 |
+
+|
+
++ me
+
+1 i |
+
+f
+
+
+Roleplaying Tips: You
+have an explosively
+emotional personality.
+To many, you are an
+obvious fake, but your
+ability to cell people
+what they want to hear
+has provided you with
+quite a following. Youare
+not the least bit religious
+in real life, but you can turn
+on your piety like flipping a
+light switch.
+Equipment: Micro-
+phone, white suit,
+make-up, jewelry
+
+\" and a Bible.
+
+Television has proved that people will look at anything
+rather than each other.
+
+— Ann Landers
+
+Quote: (Change the channel to the religious station and
+pick one.)
+
+Prelude: You never really took your faith seriously. You
+went to church, but it never meant anything to you. After
+graduating high school, you began preaching with a travelling
+revival. Eventually, you weeded out the other preachers
+who took their work seriously. They were costing you
+money with their honesty and good works.
+
+Over a 10-year period, you built a mas-
+sive following (and bankroll). Then you
+began airing your messages on a local
+television station in the wee hours of
+the night. Still, you were not satisfied.
+Through sheer cunning and charisma,
+you pushed your "ministry" into a full
+television station. You now broadcast
+24 hours a day. You have put a small
+fraction of the money you have re-
+ceived to actual good use, but the
+majority lies in your personal Swiss
+bank account. About a year ago, a
+Toreador Embraced you, but you
+continue your "work" just as before.
+
+Concept: Youare aspiritual leech
+who has grown financially fat off
+the poor, the old and the naive.
+Many social security checks are |
+signed over to you each month.
+
+You enjoy your work immensely. La
+Despite the fact that you are Kin-
+
+dred, you have no problem with
+
+your work. Fortunately, there is
+
+not a single individual in your
+
+"ministry" who has real Faith.
+
+You know very little about the
+
+World of Darkness and are a
+
+prime target for those who
+
+would use you as you have
+
+used other people.
+
+62
+
+
+C
+:
+i
+\
+*
+
+VS
+
+D1 ITOREADORI LLG,
+
+LS)
+
+VAMPIRE: The Masquerade"
+Namie: Nature: Conniver Sire:
+
+Player: Demeanor: Fanatic Generation: 13th
+Chronicle: Concept: Televangelist Haven: .
+a4 Attributes
+
+Physical Social Mental
+Strength @@000000 - = Charisma ee@ee@0000 s=&Perception @@0e00000
+Dexterity @@000000 = Manipulation @@@0@0000 Intelligence @@e@00000
+Stamina @@000000 Appearance @@000000_=s—* Wits @@000000
+ege.,e
+SO S===anaBaeE Abilities SSS OO
+Talents Skills Knowledge~
+Acting @@@00000 = Animil Ken 00000000 Bureaucracy @0000000
+Alertness 00000000 _—ODrrive @®0000000 Computer 00000000
+Athletics 00000000 _ Etiquette @@000000 Finance @@000000
+Brawl 00000000 _ Firearms @0000000 Investigation. #0000000
+Dodge 00000000 Melee 00000000 Law @0000000
+Empathy @@000000 = Music 00000000 Linguistics @@000000
+Intimidation ee000000" Repair QOD 000 Medicine 00000000
+Leadership @e@@00000~ Security. = g@QQ00000 Occult @@000000
+Streetwise 00000000 _ Stealth 00000000 Politics @0000000
+Subterfuge @@000000- = Survival QQ:0Q0000 Science 00000000
+
+500 rs SS Advantages jor
+
+Disciplines Backgrounds Virtues
+
+Auspex @ee000000_—s Allies @e000000 ~Conscience @0000
+
+Celerity 00000000 Contacts @0000000
+
+Presence ee000000 Fame @@000000
+ooo00000 —_ Influence eooc0000 —_ Self-Control____eeeee
+ooo00000 8 §=©Resources @0000000
+00000000 00000000
+00000000 oo000000 + ourage______eeeeo
+
+con Other Traits a= Humanity Health
+
+Masquerade _eooo0000 9 @ 0 8 0 @ 0000 Bruised Oo
+00000000 Hurt 410
+O0000000 orem Willpower ——=-— Injured -1 O
+00000000 J
+00000000 e@eeeeoee@eododond Wounded 22 O
+cooooo0g HUOOOOOOOOU0 Mauled 2 O
+00000000 Crippled 5 O
+00000000 Blood Pool Incapaciated «8&0
+00000000 - Weakness
+ooooo000 QUO OOOO00U ENRAPTURED BY BEAUTY.
+coo00000) FU OOoOoOoOoOoOo WILLPOWER ROLL REQUIRED
+
+Attributes:7/5/3 Abilities:13/9/5 Disciplines:3 Backgrounds:5 Virtues:7 Freebie Points:15 (7/5/2/1)
+
+i on
+
+1 |
+
+|
+
+r go dst
+
+|
+
+
+
+Make way for your betters.
+— Latin proverb
+
+While there can be any number of famous individuals immortal. Be careful not to overpopulate the World of Dark-
+among the Toreador, none of them are listed here. One of the ness with well-known figures. Using them sparingly, and
+considerations a Storyteller must make is deciding which = making them believable, can spice up the game.
+artists, movie stars, rock stars and other celebrities are now
+
+65
+
+ap
+
+Derrick Zeel
+
+The Kindred known as Derrick Zeel is a porn star. He owns
+the video production company that makes his films. Zeel is a
+major figure in the slave trade, and some claim he has cults
+dedicated to him in every corner of the world. Gangs of
+powerful anarchs surround him and keep other Kindred from
+bothering him.
+
+No one knows Zeel's real identity. Many believe he is an
+incredibly ancient Toreador, but few have actually seen him in
+person. One Thaumaturgist claims Zeel is a Fourth-Genera-
+tion Toreador. Legends tell of a Toreador named Jontius who
+
+66 @_Clanbook: Toreador
+
+was Embraced in ancient Greece. Iontius somehow gained the
+ability to feed off his victims through sex rather than by normal
+vampiric means. Some claim the sexual undertones of vampiric
+myths originated with him. lontius supposedly never used his
+real name, but he has been spotted throughout history. He has
+kept a Giovanni lover for centuries, acted as a major leader in
+the fight against the Inquisition, and infiltrated and betrayed
+the Sabbat.
+
+If the Sabbat ever finds evidence that Zeel is Jontius, a War
+Party will be called for him immediately.
+
+Geneveve Orseau
+
+Orseau was Embraced at least 800 years ago and made her
+reputation as an important and respected art critic. While she
+is a Poseur, she has demonstrated her abilities as an Artiste in
+the past. Orseau controls one of the largest Toreador art
+schools in existence and has students around the world. She is
+incredibly wealthy and has several childer.
+
+What truly makes her unique is her past. Orseau is believed
+to be one of the few faerie changelings to survive vampiric
+Embrace. She has demonstrated odd powers in the past to
+support this outrageous claim. In addition, she was a major
+leader in a Jyhad between the Toreador and the Followers of
+Set throughout the 11th and 12th centuries. Some whisper
+that she is an agent of the Inconnu, but this is only rumor.
+
+Appendix 67
+
+a
+
+Alexandria
+
+Alexandria is believed to be a Fifth-Generation Toreador
+who controls a number of casinos in Chile and Argentina. She
+is also the Prince of Buenos Aires. An extremely beautiful
+vampire, she controls most of the Camarilla's activities in
+Argentina. Alexandria travelled to the New World with
+Francisco Pizarro's expedition. She is known to have feuded
+with Helena, another ancient Toreador who came to the New
+World around the same time. Some older Toreador claim
+Alexandria is actually Callisti y Castillo.
+
+68 . Clanbook: Toreador
+
+Alexandria is not your typical Toreador. In addition to her
+already busy schedule, she is possibly the greatest art thief to
+ever exist. She has stolen many of the greatest masterpieces in
+existence, replacing them with undetectable fakes. Other
+princes have placed her on their most-wanted lists under the
+identity of "Red Ludwig." She is the owner of one of the largest
+private collections of museum-quality works.
+
+In the room, the women come and go,
+
+Talking of Michelangelo.
+
+— TS. Eliot, "The Love Song of J. Alfred Prufrock"
+
+|
+
+i
+
+Potentially the mightiest of the
+vampire clans, Toreador is also the
+most divided clan, paralyzed by bitter
+infighting. For millennia, _ their
+world-shaking battles within the clan
+have been just as intense as their
+relentless struggles against other
+Kindred. No other clan has had such
+an effect on the world of mortals. No
+other clan can match the effect of the
+Toreador.
+
+the history of the clan and the roles
+it has played in both human and
+vampiric culture;
+ten sample chara
+players and Storytellers;
+
+the secrets of how the Toreador use
+their arts to destroy their enemies.
+
+ters suitable for

@@ -1,0 +1,4686 @@
+# File: Sandman.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+The Sandmen Sourcebook or Wraith: The Oblivion
+Guildbook Two
+
+
+
+"And I pray you let none of your people stir me: i have
+an exposition of sleep come upon me."
+— William Shakespeare, A Midsummer Night's Dream
+
+
+Pe aegiltecte =A Lo
+
+SS Bi eS
+
+Credits
+
+Written by: Beth Fischi
+
+Development by: Richard Dansky
+
+Editing by: Laura Perkinson
+
+Vice President in Charge of Production: Richard Thomas
+Art Direction by: Aileen E. Miles, Lawrence Snelly
+
+Art by: Richard Clark, Henry Higgenbotham, Andrew
+Ritchie, E. Allen Smith
+
+Border Art: John Cobb
+Front and Back Cover Design by: Aileen E. Miles
+Layout and typesetting by: Kathleen A. McCaskill
+
+a q [ gor 780 Punk NowTH BLvD
+
+ie Sal)
+
+CLARKSTON, GA 30021
+USA
+
+WHITE WOLF
+
+GAME STUDIO
+
+©1995 by White Wolf. All rights reserved. Re-
+production without written permission of the publisher
+is expressly denied, except for the purpose of reviews.
+Wraith: The Oblivion, Wraith Players Guide,
+and Guildbook: Sandmen are trademarks and copy-
+rights of White Wolf.
+
+The mention of or reference to any companies
+or products in these pages is not a challenge to the
+trademarks or copyrights concerned.
+
+Because of the mature themes involved, reader
+discretion is advised.
+
+4 Sandmen
+
+\S ><
+
+ES San, om
+
+Special Thanks to:
+Phil "I Like Sex. I Don't Like Cheese." Brucato, for
+elucidating his preferences waaaaay too early one Sunday.
+
+Remy "Martha Stewart" Blaine, for adding those cute
+little curtains and skulls.
+
+Bill "Upwardly Mobile" Bridges, for agonizing over that
+giant next step.
+
+Joshua "Angry Fruit" Timbrook, for his undisputed
+limbo mastery.
+
+Charles "Elvish Ghost Rider" Bailey, for introducing
+edged weapons to the accounting department.
+
+Ben "Are You Going to Finish That?" Monk, for prov-
+ing that there is such a thing as a free lunch.
+
+Ian "Hurlbear" Lemke, for his unique approach to the
+3-legged race.
+
+Cynthia "Swiss Miss" Summers, for her part in the
+grave-robbing expeditions.
+
+Yury "Don't Even Think About It" Zak, for keeping us
+updated on the accounting dustbowl.
+
+Kathleen "4 Years Punning" Ryan, for making an offer-
+ing of Marduc.
+
+Jennifer "Saucy Arcanoi" Hartshorn, for knowing just
+what she wanted out of the Dark Ages.
+
+Author's Dedication:
+
+To you, from Grasshopper
+
+A thousand apologies to Joshua Gabriel
+Timbrook for misspelling his name in the credits for
+Dark Reflections: Spectres.
+
+
+Table of Contents
+
+Ghost Story: A Road of Steel and Souls, Part 2 1
+Lever de Rideau b
+Act i: Somnus Uncloaked | 1
+Acti: Somnus People 9 i | /
+Act ii: Systems g iNY
+Act iV: ..And We Are Merely Players 5 4
+Epilogue: The Big Players
+
+ras Se aa od ae a:
+
+a oF
+
+Fy
+
+Ghos
+
+A Road o Stee
+and Soul
+
+Learn the power of life, that you may use it even in death.
+— The Lady of Fate, to Charon
+
+Part 2: Sacrifices
+
+| read Siklos, Charon's blade, cast a sinis-
+WaP<)| ter glow across twelve masked faces as
+Thusimos held it aloft. "There is the
+
+might of Charon: cleft asunder!"
+
+Gy,
+
+The ancient sickle, a curved blade
+forged from the souls of Stygia's worst trai-
+tors, gleamed wickedly in the crimson
+candlelight. A product of Nhudri's craftsmanship, the sickle
+smelled of salty blood and sea, a scent which pervaded the
+room until one could not escape the feeling that Siklos had
+tasted the centuries much more keenly than even the most
+venerable of Stygian wraiths. The heavy blade arched with
+the grace of an sin into a long handle ending in a grip
+that, like Charon's former rule, was wide and strong. Siklos
+dominated the room; its shadow swallowed the mere figures
+of the wraiths there, as if Charon himself were present.
+
+Ory.
+
+Behind the onlooking masks, Lord Ember's eyes widened
+the most, revealing a momentary recognition which heated
+quickly into the fiery furnace of an Artificer's anger. "Sand-
+man, how dare you try to fool us with your cheap parlor tricks!"
+
+Thusimos, the ancient bard, smiled behind his mask;
+Ember was not stupid. "Yet, my Lord Artificer, you of all of us
+best know Siklos' soul. You know her intricacies, her curves,
+her subtle inlays, and the fine luster of her steel. Would you
+not say that what you have before you is a curiously accurate
+representation?"
+
+Ember thought a moment, reluctance to agree plainly
+evident in his hesitation. His craving for control of the meet-
+ing as rightful "Master of the Eldest Guild" was transparent
+to everyone present. "My dear Lord Thusimos — if that is
+indeed your name — to be frank, I have never seen a more
+
+accurate fraud. Yet it is your turn to speak; why waste our
+time on spectacles?"
+
+"Because spectacles, as you so inaccurately call this illu-
+sion, will ultimately save us time. My Lord Ember, how do
+you suppose I came by such an accurate representation of
+Siklos — guesswork? Witnesses? Facsimiles?"
+
+Before the Artificer could retort, the portly Oracle inter-
+rupted, as Thusimos had prearranged for her to do. "Rubbish!
+Everyone knows how secretive Charon was with Siklos. Few
+even knew what the sickle looked like. They say that because
+Charon and Siklos were linked somehow, he kept the blade
+locked away in the armory under special guard until such time
+as he needed it." She put her hands on her ample hips. "I can't
+vouch for the accuracy of detail like our illustrious Artificer
+here, but if Ember says this Siklos is realistic, then there's some-
+thing strange going on. Has the Sandman seen Siklos"" The
+portly Oracle cast a sidelong glance at Thusimos.
+
+Behind his mask, Thusimos raised a quizzical eyebrow.
+What was that misbegotten Oracle up to? He'd paid her to
+hint at questions, not to pose them. Perhaps it had been a
+mistake to trust her subtlety.
+
+"As a matter of fact, yes I have seen her, and lately, too."
+An expected gasp from the audience, his part duly redeemed.
+
+The Chanteur, clearly an impostor with an undernourished
+sense of restraint, nearly rose to his feet. "Then Siklos has been
+found?" Thusimos glanced surreptitiously at Ember, reading keen
+interest and concern in those stern, coal-black eyes.
+
+The Sandman, warming to his role, hefted the Siklos il-
+lusion and laid the blade flat across his palm. Nursing the
+pause, he pretended to examine Siklos carefully, then gave
+one sharp nod, as if deciding to disclose important informa-
+tion. As he slipped Siklos beneath his black robes, the illu-
+sion disappeared.
+
+"Has Siklos been found? Perhaps, although it is more
+likely that Siklos has allowed herself to be found." Thusimos
+paused, allowing the so-called "Guildmasters" to ponder this
+information. "I caution you that what I am about to say must
+not be discussed beyond these walls except with the utmost
+caution. If the Deathlords hear that Siklos has emerged, the
+race to find Charon is lost."
+
+The Guildmasters seemed to lean forward in their
+Stygian-steel chairs, their masks carmine under the flicker-
+ing candlelight. The eyes of some, like Ember and the Par-
+doner, revealed both grave skepticism and dark concern, while
+others, the Masquer foremost among them, simply looked
+spooked. The way Thusimos wanted them.
+
+"Lord Ember, when last we met, you spoke of nightmares
+that older mortals were experiencing — nightmares of Charon
+and Gorool, nightmares indicating that someone — or some-
+thing — had promised Gorool a sacrifice. Yet you, Pardoner,
+and you, Oracle, do not remember Gorool calling for his sac-
+tifice as he emerged from the waves. This discrepancy con-
+
+Guildbook: Sandmen
+
+cerned me, as dreams are the concern of Sandmen. Thus, I
+began to monitor the dreams of these Quick." Thusimos
+leaned with both hands on the hand-wrought table. "Night
+after night, I returned to them — and indeed in them Gorool
+demanded his sacrifice. One night, however, just a few weeks
+after our meeting, I sensed another entering these nightmares,
+quietly, methodically, patiently altering each dream. He erased
+Gorool's demand for his sacrifice, and thus the implication
+that a traitor had betrayed Charon."
+
+Ember's eyes widened behind the cracked, blackened skin
+that let him cover his visage without a mask. "Then a Sand-
+man has turned traitor!"
+
+The other Guild representatives began to whisper animat-
+edly amongst themselves, but Thusimos raised a quieting hand.
+"Not so hasty, my Lord! Shortly after my discovery, our Guild
+apprehended this wraith. Ember, I am sorry to say that he had
+the sooty hands of an Artificer, an Artificer who happened to
+know the Sandman's art. These same hands carried the blade
+of Charon, which our Guild wrested from him. Under brief
+questioning, he admitted to having betrayed Charon; in re-
+turn, Gorool promised to give him Siklos. He told us that his
+presence was an embarrassment to my Lord Ember's Guild, for
+he, having heard from Gorool himself that Charon had en-
+tered the Labyrinth, had determined to follow Charon there
+and dispatch him with Siklos, Charon's own blade."
+
+"Ridiculous!" Ember, who had been sitting stiffly with
+his gavel in hand, erupted. "Artificers are loyal to the Guild
+— everyone knows that. Enough of these wild fairy tales. Who
+else wishes to speak?"
+
+"I do," whispered a dangerous-sounding voice from the
+shadows in the back of the room. The Harbinger stood with
+panther-like grace and quiet ease, her eyes black as midnight.
+"I do, and I say we hear out the Dreamcrafter. There is more
+to his tale than meets the ear."
+
+She sat, everything but the lacquered shine from her black
+half-mask receding into the shadows. An uncomfortable si-
+lence fell. Then the Oracle rose with a determined stare at
+Ember, while addressing the Harbinger. "Very well then, Vaga-
+bond. Lord Thusimos, tell us, where is this traitor now?"
+
+Thusimos nodded sagely, as if expecting such a question,
+secretly grateful to the Guild Elders for permitting him to
+buy off the Oracle; she had a certain staunch belligerence
+that bullied others into compliance.
+
+"Regrettably, the traitor escaped with Siklos."
+
+"Pah! What did I tell you about fairy tales?" Ember spat
+the words.
+
+"We Sandmen are artists, Lord Ember, not warriors; the
+Artificer knew that when he overcame our guards. But if you
+want evidence, I must remind you that information about
+Siklos' appearance is hard to come by."
+
+The Chanteur, feet now propped on the table, added in an
+instigative sing-song voice, "He's gota point there, Master Flame."
+
+‘ z oh od
+
+
+"If | may continue?" Thusimos paused. He had done it a
+thousand times before: give them just enough information to
+hang by, let them make fools of themselves, then explain why
+they're such fools. It was a standard dreamscripting formula,
+but one, as the "Guildmasters" aptly demonstrated, that still
+worked. "When this Artificer" — he lingered on the word —
+"escaped, we followed. And followed — right into the very
+mouth of the Labyrinth. Yet, we found ourselves afraid, for
+there on the dusky threshold of the Veinous Stair, Siklos —
+Siklos! the blade that couldn't be broken! — lay snapped in
+two, her moans chilling to the ear. Boulders the size of wag-
+ons had been cleft in half, and ten-foot gouges like claw marks
+marred the marbled face of rock near the Labyrinth's maw.
+The Artificer was nowhere to be seen, but we heard strange
+clanging echoes receding into the mazes of the Labyrinth far
+below. Needless to say, we quickly retrieved Siklos and left —
+and have kept her under our stewardship since."
+
+"So, for the last two weeks you Sandmen have been with-
+holding vital information from us." The Harbinger's voice cut
+into the conversation like an icy wind.
+
+"Not withholding, no. We are proposing that you, as
+representatives of each of your Guilds, return and discuss
+this information with them. To be frank, because the Arti-
+ficers have already played some as yet undetermined role in
+this escapade, we are unsure whether or not it is safe to re-
+
+veal Siklos before discovering what that role was. One ques-
+
+tion we are asking ourselves — and we encourage you to ask
+
+the same of your Guilds — is whether or not to reforge Siklos.
+If this council considers it, we must also ask oursel
+
+whether or not we want the Artificers' Guild to reforge her
+
+unassisted
+
+"These insults are unwarranted," Ember's bass rumble
+
+echoed through the chamber, "the envious strikes of defanged
+vipers. Our Guild has long stood for ethical and honest con-
+duct; to suggest otherwise is ludicrous." His gavel struck the
+table twice: "I move that the Sandmen's Guild produce Siklos
+for all of us to see."
+
+"Oh, we have no quarrel with that," Thusimos smiled.
+"We simply do not want Siklos disappearing when it goes into
+the forges. I move that we adjourn this meeting until the
+Guilds have had a chance to discuss these issues amongst
+themselves."
+
+The Oracle still stood, her hands resting on the table.
+She shook her head in disapproval. "We need to talk over a
+few more issues before we adjourn." Some of the other
+Guildmasters began to grumble.
+
+"Such as?" Ember's growing impatience filled the room
+like a burning fuse.
+
+"Following the traitor's trail before it grows cold. Find-
+ing more evidence against him."
+
+Ghost Story: A Road of Steel and Souls
+
+
+"Choosing volunteers from each of the Guilds to enter
+the Labyrinth." The
+tone teemed with suggestion: namely, the probability that
+
+Harbinger's cold, silky voice cut in. Her
+
+none of these volunteers would return, that perhaps nothing
+would come of their sacrifices. It was as if she knew Thusimos'
+most secret thoughts and yet, for some unfathomable and
+deeply disturbing reason, w
+
+rying to help him. If he were
+alive, he'd be sweating with fear.
+
+"Aye, to enter the Labyrinth with the reforged Siklos,"
+added Ember.
+
+The Chanteur winked. "Can't wait to get your sooty
+hands on that blade, can you, Lord Forge?" Ember shot the
+singer a poisonous glance.
+
+"[ suggest," Thusimos interrupted before fighting broke
+out, "that we adjourn, discuss these issues, and, yes, find vol-
+unteers amongst each of our Guilds — as Dame Harbinger
+counsels — to enter the Labyrinth both in search of the trai-
+tor and of Charon. I would add, however, that it would be
+wise not to assure your volunteers that they will carry Siklos,
+for we have not yet collectively approved her reforging."
+
+wmoMoCoCOCoPe DO
+
+As the room cleared, Thusimos withdrew into a shad-
+owed niche and entered a trance. Every time he slipped into
+a Dreamscape, he dreamt of the glorious sunlight warming
+
+10 Guildbook: Sandmen
+SF OO
+
+his cold body and splashing the landscape with a dazzling ar-
+ray of colors — colors the dolorous gray Underworld lacked.
+
+Before him, three half-masked Sandmen, the Elders,
+beckoned for him to enter their amphitheater. Thusimos
+bowed and passed between the stolid stone benches ringing
+the open stage.
+
+Each of the Elders, as well as Thusimos, regularly met
+there in a collective dream. The three "owned" this amphi-
+theater dreamscape, the stage where they performed their plays
+when the mood suited them. While Thusimos' presence al-
+tered small portions of their dreamscape, such as the brilliance
+of the sun and the verdure of the grass, the amphitheater it-
+self remained a constant, a prearranged meeting place for
+personal conclaves such as this.
+
+Thusimos bowed again, this time with flourish. "The
+meeting went well; we adjourned still contemplating the is-
+sues of reforging Siklos and following the traitor into the Laby-
+rinth."
+
+The Elders nodded graciously in unison, as was their
+habit. As if with one voice, they spoke. "Then they are con-
+vinced of the traitor?"
+
+Thusimos nodded pensively and sat on a stone bench
+nearby, the seat of which gave, as if made of straw. "I'm sure
+
+that they discuss the question of the traitor even now, al-
+
+
+though it was clear that many among them were skeptical —
+as they should be. Still, they seemed ready to entertain the
+idea of pursuit."
+
+The Elders' dour faces cracked into smiles. "Good, good.
+We want to keep them occupied while we find Charon."
+
+Phaenos, a gray-bearded figure garbed in white linen and
+sandals and the tallest of the three Elders, seated himself next
+to Thusimos. "We've been receiving complaints of Charon's
+dreams, similar to your own, while you were gone. Slumber-
+
+ing Dreamcrafters and other Shadowland sensitives have been
+dreaming of Gorool and Charon." The Elder placed a gnarled
+hand on Thusimos' knee. "We've even received reports that
+afew Sygian Sandmen are experiencing these nightmares.
+The Deathlords won't long remain ignorant, though we're
+trying our best to silence the reports."
+
+"Have you collected the dreams?"
+
+"Indeed. Akhshephat keeps them." Phaenos nodded to-
+ward Akhshephat, the thin Egyptian Elder, who graciously
+bowed his head. "Why, do you wish to review them?"
+
+While Thusimos did not like leaving his corpus un-
+guarded in the secret Guild council room as his mind flitted
+into the Dreamscape — especially after insulting Ember as
+he had — his curiosity would not be ignored. "A brief glimpse."
+
+The dreams were all similar: The reptilian horror named
+Gorool rising out of the murky depths to confront Charon on
+
+his puny skiff. Siklos, glowing red with hunger, the might of
+her dreaming souls pitched against Gorool in high battle. The
+whirlpool into which Charon and Siklos, then Gorool, dis-
+appeared. And, of course, no dreams of Gorool demanding
+sacrifices, nor dreams of traitors exchanging Charon for Siklos
+A fiction for the Guilds.
+
+That moment of Charon's disappearance concerned
+Thusimos, however. He recalled the last time he touched
+Siklos, after he found her washed ashore on the black sands
+north of the Weeping
+
+something in Siklos; not a conscious mind or a conglomerate
+
+Bay. His touch must have awakened
+
+of fractured thoughts from the forged souls Nhudri destroyed
+to create her, but the anguished dreams of someone, or some-
+thing, intimately known to and knowingof Charon. To touch
+Siklos' dreams was to touch Charon in the last moments of
+
+his sacrifice: in her dreams, his journey was not one into
+
+Oblivion, but a journey into the horrific depths of his own
+
+madness and out again into the peace of self-acceptance —
+and then out yet again into...nothingness. That was Charon's
+real disappearance, not the moment when he and Gorool
+vanished into the gargantuan whirlpool.
+
+Thusimos touched Siklos again in his mind, even as he
+returned to the Elders' dreamscape. Despite having practiced
+the Sandman's art for over two millennia, the Dreamerafter
+still found Siklos' dreams alien and not altogether trustwor-
+
+
+thy. Viewed from afar, her dream images were disjointed, a
+cracked mirror, and as painful as if twisting a broken leg in
+two directions at once. Viewed close, the images coalesced
+into a strangely comprehensible dream about Charon's disap-
+pearance. As she balanced in Charon's ghostly palm before
+the final battle, Thusimos understood Siklos' hunger not to
+be a craving to rip into Gorool's corpus, but rather to taste of
+it and to delight. She was bound to Charon and his will, but
+her secret appetite was to betray him and Stygia. Gorool's
+flesh was sweet with that taste, for Gorool (the shock of her
+revelation still rattled Thusimos) was a manifestation of
+Charon's Shadow. The moment Siklos bit into Charon's de-
+mon, she tasted their similarity; she made Thusimos, touch-
+ing her dreams, taste it. Gorool tasted of monstrosity, and
+filled Thusimos' imagination with horrors beyond the night-
+mares even the Sandman had known.
+
+Siklos dreamed obsessively of Charon's battle with his
+Shadow as they descended, whipped around a frothing, sav-
+age whirlpool a mile wide, and sucked down into the sluggish
+oily currents at the bottom of the Sunless Sea. The blade's
+dream images filled Thusimos' mind: Charon, tossed like a
+doll in the whirlpool, yet clinging to Siklos and slashing at
+Gorool in desperation; Gorool thrashing wildly but still seek-
+ing to spear Charon on its razored claws. Charon's mind a
+whirlpool of emotion, desperation to save Stygia from his own
+
+worst mistakes: wraiths blinded to pay passage into the Un-
+derworld for lack of coin; the hellish blaze of Kyklops and the
+forging of the first wailing souls; the slaughter of the malcon-
+tents to quiet unrest; the closing of his eyes to secret experi-
+ments on Renegades; the painful compromises with Stygian
+Senators and the slow erosion of long-held ideals. As the cen-
+turies progressed, the mistakes worsened: the banishment of
+the Ferrymen; the abuse and binding of Thralls; the sacking
+of temples; the disbanding of the Guilds; the Great Evacua-
+tion; the enslavement of wastrels; the determined and ha-
+bitual disregard of his own conscience about oboli produc-
+tion; the encouragement of the Underworld soul-trade.
+Siklos showed the centuries depositing each crime or
+misdemeanor on top of the other in fossilized layers, until the
+archaeology of Charon's Shadow seemed a sentient force in-
+tent on consuming Stygia and all of Charon's other accom-
+
+plishments. Thusimos remembered living through Charon's
+
+transgressions even as he had floundered within Siklos'
+dreams. Yet, though he disagreed with many of Charon's ac-
+tions, he still recognized that the Reaper had accomplished
+much. As the Sandman dug into Siklos' fractured nightmares,
+he watched Charon wrestle with Gorool under the Sea of
+Sorrows, pierced by the Malfean's iron claws and tormented
+by its thoughts. Gorool pressed the weight of Charon's mis-
+takes into him like a blade into the heart, and Siklos scarcely
+
+patried. But from somewhere deep within him, Charon had
+dredged up memories of his accomplishments, which entered
+Siklos' dreams like venom: the inspiration of the Ferrymen;
+nth; the stability of the
+Stygian Republic in its founding days; the genius of the road
+system; the doctrine of Lux Veritas; the saving of the City of
+
+the rescue of Nhudri from the Laby
+
+the Dead; the building of the sea-wall around the Isle of Sor-
+rows; the original intent behind the Dictum Mortuum; the
+stability of the Hierarchy during the chaos of the Black Death;
+the attempt to ease Stygia's overcrowding by founding
+Necropoli; and, most important of all, Charon's final deci-
+sion to sacrifice himself to save Stygia. In that moment of
+realization, Siklos' dreams registered utter nothingness:
+Charon and Gorool disappeared, and Siklos, in her night-
+mares, fell ownerless to the floor of the Sea, her dreaming
+thoughts groping for Charon's mind.
+
+At the time, Thusimos had not the faintest hint of what
+had become of Charon, but now, as he returned to the Elders,
+he had been given a working theory. All the evidence sug-
+gested that Charon had incarnated himself in the world of
+the Quick, sacrificing his rule to save his people — or per-
+haps to save part of himself. Elder Dreamcrafters quietly specu-
+lated that somehow, in a blaze of self-acceptance, Charon had
+consumed his Eidolon and his Shadow to save Stygia and to
+save himself: He insinuated his soul into that of a newborn,
+retaining no memories, no plans — only his dreams (and these,
+it seemed, only by accident). There, in the Sunlit Lands, he
+grew up, fell in love, and began to die without any knowledge
+of the Empire of Death that awaited him. Even now, Thusimos
+
+believed, Charon could be out there, an aging man among
+the Quick, the native power of his spirit broadcasting the last
+nightmarish moments of its sacrifice to all those who were
+dying around him. Even now, the Dreammasters theorized,
+Charon's second death could mean the lowering of the Shroud
+and the beginning of a new age.
+
+Thusimos and his Guild believed they had to find Charon
+before the Grim Reaper died again, before the Deathlords
+discovered what had become of him, before the Reapers har-
+vested him. It was well that the other Guilds were occupied
+with the vain search for Charon in the Labyrinth and were
+distracted by talk of traitors, and the more thoroughly the
+Artificers were implicated in the whole complex charade, the
+better for the rest of the Guilds. Still, Thusimos was taking a
+risk in misleading the others, and he knew it even in the name
+he had chosen, "Fit for sacrifice." If the Sandmen failed to
+find Charon or the Guilds became desperate, Thusimos be-
+came the scapegoat. It was his risk — his alone.
+
+Thinking of Charon and Siklos, Thusimos returned to
+the Elders and the amphitheater. The Elders were sculpting
+dream-birds as the vision of the amphitheater gelled around
+him. Thusimos stepped into the dream and coughed politely
+to draw their attention to him. "Thank you, Akhshephat,
+but the dreams contained little of interest."
+
+Akhshephat turned and smiled, a toothless, watery-eyed,
+white-stubbled grin, like that of so many old men Thusimos had
+seen. "So, will you continue your search for Charon, Thusimos?"
+
+With the dark glimmer of humor in his eye, the old bard
+winked. "Akhshephat, I would do anything for a good story."
+
+
+
+<
+
+ever de Rideau
+
+Every artist dips his brush into his own soul, and paints his
+
+own nature into his pictures
+
+RRA
+
+— Henry Ward Beecher, Proverbs from Plymouth Pulpit
+
+Welcome, Dreamers
+
+nter The Narrator, an actor garbed as a
+masked mime whose body appears the same
+in the front as it does in the back. He carries
+an obsidian cane, tipped with a metal moon
+that provides the only illumination on stage.
+In his right hand, he carries a small pouch
+
+The Narrator: My good audience, as
+you have gathered together to hear me weave a tale of dreams
+and terrors, phantasms and phantoms, indulge this old actor
+by permitting a brief soliloquy concerning the nature of the
+Sandmen who spin such webs of illusion and reality.
+
+First, know that I consider myself a Sandman, and believe
+that you novices who come to hear my tales have within you
+the stuff of Sandmen. We are, above all, artists — dancers of
+the mind, painters of the soul, sculptors of the imagination.
+Nothing attracts us so much as a player in search of a play, or a
+dreamer in search of a dream. They are very much the same
+thing. You will learn this, for you are dreamers and actors.
+
+And tonight you have entered our play
+Beguilers, Dreamcrafters, or Sandmen — whichever name
+you choose for us, we share an uncanny talent for plumbing
+
+the secrets of the soul, dusting them off, and setting them out
+for display. But before you condemn us for making of the heart
+an artist's toy, consider that by showcasing the heart's trea
+sures, we may heal the soul. We may also set the spirit atwinge,
+but those are the dangers of touching raw truth: mundane
+practicality and blind morality do not bind our hands. Illu-
+sion and reality, however the dreamer produces them, are clay
+
+to be sculpted. Our dreams dance freely between the two,
+like a pure valley maiden who, dancing between two slopes,
+plucks flowers of great beauty from‘both.
+
+Sandmen, then, are those who create and travel between
+the two worlds of reality and illusion, of life and death, never
+defining either, never allowing either to be defined. We seek
+tribute, but only an actor's tribute; we desire to be remem-
+bered, but only passionately. We are, in short, playwrights of
+consciousness, we seek remembrance in the stuff of dreams
+and the fleeting wisps of memory that haunt mortals' minds.
+
+The Narrator unties and reaches into the small pouch as he
+speaks. With his last line, he casts the contents, a handful of glit-
+tering Sand, into the eyes of the audience.
+
+Lever de Rideau 15
+
+
+
+Ac
+
+pologue
+
+nter The Narrator, Moliated into The
+Dreamer, dressed black on black, against a
+black velvet curtain. Her face, bloodless
+white, plays against ebony eyes like holes.
+She carries an obsidian cane, its tip a metal-
+sculpted moon. Incandescent stage lights
+shine up from below the proscenium, elon-
+
+gating her features.
+
+The Dreamer: The dream always begins with Lord Somnus'
+sad, infinite eyes. His body crystallizes into an ebon prism as
+names, words, fly past me — The Sculptor, God of Essence, The
+Eldest Sandman, Grace and Beauty Incarnate, Darkness, Mad-
+ness, Passion, Muse and Terror — all the names we mortals have
+given him since our ancestors first learned to dream. To me, he
+is Somnus, Creator of Dreams, Dweller in Nightmares.
+
+A black flash, and he walks with me again through the
+landscape of legend, where everything rings truer than in our
+waking reality. He whispers to me then the secrets of the
+unawakened world:
+
+Long ago, before even Mysteries were created, Somnus
+walked the Beyond alone. His was pristine potency, energy and
+void bound up in one another, perfectly incomprehensible to
+our matter-bound minds and scattered spirits. But his dream-
+ing grew brittle, even as Somnus came to feel alone, and thus
+
+Somnus Uncloaked
+
+Vv
+Vv
+
+he dreamed up the Gods: Bios (Life), Thanatos (Death),
+Hedone (Lust), Filia (Love), Mania (Madness), and a host of
+lesser gods. Struck with longing, he invested the Gods with
+the power to dream, to create. And dream they did, shaping a
+world of lesser immortals for whom dreaming was existence.
+Such was the collective power of their dreaming that, in the
+time that followed, it became reality and consciousness as we
+now know them. Somnus loved the sublimity of his creation,
+and all was well.
+
+Unbeknownst to Somnus, however, Bios had gradually
+begun to unbalance the symmetry inherent in the vast dream.
+Wanting to create a Waking World, he gathered his power and
+roused the immortals one by one.
+
+Immortals made mortal, cut off from the Dream Lord: that
+is what we now are. Yet, although the world is awakening,
+Somnus' power remains the keystone of existence: Without
+dreams, all the Gods and all the immortals become nothing,
+mere memories of figments of Somnus' dreams. And thus, to
+continue to exist, we mortals must return nightly to his Realm,
+for that is the source of our strength, our being. We are the
+Entranced.
+
+When Somnus learned that Bios had allied with Hedone to
+create a race of wakened immortals, he summoned Thanatos,
+Filia, and Mania to his side. They were to contain Bios and
+
+Act I: Somnus Uncloaked 17
+
+
+Hedone, and, indeed, even with Somnus' ebbing but significant
+power, this was all they could manage, such was Bios' potence.
+In the meantime, Bios had created a formidable servant, Stasis,
+who begot innumerable lesser evils in his image.
+
+Somnus dreams to me how much Stasis has grown, gnaw-
+ing away like a cancer at the immortality of our dreaming
+spirits as each year passes. He awakens me to the wrenching
+pain of Stasis' claws tearing at my own spirit.
+
+A few hundred years ago — by our measurements, for
+the Gods do not know Time — Stasis had grown so powerful
+that it threatened to become Bios' master. It has twisted and
+flattened the dreams of the Gods, and now threatens to undo
+all that Lord Dream he
+
+Somnus whispers that, in life, certain mortals touch their
+
+created.
+
+dreams with such pure passion that they return to their im-
+mortal essence upon death. Among these immortal mortals,
+there is a group beloved by Somnus known as Sandmen. With
+a distant fondness in his dark voice, he calls them his little
+dreaming ghosts. And y
+him than mere pets. They
+soldiers with a will to restore the sanctity of the Dream, to
+loosen Stas
+creativity through ritual, and, ultimately, to rescue and re-
+store the Gods to balance. There are others in this army of
+dreams, he says with a mysterious glint in his eye, but every-
+
+» it is clear that they are more to
+
+re soldiers in his army of dreams,
+
+' chokehold on the living, to renew the role of
+
+one must work alone. The irony is that these Sandmen obey
+
+their dreams simply because they enjoy it, and not out of any
+sense of moral necessity.
+
+Regrettably, Stasis grips the Sandmen, too. Like the Gods,
+these dream wraiths have become twisted; their dreams, at
+worst, dark and sinister but devoid of content. Their most
+
+twisted representatives cause the Entranced to fear their
+
+dreams, not to find inspiration in them, while all the while,
+Stasis feeds off these aberrations.
+In the meantime, the Gods are ailing. We immortals have
+
+fallen. Inspiration is dying. And Somnus' eyes are downe
+
+Dream and illusion mystify mortals. Few are the beings who
+comprehend their depths enough to shape them into art. Among
+these beings, we Sandmen cultivate such mysteries, create beauty
+for the Restless in a land devoid of it, and stir dark wonder in
+the hearts of men. We touch the longing for death, Thana-
+tos, in all souls and transform it into peace or madness.
+
+Still, while we are blessed with power over the soul's eye,
+our art is condemned to carry with it the taint of death. Twisted
+fancy curses our art, and the vitality of the living mind, un-
+fettered with obsessions, evades us, though the worst of us
+dare not admit it. It is said among the Restless that the tran-
+
+sition into death has skewed our perception of the mind. Thus,
+while we understand the living soul and its dreams, we can-
+not recreate its elusive essence. We Sandmen have witnessed
+the transformation of our world of light into a world of deep
+
+darkness, and our souls will never be quite the same.
+
+
+Scene |: History ofthe
+
+Sanden
+
+nter The Narrator, his face a mask of amused
+mystery. He has changed his clothes — his
+scarf, wisps of opal-covered silk; his shirt, an
+African print that shifts and changes in the
+light; his black tights revealing a fencer's well-
+muscled legs. A yellow light shines in a pool
+about his shoulders, as he leans on an obsid-
+ian cane tipped with a cast-metal moon
+
+The Narrator: My beloved audience, an excerpt from
+the diaty of one dying, given to his loved one. He has culled
+yeats of dreams into these observations and, while their fac-
+tuality is always questionable, their truth is eternal...
+
+The Sandimen of Stygia and the West
+
+My love, as you knovv, over the past tere years Jive taken notes of my
+Arcams, wrhich seem to be more vivid and real than those of anyone else
+Ive talked to. The most common Areamethread J experience is that of
+ghosts — not just any ghosts, but ones who appear in Arcams to teach
+and guide you, and sometiones just to scare you with nightmares abont the
+aftertife, In my Areams, these ghosts sometimes call themselves Gandmen,
+semetines Dreamerafters or Begniters. They can alter your dreams to
+suit their whims, or they can stip your soul from your body and carry it
+back with them to the lands of the dead. They have been around as tong
+as man has been mortal, for they are the spirits of dead men.
+
+The fottorving essay is the result of a decade of painstaking work
+piecing together the fragments of jotted-Aocvn Arcams. Many references
+init come from the other diary J gave you, outlining my understanding of
+the aftertife as a cvhole. You have been patient wvith me thronghont these
+ten years, my Cove, and for that J thank you. J hope this meager essay and
+the diary fragments that follocy constitute in some strange vay A repay-
+ment for your belief in me. — Cs
+
+Although contemporary Sandmen find their most apt
+metaphor in the theatrical tradition, the roots of the Oneiric
+culture stretch deep into the origins of mysticism. In the early
+centuries of Western humanity, those who practiced the
+dreaming arts after death consisted of the few and insightful
+elite: oracles, tribal leaders, priests, priestesses, seers, and
+prophets. Their modern connection to the theater can be seen
+even in the classical Greek words for "oracle" (thespisma) and
+"inspired by God" (thespis) — the roots of the word thespian,
+or actor.
+
+With the spread of agriculturalism, a mystical connection
+with the seasons evolved, and became the basis for thousands
+
+
+Phe
+, "i eee oto -
+
+of different expressions of art and ritual. Among the most
+well-represented in the Underworld were the Egyptian, Greek,
+
+Roman, and Hebrew mystics. Sandmen from these went by a
+
+variety of names and emphasized different aspects of dream-
+ing and reality than do their contemporary colleagues, but
+they understood the importance of dreams and reality in much
+the same manner. Ancient Egyptian Beguilers saw their con-
+trol of dreaming le
+
+of an individual's psyche for dramatic inspiration than as a
+
+as a means of plumbing the private depths
+
+means of guiding mortals to certain goals via prophecy and
+visions of the gods. Nonetheless, like today's Sandmen, the
+ancient ones viewed dreaming as a means to touch humanity's
+inner being. Dreamcrafters would send prophetic dreams of
+floods and plagues to the priests and other mystics who had
+taken up their mantle. Through dreams, they hoped to shep-
+herd their former followers along the paths of righteousness
+— or, in any case, along paths of their choosing.
+
+Until the advent of Christianity, Sandmen remained
+largely nomadic. Not always welcomed or trusted, yet often
+well-respected, they were the gadflies and the visionaries, the
+eccentrics and the mystics, the sages and the doomsayers to
+those who inhabited the western, Middle Eastern and north
+African Underworlds.
+
+The Sandmen of the ancient cultures had no Guilds, and
+few could rely on other organizing bodies to attract practitio-
+
+20 Guildbook: Sandmen
+
+ners of similar faith or outlook. Thus, these early Dreamshapers
+largely operated alone, according to their own dogmas. These
+Sandmen engaged in numerous activities: groups of wraiths
+
+would often employ, force or cajole Sandmen to send mes
+sages to the living world in the form of dreams and illusion.
+Sandmen of older civilizations tended to serve as prophetic
+or religious inspiration to mortal dreamers, or as bards honor-
+ing the memory of a dead king. Those Sandmen of newer
+civilizations, such as the Greeks and Romans, frequently pro-
+vided artistic inspiration for many an Apollonian or Dionysian
+artist. Although the existence of a Sandman was difficult
+during these times, at least it afforded some measure of confi-
+
+dence that the Sandmen's secrets were used honorably.
+
+That confidence would not endure. The first Maels
+the Underworld's first great catastrophe, alerted Stygian
+
+om,
+
+Sandmen to the fact that somehow Spectres had learned the
+secrets of Phantasm. Until the Onyx Tower fell, the
+Dreamshapers had assumed that Oblivion siphoned off Spec-
+tres' ability to dream. Before the Maelstrom, Oblivion rarely
+touched the dreams of wraiths; however, during the savage
+attack on Charon's palace, many Stygian wraiths witnessed
+their peers drifting into Slumber and vanishing into the heart
+of the Tempest on the whipping winds. As a result, after the
+Maelstrom, groups of Sandmen gradually began to band to-
+gether to monitor the teaching of Phantasm to fledglings and
+
+
+to ensure that the greatest secrets were not carried into
+Oblivion by Shadow-wracked Dreamcrafters. These concerns
+provided the common ground necessary for the formation of
+the Guild later on.
+
+Christianity brought with it widespread changes in the
+Underworld. While to a certain extent, Sandmen of ancient
+cultures had maneuvered themselves into religious leadership
+roles, they tended to be more concerned with the affairs of the
+Sunlit Lands, where the vast majority of humanity still believed
+truly existed. With the
+Sandmen began to con-
+
+that hoary spirits and the elder gods
+
+advent of Christianity, many newer
+centrate more intently upon their roles in the Underworld
+rather than upon affecting the living, whom they believed were
+under God's direct protection and guidance. Unlike mortals of
+earlier centuries who displayed a deep acceptance of the un-
+known and a reverence for the tales of the dead, the ears of
+their Christian peers in the Sunlit Lands — the s
+priests, the local prophets, the faithful artists — now were clos-
+
+ints, the
+
+ing. They did not want to hear the blasphemies about the
+
+Underworld that these "angels" had to offer; indeed many
+Sandmen attempting to contact the living during the Dark and
+Middle Ages found themselves cast in the role of demons and
+incubi come to rob sleepers of their faith and test their purity.
+As western Sandmen began to turn away from the con-
+version of their living fellows, they turned instead to the ban-
+
+we"
+
+ner of Underworld proselytizing. Innovative Sandmen formed
+Guild Circles dedicated to adapting the art of Phantasm to
+communicate dreams, practice soul-healing, and instill reli-
+gious fervor in their Underworld comrades, rather than in
+the living. This inward turn was largely responsible for the
+more psychological and dramatic bent of later western
+Sandmen. Of course, not all Sandmen joined these mysti-
+e rather to remain outside the
+
+cally oriented Circles, but ch
+Guild and to set their own courses.
+
+During this time, the other Guilds came into their own.
+The Artificer's Guild had long dominated the Stygian scene,
+
+while others — the Mnemoi, the Proctors, the Pardoners,
+
+and the Solicitors — were just beginning to find useful niches
+for themselves in Stygian society. Sandmen had little con-
+tact with most of these Guilds, generally regarding them as
+
+necessary to the smooth functioning of Stygian society. This
+attitude changed in 1207, when the Mnemoi drew the
+Sandmen into the War of the Guilds, a conflict between the
+Artificers and the other Guilds which had begun in 1096 and
+was not to end until the waning months of 1354. The con-
+flict was due primarily to the fact that the Artificers, as one
+
+of the original Guilds, wielded undue power in the halls of
+ated by the
+
+Stygia. Seeking equality, and their envy exac
+Attific
+the only solution.
+
+'s' patronizing attitudes, the other Guilds found war
+
+
+The Sandmen's Guild became involved when the
+Mnemoi revealed that Charon had approved a plan to re-
+place many of Stygia's stages with Artificers' forges. When
+the Sandmen joined the War, the Artificers damaged most of
+the inroads into Stygian politics that the Guild had been lay-
+ing down. By the end of the War, the Sandmen had neither
+reliable contacts within the Stygian political front nor any
+more favors to call, its political bankruptcy becoming one of
+the factors that paved the way for its turn to Renegade phi-
+losophy in the next few centuries.
+
+The War continued until the end of the Middle Ages, when
+a change in the tenor of the Guild began to occur. Although
+Renegade Sandmen had existed from the moment Charon as-
+sumed the title of Emperor, they were not particularly numer-
+ous. Until the beginning of the Renaissance, the Sandmen's
+Guild consisted primarily of Hierarchy and Heretic wraiths.
+The advent of the Renaissance in the Sunlit Lands corre-
+sponded with an in
+valued individual freedom and personal expression over reli-
+gious dogma and political anonymity. Renegades began to domi-
+nate the Guild. Hierarchy- and Heretic-affiliated Sandmen lost
+their influence within their Circles as younger Sandmen be-
+gan to value dreams less as a religious and political tool than as
+an artistic one. Primarily Lemures, these Renegades found the
+ar of the Guilds irrelevant, having only entered it in its last
+days. The climate had become one of tired resignation, and
+many of the Guilds had already secretly decided to sign a com-
+pact calling for an end to the conflict. The Sandmen, whose
+reputation the Artificers had damaged most seriously within
+the secret chambers of Charon's top aides, were among the
+first to sign the Compact of Guilds in 1354.
+
+Meanwhile, the younger Sandmen had returned to the
+business of dreams. While practicing their art exclusively in
+the Underworld, as did their forebears, these younger wraiths
+simultaneously began to return to the artistic experimenta-
+tion of their Greek and Roman pred
+
+ease in Renegade Sandmen, those who
+
+ors. They began by
+crafting morality plays to satisfy their dour elders, eventually
+creating idealized love scenarios akin to the poetic dolce stil
+nuovo of the Italian Middle Ages. This new practice evolved
+naturally into theatrical performance.
+
+By the end of the fourteenth century, Oneiric Theatre, as
+it was called, had become a valued art form, and by the mid-
+fifteenth century, it was so fashionable as to induce Under-
+world nobility to pay kings' ransoms to attend its better perfor-
+mances. Indeed, when the dreaded Lord Croesus obtained a
+performance from the Dreamcrafter Fabius Ossus for only
+10,000 oboli and the release of the notorious Chanteur Lady
+Philomela, the other lords complimented him on the bargain.
+
+Dream actors would rub shoulders with the lords of Stygia,
+entangling themselves and ensnaring others in courtly games
+of intrigue. With their power to grant fantasies, Sandmen
+found easy patrons among the wealthy, the lusty and the
+status-conscious. One or two Sandmen in a lord's entourage
+became the ultimate display of rank and money.
+their power that to offend one was to damage one's own court:
+
+Such was
+
+
+For instance, it is said that, in a fit of rage, the Emerald Lord
+had his most trusted advisor, the Anacreon of the London
+Necropolis, smelted down into a replica of a pomegranate (a
+dreadful insult) and given to the Succubus Isidra for his fail-
+ure to pay her in a timely fashion. Respected more for their
+artistic prowess than for any military or political potential,
+Sandmen became such a staple of the Underworld court that
+by the close of the century, the kidnapping of one talented
+Sandman could cause battles between Necropoli.
+
+Giddy with their new prestige, Sandmen began to make
+unreasonable demands on the noble beneficence: In return for
+titles or ridiculous amounts of oboli, many talented dream ac-
+tors, managers, and theatre-owners would agree to remain ina
+given Necropolis rather than grace another city with their pres-
+ence, At first, desperate to maintain appearances, their patrons
+acquiesced to the bribes, but gradually their patience wore thin.
+Atthe close of the sixteenth century, the Breaking of the Guilds
+provided nobles and other Hierarchs with the perfect state-
+sponsored excuse to rid their cities of these expensive prima
+donnas. In 1598, led by the Artificers, the Sandmen partici-
+pated with the other Guilds in an a coup d'etat , the purpose of
+which was to unseat Charon and take control of Stygia. Weak-
+ened though he was, Charon easily defeated the Guilds and
+quickly drafted the Decree of the Breaking. The Decree stated
+that membership in the Guilds was a criminal offense, that the
+Guilds themselves were to be dissolved and that their place in
+Stygian society was henceforth to be filled by Legionnaires.
+
+Although the Decree itself mattered not one iota to
+Sandmen with any love for their art, it did pave the way for
+major restructuring within the Guild. Many Dreamcrafters
+formerly made wealthy by the hands of the court found them-
+selves acting for a pittance on the streets. Others who had
+never even been associated with the courtly prima donnas
+were treated with judgmental disgust. For a time, patrons who
+felt they had been wronged by the Guild refused to sponsor
+the Spectacles of even their most favorite actors, and many
+common wraiths, imitating courtly fashion, stopped attend-
+ing performances. The Sandmen's Guild, heretofore so de-
+pendent upon patronage, had suddenly discovered that it
+needed to return to its visionary and self-sufficient roots.
+
+During the following two centuries, many Sandmen re-
+linquished their identities as Guild members and joined the
+Hierarchy in order to obtain work. Such work was rarely as
+it had been before the Breaking, for Sandmen —
+whether Guild members or not — were often snubbed, hav-
+ing earned the general reputation of being both boorish and
+self-important. Other Sandmen took to the road, cultivating
+interest in the arts amongst wayfarers and Renegades. While
+these centuries were difficult ones for those who chose to
+continue to be identified with the now-illegal Guild, they
+also strengthened the ranks of the Sandmen who opted for a
+different path. More Sandmen than in any previous centu-
+ties joined the Renegades during these difficult times.
+
+While the degree of persecution waned as the decades
+passed, the oppression did not cease. It was almost as if Stygian
+
+nobility had decided to get its money's worth after all. In-
+deed, at the time, some Sandmen speculated that one of the
+other Guilds was responsible for the continuing persecution,
+or perhaps that Stygia had become aware of the Dreamcrafters'
+bent toward the Renegade philosophy. Whatever the case,
+the dawn of the nineteenth century saw the meanly named
+Denouement (noblemen had a sense of irony at that time):
+The first Sandmen to be smelted down into objets d'art were
+the foppish popinjays who masqueraded as artists; then the
+sullen geniuses were targeted, and finally the poorly social-
+ized talents. In the French Shadowlands, embittered nobility
+found vengeance by turning a ghostly Mme. Guillotine on,
+the rabble-rousing actors.
+
+In response, the Guild rallied against these representa-
+tives of the Hierarchy, waging the famed War of the
+Proscenium. Renegade Sandmen scripted many a masterful
+Pageant, creating stinging satires of important Stygian and
+Shadowland lords and ladies. Angry Hierarchy aristocracy
+replied by sending out their Legionnairés to shut-down pro-
+ductions and arrest the impudent troupes on trumped-up
+charges. Those who were arrested found their way tothe forges
+in droves. Many theatres went/undefground, staging
+dreamplays noted for their politically subversive, content.
+Worse, they blatantly violated the Code of Charon by broad-
+casting dreams to mortals which denigrated the characters of
+many Hierarchy bureaucrats,/attacked their Sources of Me-
+moriam, frightened sleeping mortals ~with the sights of the
+ugly Underworld Necropoli (made possible courtesy of the
+Hierarchy), and stirred rebellious thoughts in the souls of
+commoners. The character of the Sandmen's Guild came even
+more overwhelmingly into conjunction with that of the Ren-
+egades during this time. As a result, Sandmen with Hierar-
+chy affiliations found employmentdifficult among their peers,
+while those caught spying on troupes were often imprisoned
+in Slumber and plagued with horrendous\ nightmares until
+they confessed their allegiances and named\names.
+
+This persecution of dream artists continued for half a
+century, spilling over into many Necropoli ofthe European
+and North American Shadowlands. By the mid-1800s, the
+Guild had established the Dream Ring, a small Necropolis in
+northern New York state which harbored both Guild-affili-
+ated and freelance Renegade artists. Many, Masquers,
+Chanteurs, and Oracles — some of them Heretics — found
+safe haven here as well, through the channels of the Artists'
+Underground that the Sandmen's Guild had established.
+
+During these fifty years of persecution, Dreamerafters
+became notorious for violating Charon's Code of nonintet-
+ference with the living. They began to send dreams of,im-
+mortality, beauty, and utter freedom — all Renegade idealsat
+the time — to the Quick, reinforcing artistic natures and de-
+priving the Hierarchy of its future followers. Even the eva-
+sive Anton de Varzonzuela, playwright and Dreamcrafter,
+began to script dreams in which the souls of the Entranced
+were given Shadowland tours questioning the deadening ba-
+nality of Hierarchy principles. Nineteenth century poets and
+
+artists were inspired in dreams and drug-induced visions. The
+Romantic era was in full swing.
+
+During this time, the Hierarchy busied itself with, among
+other endeavors, setting up a "state-controlled" consortium
+of artists. Artistic wraiths were set to work to use their vari-
+‘ous crafts to promote the Hierarchy and clear the blackened
+names of many of the nobility. Many Sandmen even today
+insult artists whose work they do not like by referring to them
+as Propagandists. Such were the resources available to these
+Hierarchy artists, and so great was their power over the souls
+of the living, that they ushered in many of the artistic schools
+of.the'twentieth century.
+
+By the early 1900s, the Hierarchy had grown confident
+enough in its standing with the Sandmen's Guild that it ceased
+its persecution, Sandmen and other artists soon forgot the
+forges, as Guild members began to adopt the pervasive artis-
+tic styles earlier' conceived by Hierarchy artists. A great in-
+termixture of styles and schools began, ultimately effecting a
+Teparation between the two camps. Nevertheless, many of
+those'Sandmen who affiliated themselves with the Guild still
+retained their Renegade identities and continued, almost re-
+flexively, to undermine the Hierarchy's authority.
+
+During the two World Wars, and particularly the Sec-
+‘ond, many concerned Sandmen of all beliefs became actively
+involved in protecting their arts from the corrupt uses in-
+vented by Spectres. Circles of Sandmen would interrupt
+Spectral message-dreams that were broadcast into mortal
+minds. These dreams encouraged high-ranking officers —
+particularly those of the Nazi party — to plan bloody cam-
+paigns, setup concentration/camps, and invent weapons of
+mass destruction. While notnecessarily successful (for many
+of these ideas had already/been conceived by mortal minds
+unaided), these dreams worried the Sandmen, and not only
+for humanitarian reasons. Many Dreamcrafters feared that
+the Stygian lords and/Shadowland Anacreons might place
+the blame for these atrocities on their now-illegal Guild and
+begin to petsecute ‘them anew. One minor Anacreon had
+already set a precedent, sending five Renegade Sandmen to
+the forges as traitors to Stygia and scattering their Circles
+throughout the Shadowlands. Their much-promoted in-
+volvement inthe Stygian effort during the Fifth Maelstrom
+won the Dreamcrafters some peace for the next few decades.
+
+Contemporary Sanden
+
+The 1960s marked a Sandman Renaissance in the United
+States Shadowlands. Guild Sandmen began to propagate folk
+tales of heroic Renegades, much to the Hierarchy's dismay.
+Vagabond and Renegade Sandmen perfected their ability to
+send visions and dreams to mortals under the influence of drugs
+and alcohol, while promoting the same ideals of freedom, equal-
+ity, love and peace that many mortal artists emphasized in their
+own work. Tripping mortals were often carried on the wings of
+dream to the Shadowlands and through psychedelic Spectacles.
+
+Guildbook: Sandmen
+0 Fea
+
+
+Incubi conceived love-children, while Dopplers under the in-
+fluence of their Shadows switched souls on drugged mortals,
+later causing nightmarish flashbacks and insanity.
+
+During this time, many Sandmen joined Heretical Mys-
+ist cults. While historically a number of
+
+tery and Sensu
+
+Sandmen have belonged to such cults, never were there so
+many specialists among them as at this time. The Succubus.
+Randi Trate is perhaps the most famous of these specialists,
+having once brought four dead dream-infants conceived by
+the same mortal into the Shadowlands at once.
+
+Currently, the Hierarchy counts among its members fewer
+Sandmen than do the Heretics, Renegades and Vagabonds.
+Many who practice the Phantasm Arcanos hold a more mys-
+tical view of their existence than is natural to the thinking of
+most Hierarchy wraiths. To many Sandmen, Transcendence
+is closely related to dreaming, and this belief alone is suffi-
+cient to put them at odds with official Hierarchy propaganda.
+Sandmen in Hierarchy Circles often serve as state-supported
+artists in the Shadowlands, or as spies and infiltrators for the
+Legions — Phantasm giving them an edge in understanding
+and outmaneuvering the enemy.
+
+Many older Sandmen belong to Circles of Heretics, us-
+ing Phantasm as a spiritual tool in the manner of their ances-
+tors. Additionally, the Mystery Cults and Sensualists continue
+to attract many of the younger practitioners of Phantasm.
+Despite the numbers of Sandmen that count themselves
+
+1
+RITCHIE
+
+among the Heretics, however, Renegade Sandmen still out-
+number their Heretic counterparts at least two to one. Cur-
+rently, there are two movements of note within the Renegades:
+a movement of loyalists to Charon's throne (rumored to be
+involved with the resurgence of interest in finding Charon),
+and a group of those who simply want to overthrow the
+Deathlords. Both movements continue to support the exist-
+ence of the small citadel known as the Dream Ring, and they
+encourage artistic wraiths who are opposed to the Hierarchy's
+
+materialistic prosaism to dwell there and hone their arts.
+
+Sandmen Elsewhere
+
+Just as the West produces ghosts who control our dreams,
+so too do the East and all places in between. While few West-
+ern wraiths seem to know of the locales that follow, my dreams
+speak of these exotic places and peoples, and thus I feel it
+necessary to record this information for you.
+
+indian Ghandarvas
+
+A city exists in the Indian death-realm about which I
+dream occasionally, the City of Delights. All manner of ghostly
+artists, musicians, and artisans dwell there, performing
+otherworldly songs, poetry, dance and other delights for the
+city's majestic Regent and the blessed populace. Dreamerafters,
+
+Act I: Somnus Uncloaked 25
+
+known as ghandarvas, are common. They are considered slaves,
+but if they are sufficiently talented and lucky, they often man-
+age to rise out of servitude to positions of importance.
+
+The Regent owns many ghandarvas, the luckiest of whom
+are those who join his entourage when visitors of importance
+enter the city. Their responsibility is to make the guests' stay as
+pleasurable as possible by crafting dreams for them and by eras-
+ing any signs of ugliness within the City as they tour. If they fail
+in their duties, they are smelted down into something beautiful
+toadom the city; if they please the Regent, they are given slaves
+of their own. Those few who try to escape are usually destroyed,
+though the rare few who make it outside the city's walls find an
+artistic wasteland filled with moaning, desperate souls who seek
+
+the culmination of their existence by entering the City's gates.
+
+Australian Dreamcrafters
+
+Sandmen inhabit the other death-realms as well: the Isle
+of Karta, the Jade Kingdom, the Kingdom of Ivory, and the
+Kingdom of Obsidian, to name but a few. In Karta, the Austra-
+lian aborigine death-realm, Sandmen are extremely common,
+and their power, known to the West as Phantasm, is consid-
+ered a sacred thread that connects them with the Dreamtime.
+There, wraiths may find skilled mentors of Phantasm, if they
+
+wish to use their power to meditate upon the Dreamtime. On
+
+4
+Rule
+
+the other hand, if they profess a wish to use Phantasm to con-
+tact the Quick, they are unlikely to obtain a mentor, for the
+wisest aboriginal spirits on Karta believe that they must dis-
+solve their Fetters in order to Transcend. It is said that many of
+the Isle's inhabitants practice the creation of the Great Dream,
+acommunal dream that if properly performed can translate the
+participants directly into the Dreamtime.
+
+jade Sandmen
+
+The Chinese death-realm has a long tradition of
+Dreamcrafters working to reinforce their Emperor's authority
+by altering the dreams of both mortals and wraiths. Outside
+the Emperor's court, Phantasm is both relatively rare and strictly
+regulated by the Imperial Bureaucracy: Only licensed practi-
+tioners may use it to assist wraiths interested in helping their
+living family members. Rebel groups, however, use Phantasm
+
+quite freely to hide their camps, cover secret activity and com-
+
+municate covertly. Unlike their western counterparts, rebels in
+the Jade Kingdom rarely make group distinctions based on which
+Arcanos an individual practices. Thus, there is no "Sandman"
+e, although there are indi-
+viduals who specialize in the use of Phantasm. There are ru-
+
+tradition within the rebel camp per
+
+mors that the Emperor has sent his Dreamcrafters to infiltrate
+these camps, but as yet, no spies have been discovered.
+
+Guildbook: Sandmen
+EOS
+4 , ww
+
+
+The Dream Ring
+
+My love, when you visited London on business last year, J tok the opportunity to search for this "ZDrean
+Ring' J had Arcamt about. A's it turns out, it docs exist; it ts tocated in upper New York, nestled in the
+foothills of the A Airondack WMountains. The physical locale shotvs stgns of former inhabitation — mysteri-
+ous brick buildings gone to rnin, termite-infested Aitching posts, the remains of a dusty, rntted road notv
+choked with weeds; and a massive rotting waterirheel located on its outskirts. When yon come upon it, tt Aves
+not took like much, but spend a night there and youll learn that tt is more than it appears. At midnight, the
+place becomes a spirits Woodstock. If you took hard, you can spy the faint shimmering outlines of ghostly
+cabins and tents just beyond the waterrheel, and flickering wratths moving bettveen them, Ghosts, Aressed in
+tattered velvet robes and stage actors' garth, emerge from the ruins of the brick buildings, and from behind trees
+and under rocks, to form a targe circle in what must once have been the thin snare.
+
+The night J stayed, instead of flying about and trying bo terrify me, these wraiths performed a play
+before me. Jt was no ordinary play; it Arcty me into a strange, dark land wvhere the moon twas gray and the
+stars wept rain across barren fields. Gtrange moans, cveeping, and a pitiful keening that infused msc with a
+deep, longing sadness arose, all as if from a great distance. The keening grety into a beautiful, eerie song and
+all the wraiths gathered together to perform an intricate, flotving dance, mblding their bodies into otherevortdly
+shapes and graceful figures. As the dance ended, J discovered that they had entivined themselves about me
+like snakes. J atvoke ina panic in the middle of a clearing, about sixty yards from my tent, surrounded by a
+circle of tin enps filled cvith water and flickering candles thrust into the dirt. To this day, J have no
+explanation fer hovv this occurred, but one thing is certain: the Dream Ring exists, and ghosts Awvell there.
+
+African Okoml are not simply servan » used and abused; maltreat one
+
+and you'll find yours mercy every time you try to
+Many traditions throughout the African death-realm Slumber. For this reason, Orisha set great store by the tradi-
+use Phantasm, the primary one involving those abambo _ tion of ukwangala, a term taken from the Nyakyusa people
+(wraiths) who serve the Orishas, or leaders of the African of Tanzania bearing the meaning "fireside fellowship."
+Underworld nations. Orishas have traditionally maintained — Orishas encourage a personal friendship with their okomfo
+a few wandering Sandmen, known as okomfo, to communi- by gathering frequently to sit, talk and enjoy each others'
+cate with the leaders of the Animal Kingdoms using dreams, company as equals. Ukwangala also doubles as a means of
+Of late, they have found it necessary to send okomfo out on aring information between okomfo working in the service
+dangerous journeys into the Underworld brush to make peace _ of an Orisha, and many serve as clearinghouses for secrets.
+with the animals that humans have hunted to extinction. Unfortunately, some okomfo have found it expedient to vio-
+Many okomfo have undergone Harrowings after being mauled _ late the ukwangala by using it to learn and sell secret infor-
+by these angry ghost-animals. Other okomfo remain athome mation given to them in confidence. It is rumored that re-
+studying the dreamself, learning how to control the amount cent and persistent uprisings in the Underworld's Lesotho
+of Passion it, and thus its abambo, receives. Orishas find these and Mozambique regions are due to such espionage, as okomfo
+okomfo priests of the dreamself valuable, as they can be used out for personal gain have sold their Orisha's
+to starve enemies of Pathos. Yet they also find that okomfo would-be rebels for use in planning uprisings.
+
+
+
+nter The Narrator, dressed as before. In
+his right hand, he carries a small pouch
+which he unties as he speaks. As he upends
+it, thousands of gleaming white and black
+pearls pour forth onto the proscenium about
+his feet, far more than the pouch seems ca-
+pable of holding.
+
+The Narrator: Who is this mortal who dreams so deeply of
+us? Who indeed but Charon, the Grim Reaper! A century ago,
+
+not a wraith in Stygia would have failed to recognize his name.
+But you are new, as are we all, to this mystery. Sometimes the
+Shroud beguiles more than just the perceptions of the Quick.
+
+Content yourselves now with learning more about us,
+because in this play you must act our parts.
+
+Sandmen as a whole are cut from similar cloth: indepen-
+dent, highly creative, mysterious, intuitive, passionate and
+often regrettably self-exalting. Modern Sandmen differ little
+from their predecessors in their tendency to take on the mantle
+of the Muse, the soul-gazer, the prophet or the artistic con-
+science of a culture. Because we immerse ourselves in our roles,
+
+many say that it is difficult to get to know us personally; thus,
+
+while we seem extraordinarily open about our thoughts and
+
+Somnus
+
+People
+
+feelings, we guard our true sentiments jealously and dole out
+factual information about ourselves as if it we!
+cious than gold. The best of us are master psychologists, know-
+ing just what the heart wants to hear, master philosophers,
+
+more pre-
+
+feeling around the edges of illusion and reality, and master
+
+illusionists, creating what the eye wants to see.
+
+Often, we find ourselves working together on one project
+or another, practicing our art simply because we love to. Oth-
+ers — typically more experienced or desperate Sandmen —
+practice the Arcanos because they hunger to touch the mor-
+tal world again. They find that Phantasm enables them to
+affect the Sunlit Lands in ways that border on an unprovable
+violation of Charon's Code. With an art that proves so fleet-
+ing even under scrutiny, these Sandmen know that they can
+employ Phantasm to stir mortals to madness, peace, passion,
+and artistic aspiration in ways that would instantly inculpate
+other wraiths. Ours, my dear audience, is an Arcanos of
+subtlety, the treatment of fragile souls with the delicacy of
+figurines in a glass menagerie. While we have the power to
+quite literally break spirits, we consider such acts as Phili
+tine as the burning of books or a clumsy archaeologist's razing
+of the remains of an ancient temple.
+
+
+Our Appearance and
+Mannerisms
+
+ou'll find that you can usually identify us by
+our clothing: As we pass through mortals'
+dreams, we choose wisps of their fantasies to
+wrap about us. Some Sandmen prefer to cloak
+themselves in daydreams, others in night-
+mares — a necklace hung with a demon's
+fangs here, the soiled tatters of a plague
+victim's death robe there. Dream clothing, or gossamer, possesses
+an extraordinary quality: it tends to project onto its folds barely
+discernible images of the dream from which it was harvested. If
+you stare at it hard enough, you can watch the dream progress.
+Gossamer also glows faintly with the energy from the mortal's
+dream. Nightmare gossamer glimmers darkly, as if constructed
+from film negatives, while that from pleasant fantasies may shim-
+mer with muted pastels. The darkness of the Underworld smoth-
+ers most of the light that emanates from gossamer; for instance,
+gossamer's glow never provides light sufficient to read a book by.
+Moreover, as the dream energy in this attire ebbs, the glow fades
+and the dream images become still. Traditionally, troupes wore
+brightly colored gossamer costumes in order to draw audiences
+into their performances. Nowadays, we select much of our gos-
+samer from the symbology of dreams, and most of us delight in
+tistically through these choices.
+
+expressing ourselves
+
+It is said that the oldest Sandmen can be identified by a
+peculiar flaw: wherever an ancient Sandman walks, those near-
+est him are thrown into vivid reveries until he passes. Aside from
+this rumor and our tendency to wear dream-clothing, which can
+be cast aside, nothing can definitively prove that a wraith is a
+Sandman (that is, that he practices Phantasm). As with any
+group of diverse individuals, we do not doggedly follow any spe-
+cific code of mannerisms.
+
+Nonetheless, many of us are similar enough that you might
+correctly identify us'as Sandmen...without being able to prove
+it. Our actors tend to be flamboyant, extroverted, and — no, I
+do not flatter myself — erudite. Most actors possess a natural
+balance and poise. A sizable percentage have the Masquers in:
+their troupes Moliate them into a shape from a favorite mortal's
+dream. Many directors, dramaturgists, theatre owners, brokers
+and others who practice Phantasm tend to be more reserved,
+though not necessarily more conservative, than their acting
+colleagues. In the Underworld, actors can generally expect to
+move into directing or scripting after about a century. Be-
+cause they have been around longer than most actors, most
+dream-directors and playwrights are thus more experienced
+in both Dream Theatre and in the ways of the Underworld.
+
+f you have spent any amount of time with
+Sandmen, you know that we split ourselves
+into two camps: the Dream Union and the
+freelancers. The Dream Union is so named
+because its members belong to the now-for-
+bidden and supposedly defunct Sandmen's
+Guild, a secret union of actors, directors,
+dramatists, and other artists. The freelancers are wraiths who
+practice Phantasm, but who do not belong to the Guild.
+While Unionists and freelancers differ in other respects,
+they are similar in that they both consider themselves Sandmen.
+The majority of Dream Unionists also consider themselves
+members of the Renegades, while many freelancers instead af-
+filiate themselves with the Hierarchy and Heretics — or, more
+frequently, avoid contact with all of these groups if possible.
+
+Because of their reputation for lack of official involve
+ment with the Renegades, many freelancers, willing or not,
+find themselves peripherally accepted by the Hierarchy es-
+tablishment. Sometimes this acceptance grows into something
+more substantial, such as a court appointment or a commis-
+sion to act as a double agent investigating Union activities.
+Indeed, Anton de Varzonzuela started his career as a freelancer
+in the court of the Laughing Lady — a post he soon aban-
+doned. Now, no one can tell with which of the many Under-
+world factions the noted Dreamcrafter sides.
+
+When a freelancer begins to involve herself in Hierar-
+chy politics, she becomes a desirable candidate for Union re-
+cruitment. Sometimes, the Dream Union asks such freelancers
+to act as informants in return for employment — and some-
+times they accept, for freelancers often have a difficult time
+procuring engagements in the Shadowlands without agents
+or theaters willing to take them under wing.
+
+Making non-Union employment even harder to come
+by, few Shadowland audiences willingly participate in perfor-
+mances unless they receive assurances that their pockets won't
+be picked — or worse — while they Slumber during the per-
+formance. Because of problems during recent engagements, a
+whole Underworld insurance industry has grown up around
+"brokering" shows, in which groups of Sandmen offer insur-
+ance against items nicked while wraiths "slumber the Spec-
+tacle," as attending performances is known. These insurance
+groups never insure freelance performances, resulting in de-
+creased attendance at non-Union engagements. Of course,
+audiences generally don't understand the distinction between,
+Unionists and freelancers, and thus simply attend only those
+performances insured by Spectacle brokers.
+
+Most wraiths don't question the fiction that the
+Sandmen's Guild has been defunct for close to four hundred
+
+
+years. However, certain elements within the Hierarchy real-
+ize that this is a convenient myth propagated by the Dream
+Union and other Guilds. Few of these accurately estimate
+the Guild's ability to undermine the system, and only one
+official — and fanatical — arm of the Hierarchy proposes to
+do anything about it: the Office of Security. Security Officers
+are characterized by an almost pathological fear of dreams,
+and are among the most unimaginative, though by far the
+craftiest, of those on the Sandman disapproval plan. Security
+Officers often have a field background with the Legions, "re-
+tiring" to bureaucratic work only after becoming Domems.
+Because Domems locate themselves primarily in Stygia, Stygia
+is considered hostile territory for Dream Unionists. All our
+information shows that every Deathlord except the Beggar
+Lord maintains an Office of Security, although these offices
+are not always financially well-supported.
+
+With the danger of being enchained and dragged down to
+the forges at the hands of these Officers, why do so many of us
+belong to the Dream Union? For a number of reasons. First, ar-
+tistic stimulation — the Union enables Sandmen to easily find
+and communicate with other Sandmen, as well as with artists
+
+specializing in other Arcanos who share similar interests. Sec-
+ond, it provides a forum in which to create Pageants. Without
+theatres (which, unbeknownst to most Hierarchy goons, are pre-
+dominantly owned by Dream Unionists), Sandmen have little
+hope of finding paying audiences. Sandmen have similar diffi-
+culty finding audiences without the assistance of agents and Pag-
+eant brokers available only to Unionists. Third, the Dream
+
+Union offers acting and scripting classes at a small school near
+
+Nectopolis New York. This school, the Sacandaga School of
+the Arts, claims that it is unaffiliated with Heretics and Ren-
+egades, but it is strange how only members of these factions
+
+seem to matriculate. Fourth, the Union operates the Dream
+Ring, where Sandmen (and others) may go to escape the ste-
+tility of the Hierarchy imagination. The Dream Ring also har-
+bors Hierarchy escapees and law-busting Renegades, adding a
+bit of spice to the conversation there. Finally, Dream Union-
+ists often exchange skills, or even gift each other with the fruits
+of their talents because of their Union affiliation.
+
+Freelancers, on the other hand, do not risk the Hierarchy's
+reprisal. However, unless they dwell in Stygia, where artistic
+employment is easily obtained, they are forced by necessity into
+
+ahand-to-mouth existence. Many Shadowland freelancers own
+
+traveling wagons which fold out into instant stages, where, if
+they are lucky, they perform to intimate audiences of passers-
+by. These performances are rarely as good as full-blown Pag-
+ants, but they have a unique, "‘small-theatre" charm of their
+own. In rare instances, freelancers form clubs which approxi-
+mate the grander exchanges of the Union's, but lack the re-
+sources. Most of the Union clubs, salons, and galas attract big
+Underworld names, whereas freelancers' gatherings rarely have
+the oboli or the influence to attract the stars.
+
+:
+
+Among the Quick
+
+y RAV) © far I have characterized Sandmen and
+(FIN)
+
+i =) how they interact with this world. Now,
+| before broaching the always controversial
+
+}}| to introduce you to some of the ways in
+| which Sandmen interact with the world
+
+of the Quick, for they are our primary au-
+dience and players.
+
+It has been said that a dream itself is but a shadow. Truer
+words were never spoken. Sandmen know, better than most,
+that dreams reflect their dreamer; they are a shadowy like-
+ness of a vivid, constantly changing personal dynamic. They
+give form to shapeless desires and fears and incorporate day-
+time experiences into the psyche. As Dreamcrafters, we have
+agreat deal of control over how those experiences are incorpo-
+rated and what form those desires and fears take. We can come
+to know the dreamer from the inside out. Sometimes we even
+get to know the dreamer better than she knows herself.
+
+So why do it? The reasons differ from Dreamcrafter to
+Dreamcrafter. One young Unionist Sandman | know from
+Necropolis Los Angeles says, "It pays way more than under-
+
+ground Pageants." Another, a Heretic Scrooger, claims, "It's
+my duty to lead the Sleeping to salvation." Still another, an
+extremely sensitive soul, tells me, "I only interfere when |
+feel a dreamer's pain. | soothe their fears and release the hor-
+rors trapped within." Some Sandmen I know simply love to
+perform, while others work out of curiosity or only with ob-
+scure groups of Quick, such as the fanciers of the arcane (the
+Arcanum and the Daughters of Creusa are famous for their
+dealings with Sandmen). Some Sandmen get their thrills by
+surfing dreaming minds, while others play with the souls of
+the so-called "oneironauts," mortal volunteers at laborato-
+ties devoted to the study of dream. Sandmen dedicated to
+high-minded artistic ideals like to inspire mortal artists to
+produce great works; others, obsessed with the preparation of
+the soul for death, act as harbingers of peace to the infirm
+and dying. Still others believe that they are trapped here be-
+cause the sleeping minds of mortals dream the Underworld,
+and thus Sandmen, into existence. By entering these mor-
+tals' dreams, these Sandmen try to work against this deep in-
+ner dreaming in order to effect their own release.
+
+It is the wielder who must ultimately take responsibility
+for the uses he makes of his tools. Regrettably, Sandmen also
+exist who use Phantasm for twisted purposes. A century ago, a
+wraith known as the Vendor made a habit of kidnapping dream-
+ing souls, promising to return them only when the mortal's
+
+
+soul agreed to pay a ransom — usually a Relic or something
+dedicated to the Vendor's memory. When he started playing
+some of his sadistic games with wraiths, the Dream Union dis-
+pensed with him. He now lies enchained near the great Nihil
+of Oroshaza, doomed to live out his own nightmares, without
+respite, for a century more. Other Sandmen have found darker
+uses for our Arcanos, uses which I will mention later.
+
+Many Sandmen work with mortals for the benefits they
+reap. Memoriam, Fetters, and Relics all constitute common
+forms of "payment" for their dreamwork. Sometimes mortals
+promise these payments directly: I just worked with a channeler
+who offered to find me an artist to inspire if I sent her a series
+of dreams about Elvis. Odd, but the artist she found painted a
+wonderful portrait of me that is now hanging in the Bellevue
+Art Museum, tucked away in the state of Washington.
+
+Sandmen also extract "payments" from sleeping mortals
+either subtly or by using the carrot-before-the-nose treatment.
+I know a freelancer in the Southwest who became so invested
+in the creative progression of one mortal's dreams that she
+became his Fetter. Another Sandman enticed a mortal to
+destroy his new Lamborghini (thereby creating a relic) by
+sending a series of dreams convincing him that his car pay-
+ments contributed to the unwanted materialism he'd been
+feeling of late. Maybe you've seen this wraith tearing around
+the rutted dirt roads outside the San Diego Necropolis?
+
+Ways of Death
+
+My listeners may wonder how Sandmen who lack ex-
+pensive sports cars manage to fill their time. Oh, we manage,
+we manage.
+
+We have, for instance, our haunts. Think back on your
+lives, you who can remember them. How often did you hear
+tales of haunted theatres? E
+doubt Sandmen were responsible for most. In the shadowed
+
+ch had its ghost stories, and no
+
+wings, or high up in the rafters among the counterweights
+that raise and lower scenery, there the Dreamcrafters linger.
+In the evening and at matinees, we watch the communal
+dream that is theatre. When the stage is dark, we may pass
+hours rehearsing, or host a Spectacle troupe on tour.
+
+To paraphrase Dr. Johnson, the Sandman who has grown
+tired of Dreamscapes has grown tired of — well, of existence.
+Travel among mortal dreams occupies us endlessly, and the
+pursuit is seldom frivolous. We seek images to barter, motifs
+to echo in our entertainments and the gifted dreamers who
+furnish our Sand. Then, too, Sandmen meet in dreams. The
+Guild convokes its meetings, called Venues, away from pry-
+ing busybodies, amid the lurid, cloudy fantasies of some sleep-
+ing ingenue or the vague, drifting colors of infant dreams.
+Perhaps you yourself, in life, played unwitting host to a Venue!
+
+Act II: Somnus' People 33
+
+
+er nce a
+SWZ
+
+The Venues let us exchange news, report dangerous routes
+through the Shadowlands, and discuss our most shadowy trade
+secrets. For e:
+have developed. Though they arose first during stage perfor-
+along advice such as "You're playing too
+broadly," the hand signals have evolved into an elaborate code.
+With a few unobtrusive gestures, a Sandman can silently tell
+his companions, "Danger from the third Hierarch on the
+right," "Beware of thieves," or "This individual is lying." Do
+believe me, the need for such messages arises all too often in
+a Dreamweaver's travels.
+
+ample, we teach novices the hand signals we
+
+mances, to pa
+
+At the Venues, novices are also gradually initiated into
+our secrets. I will not reveal more than hints at this timé, but
+you may expect to learn of a faction that believes Charon,
+after his battle with Gorool, reincarnated himself as a mortal.
+Another secretive group pursues the crafting of nightmares
+with perhaps too much intensity. A third group develops new
+uses for our chosen Arcanos. And so on — eventually, all
+becomes clear at a Venue.
+
+Works Among the Living
+
+Just as we create and perform,for the Restléss, we create
+for the Quick as well — though in a captivating inversion of
+roles, they become the performers for jus. Sandmén"engineer:
+perfort
+
+nces in living societies that energize us, educate us,
+or simply keep up our interest.
+
+The first example that always springs to my mind isthe
+Dreamtime. No, not the Dreamtime of living Australian ab>
+origines, but a convention attended by mortals. Some of our
+Guild's most illustrious members inspited this "Dream Ball"
+in dreams of the organizers, and each year many of us atténd
+side by side with the living.
+
+I can hardly do better in describing. a Dreamtime gather-
+ing than did a writer among the Quick, who des¢ribed the
+convention of a few years back in no less authoritative a source
+than Time magazine:
+
+"On the last night of the Study of Dreams conference,
+hundreds of dream lovers gather for the Dreamtine, dressed \up
+as characters from their own dreams. They are all here) the lab,
+rats and the dream workers, the physiologists and! the New
+Agers. Jeremy Taylor, the association's outgoing presidént, wear-
+inga skeleton mask and dressed in dark clothes, is Death, Texas
+psychologist Roseanne Armitage wears a big yellow R while a
+British psychologist wears an E and an Austrian lucid-dream~
+ing expert wears an M; together, of course, they spell REM,
+Scientists and New Agers are dancing together. It is\a
+dreamscape, a cross between Mardi Gras and Easter. If Freud
+were here, what might his quivering unconscious make of this
+phantasmagoria? What would he dream tonight?"
+
+The September issue in 1995, if memory serves. Page 49,
+if you must know.
+
+Guildbook: Sandmen
+
+Yet among mortals we also pursue le:
+among us, of a later generation than my own, have developed
+what they call the Dream Database. I understand this to be
+some kind of encyclopedia of dream images stored on a com-
+puter, or a network, or whatever such things are stored on.
+These bright young Sandmen influenced living computer
+experts to create the... ah... Database, and now Dreamcrafters
+skilled in the Inhabit Arcanos enter information themselves.
+The Dream Database serves them as a kind of grimoire, a prac-
+tice! ground, an ongoing Venue for study of whatever reso-
+natesiin the human psyche. It is accessible to all, and so by all
+means | suggest you look into it. Don't be put off by an old
+ghost like me!
+
+The Dreamscape
+
+Morea perception than an actual place, the Dreamscape
+is what the'dreamer sees, hears, fee!
+inyth@ midst of a dream, The Dreamscape is the total illusion
+that,the dreamer experiences. It may refer to the slumberer's
+own Dreamscape, which is the dream that she produces natu-
+rallyjWithout a Sandman's interference. At the same time, it
+Also,reférs to changes in atmosphere, setting, and individual
+elements that we can: produce using Lucidity, or to the com-
+plete change of atmosphere, setting and elements that con-
+stitutes a Pageant, Pageants require much more work than
+does a simple use of Lucidity, as multiple Sandmen collabo-
+tate to become part of the Dreamscape (the characters, mon-
+sters, and so forth) and to "sculpt" the physical elements of
+the Dreamscape (such, as how the earth, sun and sky appear,
+which symbols-appeatin/the dream and when, and so on).
+We "sculpt" the Dream$cape by using our imaginations as
+chisels, just as we "pairit" the landscape with our minds. The
+dreamer appears in our play, but it becomes her dream.
+
+Spectacles
+
+By far the most well-known, collective manner of influ-
+
+howy works. Some
+
+mells and tastes when
+
+encing| mortal dreams is the Pageant. Pageants, or
+dreamseripts, are almost always performed as services to pay-
+
+ing patrons, for they involve a good understanding on the
+
+director'sand the principals' parts of one of the more com-
+plex uses of Phantasm. When mortals become involved in
+
+qhe Dream Database
+
+his is an actual site on the World Wide
+Web. The URL is http://www.iag.net:80/
+~hutchib/.dream/input.html
+
+0 So
+
+
+Spectacles, as they often do, they become the protagonists in
+stories carefully crafted by the playwright to express the mes-
+age must be transmit-
+ted despite the vagaries of the protagonist's decisions and the
+
+sage intended by the patron. This mes
+
+spontaneity of "extras" — the dream actors — involved in
+ushering the story along. The Sandmen involved typically
+gather together near the sleeping mortal and hold hands.
+When all are ready, one Sandman sprinkles Sand on the sleep-
+ing mortal's soul, while the others lift it delicately from its
+mortal shell. From her bed, these Sandmen carry the soul to
+their stage, which may be anywhere and consist of almost
+anything (although the best tend to be located in Unionist
+theatres). There, they act out the dream, the only one not
+acting being the mortal whose soul has been carried into the
+Beguilers' camp.
+
+You will all certainly lear more about Pageants than
+you thought it was possible to know. This communal dream
+theatre provides you with a livelihood, a means of travel and
+an entry into new Necropoli. You novices will find no better
+way of learning all about our ways than apprenticing your-
+selves to a Pageant troupe. I might add that the more tal-
+ented among you may find in Pageants a means of rapid ad-
+vancement in our Guild. Skilled creators and performers at-
+tract as much notice in the Underworld as any movie star
+among the Quick.
+
+Note, though, that a Pageant troupe'calls for rigorous
+commitment, discipline and courage. You will often confront
+the audience directly, involving them in your performances
+
+now and then a few cranks dislike this attention. Research-
+inga topical piece on the Hierarchy, you may learn more than
+you bargained for. Responding to a patron's invitation, you
+may enter parts of the Shadowlands no sane wraith would
+think about. And yet — the smell of the Masquer, the moan
+of the crowd! What actor could resist it?
+
+¥]| ecause Sandmen can "tune into"
+Dreamscapes, many of us know that there
+are more than just mortal minds out there.
+
+Sometimes
+
+is we dreamsurf, we pick up odd
+reverberations — dreams that resonate
+with qualities different than those pro-
+duced by most mortal minds, sometimes
+darker, sometimes lighter, sometimes completely alien. This
+realization has led to certain Sandmen dabbling not just with
+the souls of humans and wraiths, but with those (or their
+equivalents) of changelings, mages, werewolves, vampires, and
+
+
+Storyteller Hints
+Pageartts
+
+Pageants resemble stage plays, but they
+are darker, more fluid and more experimen-
+tal. They serve several useful functions in
+Chronicles.
+nexcellent
+
+e wraiths.
+
+Pageant troupe provides
+
+pretext to gather a group of diver
+Troupes need a wide variety of skills or of-
+ten just extra hands; some vital members
+of the troupe never perform at all. Also,
+troupes often travel between Necropoli.
+They routinely gain and lose members. All
+this may suit the needs of a Circle whose
+members prefer to wander.
+
+In a single story, a Pageant's storyline
+
+may provoke a fight between audience
+
+into the
+. Or the entertain-
+ment may satirize Hierarchy officials, bring-
+
+member:
+'s central confl
+
+ing their wrath upon the troupe.
+
+other mystical beings. Don't act so surprised! These creatures,
+exceedingly difficult as they are to find, do exist — just as
+you and I exist. But, before you slip off to contact them with
+your newly learned Arcanos, I warn those of you whose curi-
+osity I've just tweaked that nonhumans are dangerous folk
+with whom to consort, and only the rare Sandman with a
+mastery of herself equal to her mastery of Phantasm should
+attempt it.
+
+The Mage Connection
+
+Here are a group of mortals gifted with the ability to shape
+reality to their wills. On the whole, Sandmen have little to
+do with them, but I have heard an occasional account of their
+involvement with Dreamcrafters. About a decade ago, a cer-
+tain unscrupulous Circle of Sandmen became involved with
+a group of mages calling themselves Progenitors. As incred-
+
+ible as it sounds, these mages had the ability to create soulless
+physical bodies with a slavelike obedience to the wills of their
+Progenitor masters. The Sandmen involved struck a pact with
+the Progenitors in which they would steal souls from sleeping
+mortals (leaving comatose bodies in their wake) and insert
+them into the Progenitors' soulless corpses. In exchange, the
+mages permitted these Sandmen to study their own dreaming
+souls. When rumors of this practice began to leak beyond
+their Circle, both the Hierarchy and the Dream Union took
+an interest, resulting in quick activity to break the Circle and
+discorporate its leaders for inhumane activities. (The Dream
+Union had a nice smirk at the expense of the Hierarchy: con-
+sidering their self-sanctioned use of soul-forged oboli, the
+accusation of "inhumane activities" seemed ironic). The
+Circle was soon broken, but one of its leaders escaped. To
+discourage a reprise of such crimes, the Stygian Hierarchy
+offers a reward of 100 oboli to anyone capturing the leader,
+one Lili Charriere, and a reward of 20 oboli for information
+leading to her arrest.
+
+Another group of mages calling themselves
+Dreamspeakers have on occasion held gatherings honoring
+death's role in the cycle of Gaia, or the Earth Mother.
+Sandmen enjoy appearing at these festivities to share tales of
+Somnus with the Dreamspeakers, who seem interested in his
+connection with the Earth Mother.
+
+In the past, Sandmen — as well as many other wraiths
+— have also attended the Great Festival, held annually by
+the arcane and mystical group known as the Orphic Circle.
+Usually invited by the Circle's secretive death mages, these
+Sandmen perform as boukoloi (dancers) during the orgiastic
+rites dedicated to the Orphic god Eubouleus. Sometimes.
+Master Actors use Phantasmagoria to appear before celebrants
+as the god Eubouleus himself.
+
+qhe Werewolf Connection
+
+Sandmen rarely have truck with werewolves, consider-
+ing them generally rustic and unappreciative of the sophisti-
+cated art of theatre. However, a small minority of Sandmen
+exists which finds spontaneous visions every bit as valuable
+as exquisitely crafted dreams. When they can, these Sandmen.
+("Quixotics") seek out certain tribes of werewolves known as
+Fianna, Silent Striders, and Stargazers. The Celtic Fianna and
+the Quixotics sometimes meet in dreams to share tales, craft
+dream stories together, compose ballads, and pose riddles. The
+mysterious Silent Striders share much the same interest in
+Quixotics, although their storytelling and listening has a much
+more educational bent: they hearken to Sandmen's tales to
+learn more about the Dark Umbra, as they call the Under-
+world, Quixotics, and Sandmen in general, interest the tribe
+known as Stargazers, for their tribal totem is Chimera, the
+mysterious caretaker of dreams. Because they excel at inter-
+
+
+preting dreams, Stargazers enjoy the dream puzzles Sandmen
+create for them. Of late, Quixotics have embarked on a quest
+to discover who or what Chimera is. Certain members of the
+Stargazers have joined this quest, for to solve such an enigma
+would earn them great glory within their tribe.
+
+The Vampire Connection
+
+Vampires share one thing with wraiths: their undead sta-
+tus. Other than that, we differ completely, for their society
+walks among the Quick, while we — officially, anyway —
+walk only among the Dead. Our Elders wisely advise us to
+shun the walking Dead, for they are cunning and wicked. But,
+as it is human nature to do, some of us ignore tradition and
+seek out the vampire.
+
+I have heard tales of mad vampires who touch the
+Dreamscape in their slumber, and of Sandmen who unwisely
+invaded their dreams. These insane vampires are said to reach
+through the Shroud and pull Sandmen into their cold em-
+brace, draining them of imagination and passion. Few
+Sandmen return to tell the tale of such Harrowings.
+
+Other legends tell of a vampire clan devoted to beauty
+in all its forms. Many a Sandman has fallen in love with the
+otherworldly grace of these predators, doomed never to touch
+them or be a part of their dreams. Still other tales speak of
+such vampires seeking the aid of Sandmen to help renew a
+beloved artist's inspiration or to spark her imagination anew;
+or, with raging jealousy, to seek vengeance against Sandmen
+who steal inspired mortals' hearts.
+
+The Changeling Connection
+
+Though seeming so similar in origin, vampires and wraiths
+
+share few characteristics. The opposite question arises among
+those who know of changelings (fae inhabiting the Earth):
+What do Sandmen not have in common with changelings?
+Both exist in a world spun from the gossamer silk of dreams.
+Both live for their imaginations and dread the mundane. And
+both enjoy sharing their inspiration and artistic appreciation
+with others of like mind. However, most changelings whom
+we encounter fear us immensely — to them we are the terri-
+fying stuff of legends, creeping out of the afterlife from our
+so-called Dream Pits to haunt changelings and their kind. A
+silly, but understandable myth.
+
+With those changelings with whom we have actually
+made rational contact, the general rule has been that similar-
+ity, like familiarity, breeds contempt. Competition over the
+mortal imagination has stirred great feuds between us and
+changelings, who need it to survive as fae. Ordinarily, our
+imaginative play poses no significant grounds for conflict. In
+fact, when we are careful with the imaginations of the mor-
+
+tals we entertain, there is even a chance that changelings
+might participate in our creations.
+
+Some changelings go too far, however, greedily consum-
+ing mortal creativity and ripping imagination from its native
+vessel. On the other hand, sometimes we step over the line,
+blithely discarding the used imagination in favor of newly
+inspired souls. Because it is so precious to them, changelings
+carefully stir the flames of the imagination and tend them
+even when they begin to burn low. For this reason, many
+changelings view Sandmen as sycophants, leeching off the
+inspiration they have so delicately cultivated.
+
+Changelings and Sandmen are often drawn to one an-
+other by their shared interest in the imaginative capacity of
+
+Your most faithful traveling compan-
+ion. Your shimmering mark of profe:
+alism. Your ticket out of the troubled
+lands. Sand is the glittering dust for which
+
+Sandmen are named and renowned.
+Harvested from the dreams of Sandmakers
+(sometimes changelings, but usually' re-
+pressed but highly creative people), Sand
+is prized for its usefulness in practicing our
+
+rt. It eases the dreamer's soul from its
+t helps us shape the
+the troubled
+umber and it
+ng in p
+Sand enchants the mind, just as a
+all thoughts of reality.
+
+sion-
+
+eeping body,
+amscape, it tranqui
+vraith enough to cau:
+beguiles the eye into beli
+tasm:
+daydream erase:
+If you join the Dream Union, you can
+buy Sand at a discount, as Harvesters sell
+in bulk. You will find, however, that as you
+n to con-
+Buy-
+ind is considered acceptable amor
+apprentices, but the greatest directors and
+actors always harvest their own. Regard-
+less of rank, though, no real Sandman is
+
+progress, other Sandmen will beg:
+sider buying such amenities bourgeois
+
+
+dreams. Amusingly, some Seelie fae speculate that we are but
+a by-product of their Unseelie kin; that we are but chimera
+created by twisted fae imaginations. They believe that, like
+ours, the Unseelie power over dreams is a dark one, often
+twisting mortal imagination toward change and madness, away
+from tradition and inhibition.
+
+For our part, we tend to regard changelings as immature
+talents who, like children, do not yet understand the artistic
+layering of reality and illusion in dreams. Dreaming, to them,
+is a way of life — reality a toy — while we, on the whole,
+believe that dreams represent more than just the solipsistic
+stage of illusion. Reality plays a large part in the creation of
+fantasy, a lesson these fae have yet to — and probably will
+never — learn.
+
+I mention all this to give my warning context: Beware
+the fae, so seductive to such as we! By nature we are drawn to
+illusion, dynamism, unspeakable beauty and mysterious al-
+lure — all the things that changelings represent. So potent is
+their dreaming that we, who are more susceptible than most,
+become lost in their fae "reality." Sandmen slipping into their
+dreams (an easier process than entering those of mortals, but
+far more dangerous) have reported sighting their chimera
+(their term for mythical monsters) following them long after
+the changeling awakened. Horror stories of this sort abound:
+Regis Finbane, the well-known Sandman actor, is said to have
+entered a changeling's dream one night twenty years ago and
+never returned. Others who have tried to steal changelings'
+souls have disappeared as well. Some say that our lost Guild
+brothers have become monsters in these changelings' dreams,
+but no one knows for sure.
+
+On the other hand, dangerous as they are, these fae ex-
+ude almost impossible amounts of imagination and can be
+valuable allies in the quest for drama. Changelings are said
+
+to produce Sands far richer and more various than any mor-
+
+tal can — and on a nightly basis. Sand taken from sleeping
+changelings also resonates with the atmosphere — and some-
+times even the subject — of their dreams long after its har-
+vesting. A changeling experiencing a nightmare, for in-
+stance, will produce Sand that gives mortals horrific night-
+mares. A dream about slaying dragons might bestow a sense
+of bravery and heroism on a dreaming mortal. But you are
+well-advised to harvest changeling Sand carefully: just as
+harvesting leaves mortal dreamers listless the next day, har-
+vesting Sand from changelings leaves them strangely weak-
+ened come morning. Prolonged harvesting can kill them —
+but, be sure, once they find out you're harvesting them, you
+won't continue for long.
+
+
+© matter how we choose to live, we all
+#| play roles on the stage of society. Here in
+ji) the Underworld, we Sandmen have cho-
+sen for ourselves the roles of the actors,
+4| the visionaries, the holy seers of the cre-
+ative imagination. Beyond mere dramat-
+ics, we need these roles in order to sur-
+vive. As a result, Sandmen have adopted the following spe-
+cializations, one of which, I suspect, will be a proper fit for
+each of you.
+
+Dream Menders (Soma Shamans)
+
+"So ye would learn to Mend mortals? First learn to Mend
+thyself."
+
+— Shayna Blackfeather, Dreamcircle of the Eagle, Sioux
+Camp
+
+Currently, the most famous group of Sandmen in the
+Underworld is the Dream Menders. Word of their newly dis-
+sm has spread from the most remote
+villages of the Serengeti to the marbled halls of Stygia. Our
+bards report that the Ladies of Fate have quietly whisked away
+the mother of this sleep healing movement, Shayna
+Blackfeather, to their strongholds, there to teach other
+Sandmen these techniques.
+
+covered use of Ph:
+
+Briefly, dreamhealing repairs the bodies of mortals while
+they sleep by tricking the brain into accelerating the body's
+release of growth hormones naturally released during sleep.
+Those who have studied it report that it requires a strong
+emotional investment in the mortal to be healed.
+
+As it obviously violates the Dictum Mortuum, the
+Hierarchy's official stance on Mending is that use of it con-
+stitutes a breach of Charon's law. However, the Hierarchy
+says nothing about teaching the art of Mending. It is a trib-
+ute to the adage "you can't keep a good idea down" that even
+the staunchest defenders of the Dictum Mortuum secretly seek
+Mending mentors.
+
+In the five years since its inception, the art has attracted
+many members of other Guilds. It has proven particularly
+popular with wraiths who in life practiced medicine, particu-
+larly alternative techniques such as holistic healing, acupunc-
+ture and psychology. A recent trend among many of the
+wraiths who know (and presumably practice) Mending is to
+carry with them aspected Sand that makes mortals dream of
+death or unending sleep. They say that such Sand "symbol-
+izes the ability" to trick mortals into believing they've been
+asleep longer than they actually have. Who is fooled by this?
+The Sand enables them to practice Mending. Period.
+
+
+"Where goeth a spent dream? To the Realm of Somnus. Shall
+I take thee there?"
+
+— The Dream Lord Pytheas
+
+Legends speak of Ferrymen who have so mastered ourarv
+that their Spectacles melt away Oblivion and transport the
+Tempest-weary traveler to her destination in the blinkof an:
+eye. Called Dream Lords, they are Ferrymen who oneé num-
+bered themselves among Sandmen, and now continue to spe-
+cialize in the art of Phantasm. It is said that their powers bor-
+der on the miraculous: They can send Spectres into eternal
+Slumber, perform massive Spectacles without extras, disguise
+themselves as Malfeans, and walk for days among the living
+as flesh-and-blood illusions.
+
+Colleagues who have had the rare opportunity to meet a
+Dream Lord find them alien. Their eyes shine with the dark,
+mysterious light of creation and illusion, and they smile wryly
+at the depth of our misunderstanding. Moreover, Dream/Lords:
+never speak; they communicate through waking'dreains. Iyis
+speculated that Dream Lords spin svebs,ofsintéféonnected
+dreams, so that they are in constantéommunication with each
+other, but even this is not known for certain.
+
+Paphians (Primadonnas, Dream Whores)
+
+"Hypocrites, all hypocrites! How can the Unionists call us whores
+when they beg like dogs for the chance to perform for wealthy patrons?"
+
+— Sandeep Joy, Circle of Aphrodite, Stygian Paphic
+Tattoo #2708
+
+Those of you who have never béen to, Stygia may not
+know that the Hierarchy there petmitsithe practice of a form
+of legalized prostitution known as Cyprianisms Practitioners
+of Cyprianism, Paphians (also known, toUnionists as Dream
+Whores and Primadonnas) hire themselves out tolbestow fan-
+tasies on paying customers. Paphians typically Moliate them-
+selves into a huge variety of beautiful forms,.but ean all be
+identified by the Cyprian tattoo they bear. By law, customers
+should only conduct business with tattooed\Paphians, since
+they are legally regulated by the state, but in, reality some-
+times unregulated freelancers find themselves playing) the
+Paphian to pay the rent. Because many Guild Sandmen'look:
+down their noses at such practices, much hostilityhas arisen
+between Unionists and freelancers over Cyprianisms
+
+Fortfers (Psychoneitists)
+
+"Most of us do not realize the value of practice when it comes
+to resisting our Shadows. What better way to practice than in
+dreams?"
+
+— Ingrid Hotchkiss, Apprentice Fortifier, Boston
+Necropolis
+
+Some freelancers and even some Unionists have found
+that acting alone does not suffice — for them, it is merely en-
+tertainment, mental engagement without lasting substance.
+Searching for enlightenment, they see the art of Phantasm as a
+means of overcoming their own Shadows and fortifying the
+Eidolon. Their motto is "Through illusion, reality," and anum-
+ber of these searchers have banded together to form a pseudo-
+Guild known as the Fortifiers. Together, they attempt to drain
+Shadows of their power via dream roleplay. Apprentices and
+Journeymen are taught to discern the psychology of a wraith's
+Shadow, often spending time studying under Pardoners. As
+Apprentices, they undergo numerous tests of strength against
+their Shadows staged by other Fortifier Sandmen in their
+dreams. When they become Journeymen they are permitted to
+use Phantasm) to test another wraith's strength against his
+Shadow. As Masters, they refine the art, aiming to achieve Tran-
+scendence by putging themselves of their Shadows altogether.
+Lately, Fortifiers have come under much criticism for the
+danger their own Shadows pose to others. If their own Shad-
+‘ows emerge during a Fortification (as they call a dream in
+whichia wraith must fight his Shadow), they have the poten-
+tial todo treméndous\damage to the wraith under their min-
+istrations« Because such occurrences are not unheard of, many
+Neétpolishave outlawed the presence of Fortifier Circles.
+
+« ‘
+Niehtriders
+
+"Brainsurfing is beyond a kick) dude. It's extreme. Wanna
+try it?"
+
+Rich Cantrell, freelancer, Necropolis San Francisco
+
+I've had several apprentices whose hobby is "brainsurfing"
+— riding from-oné mortal's dreams to another in rapid pro-
+gression. They belong toa more general group of younger
+Sandmen known as Nightriders. Some of you may even be-
+long to this class of wraiths.
+
+Nightriders have a number of other irresponsible hobbies as
+well: "soulslipping," for instance, and "horrorizing." Soulslipping
+involves slipping a mortal's dreaming soul in and out of the body
+as fast as possible, usually causing the mortal to wake up confused
+and groggy. Nightriders usually only practice Soulslipping asa prank
+or an adolescent test of their dexterity with Phantasm.
+
+Horroriging compares unfavorably with real nightmares,
+whichall Sandmen create at some point in their careers, in that
+it shows.an almost Philistine lack of artistic creativity — like
+reading 'limericks at a poets' convention. When Nightriders
+horforize a mortal, they drag the mortal's soul, kicking and scream-
+ing, to the nearest Nihil and dump it unceremoniously in. There
+is no subtlety or personal horror involved, nothing to be gained
+by Such a display of the impersonal horrors of Oblivion. In short,
+many Nightriders horrorize mortals because they enjoy the
+power trip. As far as I'm concerned, while Nightriding may be
+‘a necessary stage in one's career as a Sandman, it is, hopefully,
+one which passes with the wisdom of experience.
+
+
+" <
+Nett Terors/Night Anges
+
+"The face of exquisite beauty can be had for hire, but the soul
+of itis not for sale. That is a favour only devotion can win."
+
+—lIa Vanpée, Masterclass Night Angel, Paris Necropolis
+
+Just as sometimes mortals (and even wraiths) have need
+of assassins, wraiths sometimes need Night Terrors. Night Ter-
+torsare Sandmen who work with Proctors to create nightmares
+of such magnitude that mortals awaken howling in terror in
+the middle of the night — but it doesn't stop there. The Proc-
+tors involved appear just as the mortal awakens, carrying the
+moment of terror into waking life. Other wraiths usually hire
+Night Terrors to assassinate a mortal who has done them grave
+wrong — often to resolve a Fetter. Typically the mortal has a
+condition, such as a weak heart, that makes him susceptible to
+terror attacks. Wraiths also hire Night Terrors as a scare tactic
+tocommand mortal compliance. Needless to say, if the Dream
+Union ever catches a Sandman working as a Night Terror, it
+marks him with a sigil of banishment which prevents him from
+ever receiving the benefits of the Guild again.
+
+Night Angels are an entirely different story. Extremely rare
+because of poor employment opportunities, they are neverthe-
+less much sought-after by the Guild for their mastery of beauty's
+portrayal. Those who hire Night Angels (they always work in
+pairs) generally intend to inspire or reward mortals with visions
+of extreme heavenly splendor and otherworldly grace. I once
+knew an Anacreon in the Legion of the Laughing Lady (who
+shall remain nameless, as I do not wish a permanent holiday in
+the forges) who'd fallen desperately in love with a living woman
+who had no idea he existed. So desperate did he become that he
+hired a pair of Night Angels to compose and perform an exquis-
+ite dream sequence about him, at the end of which the woman
+awakened to find an Embodied Angel, radiating delicate light
+like a seraph, floating above her. In the years that followed, the
+mortal woman's longing to recapture the moment of that dream
+led her to obsession, insanity and finally death. Tragically, the
+Anacreon would have been united with his love under the Seat
+of Succor the very day of her death had he not fallen during an
+assault by Spectres on his Necropolis the evening before.
+
+Potters
+
+"Hamlet's mousetrap, Sleuth — these are child's play com-
+pared to the most mundane schemes constructed by the Hierarchy's
+finest Plotters."
+
+— Bethany Ladimer/Shomon Morahg Construct, House
+of Melded Souls, Stygia
+
+Ihave heard that some freelancers have such charisma, cun-
+ning and strategy-sense that the Stygian lords adopt them as their
+personal "Plotters." Sandmen who secretly use their talents to help
+create Machiavellian schemes for their lord against other lords,
+Plotters usually rise from the ranks of the most talented Stygian
+freelancers. They are master storycrafters and psychologists, some-
+how managing to keep the frenzied layers of court intrigue straight
+
+Act II: Somnus' People
+
+
+Dreaming States
+
+Sleep is a complex state, as those of you
+who have not studied oneirology will soon
+learn. Here is some terminology you should
+know if you are going to move with ease
+among groups of diverse Sandmen:
+
+REM Sleep: A stage of sleep character-
+ized by rapid eye movement and voluntary
+muscle paralysis. Dreams occur most fre-
+quently during this stage of sleep, and mor-
+tals awakened during REM sleep are most
+likely to remember their dreams. You will
+find it easiest to slip souls from sleeping bod-
+ies when they are in REM.
+
+NREM Sleep: The stage of sleep, some-
+times known as deep sleep, during which eye
+movement is slow or absent and muscle pa-
+ralysis and movement are not important fac-
+tors. Dreams do occur during NREM, al-
+though less frequently than in REM sleep.
+When asleep, normal Skinlanders spend
+equal amounts of time in REM and NREM.
+As they age, mortals spend less time in the
+deeper forms of NREM.
+
+Hypnagogic Sleep: The stage of sleep
+between wakefulness and REM, characterized
+more by groggy thinking and worrying than
+by dreaming with all its attendant plots and
+colorful fantasies. Hypnagogic states are said
+to be similar to experiences in sensory depri-
+vation, psychedelic drug use and meditation.
+
+Hypnopompic Sleep: The stage of sleep
+just before waking, opposite hypnagogic
+sleep.
+
+Lucid Dreaming: A sleep state in which
+the dreamer becomes aware of and can con-
+
+trol her dreams. Currently, lucid dreaming is
+a popular research topic among the Quick,
+with studies done of dreamers who learn to
+lucid dream and communicate their state with
+researchers through eye and other nonverbal
+signals. It is impossible to control a lucid
+dream using Phantasm, and thus many
+Sandmen protect their favorite dreamers from
+nightmares by inducing this state.
+
+Narcolepsy: A disorder characterized by
+the inability to remain awake longer than a
+few hours. Narcolepsy is thought to be related
+to epilepsy, and tends to make sufferers REM-
+prone, as they enter REM immediately upon
+falling asleep.
+
+Nightmares/Night Terrors: Nightmares
+differ from night terrors in that they occur
+during REM sleep and usually have a plot
+accompanied by vivid images. Night terrors
+occur during deep NREM sleep during the
+first two hours of the night, and are charac-
+terized by single images rather than complex
+plots.
+
+Sleep Apnea: A breathing disorder that
+occurs during sleep in which breathing shal-
+lows or stops, and the sleeper awakens to re-
+store the flow of air. Severe cases of sleep ap-
+nea (in which the sleeper awakens hundreds
+of times a night) disrupt the sleep cycle and
+make it virtually impossible for Sandmen to
+control the sleeper's dreams.
+
+Somnambulism: Sleepwalking. This usu-
+ally occurs during deep NREM sleep, during
+which the sleeper's brain sends out signals
+typical of a relaxed, waking state.
+
+
+in their minds. The best Plotters usually also manage to work their
+signature Arcanos into their plots as a central strategy.
+
+Some say that the Dream Union uses Plotters to great ef-
+fect, creating counterespionage within counterespionage. Oth-
+ers believe that, thanks to the cunning efforts of their Plotters,
+the Hierarchy has placed spies within the highest ranks of the'
+Dream Union. Still others think that Plotters remain loyal only
+to themselves and are secretly betraying both Sandmen/and
+Stygian lords. The truth, though difficult to discern, wouldseerty
+to lie somewhere in the middle.
+
+Playwrights (Dreamatursists)
+
+"A topical treatment of Charon's battle with Gorool?dl may
+be an Apprentice and a fool, but I'm not an idiot."
+
+—Francine Ringold, Union Playwright, Boulder Necropolis
+
+One of the two most popular avocations for Sandmen (the
+other being acting), Playwrights (also jokingly known as
+Dreamaturgists) consist of those Sandmen who-ttaft dreams.
+into stories to be performed by acting troupés!\ThegDream
+Union and many freelancers consider/a gdod.Playwright more
+valuable than a whole troupe of medigere actors; if any of you
+are budding Playwrights, keep pra¢tiéing" Of course}yas'in-the
+Skinlands, becoming an UnderwWorld-class Playwright takes
+courage, devotion, talent and nor a little/luck/ But if you're
+good, your future among your Chosen grotip will besecure.
+
+In the Union, acting woupes employ lesser-known Play4
+wrights to compose dream sequences tailored for their particular
+talents. Less often, Playwrights seek work from troupes on a ¢on>
+tact basis. Unionist troupes rarely take workefrom freelancers:
+
+Freelancers without permanent engagements in Stygia
+(also known as Bards) travel betweem,Nectopoli with/their
+freelancing troupes. Often, they serve double duty as actors, or
+Ringmasters, themselves. A familiar and welcome sight for
+weary intercity travelers is the brightly painted wooden wagon,
+clinking with intermingled props and cookware and bedecked
+with translucent gossamer pennants, the sigtvof the Sandman.
+Such wagons serve as transportation, shelterticket booth, stage
+and scenery; the Sandmen who maintain them show amazing
+creativity in their use of space.
+
+Specialists
+
+Most troupes, which generally form affiliations with theaters,
+do not consist entirely of Actors and Playwrights; the stagehands,
+the artists, the musicians — these are a necessary and important
+part ofa dream production, as well. As.a consequence, many troupes
+hire Masquers and Chanteurs to provide scenery, costume and song.
+Indeed, a Bard's most frequent traveling companions are Masquers
+and Chanteurs, as well as Oracles, as they provide some necessary:
+variety and complement a traveling Sandman's ability well.
+
+On occasion, you will hear of troupes who hire specialists to
+serve a specific niche within their theatre community. I will men-
+tion only a few of these because the list is long.
+
+Oneiric Pacers
+
+One of the most difficult specialties to master is oneiric
+pacing, the ability to pace staged dreams to match the imagi-
+native capacities of the dreamer. In theatres known for per-
+forming particularly complex or horrific venues, Directors hire
+‘Oneiric Pacers to help actors avoid damaging mortals' dream-
+ing souls. Theatres hiring them typically avoid advertising the
+fact, since the presence of an Oneiric Pacer essentially consti-
+tutes an admission that the theatre is violating Charon's Code.
+Fifty-two, years ago to this day, Hierarchy Minister Justin
+McCann ordered Dream's Eye Theatre in the Dallas Necropolis
+burned tothe ground when he heard that Oneiric Pacer Dixan
+Chenilly worked there on commission. When an Artificer's
+forge was erected in its place, both Unionist and freelance
+Sandmen criticized McCann's actions as unnecessary, as they
+resonated of the inflammatory actions taken during the War of
+the Guilds. Hierarchy officials didn't comment.
+
+Symbolist
+
+Most popular in the French Underworld but now making
+inroads elsewhere, Sandmen in this profession study dream sym-
+bolism — its uses, how best to incorporate it in dreams, how it
+differssamong cultures,and so forth. Now, most of you have
+been initiated to some extent into the uses of symbolism, but
+Symbolists make it the purpose ‘of their existence. Some even
+go so far as to-study a particular subject's personal symbolism
+for months-before Visiting her with a dream that features one
+Particularly important symbol.
+
+You can generally pick Smbolists out of a crowd by look-
+ing for Sandmen dressed in abstract gossamer and berets. They
+talk a lot about their tritimphs, sometimes even naming them as
+if they were works of art — how, for instance, they managed to
+convey a sense of profound materialism and regret in "Abstract
+Study in Green, #46."/ Usually, the other Symbolists listening
+solemnly nod their heads, careful to convey their profound un-
+derstanding, then, like clockwork, go on to lionize their own
+works. Younger actors enjoy, as they say, "razzing" Symbolists at
+parties because they often take themselves too seriously.
+
+Wordsmiths
+
+Tt is truly said that no one has as great a sense of fun as a
+Wordsmith. Wordsmiths are the ultimate punsters, witlings, wise-
+crackers, reparteeists and quippers, with specializations in ana-
+grams, logograms, logogriphs, metagrams, acrostics, amphiboles,
+palindromes, portmantologisms, double-entendres and ripostes.
+Any mortal who's dreamt of clever wordplay or uncovered a pun
+ina series of symbols has hosted a Wordsmith for a night.
+
+Because of the degree of specialization required, Sandmen
+usually only moonlight as Wordsmiths. Patrons' requests for
+wordplay are rare but lucrative when they occur (some Sandmen
+joke that Wordsmiths also specialize in a form of persuasion
+called Pay Raise).
+
+Act II: Somnus' People 3
+
+
+Dream Trivia
+
+Other interesting trivia that is useful to
+know at Venues and salon
+
+© Tryptophan, an amino acid found in pro-
+tein-rich foods, can trigger nightmares.
+
+© Balladeers of the Tibetan "Gesar," the
+longest ballad in the world (it has over a mil-
+lion lines with thousands of characters), claim
+to "inherit" the song in a dream.
+
+¢ Depressed mortals dream less vividly,
+have fewer characters in their dreams, and re-
+call less of them.
+
+¢ Men tend to dream of other men more
+than of women, while women dream of both
+sexes equally.
+
+¢ Seventy percent of all dreams are in
+color.
+
+¢ The only mammals that do not dream
+every night are' the spiny anteater and the
+duckbilled platypus.
+
+© The Quick experience approximately
+136,000 dreams in a lifetime, spending the
+equivalent of six years in REM.
+
+© Before age seven, children are generally
+
+not the protagonists in their own dreams.
+
+Wordsmiths open venues at which they practice
+their art. Some of these clubs throw parties open to other
+the chance, especially you future
+Playwrights, attend one. You'll find inspiration in your ho:
+dexterous minds, and because of the popularity of these par-
+ties, you may have a chance to meet the stars among Sandmen.
+
+State Artisans
+
+Not all
+
+joy the more scientific aspec
+
+Sandmen. If you ever hav
+
+Sandmen special
+of our art. State Art spe-
+cialize in inducing specific dream states: hypnagogic, hypno-
+pompic, NREM, REM and lucid dreaming. They also experi-
+ment with dream incubation during bouts of narcolepsy and
+somnambulism. A few have tried to induce similar states in
+
+wraiths during Slumber, but largely unsuccessfully; they have
+
+44 Guildbook: Sandmen
+
+¢ Sleeping newborns are in REM sleep 50%
+of the time. Adolescents are in REM 20-25%
+of the time, and the elderly experience REM
+only 18% of the time.
+
+¢ LSD and nicotine withdrawal increases
+the amount of time the Quick spend dreamin,
+while tranquilizers decrease time spent in
+dreams and distort dreaming.
+
+¢ Adults find it easiest to sleep and dream
+in midafternoon.
+
+¢ Artists and creative people, as well as
+those who are more open and sensitive, tend to
+be more prone to recurring nightmares.
+
+© Most people are effectively paralyzed dur-
+ing REM sleep; there are, however, a few rare
+people who act out their dreams. Doctors usu-
+ally prescribe the drug Clonazepam to treat this
+condition.
+
+¢ Three neurotransmitters in the mortal
+brain turn dreaming on and off: acetylcholine
+turns it on, and norepinephrine and serotonin
+turn it off.
+
+© In ancient Greece, dreams were thought
+to be messages from the gods.
+
+found that plasm does not undergo the same physiological
+responses that flesh experiences during sleep.
+
+State Artisans are popular among troupes of actors who
+work with them to produce certain effects. For instance, they
+can create hypnagogic dream states which occur at the onset
+of sleep and are primarily verbal and straightforward,
+panied by a feeling of strangeness and sensations of floating
+or falling. Lucid dreaming, on the other hand,
+ized by a complex "double awarenes:
+ness that she is dreaming. NREM dreams tend to be more
+logical and deal directly with current events in the dreamer's
+life, while REM dreams are vivid, comple
+
+charac
+" the dreamer's aware-
+
+, and bizarre.
+
+If a troupe wants a dreamer to remember a dream in vivid
+detail, State Artisans can awaken the dreamer during REM
+sleep. If a troupe is enacting a patron's vengeance or is feeling
+particularly malicious, the ate Artisan to
+
+
+withhold REM sleep from a dreamer. Many mortal studies have
+shown that reduced REM sleep leaves the Quick anxious, fa-
+tigued, unable to concentrate or even to remember recently
+learned information. Prolonged REM deprivation (six months
+or more) suppresses the release of growth hormones and can
+even kill brain cells. Some Master State Artisans can awakena
+part of the mortal brain while it is in NREM sleep, tricking it
+into causing the living to sleepwalk. It is also said that certain
+Master State Artisans can induce narcolepsy in the Quick by
+sending them into REM sleep while they are wide awake.
+
+Sit Guides
+
+Among the Heretic freelancers of the Southwest, af an-
+cient visionquest tradition exists. During these ceremonies,
+Sandmen known as Spirit Guides visit relatives or tribe mem-
+bers undergoing a visionquest and lead them' to a better under-
+standing of their own natures. To do so, they send dreams of an.
+animal guide or totem which best represents the dreamer's na-
+ture. Spirit Guides often work with shamanistic Oracles to peer:
+into the dreamer's future and craft the dream so that it/helps the
+dreamer understand herself well enough to.chodse wisely among
+her future paths.
+
+Once a Spirit Guide has chosenva dreamer, he appears before
+her in totemic form on occasion,throughout the rest of her life.
+Spirit Guides generally appear only when a ¢rucidl life decision or
+an event that will have wide répercussions is before the dreamer,
+
+Succubi / incubi
+
+Legends abound of exquisitely sexy fiend' who assume fe>
+male or male form to have sex with mortals in their sleep. Well,
+the legends are true — at least, everything but the fiend part.
+Certain Sandmen enjoy seducing the Quick in dreams, andial-
+most all mortals enjoy being so seduced. Troupes regularly em-
+ploy Succubi and Incubi, since there is no substitute for some-
+one who really knows how to seduce the living, Many Sandmen
+forget the feel of flesh on flesh when they passthrough the Shroud.
+Succubi and Incubi do not. They know just whére:to touch.
+
+Masters of this art can seduce the Deadduring Slumber,
+enchant a Heretic with a thread of gossamer, Or make a Hier-
+arch sigh with longing for the touch of a warm hand on\ her,
+thigh. Legends speak of Arch-Succubi who, aftet seducing a.
+mortal, can conceive wraithly infants by possessing the souls
+of ones who have recently died; similar legends tell of Arch-
+Incubi who make mortal women conceive children who are
+later stillborn. Some Sandmen speculate that Benandanti are
+the result of a successful union of Incubus and mortal.
+
+Wandering Troupes
+
+Not all Sandmen work with dreams as part of their regu-
+lar employment. Some simply stage dramatic performances
+similar in most respects to those staged by mortal actors, bal-
+lerinas, jugglers, magicians, clowns and so forth. Many
+
+Sandmen work with Chanteurs, Masquers and Oracles to vary
+the entertainment and draw in more diverse crowds.
+
+Such troupes wander from locale to locale/offering per-
+formances to passers-by and arranging brief engagements on
+the outskirts of many Necropoli. Some troupes specialize in
+certain forms of entertainment: traveling circuses, juggling
+and even fortune-telling are popular. Other, more ambitious
+troupes attempt ballet and other forms of dance, as well as s0-
+called,"wagon plays" (plays performed on and around troup
+wagons) and outdoor theatre.
+
+qhePatiahs
+
+Few realize it, but Phantasm is a powerful Arcanos when
+used with imagination and creativity, two characteristics
+which Sandmen possess in abundance. Unfortunately, because
+it is powerful, it has the potential to be powerfully misused.
+Sandmen:generally believe that the following two specializa-
+tions in Phantasm constitute abuse, and label those who en-
+gage in such activities "pariahs."
+
+Collectors
+
+Collectors are Oblivion-tainted Sandmen who collect
+and imprison sleeping souls. Skinlanders explain away many
+of these lost souls with references to comas, sleeping sick-
+ness, and neurological disorders, but a significant percentage
+of those who fall(asleep never to awaken comprise Collec-
+tors' victims.
+
+Teannot claim to.understand the psychology of a Collec-
+tor. Perhaps he-believes that these collected souls constitute
+personal power, or he hopes that they will somehow bestow on
+him fame and glory. Whatever the case may be, Collectors
+sicken the majority of Sandmen because they imprison what
+was meant to be free. If you ever run across or even hear ru-
+mots\of\a Collector, by all means, let others know. Sometimes
+it is possible to find/their haunts and release their victims.
+
+Dopplers
+
+Dopplérsmake a habit out of using the art of Supplant,
+an offshoot/of Phantasm. By stuffing souls into the wrong
+sleeping bodies, Dopplers can drive the Quick mad. Some say
+that the Laughing Lady keeps a retinue of Dopplers at her
+beck and call. It is further rumored among Renegades that
+she ‘often commands these Dopplers to switch the souls of
+two sleeping mortals who have insulted or angered her in some
+way, thereby eventually driving them insane.
+
+Again, if you hear of Dopplers among us, report them.
+Returning the souls of their victims to the proper bodies is
+relatively easy (as long as both bodies still live), and many
+freelancers and Unionist Dreamcrafters offer rewards for such
+aid. I have even heard of cases in which exorcisms performed
+by the faithful Quick returned the souls to their proper bod-
+ies, but I cannot vouch for the accuracy of these reports.
+
+Act II: Somnus' People
+
+‘
+
+
+A sweet thing, for whatever time,
+
+to revisit in dreams the dear dead we have lost.
+— Euripides, Alcestis, 355
+
+hantasm: an Arcanos, a profession, a call-
+ing and what sardonic Sandmen call "a
+way of life." Every Necropolis desires Pag-
+eants, so the Sandmen's art of illusion
+gives them a means and a reason to jour
+ney through the Shadowlands. Risking
+the dangers of Underworld travel,
+Sandmen pursue their own dreams by crafting and perform-
+ing dreams for others.
+
+The itinerant Dreamweavers tend to be cosmopolitan,
+moving easily through all levels of society. Because they carry
+news between Necropoli, troupes of Sandmen have occasion-
+ally escaped disaster at the hands of Legionnaires, marauding
+slavers and sometimes even Spectres. The price of escape may
+be as small as a piece of news or a free performance.
+
+On the other hand, for the same reasons that some at-
+tackers spare Sandmen, others assault troupes with special
+ferocity. An actor's life, even after it ends, is seldom easy.
+
+[raining
+
+An education in Phantasm involv
+
+s learning to under-
+stand the mind. In the realm where one's Shadow roams freely,
+psychology is better developed, but the learning is esoteric
+and requires a teacher.
+
+Guild Members
+
+Sandmen who belong to a Guild Circle find teachers more
+easily and pay them less than do those outside the Guild.
+Teachers of Phantasm are not usually mysterious — most are
+authentic celebrities, the Underworld's finest actors and
+Dreamcrafters — but they are often inaccessible. They travel
+everywhere on tight schedules; worse, untalented would-be
+students besiege them with requests for tutoring. If nothing
+
+Act III: Systems 47
+
+
+else, Guild membership (or the Mentor background) opens
+the door. After that, the hopeful applicant is on her own.
+
+Roleplay the bargaining over the price for training. In
+general, lesser uses of Phantasm (one or two dots) are cheap;
+for each dot in the ability the student desires, a teacher re-
+quires one year of service and a token price of one obolus. For
+higher abilities, the price per dot and the training time may
+double or triple. The service includes help in staging the
+teacher's Spectacles, running errands, bodyguard duty, or any-
+thing else the teacher wants. Many a Sandman-hopeful has
+spent years laboring as an understudy to the understudy, sup-
+porting himself by hawking his elusive mentor's cheap gossa-
+mer to a worshipful public and promising himself that his big
+break will come any day now. If McDonald's existed in the
+Underworld, he'd have a day job flipping burgers and day-
+dreaming.
+
+Outside the Guild
+
+Without the Mentor background or membership in the
+Dreamcrafters' Guild, a student seeking a teacher faces still
+greater difficulty. In addition to ordinary compensation, the
+teacher demands that the student show proof of ability. By
+custom this proof involves image-bartering.
+
+The teacher asks the student to bring in "a vivid image"
+of something the teacher hasn't seen before. She might make
+a general request ("I want to see a really morbid example of
+Oblivion") or set a specific task ("Show me the face of the
+Laughing Lady").
+
+The student journeys to the specified scene, studies and
+memorizes it, then returns to the teacher. Using Dreams of
+Sleep (Phantasm 3), the teacher causes the student to Slum-
+ber, then studies the image in dream. If she finds the student's
+eye discriminating and his imagination sharp, she may ac-
+cept him as a student.
+
+Note that students who ask to learn powerful and ma-
+
+levolent abilities, such as Agon, face even more demanding
+
+proofs. Teachers are reluctant to disseminate this knowledge
+to any but the most responsible Sandmen.
+
+qhe Learning Curve
+
+Training time is up to the Storyteller. Gen-
+erally, the specified length of service easily pro-
+vides enough time. The Storyteller may find
+it convenient to allot a character's training to
+the time between stories.
+
+he Storyteller may wish to enhance the
+basic Phantasm ability Sleepsense to let the
+Sandman observe not only the dreams of
+sleeping mortals, but also the dreams other
+Sandmen create, modify or recall. This lets
+fellow Sandmen exchange information
+and demonstrate techniques more easily.
+
+Some of the new arts/listed, below do not work against
+wraiths. In these cases, the Storyteller may allow a Sandman
+with the Dreams of Sleep art (Phantasm 3) to make a Percep-
+tion + Phantasm roll, difficulty 8, Stuccess lets the Sandman
+target a wraith with/a Phantasmal/artirhat ordinarily works
+only on mortals. The othér art's successes cannot exceed the
+number of successes on the Dreams of Sleep roll.
+
+* Cognizance
+
+This anciénearwléts a Slumbering wraith defend against a
+Sandman' dreamt manipulations orether Phantasinal effects.
+The wraith becomes ‘aware thathe.isdreaming, assets his will
+over the dream, and either directs ibor awakens fromiit.
+
+Many Sandmen train themselves to-achieve Cognizance
+automatically upon entering Slumber: They, also use,this art
+to induce lucid dreams in favored dreamers, thereby/protect-
+ing the mortals from hostile Sandmen.
+
+System: \The playet rolls Wits + Phantasms In the ab-
+sence of another'sinterference, the difficulty is/7; otherwise,
+the difficulty:equals the interfering Dreamcrafter's Willpower.
+Each success tolled subtracts one success /from attempts to
+change the dream. If the successes rolled exceed the number
+of successes rolled,using Dreams of Sleep,to make the wraith
+fall asleep, the Cognizant Wraith may either awaken instantly
+or pretend to be asleep. A botch means that the difficulty of
+any roll to interfere with the wraith'sdream is reduced by 1.
+
+The wraith may use Cognizancewhile awake to protect an-
+other dreamer (the target)\from, the effects of a third party (the
+manipulator). If the wraith rollsyat least one success, the target
+dreamer immediately receivesjan opposed Intelligence + Subter-
+fuge roll to resist the manipulator; the difficulty of the target's
+roll is reduced by 1 for each success on the Cognizance roll.
+
+This art costs no Pathos when used to defend oneself. It
+costs 1 Pathos to defend another.
+
++ Conclave
+
+For most of this century the Guild has escaped the
+Hierarchy's attention by conducting meetings in Dreamscapes.
+This art lets the wraith meet with fellow Sandmen at a prear-
+
+
+ranged dream location. Reaching this communal dream is not
+
+amatter of travel, but rather of selecting elements of the ever-
+changing dreamscape: a setting, a tone, a cast of performers.
+
+Like a set designer arranging a stage, the Sandman arrives at
+the proper vision — and finds that other members of the Guild
+
+have shown up, too. The meeting commences with little
+
+at
+emony, but, more often than not, much showmanship.
+System: To attend, the wraith must know the location
+of the Conclave. The player rolls Perception + Phantasm
+(difficulty 7). The suce
+wraith may remain at the Conclave: one sui
+
+ses rolled determine how long the
+ss allow
+
+sa few
+
+minutes; two successes, an hour; three, a scene; and so on.
+The wraith may attend the Conclave either while awake or
+while Slumbering, but in both cases, the Corpus is incapable
+of action while the wraith is "out." Any Corpus damage in-
+flicted upon a wraith in Conclave will instantly pull the
+Sandman's spirit back into its Corpus.
+
+This art costs no Pathos.
+
+‘
+Lingua
+
+Through symbolism and imagery, the Sandman commu-
+nicates ideas across language barriers. Its range resembles that
+
+of the parlor game Charades, but creative Dreamcrafters can
+convey messages of unexpected complexity.
+
+RiTeHie \
+
+BS
+any
+(ns .
+Lingua is quite old and was independently developed in
+many Underworld cultures. Eduard Hanslick, a German mu-
+sic critic in the 19th century and now a Domem in Stygia,
+traces Lingua's origin to Orpheus, whose beautiful singing was
+supposed to conjure visions in the air. But Dream-Painter
+Ngaio Atakpame of the Dark Kingdom of lvory points to the
+still more ancient myths of the Bantu god Bumba, creator
+and lawgiver, who made his will known to worshippers through
+dreams and visions.
+System: The player rolls Intelligence + Phantasm. The
+message's complexity determines the roll's difficulty. "Beware,
+there is danger" is difficulty 5, whereas "The Hierarchy has
+
+tricked a Spectre into attacking your city's Guild Sandmen
+during the next eclipse" is difficulty 8. Communication of
+abstract ideas ("The nature of dream clearly displays the vi-
+tality of Jungian archetypes") is usually impossible.
+
+The number of successes determines how quickly the tar-
+
+get grasps the idea. One success means the target must pon-
+
+der the message for a scene, rolling Intelligence + Enigmas
+(difficulty 6) to get the message. More successes will reduce
+the time spent in interpretation and reduce the difficulty of
+the target's Intelligence + Enigmas roll.
+
+This art costs 1 Pathos.
+
+
++ Inspire
+
+This ancient art inclines a mortal to express herself ar-
+tistically, or causes an established artist to conceive a great
+work in a dream or vision. (Unlike Muse [Keening 3], Inspire
+exercises the target's own creativity.) The Inspired work re-
+flects the Fetters, Passions or even the Shadow of the inspir-
+ing Sandman. The act of inspiration should be unique for
+each use of the art; the player should devise an appropriate
+dream and suggest to the Storyteller a work that might come
+from this.
+
+System: The player rolls Expression + Phantasm (diffi-
+culty 7). To inspire an unwilling or untalented mortal, the
+difficulty is 8. The more successes the player rolls, the more
+fervent and creative the artist's inspiration. Five or more suc-
+cesses may inspire an entirely new school of artistic pursuit.
+
+A large or revolutionary work may require an extended
+roll, as the Sandman must inspire the artist several times dur-
+ing its creation. A botch results in a work that is an embar-
+rassment in the artist's career, while the artist himself remains
+blind to its failings. A botch experienced during an extended
+roll irreparably mars the creation.
+
+This art costs 1 Pathos.
+
+~ Mending
+
+This recent development in Phantasm has excited inter-
+est among even the most blasé Sandmen. By tricking the
+mortal brain into accelerating its release of the tissue repair
+hormones naturally released during sleep, the Sandman uses
+a dreamer's body to heal itself. This art heals only normal
+(nonaggravated) damage, and the target must be unconscious.
+
+System: The player rolls Phantasm + Empathy (difficulty
+equals current injury level + Health Levels the Sandman
+wishes to heal). Every success rolled heals one Health Level
+of damage and costs the wraith 2 Pathos. The roll cannot
+heal more Health Levels than the chosen difficulty level al-
+lows. If the mortal is the Sandman's Fetter, the difficulty is
+reduced by 2.
+
+For example, a Sandman's former lover is cruelly beaten
+by a thug (Health Level: Incapacitated). Losing blood quickly,
+she passes out. The Sandman wants to heal her at least enough
+to stop the blood flow, bring her to consciousness, and let her
+crawl to safety. He rolls his Phantasm + Empathy versus diffi-
+culty 9 (Incapacitated = 7, and the Sandman wishes to heal
+two Health Levels). He rolls three successes, but only two
+apply because of the chosen difficulty level. Healing two
+Health Levels, he brings his lover back up to Mauled, so that
+she can wake up and hobble to find help.
+
+The Sandman may try to heal a given target only once per
+scene. A botch means the Sandman loses the Pathos without
+healing any damage, and acquired a point of temporary Angst.
+
+50
+
++ Incubus
+
+Mortal psychologists call it an "incubus nightmare." The
+sleeper feels an oppressive weight on his chest, sometimes
+visualized as a horrible catlike creature, and senses his vital-
+ity draining away. He wakes in a cold sweat.
+
+This nightmare art, the Phantasmal equivalent of the
+Usury ability Transfer, lets a Sandman drain energy from the
+mortal victim as Pathos. The nightmare itself lasts only a
+minute or so, but the preparation requires three hours, be-
+cause the mortal must be deeply asleep.
+
+Only certain rare mortals are susceptible to incubus night-
+mares. The susceptibility develops in adulthood, often in cre-
+ative people. A wraith can sense a mortal's susceptibility us-
+ing the basic Fatalism ability Kismet or the basic Usury abil-
+ity Assessment. Sandmen sometimes discover susceptible
+mortals by happening upon an incubus nightmare in progress.
+
+System: The player rolls Stamina + Phantasm (difficulty
+7). The number of successes is the amount of Pathos the wraith
+drains from the victim. The Sandman cannot drain a victim
+more than once per week.
+
+This art costs no Pathos, but the wraith's Shadow gains
+temporary Angst equal to the Pathos collected.
+
+ww Oneirataxia
+
+This art, very old and now fallen into disrepute, does not
+keep the target mortal from sleeping, but rather from dream-
+ing. Because dreams are critical to the mental health of mor-
+tals, dreamlessness brings mental upset and eventual mad-
+ness. Ultimately the target lives a waking dream, unable to
+distinguish fantasy from reality. This art does not work on
+Slumbering wraiths under any circumstances.
+
+Oneirataxia became unpopular after the Sandman Herve
+de Maupassant (died 1889) had it used against his still-living
+brother, the French short story writer Guy de Maupassant. Herve,
+psychotic and immature in life, took posthumous vengeance on.
+Guy, who had confined Herve in an asylum, by selling his own
+Corpus to a Night Terror in exchange for the elder Sandman's
+agreement to use Oneirataxia on Guy. Plagued by grief,
+dreamlessness, and daytime visions of awful supernatural creatures
+(depicted in his last story, "The Wolf'), Guy attempted suicide in
+1892. He failed in this attempt, but only survived another year
+as a lunatic; apparently he never arrived in the Shadowlands.
+
+System: In an extended roll, the player rolls Manipula-
+tion + Phantasm (difficulty 8 or the target's Willpower, which-
+ever is higher). The target may resist by using Wits + Medita-
+tion (difficulty 8). Each success indicates a night of dream-
+less sleep. For each three consecutive dreamless nights, the
+target's Mental and Social Attributes are reduced by one dot
+each (minimum one). The target recovers one dot per re-
+duced Attribute if the wraith botches any roll. After con-
+
+
+secutive dreamless nights equal to three times the number of
+dots in the target's highest Mental Attribute (minimum of
+six nights), the target goes insane.
+
+The wraith may continue the extended roll, accumulat-
+ing more successes. When the total successes reach 20, the
+target has suffered permanent, incurable brain damage. If the
+chain of consecutive dreamless nights is broken before this
+point, the target recovers one dot in each reduced Attribute
+for each night of peaceful, dreaming sleep. A wraith who wants
+to induce brain damage must start over again from zero.
+
+This art costs 2 Pathos per use, and the wraith's Shadow
+gains 1 point of Permanent Angst when the mortal goes mad.
+
+wm Supplant
+
+Just as a ruthless Sandman can tear a mortal soul from its
+body, so can she cram the same soul into a different sleeping
+body. Upon waking, the original soul snaps back to its proper
+shell, but the effect of the separation is powerful. In the fol-
+lowing weeks, the victim of a Supplanting feels inexplicable
+turmoil, sleeps restlessly, and experiences powerful visions of
+death and change. These visions grow more frequent the more
+times the soul is Supplanted, eventually driving the Sup-
+planted mortal insane.
+
+Twisted Sandmen have used this art to punish two of-
+fending mortals by switching their souls, a fate much approved
+of by the Laughing Lady. The effects of Supplant are never
+predictable, although close study of each person victimized
+might shed some light on the matter.
+
+System: Before a soul can be Supplanted into a new body,
+the art of Elysia (though some Dopplers prefer to use Agon) must
+first be used to separate it from its original body. If this original
+separation is not effected, then Supplant cannot be used.
+
+To insert the soul into the target shell, the player rolls
+Dexterity + Phantasm in an opposed roll against the disem-
+bodied soul's Intelligence + Awareness. If the wraith's suc-
+cesses exceed the soul's, the Supplanting works. Failure means
+the soul returns to its native body, driving out any other soul
+placed there. If another soul inhabits the target body, the
+Supplanting fails automatically while still incurring the costs
+associated with the art.
+
+If a living person has her soul Supplanted into another
+body and then dies before it is returned to its proper place,
+she automatically becomes a wraith with a permanent Angst
+equivalent to her Willpower, and the body containing her
+soul at the time of her death becomes a Fetter.
+
+Dopplering, the practice of slipping a soul in and out of a
+body as rapidly as possible, requires only one roll each for the
+
+
+uses of Elysia and Supplant involved. However, the difficulty
+of each of these rolls is at +1, and any botch destroys the soul
+the Doppler is playing with.
+
+This art costs 3 Pathos, and the Sandman's Shadow gains
+2 temporary Angst per use. Botching earns 3 points of tem-
+porary Angst while still costing 3 Pathos.
+
+Artitacts ot Dream
+
+s theatrical folk, Sandmen keenly appre-
+4j| ciate the value of props. They work with
+MW) Axtificers to Empower artifacts, seek de-
+K#]| vices from other Guilds that incorporate
+aN convincing Arcanos effects into their il-
+| lusions, and keep both (or however many)
+eyes open for desirable relics. However,
+the Dreamcrafter attitude toward these items is pragmatic. If
+an artifact supports an illusion or expedites a novel dream,
+well and good; otherwise, the Sandman generally sells or bar-
+ters it for something that does.
+
+Lo
+
+Sand (Common, Level })
+
+This shimmering material reduces the difficulty of Phan-
+tasm. Harvesting Sand from the minds of a few gifted dream-
+ers, the Sandmen scatter it by handfuls as they weave their
+illusions. The rare people whose dreams produce Sand
+("Sandmakers") are highly creative but have little outlet for
+their talents: quadriplegics, autistic children, abused house-
+wives and others. Their repressed creativity manifests as Sand.
+A Sandman covets and protects a Sandmaker, often keeping
+a lethal silence about the dreamer's identity and whereabouts.
+Experienced Sandmen may know of three to five such dream-
+ers. Infra-Guild battles of legendary proportions have been
+waged over the rights to a given Sandmaker.
+
+System: The actual harvesting of Sand requires a Dex-
+terity + Phantasm roll (difficulty 7), assuming of course that
+the setting of the dream is appropriate for a harvest. Sand is
+always granular, but may take the form of s
+
+a sand, cemetery
+dust, ground bone or any other substance that is plausible in
+the dream's setting. The acquisition of Sand is hardly an au-
+tomatic process, especially the Sandman's entry into the
+
+
+Sandmaker's dream and the changes the Sandman works there
+that let the scene plausibly produce granular material that
+can be harvested. Altering the dream to produce a workable
+setting often requires creativity; trying to transplant a fac-
+tory-floor anxiety nightmare to the beach simply won't work.
+
+Each point of Sand spent on any Phantasm roll reduces
+the roll's difficulty by 1 (minimum difficulty 2). Once spent,
+the Sand is exhausted. A given Sandmaker produces one point
+of Sand per story. After being harvested for Sand, a dreamer
+feels drained and listless the next day. Changelings harvested
+acquire one temporary point of Banality in addition to the
+physiological effects.
+
+Dreamspider (Luxury, Level 2)
+
+By placing this crystalline spider-sculpture in a mortal's
+dream, the Sandman may monitor the mortal's movements,
+general feelings and physical condition during waking hours.
+Not a creature but an automaton crafted by gifted Artificers,
+the Dreamspider relays its reports to the Sandman upon re-
+quest in a dull monotone, without capacity to judge or make
+inferences.
+
+The Dreamspider transforms to fit the host's dreamscape,
+and in waking hours becomes a sequence of persistent, an-
+noying thoughts. To power this transformation, a spider draws
+energy from its host's imagination. The longer it is left in a
+host, the greater the amount of creative energy it consumes,
+and the less there is left to the host. Should a Dreamspider be
+left in place too long, it drives the host into a torpid, dull-
+witted state. (This outcome grants the Sandman's Shadow 1
+point of temporary Angst.) More than one case of writer's
+block has ensued when a negligent Sandman accidentally left
+a Dreamspider in a host author for just one day too long.
+
+Mirror of Memory (usury, Level 3)
+
+Sandmen constructed these valuable mirrors in consulta-
+tion with the Mnemoi (for more information on this Guild,
+see the Wraith Player's Guide). A Mirror of Memory is a shal-
+low bowl of Stygian iron engraved with evocative symbols.
+When the Sandman spends 1 Pathos and concentrates on the
+bowl, it apparently fills with a dark liquid, the stuff of dream
+itself. In the still liquid the Sandman can see reflections of any
+dream the Mirror's owner has created, inspired, or encountered
+in the past. The effect lasts long enough to display a number of
+dreams equal to the Sandman's Perception; then the liquid
+vanishes. The Mirror works once per day.
+
+A Mirror of Memory can serve as an interesting clue or a
+Storyteller device for conveying information to the characters.
+
+Dreamcatcher Luxury, Level 3)
+
+Native Americans traditionally constructed
+dreamcatchers to prevent bad dreams from reaching their
+children. Nightmares would be trapped in the webbing, where
+they would remain until evaporated by the sun's rays, while
+good dreams "knew" their way through the hole in the web's
+center and into the mind of the sleeping child.
+
+Among wraiths, Sandmen construct Dreamcatchers to pro-
+tect favored morta
+can dreamcatchers, their webs, elaborately woven from spun
+
+Sand, filter out nightmares and allow only good dreams in.
+
+from bad dreams. Like the Native Ameri-
+
+By spending one Pathos and placing a Dreamcatcher in a
+mortal's dream, a Sandman prevents nightmares. The
+Dreamcatcher may appear as something entirely different within
+the context of the dream — a dam, a huge net, a magical garden
+gate — but it always serves to keep something bad out of the dream.
+
+53
+
+
+
+Act IV:
+And We Are Merely
+ayers
+
+I can hear the roar of a distant crowd
+They are waiting for me
+
+Calling my name
+
+Shouting out loud
+
+— Alan Parsons Project, "Limelight"
+
+All Sandmen have two things in common: They know are intended to serve as character possibilities. You can use
+the Arcanos Phantasm to one degree or another, and they _ them as is, modify them, or take these ideas and create your
+love drama, whether of their own creation or someone else's. own Sandmen.
+
+The following templates assume these two characteristics, and
+
+Quote: "Monsieur Henri Amiel once said, ‘To do what is
+impossible for talent is the mark of genius.' Guess I've that mark."
+
+Prelude: A starving playwright, you lived in a disordered
+apartment that might pass for a closet even in the worst part of
+
+town. Day and night, you toiled over your masterpieces, while
+your relationships with family and friends fell to pieces. When
+you finally realized what your obsession with your art had cost
+you, it was too late. Alone and in ill health, and a hopeless
+alcoholic, you died late one night while sitting at your desk.
+Your entrée into the playwrights' Valhalla was igno-
+minious. Reaped by some Renegade Union actors in search
+of a playwright, you spent the next decade scribbling melo-
+dramas and slapstick comedies, spending your meager sal-
+ary on a Sandman who'd teach you the Phantasm Arcanos.
+When you'd finally convinced yourself that you could script
+
+cultivated Pageants, you snubbed your theatre friends and
+ventured off to find work in another Necropolis.
+
+There, an older Sandman who functioned as an agent
+found your work exciting and decided to promote it. With
+habitual bravado, you try to discourage her charity, but de-
+spite your grumpy, obsessive-compulsive personality, you have
+become quite an Underworld star. What bothers you about
+this turn of events is the vacuousness you associate with popu-
+larity; you're certain that your renown means you've lost your
+literary genius. The question now is how to get it back.
+
+Concept: A closet Romantic, you don't buy into the
+Guild's patron/artist structure: You would rather eke out an
+existence in the Shadowlands' rattiest Necropolis writing
+meaningful pieces than bow and scrape to a paying patron,
+potboiling to fit his unrefined preferences. On the other hand,
+you want a stage upon which to produce your plays, so you
+reluctantly belong to the Dream Union. All in all, you've got
+the talent to support your independence; now you just have
+to prove to yourself that you're on par with the greatest
+inkslingers of the Underworld, Guild or not.
+
+Roleplaying Tips: Absorb everything going on around
+you and catalogue it asa potential subject for new Pag-
+eants — whether at your desk or not, you're always
+at work, constructing dramas from ideas gleaned
+from your surroundings. Those who don't under-
+
+stand this mentality are clearly Philistines;
+those who do are prob-
+ably playwrights
+
+and possibly rivals.
+Relics: Pen, pa-
+
+per, and portable
+writing desk; gossa-
+mer beret featuring
+dreams that resemble
+Cocteau's Orphée;
+book of quotations
+
+|
+
+|
+
+
+EY lame: rouble Gersins Nature: \isioneary life: erngating Playwright
+H Player: Demeanor: Loner Death: 4 ceohotisn
+
+Chronicle: Shadow: The Perfectionist Restel: 7ever having cvritter
+< your masterpiece
+Physical Social Nental
+Strength, @@000 Charisma, OO Perception.
+
+Dexterity. OO Manipulation, OO Intelligence.
+H Stamina, OOO Appearance. OOO Wits.
+
+Talents Skills Knowledge
+
+Crafts, OOOOO Bureaucracy. 00000
+
+Drive. @0000 Computer. 00000
+
+Awareness, Etiquette. @@000 Enigmas. @@000
+Firearms OOOO Investigation. 00000
+
+Dodge. Leadership. 00000 Law. 00000
+Empathy. Meditation, @O0000 Linguistics, @@000
+[Expression Melee, @0000 Medicine 00000
+H Intimidation, Performance. @00 Occult 00000
+Streetwise, Repair, OOOOO Politics. @0000
+Subterfuge. Stealth, @0000 Science. 00000
+
+3200-000000-0-0-000-0-8 090-04 Advantages SooeccOoC oC OOOO ope oOoCesr ff
+
+Backgrounds Passions Acai
+
+Guild Status @@000 Create great art ecc0ee Phantasm @e@0@00
+Mentor 0000 __(E ge) 00000 _Keening @0000
+Status OOOO Reconcile with your famity@@@@O _WMuemosynis @0000
+Eidolon @0000 _ (Regret) 00000 _Castigate @0000
+Punish those who didn't @OOOO 00000
+
+recognize your genius OQOOOO 00000
+
+(Revenge) 00000 00000
+
++POO-08 ((1)) TOOOCOc
+
+BEEBE EBRBEEREE
+Typewriter
+\ Acceptance letter from @®@000  ~poeo Willpower eeoooc
+a Publisher 00000 Freudian slip
+H] <SAot glass @0000
+
+Se EE 100196) aeoowe Pak fasion Coocea
+Eaperience a pees este: patos ~— Rick the Psyche for @@@@0
+
+BeBBBOOOOD —fealsefiand) 00000
+Destroy yoursel; @e@e@00
+
+elf pity) 00000
+2,1)
+
+
+Quote: "Why, what do you mean? I love her acting. .it's so
+
+4 ba vy)
+wonderfully formal."
+( e itl | 8 ge ll e Prelude: You excelled in theatre school, and when you
+
+got out, you had high expectations. You tried out for role af-
+ter role in commercial theatre, but never managed to clinch
+the big opportunity. Finally, the directors asked you to play
+understudy to the leading lady one too many times. Worse, |
+the leads rubbed your nose in it.
+
+So you invented your own drama. You adopted the role
+of the sweet, sympathetic ingénue, while secretly scheming
+to bump the lead actress and take her place. Your plans reached
+
+their zenith when you thought you'd managed to convince
+the director, via naive hints and allegations (and not a few
+late-night dinners), that your rival's lines played poorly
+off the other actors', her presentation was stiff, and, worst
+of all, the critics hated her. Unfortunately, when you
+realized that the director's opinion of the lead was not
+quite so low as yours, you choked on your dinner and
+gracelessly died of asphyxiation.
+Humiliated, you couldn't let go. Reaped by a
+small, unsuccessful troupe of Stygian freelancers, you
+joined the Hierarchy and played your games there.
+Eventually, an impresario peered beyond your
+seeming innocence, understanding the depth of —
+and talent inherent in — your cunning. Thanks to him, a
+Hierarchy bureaucrat has convinced you to finesse your
+way into the Machiavellian world of Stygian intrigue.
+While you enjoy this work for its dramatic tensions,
+you still obsess over unfulfilled stardom and your hu-
+miliating demise.
+
+Concept: You excel at portraying naiveté in all
+its myriad forms, while simultaneously working on
+your goal to become the Underworld's most fa-
+
+mous actress. Since you left the breathing
+world, simplicity has gone out of fashion,
+but there are still enough older wraiths who
+believe in innocence — especially within
+the Hierarchy — left to fool. You're so
+valuable to your employer precisely be-
+cause he has targeted that very audience:
+disillusioned and powerful older wraiths who
+are easily charmed by your veneer of sympa-
+thetic innocence and youth.
+
+Roleplaying Tips: While you radiate sincerity and art-
+lessness, underneath, your humiliation has become an obses-
+sion. You try to keep the nature of your death a secret. You
+envy success, especially the success of prospering actors, and
+do your best to sabotage their careers. At the same time, your
+envy is somewhat justified: You are a genuinely talented ac-
+~ Y tress with a regrettable tendency to find bad luck even in the
+
+most providential places.
+2 Relic: Lace fan
+
+Guildbook: Sandmen
+
+0 =e
+
+
+ID) Nate: .S cheming Ingenne
+} Player:
+1 Chronicle:
+
+Nature: Corrtver
+Demeanor: 242A
+Shadow: Ae Leech
+
+life Professional Understudy
+Death: Choking in Disbelief
+Regret: Never having been a star
+
+Physical
+000
+000
+000
+
+Strength.
+Dexterity.
+
+Talents
+4 Alertness,
+Athletics,
+
+Dodge.
+Empathy,
+
+| Expression.
+
+f} Intimidation,
+Streetwise.
+Subterfuge.
+
+Social
+Charisma. @eee0
+Manipulation. fe)
+‘Appearance. e
+
+Mental
+e@00
+e000
+@00
+
+Perception,
+Intelligence.
+Wits,
+
+Abilities -orcoccocccoceccccoess
+
+Skil
+@0000
+O00
+@0000
+OO00O0
+OO000O0
+
+Crafts,
+Drive.
+Etiquette.
+Firearms,
+Leadership.
+
+Knowledge
+00000
+OO0000
+@0000
+00000
+OO0000
+
+Bureaucracy,
+Computer,
+Enigmas.
+Investigation,
+Law,
+
+00000
+00000
+@e@e@00
+OO0O000
+@@000
+
+Meditation,
+Melee.
+Performance.
+Repair.
+Stealth,
+
+@0000
+00000
+@0000
+@0000
+@0000
+
+Linguistics,
+Medicine
+Occult.
+Politics,
+Science,
+
+( Backgrounds
+Contacts @@000
+Mentor @@000
+Memoriam @0000
+WWeatth @0000
+00000
+00000
+00000
+
+Passions
+Ruin the careers of those @@@@@
+
+Arcani
+
+Eubody @e@000
+
+you understudied for _OOOOO
+
+P\/hantasm @@000
+
+(Revenge) 00000
+
+Usury @0000
+
+Become a star ee0ecee
+
+WMoliate @0000
+
+(E40) 00000
+
+OO0000
+
+OO0000
+
+00000
+
+00000
+
+00000
+
+YOO fetters oooeoo rPoeooe Corpus poSeooec
+
+«Stage where you first @@@@O
+
+starred 00000
+
+Y Playbill magazine @®®OO
+Equity union card @e@000
+
+p ERS Se ae PS rE 0101010) 8)
+OO000O0
+
+Experience
+
+rpoee filo coococ
+@oo
+
+ooo
+@ooo0o00
+
+@
+a
+woe. Pith; roooooe
+BEEBEBEBOOUO0
+
+wooooo> Ant
+@e@eoo0o00000
+M@BooO00000
+
+peeso Thin coocc]e
+Trick of the tight, Bad Luck
+
+Pact of Doom
+Poco, Dik Passions o-oo
+Bina dota spur patron (Gealonsy) @
+
+Ruin the Lives of alt you met @@@OO
+(Contempt) ___ 00000
+Geduce the Porverful Cortemgt) @OOOO
+
+
+Quote: "In the past, DeGioulle's tendency to play up the
+duality of death's beautiful and macabre nature resulted in a genu-
+inely unsettling effect; in his most recent Pageant, Death's Door,
+this theme falls flat on its face."
+
+Prelude: Early on, you dis-
+covered that your interest in the-
+atre would never amount to an
+acting career. And, while you
+had a feel for the elements of
+good scripting and directing, you
+didn't have the patience to en-
+gage in either. Theatre and film
+reviews showcased your talents,
+though, and soon enough the
+big-name newspaper editors
+were scrambling over them-
+selves to buy your pieces.
+
+Your career took a nose-
+dive, however, when compromis-
+ing pictures of you and a Holly-
+wood star whose film you'd lion-
+ized appeared in the papers. Your
+credibility lost, you took a series
+of hack jobs. Finally, embittered,
+old and never having quite rec-
+onciled yourself to your mistake,
+you angrily committed suicide.
+
+If your life proved a disap-
+pointment, your death has been
+even more so. Perhaps because
+
+of the persistently backward atti-
+tudes about theatre, the Underworld
+hasn't warmed to the idea of modern amoral
+critics as much as it might have. Newspapers are hard
+tocome by, and news is often slanted to favor Stygian views.
+You have resolved to change this indifference — you have even
+constructed a printing press with the assistance of the Unionists —
+but thus far you haven't changed the Underworld.
+
+Concept: You're known as someone who makes up his mind and gets things
+done. Your printing press proved that, and soon you'll have even greater plans
+for enlarging the role of the critic in the Shadowlands. The reviews that you
+write and self-publish speak for themselves, often undermining the same hier-
+archical "Hollywood" establishment that put you under while alive.
+
+Roleplaying Tips: Mutter to yourself about the tragic indifference of hu-
+mans, whether alive or dead, toward art. Indulge your critical nature on those
+
+who seem most indifferent, and on dramatic works which foster the per-
+
+ception of art as somehow "other" and incomprehensible. You're a
+
+critic and a pushy old fart: bully others into listening to your ubiqui-
+
+tous opinions on everything from dramatic style to which lipstick lead-
+ing ladies should wear.
+
+Relics: Printing press; laptop for writing reviews
+
+
+Nate: Zrama Critic
+Player:
+Chronicle:
+
+i)
+ie
+
+Physical
+
+@@000
+e000
+@e@000
+
+om
+
+© Strength,
+
+Dexterity.
+Stamina
+
+(
+| Talents
+Alertness OOO00O
+Athletics, 00000
+Awareness, @@000
+Brawl,
+Dodge @0000
+) Empathy.
+Expression.
+Intimidation.
+Streetwise @0000
+Subterfuge. @0000
+
+O) aa
+Nature: @ritzc
+Demeanor: Curmudgeore
+Shadow: Ae Vtonster
+
+Soca
+Charisma. @ee00
+Manipulation. e@00
+Appearance, @@000
+
+wocccoococcceccesces Mbilifis oonoocoo co ococoeccoese
+
+skills
+Crafts 00000
+Drive. @0000
+Etiquette. @0000
+Firearms. OO0000
+Leadership 00000
+Meditation. 00000
+Melee. 00000
+Performance. @0000
+Repair. 00000
+Stealth. @0000
+
+life. Big-time syndicated critic
+Death: .¢ nicide
+
+Regret: Having throwm all the
+success AWAY
+
+Nental
+
+Perception,
+Intelligence.
+Wits.
+
+Knowledge
+
+Bureaucracy.
+Computer.
+Enigmas,
+Investigation.
+Law.
+Linguistics
+Medicine.
+Occult,
+Politics.
+
+Science.
+
+Backgrounds Passions Acai
+
+Mi Memoriam @@000 Reward great art e00ee0 Sutalism @0000
+WM] Guild status @0000 _ (Love) 00000 _Liferves @0000
+Viotoriety @0000 Advance the cause of QO000 Phantasm @@000
+Relic @@@00 _ the theater 00000 Puppetry @0000
+Allies @0000 _ (Pride) 00000 _Msury @0000
+00000 Triumph over those who @@@00 00000
+
+OO0000 __ dismissed you (oven) OOO0O 00000
+
+fettes ooo
+Copy of first published @@@@O
+< article 00000
+| First check for writing @@®OO
+
+| Jucriminating photo Yeyeye)
+Antographed picture of @0000
+
+I you and Woody A tlen 00000
+
+Experience
+
+er)
+
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, Willpower: 5, Pathos: 5 + Memoriam, Freebies: 15 (5,2,1)
+
+Boece (ip) Oooo ee
+
+rpoes filpoier coccee
+@e@e@e@aeeeooo0dood
+BEBBEBBOOUOO
+woes Pills pooCCee
+
+BEBEBEBBBOOO
+
+Aigt Coos Hy
+@ee@eooo0oo0d
+Beeonoo0od
+
+Shadow Trait (Strength)
+
+sooo Dal Pasion HOODOO
+
+Dissmiss the work of all @@eoe
+others (Contempt) 00000
+
+Create sousthing better than@@@@O
+areypne cbse, ever (Evy) OOOOO
+
+
+Quote: "The lights! The lights! They bring out my cheek-
+ae) bones, don't you think? Do you know, D. W. Griffith always said
+
+, T had marvelous cheekbones. Do you like them? Dear boys and
+girls, being among you makes me feel so young."
+
+Prelude: The day's filming had already gone terribly, ter-
+tibly badly. Rudolph was in a foul mood and had obviously
+been drinking, which made his David stupendously un-
+convincing in the love scene with your Bathsheba. To
+augment the insult, on the next set the Keystone Kops
+(those rabble!) were setting up a clatter that made it
+impossible to think, simply impossible.
+
+And then, to make the entire experience an un-
+mitigated disaster, a klieg light fell on you and broke
+your neck.
+
+Concept: For a time the Underworld (how like a
+darkened cinema!) treated you with the respect suited
+to one of your...your stature. In Pageants as in the
+silents, you made the watcher's heart beat faster
+—or anyway, they adored you. Yet now cruel fash-
+
+ion has passed you by, much as the talkies aban-
+
+doned many in your profession like so many
+drowned kittens. But true talent must tell!
+You will ally yourself with promising new-
+comers and dazzle observers with your
+achievements. In months, perhaps
+weeks, your name will be on every lip.
+And then — comeback!
+
+Roleplaying Tips: Guide your
+fellow wraiths with the wisdom of
+your long experience. Encourage
+them to appreciate your beauty.
+
+Though you are high-strung and can
+be mortified by any insult, you have an
+inner strength that guides you through
+crises. Develop a situation to highlight
+your central role, and to a lesser ex-
+tent the roles of your companions.
+And don't forget your Arcanos: il-
+lusion makes you lovely (although
+sometimes the illusion lies in
+your own mind, not in Phan-
+tasm).
+
+Relics: A treasured
+collection of reviews; the
+handkerchief, once
+
+scented, that you received
+
+as a token of affection
+from Rudolph Valentino
+
+Guildbook: Sandmen
+0 twos S
+
+—=--
+
+
+Name: Fiore Queen Nature: Bon Vivant life: 4 ctress
+b player: Demeanor: Bore Vivant Death: Crushed by Kileig Light
+1 Chronicle: Shadow: Ae Parent eatel: Wot having that one big hit
+se 3 td
+
+Physical Sacil Mental
+Strength, @O000 Charisma. @O Perception,
+Dexterity, OOO Manipulation. OOO Intelligence.
+H} Stamina @@000 Appearance. ©0000 Wits @0000
+
+Talents skils Knowledge
+ae Crafts, OOOOO Bureaucracy. @0000
+Drive. @0000 Computer. 00000
+i Awareness, Etiquette, (OOO Enigmas @0000
+EW Brawl, Firearms, @0000 Investigation. 00000
+
+| Dodge Leadership. @0000 Law. @@000
+Empathy. Meditation. 00000 _ Linguistics 00000
+
+Wi Expression, Melee. 00000 Medicine @0000
+
+H Intimidation, Performance C0008 Occult 00000
+Streetwise, Repair. 00000 Politics 00000
+Subterfuge. Stealth, @0000 Science. 00000
+
+Backgrounds Passions Arai
+M Artifact @@000 Receive your otd films @@@@0 Embody @0000
+NY Wveates. e000 _ (£40) 00000 _Jutimation @@000
+Giuitd Status e000 Bring tack glamour t}@@@O0O _Motiate @0000
+Memorian e@@00 Hollywnod 00000 Phantasm @@000
+00000 __(Mestatgia) 00000 _Puppetry @0000
+00000 Revel in Advlation _@@®®00 00000
+00000 _(£g) 00000 00000
+
+K J rocco fits moomoo DPO-O-0-0 (1)) POOoOoc POCO fj poococes f
+
+fo) EA mrsie goats ecco BE BEEBEEEE @e0e0e000000
+Wj KAitieg light BEBBBOOUOO0
+] Favorite costume goin poo. Willpower Poco reco [hon Dooce c
+Film of first screen tes$@®OOO @BSRSRSBROOOO _Lils Dare chadie Catt,
+Hadyintsin foto} Gor @O0O0 BREE BOOOd Tainted Relic
+san's Chinese Theater OOOOO
+
+aoa. Ditk Psion 2-0-0
+
+Uh -cocco litt: moos Poe fills Poo ocee Destiny all yur rivals (oy) @
+
+BEB Bw www Ae Aces who hae sesso
+clined vpur legend (Fate) OOOO
+
+————$_—__— _9)9000
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, leet 5, Pathos: 5 + Memoriam, Fre 15 (5,2,1)
+
+
+Quote: "I've got a script — great script! — by a new fellow
+
+in Atlanta, and I've got a firm commitment from — guess —
+
+Richard Burbage! Yes! Believe me, Dickie's a wonderful man. For fj
+director, I'm talking with Lawrence Mannering. You
+don't know him? How could you not know
+him? Trust me: tremendous stuff. Tremen-
+dous. Now, here's where I see you fittingin...."
+Prelude: Death has a haunted, desper-
+ate quality for you, but then again, so did life.
+After exciting combat service in the Pacific,
+
+}
+‘
+. |
+postwar life was a letdown: You worked as an
+:
+
+insurance executive, retired with a gold watch
+after 40 years of service, then died of a heart
+attack shoveling snow. Blehh. But you nur-
+
+tured your dreams, and in the Underworld
+
+you've started to make them come true. Res-
+
+cued from slavers by a passing troupe of
+Sandmen, you fell in with them, worked your
+way up to management, and started producing Pag-
+eants. With this lucky second start, you won't let your
+dreams slip away again.
+
+Concept: Florid, confident, and unshakably am-
+bitious, you strive for big goals and convince others to
+share them. Let others get all the glory; you want the
+profits and the influence. Your reputation for getting
+things done has brought some big projects your way,
+and you intend to carry them out with authentic, in-
+dividual vision.
+
+Roleplaying Tips: You don't order people around
+— you maneuver them. Do what you can to turn dan-
+gers into the stuff of great productions. Envision big
+deals, work every promising newcomer into your
+scheme, take disaster in stride, and always keep your
+eye on the big, big picture.
+
+Relics: Gold retirement watch; souvenir bayo-
+net from the Battle of Iwo Jima, little black book
+
+Guildbook: Sandmen
+
+0 o—Z-
+
+
+Name: Impresario Nature: Zirector life Insurance Executive
+H Player: Demeanor: Bor Vivant Death: Cardiac Arrest
+
+chronicle: Shadow: Zhe Pusher Restet: "Lhe LL tter tack of excitement
+A in your Cife
+Physical Social Mental
+Strength, (OOO Charisma. OO Perception,
+H Dexterity. ®®OOO = Manipulation. @® Intelligence
+Stamina, @@000 Appearance. @@000 Wits, @e@0@00
+
+Talents Skills Knowledge
+Alertness, Crafts, OOOOO Bureaucracy. @e@e00
+Athletics, Drive. @@000 Computer. 00000
+Awareness, Etiquette, OOOOO Enigmas. @@000
+Brawl. Firearms, @@@00 Investigation, 00000
+Dodge. Leadership. @@000 Law. @@000
+| Empathy. Meditation, OOOOO Linguistics, 00000
+Expression. Melee. Medicine, 00000
+Intimidation, Performance. Occult. 00000
+Streetwise. Repair, Politics, @@000
+Subterfuge. Stealth, Science. 00000
+
+Backgrounds Passions Acari
+
+©0000 Protect your widoerv (Love) @@@O0O _Argos @0000
+Contacts 0000 Have some Fun! ©0000 Inhabit @0000
+Guild Status @@000 _ (Hedonism) 00000 _Jutimation @0000
+Haunt @0000 Make decals happen  @@000 Phantasm @0000
+Wreath @0000 _(Pride) 00000 _Lsury @0000
+
+00000 Bring your dreams 0 @®00O 00000
+
+00000 Life onstage (Joy) 00000
+
+} o-oo Fetters Poopes oOo (Ii)Ii) POO COeCc Wooo or fi
+Gold watch BEEREBEBERE C0800
+Snowy shovel BEBBOO
+| Purple Heart poe. lilhoiae cocce. woocoe: jin roomee
+Othhome ©0000 PHO HSHOKDO OO Shadow Life
+00000 B@BBEBEBOO000
+OOO00O0
+
+Eneriene poor +>Oe-ome Pathos Deooocoed
+
+BSBBBBO00000
+
+wt
+
+ooo Dik Pasion cooco
+Orchestrat disasters (}ate)
+
+Brinag the host's wife to the @@000
+_Shaheer lads (Trrisid Loe) QOOOO
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, Willpower: 5, Pathos: 5 + Memoriam, Freebies: 15 (5,2,1)
+
+
+The Big
+
+nter The Narrator, in a black evening gown
+and black elbow-length silk gloves. She car-
+ries a slender, metal-tipped wand, less than a
+foot in length, which traces fluid figures in
+the air as she speaks — spartan character
+portraits, line-drawings that shimmer against
+the maroon velvet stage curtain then drift to
+the floor like faded flower petals.
+
+The Narrator: By now, I expect that many of you have at
+least been entertained at the parties and salons thrown by our
+lesser talents. For your sakes, however, I hope that you have the
+opportunity someday to meet the individuals I am about to de-
+scribe. Truly, their talent burns so brightly as to chase away even
+the darkest shadows of the Sunless Lands.
+
+hikaru Matsuki
+
+ike a world-famous conductor, Western-
+born Hikaru Matsuki carries with him
+throughout Stygia and the Shadowlands
+the renown of a Sandman Guildmaster.
+Ordinarily, such fame would pose signifi-
+i] cant danger, particularly from the worst
+of the Hierarchy bureaucrats. However, no
+one really knows who wears Matsuki's mask. Many an assas-
+sin has fed an impostor to the Spectres, only to find Matsuki
+
+Guildbook: Sandmen
+) ==
+ff Pp.
+
+Foilogue:
+
+Players
+
+reappearing to direct yet another Spectacle for the Dream Lords
+of the Tempest.
+
+In life, Matsuki is said to have mastered the difficult art of
+avant-garde theatre direction by insisting upon audience partici-
+pation and by employing elaborate sets which touched all the
+senses. He has carried this artistic genius through the gates of death,
+reforging and refining it in the cold fires of the Underworld until
+now he truly can be said to shape reality within the minds of both
+mortal dreamers and wraiths who participate in his Spectacles. In
+fact, many of his dreams evolve into elaborate plots in which
+mortals and wraiths find themselves the major players, almost as if
+he had transported them to a state between death and life where
+dreams and dream-logic constitute the unrelenting norm.
+
+Because I do not know Matsuki personally, I cannot vouch
+that "he" is a single wraith. His work shows consistency, and I
+have heard many politicos and artists throughout the Shadowlands
+refer to him as a friend, but then, Matsuki belongs to an actors'
+guild, a pool of individuals talented in, among other things, im-
+personation. Of late, rumors about Matsuki's involvement in a
+Guild Renaissance have begun to circulate throughout the Sunless
+artistic communities, drawing the curiosity of Hierarchy ladder-
+climbers intent on quashing the seemingly resurgent Guilds. If
+Matsuki involves himself in this resurgence, these Underworld
+powermongers may force him to call in certain favors sooner than
+he'd like. . .or perhaps he is counting on their involvement.
+
+On a day to day basis, Matsuki directs a troupe known as
+Fanfare which produces Pageants for its audiences as it travels
+
+
+throughout the Shadowlands. Urbane and elite, Fanfare accepts
+very few new Dreamcrafters each year, although occasionally it
+employs Sandmen when a play or dream requires a large cast of
+"professionals" (as opposed to general audiences who cannot act
+their way out of a Nihil) or simply some supernumeraries. On
+occasion, Fanfare hosts a Dreamtime in which the Sandmen
+involved create a costly and elaborately composed dream for a
+sleeping mortal. I once participated in one composed by the con-
+troversial genius Anton de Varzonzuela and directed by Matsuki,
+and patronized by a masked and powerful Dream Lord whom
+none of us knew. It became apparent, as the dream progressed,
+that this Dream Lord was using Fanfare to shape the imagina-
+tion of a certain mortal artist whose revolutionary work was highly
+regarded among Renegades. While I thoroughly enjoyed work-
+ing with the talented members of Fanfare, I fear the political
+consequences of being associated with the group.
+
+Divan Cherilly
+
+ixan came to us relatively recently, an
+impassioned ingénue gifted with a sensual
+command of spoken and body language
+and a flair for improvisation. If ever you
+meet her, you will discover that she is
+quite a tomboy, although she claims to
+have been an escapee of the well-man-
+nered Georgian high-society tea socials of the mid-1800s. She
+also claims to possess the reincarnated soul of Thespis, the
+ancient Greek poet and father of drama, although I suspect
+the claim is just another example of her cunning efforts at
+self-fashioning. Image-crafting aside, even if she were mysti-
+cally connected with Thespis, her art draws primarily upon
+metrical irregularities and a blatant disregard for the Aristo-
+telian unities of the romantic stage, characteristics most surely
+avoided by one such as Thespis even in a reincarnated state.
+
+Dixan is famed for her command of oneiric pacing, the
+ability to pace staged dreams to match the imaginative ca-
+pacities of the dreamer. Many Sandmen directors find this
+ability useful in performers, for a strong command of it helps
+actors to avoid damaging dreaming souls.
+
+Dixan straightforwardly admits her involvement with the
+illegal Sandmen's Guild. She has been known to mentor nov-
+ices and those wishing to involve themselves in the Union-
+ists. Although the Hierarchy has called her on her involve-
+ment in the Guild a number of times, somehow Dixan always
+manages to avoid the forges.
+
+As novice Sandmen, I would recommend that, should you
+ever have the fortune to meet Dixan, you take advantage of the
+opportunity. She can connect you with a good many talented
+Sandmen, and she can teach you quite a bit about the profession.
+Speaking from personal experience, she can also be a great friend.
+
+Epilogue: The Big Players
+
+
+Anton de Varonauela
+
+=a) n my years as a Sandman, I have traveled
+6) far and wide throughout the Shadowlands
+oF
+
+7) and Stygia and met many a wraith; but
+®| never have I met anyone, even among the
+dread Dream Lords, quite like Anton. An
+outsider among Sandmen, he glides from
+locale to locale with the randomness of
+dream-logic, yet disciplines himself and his craft with the pre-
+cision of a Usurer. With the internal artistry of a Pirandello
+and the genius of a Shakespeare, he bends the mind's will to
+his own. He is a master Dreamcrafter, and many a time our
+troupe has found inspiration in his Pageants.
+
+Lost are the days when the lords of Stygia regaled fa-
+vored freelance Dreamcrafters with gifts and honors. Among
+the darlings of the Dream Lords and yet ever the controver-
+sial figure, Anton earned a wealth of Stygian coins and goods,
+graciously bowed his head to accept his laurels, but unrelent-
+ingly spurned the titles and commissions the Deathlords of-
+fered him, particularly the gifts of the Laughing Lady.
+
+He refused one too many times. The Dreamcrafter learned
+of the Laughing Lady's twisted plot to dispose of him, yet I
+am still not clear as to why she would want such a thing.
+Perhaps because he spurned her, but perhaps also, as he hinted
+to me, because he knew too much.
+
+Vagabond he might be, but once he could often be found
+making the rounds of the Stygian courts. No longer, for court
+has proven too perilous. Anton now travels the byways of the
+Tempest, cloaked in dreams and peddling fantasies to philis-
+tines. When last I saw him, he claimed to have just returned
+from the City of Delights. At first, I did not believe him,
+since little is known of such faraway lands and rumor claims
+that only the Heavenly Regent can grant foreigners entrance
+to the City (and that only rarely). But Anton showed me a
+pomegranate —a living fruit in the land of the dead! — given
+him by the Regent from his gardens, and I had to believe.
+
+Everywhere Anton travels, fate has followed him like a
+leashed dog. He has played artisan to emperors and queens
+who cannot guess at his games or at his importance in the
+politics of Stygia and its enemies. He thinks in layers, plays
+within plays, but his art is such that it appears as madness,
+north-north-west. If ever you meet him, beware his easy man-
+ner and his easier questions, or you too will find yourself among
+his devoted followers and caught in the intrigues that inevi-
+tably swirl around him.
+
+ea
+
+
+Demeanor:
+Shadow:
+
+Physical Sovial Mental
+Sj Strength, @0000 Charisma. @0000 Perception, @0000
+f Dexterity. (OOOO Manipulation OOOO Intelligence. @0000
+YA} Stamina. @O000 Appearance. @0000 Wits
+
+Talents Knowledge
+Alertness, 00000 Crafts 00000 Bureaucracy 00000
+H Athletics 00000 _ Drive. 0Q0000 Computer 00000
+Awareness 00000 Etiquette. 00000 Enigmas 00000
+Brawl 00000 Firearms 00000 Investigation 00000
+Dodge. 00000 Leadership 00000 Law. 00000
+Empathy. 00000 Meditation, 00000 Linguistics 00000
+| Expression 00000 Melee. 00000 Medicine. 00000
+HY Intimidation, 00000 Performance 00000 Occult 00000
+Streetwise OQ000O Repair 00000 Politics 00000
+Subterfuge 00000 Stealth 00000 Science 00000
+
+woccccccocececoesoe: |ilalligts cocpcocccccneeneccoccs
+
+Backgrounds Passions
+00000 00000
+OOO00O0 OOO0O0
+OO000O0 OOOO0O
+OO00O0 00000
+00000 OO00O0
+00000 OO0000
+OO0000 00000
+
+J occ: Mtiili poe Se PeEss (IN; DOC CCeE Ooo jill) meocee \
+oooo0 QDOOOOOOO000
+OOO00O0
+00000 scarce lillie Coccee roe firathy statment coo,
+90000 ODOOOQOOO0000
+c0000 NOO00000000
+OO000O0
+
+Guill M@soooeeos OOo Pathos Pescoe, POS bition Atachnent Poooo
+
+OQO00000000
+
+Grssamer
+
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, Willpower: 5, Pathos: 5 + Memoriam, Freebies: 15 (5,2,1)
+
+
+Tite "
+rwocccoocccecceecocces bbls cocomeeccceocoocccoces if
+Age. Apparent Age. Gender,
+
+} Date of Birth R.LP. Height.
+Hair, Ba Weight
+Race. Nationality.
+
+ft) Garb,
+Other Distinguishing Features
+
+(7, Psyche:
+¥ Shadowguide:Player:
+
+Thorns Dark Passions
+
+Tig ss 3 OO000'!
+00000
+00000
+
+0000
+00000
+00000
+
+
+Allies Contacts
+
+Guild Status
+
+Contacts Status
+
+Memoriam Mentor
+
+Notoriety Wealth
+
+Relis
+
+woocccccocconcoe [reascape Description wecoccocccmcceooces |
+
+1] wooo ooo oO OP OOO Doe favorite Stages
+
+Description
+
+
+Tye Cot flaw
+
+ocooocosescoo Experience peop oocen
+Total:
+
+Total Spent:
+Spent On:
+
+reooooeo. Ancient New Arts Known
+
+(osamer ences: ccocces: (ill Standing § (ontats ococce f
+Standing
+
+Rank
+Guild Contacts
+
+Apprenticed to:
+
+Brawling Table
+
+Weapon Difficulty [Damage] Conceal] Range | Rate ay
+
+
+Go When They Die?
+
+So, tittle dead man, have youcome join our masque?
+Welcome to the play that never ends, the dream that
+dreams ‘itself through eternity. Once upon a time,
+
+Lthought that Life was-Art and Art was Life.
+Now:-L-know better. Soon, you will-too.
+
+— Malaika Singleton, Night Angel of Philadelphia
+
+~ Only the Living Can Awaken From This Dream!
+
+5 AS: you close your éyés, they're waiting for you. As soon as you start
+to dream, you belong-to them. Patiently they-wait to take your soulon
+gossamer wings, to show it splendors you-can scarcely imagine and terrors
+you_ean barely comprehend. And when your entertainment is over, theirs begins.
+Sweet dreams. «~
+: Guildbook: Sandmen is the second in the series of Guildbooks for Wraith:
+The Oblivion. Journey with the wraiths of dream'as they mine the
+; phantasmagorias of mortals for inspiration. See with them the splendors
+of the Theater of the Dead: Tremble as they rip screaming souls
+from sleeping bodies.
+All of the'seerets of the Sandmen are here;
+- if you dare to learn them.
+: Unmasking the hidden lore of-the-Guild that ee
+dares most openly to defy Stygia, :
+Guildbook: Sandmen also includes:
+© Night Terrors, Oneiric Pacers, Wordsmiths,
+Night Angels, and other Sandmen:
+the Shadowlands can't = or won't = do'without!
+¢ New uses of the Phantasm Arcanos!
+© The truth:about ;
+the mysterious Dream Ring; and more!
+
+ISBN 1-56504-662-5 —
+780-PARK NORTH BLVD. WW 630! $120 00= =
+
+g SUITE 100 oS = — ' 4200
+CIN, C00 et | Hi i
+
+c= Liv iow
+
+Mai
+
+565!04662 7
+
+eee ee
+
+GAME STUDIO

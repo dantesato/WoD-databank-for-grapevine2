@@ -1,0 +1,2464 @@
+# File: The Mage Tarot (Revised).txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+Glue Here - Glue Here - Glue Here
+
+VQVNVO NI G3.LNIdd
+
+$19.95 U.S.
+
+ISBN 1-56504-440-1
+0
+
+WW412
+9°781565"044401
+
+Glue Here - Glue Here - Glue Here
+
+
+Designs of Destiny
+Designed by Nicky Rea and Jackie Cassada
+
+Art by John Cobb, Larry MacDougall, Alex Sheikman, Dan
+Smith, Larry Snelly and Joshua Gabriel Timbrook
+
+1
+
+Credits
+
+Design and Writing: Nicky Rea and Jackie Cassada
+Additional Material: Stewart MacWilliam
+
+From an Original Design Concept by: Richard Thomas and Sam
+Chupp
+
+Development: Phil Brucato
+
+Editing: Cynthia Summers
+
+Art Direction: Richard Thomas
+
+Artists: Joshua Gabriel Timbrook (Major Arcana), Alex Sheikman
+(Suit of Questing), John Cobb (Suit of Primordial), Larry MacDougall
+(Suit of Dynamism), and Dan Smith (Suit of Pattern)
+
+Colorists: Larry Snelly, Joshua Gabriel Timbrook
+Book Layout & Package Design: Aileen E. Miles
+
+Authors' Dedications:
+
+Let us call now for the makers of strong images,
+
+Let them come to us now carrying their quills and sharp razors
+Let them gash their arms for ink and let them limn.
+
+— Neil Gaiman, "The Song of the Audience"
+
+To Joan Friedman for that summer in Berkeley when we all
+reveled in intuitive Tarot readings and to Herman M. Cassada, Jr.
+for giving me my first Tarot deck and opening my eyes to the
+possibilities therein.
+
+Special Thanks to the wonderful artists whose talents made
+the designs immediate and striking, going far beyond what we had
+conceived.
+
+To Stewart MacWilliam for his insights and suggestions and
+to N. J. Bargle, for her inspired contributions.
+
+To Sam Chupp and Phil Brucato for their encouragement
+and mentorship.
+
+To the folks at Seventh Heaven whose assistance and help
+with the Tarot were invaluable.
+
+To Carla Hollar, Matt Steele and Beth Bostic for sharing
+with us our first exploits in Storytelling with the Tarot.
+
+Thanks, all of you.
+
+Table of Contents
+
+Introduction
+
+Chapter One: Osing The Cards
+Chapter Two: The Major Arcana
+Chapter Three: Questing
+Chapter Four: Primordial
+Chapter Five: Dynamic
+
+Chapter Six: Pattern
+
+20
+28
+33
+38
+43
+
+735 PARK NORTH BLD.
+SUITE 128
+
+CLARKSTON, CA 30021
+USA
+
+GAME STUDIO
+
+copyrights of White Wolf unless otherwise noted.
+
+copyrights concerned.
+
+© 1993, 2001 by White Wolf. All rights reserved.
+Reproduction without written permission of the publisher is
+expressly denied, except for the purpose of reviews. Mage the
+Ascension is a registered trademark of White Wolf Game
+Studio. The Mage Tarot is a trademark of White Wolf Game
+
+Studio. All names, titles, characters and text herein are
+
+The mention or reference to any companies or prod-
+ucts in these pages is not a challenge to the trademarks or
+
+Due to mature content, player discretion is advised.
+
+3
+
+Introduction
+
+The Dance that is... everything... You'll see. Earth, air, fire, water —
+and the Greater Trumps. There's a way to all knowledge and prophecy,
+when the cards and they are brought together.
+
+— Charles Williams, The Greater Trumps
+
+For those who seek a greater awareness of their place in the
+universe, the Tarot is said by some to be the bridge between conscious
+perception and unconscious wisdom. The Mage Tarot is a deck of
+destiny. Within the compass of 78 cards lies a Path from sleep to
+Awakening. Its symbols are the signposts which mark the journey of the
+soul through the World of Darkness into a realm of greater possibilities.
+
+A Bit of Common Sense, Please
+
+Although its symbolism concurs with many traditional forms
+of Tarot imagery and association, this deck isnot intended to be used
+for true readings. It is not a starter deck for would-be magicians; it is
+novelty item only.
+
+Tarot cards, whether traditional or modern, are not toys.
+Though we hope that you will find their use as a tool for Storytelling
+exciting and inspirational, the Tarot traditionally functions asa tool
+toward self-discovery. Many accounts credit Tarot readings with
+insights beyond those of "normal" perceptions; others say the cards
+simply allow you to access those parts of the subconscious that we
+miss in our daily lives. Whatever the truth may be (assuming there
+is only one truth), we do not recommend using a game deck for real-
+life concerns, nor do we condone the use of tools by those who don't
+know what they're doing with them.
+
+Believer or not, have some respect and common sense. Please.
+
+History of the Tarot
+
+Although Tarot decks first made their appearance in the 14th cen-
+tury, the ideas and symbols they embody stretch much further back in
+history, embracing the knowledge and philosophies of ancient Egypt,
+Greece, China, the early Roman church and the teachings of Talmu-
+dic scholars. The striking visual imagery of the Tarot served as a means
+of communication despite barriers of language and culture, so that
+seekers after hidden truths could share their discoveries through an
+understanding that transcended cultural barriers.
+
+Tarot cards have gone through many permutations through
+the centuries. Used as vehicles for telling fortunes by Gypsies
+
+4
+
+
+throughout Europe in the late Middle Ages, the attractive and
+compelling cards soon became popular items in noble households.
+The French transformed the Tarot into playing cards, discarding the
+Major Arcana and changing the suits from Wands, Cups, Swords
+and Pentacles to the more familiar spades, hearts, diamonds and
+clubs of the modern 52-card deck.
+
+Although a few students of esoteric lore still used the Tarot as
+a mnemonic device for preserving ancient truths, it was not until the
+mid-19th century that the resurgence of interest in theosophical
+studies led toa rediscovery of the cards and an attempt to restore them
+to their original purpose. Eliphas Levi, Israel Regardie, Helena P.
+Blavatsky, William Butler Yeats and Aleister Crowley all made vital
+contributions to the modern Tarot. But they were only the first wave.
+
+The Rider-Waite Tarot deck, designed by Arthur Edward
+Waite and William Rider and illustrated by Pamela Coleman Smith,
+is by far the most popular and inspirational of the standard Tarot
+decks in modern use. In recent years, interest in the Tarot has
+spawned a wealth of variant decks, reinterpreting the ancient
+symbols to fit feminist, holistic and multi-cultural paradigms. For
+the most part, the images have survived in translation, a testimony
+to the underlying resiliency of the truths the cards encompass.
+
+The Cards
+
+The Mage Tarot is intended primarily for use with games set in the
+World of Darkness. Our purpose is not to teach you how to use the
+Tarot (you can learn that from any deck), but rather to provide you
+with a deck that reflects the imagery of our dark fantasy world.
+Several possible game uses are discussed later. Although slanted
+toward Mage: The Ascension, this deck can be used with any of
+White Wolf's Storyteller System games.
+
+Symbolism
+
+Many of the symbols familiar to Tarot aficionados can be
+found in this deck, but several have been modernized or replaced by
+more Gothic-Punk counterparts. Though the cards can be used
+alone for readings, they become even more meaningful when com-
+pared with a traditional deck such as the Rider-Waite deck.
+
+The Text
+
+Each card has a few meanings ascribed to it for both the
+upright and the reversed positions, and each has a paragraph or so
+of text which comments on the card. Unlike more traditional
+
+decks, the paragraph does not describe the card and give a possible
+interpretation; instead, it creates a mood or paints a picture
+reflective of the World of Darkness. Some feature characters from
+various Mage: The Ascension books. Those resources might
+provide more references for the user, but they're not essential for
+understanding the cards.
+
+The Suits
+
+While they're analogous to the normal Tarot suits of Wands,
+Swords, Cups and Pentacles, the suits of the Mage Tarot correspond
+to the various sorts of Essences that color mystic Avatars. Each
+Essence is in turn associated with one of the four factions of mage
+society. The suits thus have the following correspondences:
+
+Suit (Essence) Faction Element Tarot Suit
+Questing Traditions Fire Wands
+Primordialism Nephandi Water Cups
+Dynamism Marauders Air Swords
+Pattern Technocracy Earth Pentacles
+
+Suggested Readings
+
+Books on the Tarot abound, occasionally taking up entire
+walls in occult and specialty bookstores. The following titles repre-
+senta sampling of the various approaches to the subject of the Tarot.
+Consider this a place to start.
+
+The Tarot: a Key to the Wisdom of the Ages, by Paul Foster
+Case. This extended essay on the Major Arcana provides a wealth
+of detail on the symbology of the Greater Trumps.
+
+Mastering the Tarot: Basic Lessons in an Ancient, Mystic Art,
+by Eden Gray. Written by one of the most prolific popularizers of the
+Tarot, this book offers a user-friendly approach to standard Tarot
+interpretations.
+
+Tarot Lays: Reflective Patterns of the Tarot (Salamander Series
+#2). This slim pamphlet presents numerous unusual spreads useful in
+exploring the relationships among the cards of the Tarot.
+
+Tarot For Your Self, by Mary K. Greer. A user-friendly (ifa bit
+shallow) guide to basic Tarot symbolism and use. Includes mention
+of many different modern decks as well as the more traditional ones.
+
+Chapter One:
+Osing the Cards
+
+We shall not cease from exploration
+And the end of all our exploring
+
+Will be to arrive where we started
+And know the place for the first time.
+
+—T.S. Eliot, "Little Gidding"
+
+Over the centuries, Tarot decks have become popular tools
+for fortune-telling, and in many minds the two are inextricably
+linked. Serious-minded students of Tarot look down on using the
+cards for such lowly purposes as predicting rising and declining
+fortunes in love, business and other personal affairs. Randomly
+shuffling and dealing out the cosmic secrets contained within the
+cards borders on blasphemy. To these aficionados, the Tarot is a key
+for unlocking universal truths hidden deep within the subconscious.
+In much the same manner, a mage searches within herself for the
+definitions of reality that mark her progress toward Ascension.
+
+Tarot decks are meant to be used. Their very form — distinct
+cards placed in a precise hierarchy in relationship to one another —
+demands their use in visual displays as the best method of studying
+their contents. Cards, like books, can be read. Unlike books, how-
+ever, their pages can be arranged in a variety of ways. Each
+arrangement of the cards unfolds a new awareness of the meanings
+of the images. By rearranging the cards, either randomly or by
+intention, the building blocks of reality are themselves re-ordered.
+The world around us, reflected in the cards, becomes a very different
+place. Attempting to understand the meaning of these reassembled
+chunks of possibility is the true work of fortune-tellers, philoso-
+phers, mages and Storytellers.
+
+Reading Spreads
+
+Tarot readings usually involve laying out the cards in arrangements
+called spreads. Before doing a reading, one card should be selected
+from the deck to represent the person or question under consider-
+ation. It is customary to use one of the "Court Cards" of the Minor
+Suits to represent the subject of the reading, but any card which
+seems appropriate may be chosen. This card should be removed from
+
+the deck before it is shuffled.
+
+The Celtic Cross
+
+The most popular Tarot spread, called the Celtic Cross,
+consists of 10 cards, and focuses upon the short- and long-term pasts
+and futures of the reading's subject. Most standard guides to the
+Tarot contain directions for how to use this spread. Although it is
+recommended that the full deck be used with the 10-card spread, it
+is also possible to use only the Major Arcana for this purpose.
+
+
+Example:
+
+© Joel's character is a young Verbena named Angelo. In a
+prior game, Angelo encountered other Awakened beings (vampires,
+faeries and werewolves) for the first time. At the time, he found that
+he needed to cooperate with them to fulfill his mission, but has since
+wondered whether he acted correctly and what he should do in the
+future. His question is "How do | proceed in dealings with other
+Awakened beings, especially since we may be at odds with one
+another at times?" The Storyteller, in the guise of Angelo's mentor,
+Crispin, head of his Chantry, performs a reading for him.
+
+The initial card, which is not counted with the rest, is laid at
+the center of the spread. This so-called querent card represents the
+seeker who asks the question. Because he is a young, male Tradition
+mage, Angelo chooses the Page of Questing to represent him.
+
+The first card is placed atop the querent card; this covers the
+seeker and represents the forces now at work within the querent's
+life. The card is The Hanged Man. Crispin tells Angelo, "You are
+faced with a situation that could potentially upset all your prior
+conceptions. You hang suspended in a moment of choice, to accept
+or reject the possibilities presented to you."
+
+The second card is laid across the querent and covers the
+cards, forming a cross. This card, The Mage, represents conflict.
+Crispin states, "The Magician is will. That will, which makes youa
+mage, and which insists upon fashioning reality to fit your vision,
+may prove an obstacle both for yourself and for the creatures whose
+existence you've discovered."
+
+The next card goes below the crossed ones. It is Gaia,
+reversed. "This forms the basis or the short-term past," he says. "It
+indicates that you have had a basic misunderstanding of the world
+around you."
+
+The fourth card, the Six of Primordialism, is placed above
+the crossed ones. "This crowns you," Crispin announces. "It repre-
+sents your immediate future and means an end to an old way of
+thinking. The Primordial nature of the suit indicates that you must
+seek your answer in the depths of your passions, your instincts and
+your unconscious mind."
+
+The Fool is placed to the right of the crossed cards. "This one
+is the recent past. It refers to things which have just happened. It's
+a card of possibility that has yet to be translated into action. You
+have recently risked yourself. Its position in relation to the querent
+card indicates that you, Cosmic Fool that you are, have just taken
+that step that is hinted at in the figure's position."
+
+9
+
+The sixth card, the Queen of Dynamism, is positioned to the
+left of the crossed ones. "This is the long-term future. With the
+exception of the final card in the spread, this is probably the most
+important indicator in the reading. You'll keep an open mind in
+continued dealings with Awakened creatures. The Dynamic asso-
+ciation of the suit means your future will be subject to change
+without notice. It may even be that a specific person, a mentor or
+seer, perhaps a woman, maybe even a Marauder, will open your eyes.
+
+"The next card is your inner concerns, your fears or cares. It
+forms the bottom of a row of four cards which will rise beside The Faerie.
+Ir's the Three of Questing. This indicates that your deepest concerns
+are that you will somehow compromise your purpose, that these
+Awakened beings may draw you away from your path to Ascension.
+
+"Next we have the outside influences, friends and society.
+The card is placed above the prior one. This is the Knight of
+Primordialism, reversed. Many people will see you as being de-
+ceived. Your fellow mages may think you work against them by
+trafficking with other Awakened creatures."
+
+The ninth card goes above the Primordial Knight: The
+Hermit, reversed. "This reveals your hopes and ideals, what you
+want out of all this. It seems that what you want is not to lead, but
+to be led. You're hoping to remain in an immature, childlike state,
+that you won't have to accept responsibility for forging a new path.
+
+"Finally, we come to the sum total of the reading." He lays
+the final card above the Hermit. "It is Luna, and indicates an
+encounter with your subconscious. Your path lies in following the
+call of your inner nature, of listening to the voice of your Avatar. Do
+what you feel is right."
+
+The Circular Spread
+
+Another possible spread involves laying a predetermined num-
+ber of cards in a circle around a central card. A circle of 12 cards might
+be used to suggest a course of action or a state of mind which will cover
+the span of a year, while a seven-card circle might indicate a week.
+
+Example:
+
+* The cards are arranged in a circle around a querent card.
+Crispin chooses the King of Questing to represent himself, as he
+leads the Chantry. He lays out seven cards (to represent a week) face
+down and starts at the upper right hand card for Sunday.
+
+Thursday
+
+In order, the cards are:
+
+Sunday The Tower, reversed
+
+Monday The Four of Questing
+
+Tuesday The Queen of Questing
+Wednesday The Three of Pattern
+Thursday The Six of Dynamism, reversed
+Friday The Two of Pattern, reversed
+Saturday The Nine of Pattern
+
+From card to card the interpretation runs thusly: The Tower
+indicates a disruptive crisis that potentially affects the whole Chantry.
+The Four means the crisis may be short-lived, or that there's a reason
+for celebration despite the crisis. The Queen indicates that action
+is taken; perhaps in response to the crisis, the fight is taken to the foe.
+The Three bodes a confrontation, and may even involve the
+physical structure of the Chantry itself. The search for a solution is
+
+ll
+
+made in the material world. The reversed Six speaks of a journey
+beyond the boundaries of the physical world, perhaps the need to
+relocate some aspect of the Chantry, and the obstacles or delays that
+occur while trying to resolve the problems. The reversed Two
+indicates a real possibility for failure as the situation becomes less
+clear. Finally, however, the Nine indicates the possibility of restor-
+ing order, even gaining something material from the prior difficulty.
+All in all, it bodes a week of struggle with the possibility of failure,
+but the likelihood of success at the end.
+
+This could be made into a story by endangering the Chantry
+in some way and having the characters needing to finda creative way
+to save it.
+
+The Linear Spread
+
+Linear spreads are useful when determining long-range courses
+of action or progressive influences which affect the subject over a
+period of time. In a linear spread, the cards are arranged in a straight
+line. Each card drawn is used to clarify or comment upon the
+preceding card. The reading can continue until both querent and
+reader feel that a satisfactory answer has been achieved, or until no
+further elaboration seems to be forthcoming. Usually, cards placed
+to the left or above a subject card signify future events, while those
+placed to the right or below refer to events in the past.
+
+A variation on this method, the three-card spread, divides the
+significance of the reading into body, mind and spirit. This often
+involves cutting the cards into three stacks and choosing one card
+from each to lay ina straight line running from left to right. The first
+card represents something about either the physical aspect of the
+subject or its past; the second stands for the mind, or the present state
+of things; the third suggests its spirit, or future ambitions or plans.
+
+Such spreads are good for suggesting new characters. By
+applying the card's meaning to some aspect of the character's life,
+Artor personality, a player or Storyteller can pull together the clues
+that shape her.
+
+
+Example:
+
+© Carla's character Mika, a young Virtual Adept, has be-
+come fascinated by various new technologies. She is afraid, however,
+that she might fall prey to the blandishments of the Technocracy
+because she often trusts other computer-lovers too much. She does
+a reading to see if this is likely.
+
+She lays out four cards and feels that she has received the
+answer she sought. The cards are laid out from right to left, indicat-
+ing that she wants an insight about the future; had she been
+interested in past events, she would have laid the cards left to right.
+
+In order, the cards are: The Three of Pattern, the Five of
+Primordialism, Strength and The Devil, reversed.
+
+This reading indicates that the potential for flirtation with
+the Technocracy definitely exists, and her contacts with them will
+touch on her vulnerabilities as she hopes she can gain something
+from them. She will have to confront her nemesis or antithesis, and
+will need to draw on her own inner resources to overcome the
+challenge. The end result will be some sort of liberating experience,
+a passage out of a state of self-imposed preconceptions, perhaps.
+
+Ideas for Osing the Cards
+
+These cards can be used in a number of ways to enhance your
+game. Some of these are of greatest use to the Storyteller, but many
+are useful to players as well.
+
+Character Creation
+
+The cards may be used to aid character creation. Players or
+Storytellers might draw a random card from the deck and use the text,
+meanings or picture to suggest an idea for the character. Anything
+from her looks to her concept, Backgrounds, magical Spheres, Merits
+or Flaws, Path to Ascension, abilities or even her potential destiny
+might be constructed by building upon something found in the card.
+Any of the divining spreads above can be used for character creation,
+although a three-card linear spread often works best.
+
+Examples:
+
+© Jim wants an interesting character, one with a past. He
+randomly draws the Knight of Dynamism and comes up with the
+following ideas from its meaning and imagery: The character is a
+young male mage with a Dynamic essence. He has dark brown hair
+and dark eyes (associated with this suit), and comes from a wealthy
+family (the factories shown on the card). He was once a more
+powerful mage, but he's very impulsive (meaning of the card). Once,
+
+13
+
+he performed a highly vulgar magical effect in front of Sleepers.
+When a Paradox Spirit confronted him, he slipped into a long Quiet.
+Recently, he has recovered his sanity and returned to the mundane
+world; most of his previous memories, however, including his knowl-
+edge of magic, have been lost. He has been made a clean slate and
+must start over again. Old friends and enemies, however, may
+remember him quite well, making his new life an interesting one.
+Though he's brave, he has a tempestuous nature. His Flaws include
+Impulsiveness and Amnesia. He may be good with weapons.
+
+© Storyteller Wendy wants to create a troupe character for
+herself to run; she doesn't want this "fun outlet" to overshadow her
+players' own mages, so she decides to leave her character concept to
+fate. A three-card linear spread yields the following: The Star, the
+Seven of Questing, and the Page of Primordialism, reversed. From
+these cards, she gets the following ideas:
+
+The spread suggests a female character — two cards have
+women as the dominant images, and the third contains a womb,
+albeit a corrupt one. The body card, Star, stands for vitality,
+charisma, creativity and insight. Wendy's new acolyte (she doesn't
+want her to be a mage — she'll leave that to the players!) is young,
+magnetic, enthusiastic and probably very physically attractive and
+fit. She has, however, a very odd past — this card hasan otherworldly
+essence about it. The Seven of Questing carries Fall Breeze's like-
+ness; her card suggests courage and valor. Wendy decides to make
+her acolyte a martial artist, advanced enough in her training to hold
+her own ina nasty fight. The ominous caul of the Page casts a shadow
+on the character; even reversed, it's a creepy card. The meaning
+hints at deception, lies and a possible fall somewhere along the line.
+A Nephandus may or may not be involved, but something in this
+acolyte's future will involve a temptation or betrayal.
+
+Following her instincts, Wendy christens her new character
+Cassandra. The players would be well advised to watch over her. Of
+course, such scrutiny may drive Cassandra to resent the cabal for their
+distrust, and that resentment might lead her to betray them later...
+
+2
+
+Non-player Characters
+
+Just as a card can help clarify a character concept, it can also
+provide inspiration for a quick non-player character personality. If
+you need a Technocracy contact, for example, simply flip to the suit
+of Pattern and choose a card. Naturally, you could also choose to use
+any other card that you felt more appropriate, or let chance take a
+hand and draw a random card. You might even ignore the picture
+and suit altogether, choosing instead to focus on the meaning of the
+card or the mood created by the text.
+
+Example:
+
+¢ Wendy needs another NPC to spice up her game. She draws
+a random card and gets the Seven of Primordialism. This suggests a
+Nephandus, either male or female, who is something of a shadowy
+figure, but who appears from time to time to tempt the characters with
+promises, riches, favors, sensual pleasures or knowledge, all in the
+hopes of corrupting them and claiming them for the Nephandi.
+
+Later, she needs a Technocracy agent and flips through the
+suit of Pattern for an idea. She chooses the Six to base her agent
+upon; he's a philanthropic and caring young man, who seriously
+believes the Masses need the protection and guidance of the Tech-
+nocracy. He's a blond gentleman in dark, tailored clothing who
+works with an inner-city charity bringing help to the poor. Wendy
+calls him Brother Joshua. The characters may mistake him for a
+Celestial Chorus mage — he's certainly a far cry from the stereotypi-
+cal Technomancer!
+
+Plots and Subplots
+
+Youcan use the cards to suggest plotlines and subplots, either
+pulling single cards and considering their pictures and meanings, or
+by laying out a pattern and divining a direction for your storyline. If
+the imagery, symbols and meanings aren't what you want, try
+thinking in terms of the cards' numbers and suits. Should you draw
+the Four of Dynamism, for example, you might consider either
+using the character depicted, utilizing the number four, tying in
+Marauders or emphasizing a storyline which deals with air. Any or
+all of these elements can be mined for the nuggets of story ideas.
+
+Example:
+
+For examples of more elaborate plotlines, see the circular
+and linear spreads given above. Using a single card randomly drawn
+to suggest plots and subplots to him, the Storyteller draws the Page
+of Pattern. Possible developments suggested by this card include:
+
+15
+
+¢ The characters meet and interact with a female
+Technomancer. She might be a Void Engineer, possibly even Karen
+Brewster (see Null-B in The Book of Chantries).
+
+¢ A woman the characters meet introduces them toa strange
+new Realm or tricks them into entering Null-B or some other
+Technocracy Construct, where they are captured.
+
+The characters are placed in a position which allows them
+to help rescue an unhappy Void Engineer and flee with her into space.
+
+These are the most obvious ideas. Others might concern the
+globe in her hand. Could it be some strange new Technocratic
+weapon? A spying device? An Umbral Realm trapped in the crystal
+and brought back to Earth? And what about the meteor? Is it really
+just a falling star, or have the Marauders broken through? Let your
+imagination run rampant.
+
+Onexpected Developments
+
+Likewise, the cards can provide quick inspirations for deal-
+ing with unexpected developments in the story. They might suggest
+places the characters can go, a person the characters meet or
+information about an item they acquire. This might take the
+chronicle in a whole new direction or allow for a brief interlude,
+then provide a way back to the main storyline.
+
+Example:
+
+© You thought for sure they'd steal the limo that was idling
+at the curb. They didn't, and now they're trapped in an alley facing
+down six HIT Marks. Overhead, a Technocracy team in their
+chopper waits to see if the HIT Marks will take care of things. The
+whole scene is turning into a major fiasco. What do you do? You call
+in the unexpected. A random card pull yields the Five of Pattern.
+
+The obvious scenario suggested by the card is to turn it into
+a capture scene. For some reason, the Technocrats want the charac-
+ters alive. While in custody, they may learn something important or
+meet a helpful non-player character. They can always try to escape.
+
+Another interpretation might be that someone very power-
+ful is watching over their shoulders; she'll make her move to help
+them when all seems lost. She may, however, require some service
+in return.
+
+Spirits and Effects
+
+Let the cards give you ideas for creating spirits, familiars and
+denizens of the Umbra. Allow the imagery to determine how various
+NPCs react to the characters, especially if the players cop an
+
+16
+
+
+attitude. Umbral Realms might be patterned on scenes from the
+cards, or might contain such scenes within them. The images,
+symbols and meanings need not be taken literally. Feel free to play
+around with them and combine them in odd ways.
+
+Example:
+
+© Needing an Umbral spirit, Wendy randomly draws a card
+for inspiration. She gets the King of Pattern, which features a man
+named Montego Diaz-Quetzalcoatl. She decides that the Umbrood
+will be some sort of Meso-American spirit that resembles the
+quetzalcoatl and lives in a Realm of abundant harvests. Because of
+the nature and meaning of the card, the spirit would most likely act
+paternalistic and authoritative toward the characters.
+
+Onpredictable Elements
+
+Mages live ina state of constant unpredictability. Allow the
+cards to create unpredictable effects for them. They might suggest
+ways a Paradox backlash manifests, or what a Paradox spirit might
+look like or want. The cards may be used as templates for construct-
+ing episodes of Quiet, or as a means of escaping from Paradox Realms
+or overcoming Quiet.
+
+Example:
+
+© Jane's character Simone has blatantly overused the Sphere
+of Forces asa weapon, and in front of Sleepers, no less. A Paradox spirit
+arrives to transport her to a Paradox Realm. Needing inspiration for
+both the spirit and the Realm, Wendy draws the Five of Dynamism.
+She describes the spirit as a big, tough biker grrrl with a nasty spiked
+club. Simone gets dragged to a Realm where she must flee foes who
+overpower her again and again, no matter how weak they appear to be.
+They're always brutal and direct, chasing her down endless, dreary
+alleyways. Simone must figure out that she needs subtlety, even
+trickery, to defeat them. Straight battle will never free her.
+
+Coincidental Effects
+
+This advanced option is best left to highly experienced
+troupes. The cards might be used either by the Storyteller or the
+players to create opportunities for coincidental magic Effects. Using
+a card drawn by the Storyteller or handed to the player at the
+beginning of the session, the character could take the card's mean-
+ing or imagery and utilize that element as a template for a more
+coincidental casting. Literally, it would be as though the mage "cast
+about," fishing for ideas on how to make magic less obvious by
+setting up a scenario in which magic appears coincidental because it
+fits in with the image on the card. This option is a little harder to
+
+17
+
+achieve than the others since it requires cooperation between the
+players and the Storyteller to create the opportunity depicted by the
+card. Storytellers should feel free to disallow such Effects or rule
+them to be vulgar if the player goes too far.
+
+Example:
+
+¢ Fleeing from agents of the Technocracy through the streets
+of New Orleans, Kathryn, a young Verbena, is running out of
+options. Sleepers are everywhere, and she can't stop to draw blood
+or use any sort of effective magic against her pursuers without dozens
+of un-Awakened witnesses. Still, she must do something. She asks
+the Storyteller if there anything's happening nearby that might help
+her. Wendy draws a card, the Six of Primordialism. It so happens
+that this particular card might indeed be useful. Wendy announces
+that up ahead, in the park at Bayou St. John, Kathryn can see a large
+voodoo rite in progress. Thankfully, Kathryn rushes forward, grabs
+askull filled with blood and begins to sway to the music. The agents
+rush toward her. She flings the blood in their eyes and employs the
+Sphere of Life to cause them to go blind for a short time.
+
+Because she used the cover of throwing blood in their eyes
+under circumstances where the Sleepers expect a few odd occur-
+rences, the crowd has an explanation of why the agents are blinded
+— if they even notice what happened in the midst of the wild ritual.
+Did the spirits do it, or was there just something really nasty in the
+blood? In any case, Kathryn gets to treat the blood-blinding as
+coincidental magic (rather than a vulgar "I wave my hand, and they
+go blind" Effect), and makes good her escape.
+
+Rites of Passage
+
+The Tarot is essentially a learning tool whereby we discover
+things about ourselves. Whenever a mage wishes to raise her Arete
+score, she must undergo some sort of ordeal. The cards should prove
+very handy for providing ideas for ordeals, rites of passage, Seekings,
+learning experiences and other journeys of self-discovery. Full
+spreads are recommended when using cards for this purpose.
+
+Example:
+
+¢ To construct a Seeking, Wendy uses a Celtic Cross spread
+as inspiration. The querent is the Knight of Pattern because the
+character is a young, black-haired male Progenitor. In order, the
+other cards come up:
+
+1. Cover: Three of Pattern — The quest will involve
+persistence in order to build something. It may be physical, but
+equally may not.
+
+18
+
+2. Cross: The Mage — The mage might be his own worst
+enemy, or someone else may be preventing his spiritual progress.
+This obstacle must be overcome.
+
+3. Base: Eight of Pattern — The reason for the mage's quest.
+He may feel inadequate or incapable of progress, and is fighting
+against that.
+
+4. Immediate future: Nine of Questing — The mage must
+be alert and anticipate the challenges he will face.
+
+5. Short-term past: Queen of Primordialism, reversed —
+This can mean a past influence motivating the crossing card and
+leading to the future. She may be the cause of the opposition, or may
+represent the mage's own inner perversity and fear of committing
+himself to the quest.
+
+6. Long-term future: King of Questing — An encounter
+with authority is indicated. Some sort of ruler or leader is an obstacle
+to be overcome.
+
+7. Personal fears: The Devil, reversed — There are two
+levels here. Personal fears involve not recognizing the time for
+action, being trapped by indecision. On another level, the mage
+fears the forces arrayed against him, probably the Nephandi.
+
+8. Outside Influences: Justice — Friends or society may
+demand that the mage act appropriately and make the correct
+decisions, and that he justify those choices. They may judge what
+the mage does. In another sense, they are possible helpers; the card
+suggests that an Akashic Brother may become an ally.
+
+9. Ideals and Goals: The Emperor, reversed — The mage
+hopes to somehow accomplish the quest without assuming respon-
+sibilities he feels he isn't ready for. He may be required to overcome
+someone in authority, perhaps removing him from his throne, to
+gain in wisdom.
+
+10. End Result: The Fool, reversed — The end result is a
+loss of the mage's innocence and carefree spirit as a price for growing
+in wisdom. To gain some dreams, you must sacrifice others.
+
+The reading indicates some direct conflict with the Nephandi.
+Their influence taints someone in authority over the mage. The
+mage's Construct or Convention may disagree with his actions, and
+may even sabotage what he's trying to do. In the end, he must have
+the courage to unseat the authority standing in his way — possibly
+a teacher or mentor, someone he has trusted in the past — and in so
+doing, gain wisdom, but lose his innocence.
+
+Chapter Two:
+The Major Arcana
+
+O sages standing in God's holy fire
+
+As in the gold mosaic of a wall,
+
+Come from the holy fire, perne in a gyre,
+And be the singing-masters of my soul.
+
+— W.B. Yeats, "Sailing to Byzantium"
+
+The 22 cards which comprise the Major Arcana form the
+heart of the Tarot. Taken together, the cards depict the passage of
+the soul from unformed possibility to informed awareness. The
+wealth of symbols these cards portray create a visual tapestry from
+threads spun by the collective unconscious. The strangely familiar
+iconography of the cards speaks to the imaginings of poets, dreamers,
+storytellers, willworkers and truthseekers alike.
+
+O The Fool
+
+Meaning: Possibility
+
+Courage, Ecstasy, Creative Expression, Risk-taking, Trust,
+Choice, Adventure
+
+Reversed: Stagnation, Eccentricity, Folly, Thoughtlessness,
+Indiscretion
+
+Association: Marauders
+
+The Faerie: Clad in the vestments of mortal experience and
+spiritual awareness, the child of the Dreaming stands poised on the
+edge of physical reality, open to the embrace of all possibility. The
+sword of his manifest will rests easily upon his shoulder, for the time
+of choice has not yet come.
+
+I The Mage
+Meaning: Will
+Communication, Inherent Ability, Memory, Clarity of
+thought and feeling, Organization, Invention, Originality
+Reversed: Weakness, Indecision
+Association: Virtual Adepts
+
+"What is will but the projection of energy into the world of
+matter?" With an act of conscious thought, Dante grasps the wand
+of Prime, closing the link between the energy that gives him the
+power of magic and the tools that lie before him on the table of the
+world. The building blocks of his desires — the Primordial, Quest-
+
+20
+
+
+ing, Dynamic and Pattern Essences — contain within them the
+remaining eight Spheres of magic; the key to knowledge unlocks
+them all. The infinite hovers, crown-like, above him. Reality,
+virtual or otherwise, belongs to him.
+
+Il The High Priestess
+
+Meaning: Enlightenment
+
+Intuition, Resourcefulness, Independence, Meditation,
+Growth, Evaluation, Consciousness, Mystery, Inner Illumination
+
+Reversed: False knowledge, Shallowness, Conceit
+
+Association: Dreamspeakers
+
+Mae Roberts, the keeper of the secret path, sits beside the
+waters of consciousness. At her feet, the moon's reflection reminds
+her of the hidden truths visible only to her inner sight. Clasping the
+symbol of cosmic memory, she guards the passage between light and
+dark, dream and reality.
+Ill The Empress
+
+Meaning: Fertility
+
+Wisdom, Earth-mother, Prophecy, Love of nature, Spiritual
+essence, Healing, Nurturing, Emotion, Creation, Cycles, Balance,
+Fruitfulness, Contentment
+
+Reversed: Sterility, Poverty, Inaction, Disruption, Destruction
+
+Association: Verbena
+
+Heasha Morninglade feels the flow of life-magic within her.
+It encompasses the water of the stream of life, the blood within her
+veins and the liquid within the cauldron of birth and rebirth.
+Enthroned upon the world-tree, surrounded by fertile growth and
+the deep woods of the unconscious mind, she opens herself through
+the wand of the moon to the feminine principle of cyclic movement.
+Through her actions, life emerges, resplendent with variety.
+
+IV The Emperor
+
+Meaning: Government
+
+Leadership, Power, Decisions, Action, Negotiation, Inspira-
+tion, Motivation of others, Strength, Respect, Foundation,
+Self-assertion, Paternity, Mastery, Reason
+
+Reversed: Immaturity, Bondage, Tyranny
+
+Association: Order of Hermes
+
+The lord of reason, Caeron Mustai, grasps the blade which
+symbolizes the power of his active will, commanding the forces of his
+
+21
+
+physical and animal natures. Implacable against the darkness, the
+light of his intellect warms the stark mountains of logic which serve
+as his field of battle.
+
+V The Hierophant
+
+Meaning: Morality
+
+Learning, Teaching, Wisdom, the Sacred, Initiator, Challenge,
+Commitment, Intention, Focus, Spirit, Remembrance, Resolution,
+Consultation, Counseling, Conformity, Society, Orthodoxy
+
+Reversed: Gullibility, Unorthodoxy, Unconventionality
+
+Association: Celestial Chorus
+
+Clothed in ritual and bound by orthodox traditions, the ruler
+of conventional faith translates the secrets of the cosmic mind into
+palatable forms. Enthroned at the balance point between all oppo-
+sites, the revealer of secret knowledge holds the keys to the powers
+of conscious and unconscious thought.
+
+VI The Lovers
+
+Meaning: Attraction
+
+Relationship (to be is to be related), Curiosity, Loyalty,
+Commitment, Passion, Bonding, Duality, Yin/Yang, Sincerity,
+Openness, Sensitivity, Integration, Equality, Romance, Harmony
+
+Reversed: Repulsion
+
+Association: Cult of Ecstasy
+
+Bathed in the emanations of a higher cosmic power, warmed
+by the radiant life-giving energies of the solar light, they seek the
+union of opposites. Self and other, carnal and spiritual, knowledge
+and mystery bear fruit only in the garden of loving intimacy.
+Unveiled to one another, the Lovers follow the pathway of the
+senses to inner and outer harmony.
+
+Vil The Chariot
+
+Meaning: Triumph
+
+Change, Movement, Growth, Evolution, Progress, Oppor-
+tunity, Exploration, Travel, Stimulation, Activity, Promotion,
+Conquest, Bulwark against temptation
+
+Reversed: Defeat, Collapse, Vengeance
+Association: Sons of Ether
+
+Aboard the sky-chariot of his own making, wrested from the
+welding of science and magic into a unified whole, Jet Boy takes his
+place among the explorers of the possible. The triumph of mind over
+
+22
+
+matter, of the inner will over the outer world, of the power of
+thought over the boundaries of consensual reality — all these find
+expression in the work of the charioteer, the Tellurian's eternal
+traveler. He controls the balanced forces of the worlds.
+
+Vill Strength
+
+Meaning: Strength
+
+Passion, Creativity, Risk-taking, Charisma, Radiance, Re-
+generation, Expression, Gifts, Taming, Overcoming fears, Lustiness,
+Strong faith, Trust in own abilities, Confidence, Unconditionality,
+Intuition, Domination, Harmony,
+
+Reversed: Weakness, Abuse, Discord, Corruption, Rage
+
+Association: Quintessence
+
+The Werewolf: Strengthened by her passions, confident in
+her spiritual power, she wrestles the bestial and tainted sides of her
+nature, bringing them into a harmonious whole with her higher self.
+What is wild and unconscious becomes the wellspring which her
+creative spirit embraces and tames, even as the roses blossom amidst
+decay. Fearlessness brings liberation and trust in her own abilities.
+IX The Hermit
+
+Meaning: Guidance
+
+Completion, Introspection, Contemplation, Experience, De-
+tail, Revelation, Integrity, Respect, Leadership, Transitions, Discovery,
+Wisdom, Mentorship, Open-mindedness, Courage, Seeking
+
+Reversed: Immaturity, Foolishness
+
+Association: Hollow Ones
+
+Clothed in the guise of the seeker, he holds aloft the light of
+truth, illuminating the way for other wayfarers through the bitter
+night of ignorance. He has blazed the trail to wisdom in silence and
+contemplation. Now he stands ready to guide the worthy toward the
+union of will and wisdom.
+
+X Wheel of Fortune
+
+Meaning: Destiny
+
+Opportunity, Breakthrough, Prosperity, Abundance, Ex-
+pansion, Flexibility, Originality, Pioneering, Fortune, Challenge,
+Synchronicity, Fate, Chance, Luck, Cycles
+
+Reversed: Misfortune
+
+Association: Euthanatos
+
+The Wheel turns. The chambers revolve. Life and death play
+out their dance of perpetual motion in the progress toward Ascen-
+23
+
+sion. Behind the mask of personality, the eternal self expands its
+boundaries in search of higher, more perfect forms. Cause and effect
+become one in the circumstantial cycles of existence.
+
+XIJustice
+Meaning: Justice
+Ali Balance, Reali Truth, Clarity, Simplifi-
+
+cation, Order, Authenticity, Visualization, Seeing through
+deceptions and delusions, Harmony
+
+Reversed: Injustice, Bias, Inequality, Prejudice
+
+Association: Akashic Brotherhood
+
+Framed within the triptych of mind, body and spirit, Raging
+Eagle holds aloft the two-edged sword of Justice. Guided by knowl-
+edge of the balance, the master of the mind seeks first the inner
+truth, from which outer actions flow.
+
+XII The Hanged Man
+
+Meaning: Perspective
+
+Surrender, Breaking old patterns, Resolution, Freedom from
+self-imposed limitations, Unlimited life-force, Diff postures
+and perspectives, Awakening, Deep spiritual wisdom, Creativity,
+Intelligence, Prophecy
+
+Reversed: Preoccupation, Arrogance, Absorption, Indecision
+
+Association: Paradox
+
+The Wraith: He hangs suspended before the doorways that
+separate the physical world from the Shadowlands of the soul.
+Severed from all connection to matter, he no longer conforms to the
+limitations of his old existence. Only by surrendering the trappings
+of identity can he discover the depths of knowledge from which his
+new pattern will emerge, transcendent and transformed.
+
+XI Death
+
+Meaning: Renewal
+
+Release, Detachment (appropriate letting go), Transforma-
+tion, Irrepressible spiritual essence, Expanded consciousness,
+Emergence, Midwifery, Restructuring, Cycles, Rebirth, Change
+
+Reversed: Inertia, Transformation
+
+Association: Vampire; Awakening
+
+The game of life and Death is played out before the curtain of
+mystery, which conceals the knowledge of both past and future.
+Between the players, the rose of desire arises. Renewal takes many
+
+24
+
+
+forms; both the siren call of the immortal undead and the transforming
+power of Awakening emerge from the spirit's unquenchable restless sea.
+XIV Temperance
+
+Meaning: Adaptation
+
+Integration, Synergy, Balance of paradoxes, Union, Experi-
+ence, Resolution of conflicts, Symmetry, Combinations, Alchemy,
+Tempering, Dream, Vision, Actualization, Adaptation, Coordina-
+tion, Self-control
+
+Reversed: Competition, Mutation
+
+Association: Technocracy
+
+Golconda: He rests at the balance point between the peaks
+of wisdom and understanding, at the end — or the beginning — of
+the path. Saulot has transcended all conflicting emotions, integrat-
+ing the unseen and the seen, achieving the synthesis of past and
+future, spirit and matter. Tempering the essence of life with the flow
+of conscious and unconscious vision, he resolves all paradox.
+
+XV The Devil
+
+Meaning: Bondage
+
+Materialism, Fetters, Sensation, Bedevilment, Temptation,
+Degradation, Domination
+
+Reversed: Understanding, Healing, Freedom, Indecision
+
+Mirth, Hedonism, Centeredness, Sensuality, Sexuality, Reso-
+nance, Potency
+
+Association: The Wyrm; Nephandi
+
+Those who serve the spirit of corruption and those who
+battle its pervasive influence are equally trapped within its destruc-
+tive coils. Both animal nature and human intelligence are subject to
+its myriad temptations, bound by the limitations of their own
+desires. To penetrate its illusionary domination over the sensate
+world is the first step towards freedom from its grasp.
+
+XVI The Tower
+
+Meaning: Purification
+
+Ambition, Restoration, Renovation, Change, Restructur-
+ing, Awakening, Healing, Expansion, Authenticity, Building,
+Designing, Alignment
+
+Reversed: Imprisonment, Conflict, Catastrophe, Disrup-
+tion, Conflict, Upset
+
+Association: The Chantry
+
+25
+
+No Tower built upon false foundations can withstand the
+raw energy of purification. The ivory fortress of the intellect, the
+prideful Chantry of ambition, the lonely citadel of the isolated self
+and the paper constructs of the material world become targets for
+destruction. Cast into the dimensions of uncertainty, those who
+dwelt in ignorance must face a new beginning.
+
+XVII The Star
+
+Meaning: Inspiration
+
+Confidence, Self-esteem, Talent, Guidance, Expression,
+Innovation, Creativity, Radiance, Manifestation, Charisma, Mag-
+netism, Instinct, Accomplishment, Internal balance, Spontaneity,
+Vitality, Nature, Hope, Insight, Meaning
+
+Reversed: Stubbornness, Pessimism, Doubt, Overextension
+
+Association: Meditation
+
+The Umbra: Surrounded by radiant Umbral energy, the
+eternal maiden pours forth the waters of inspiration into the pool of
+consciousness, and spills the essence of the five senses onto the
+Earth's body, revitalizing both matter and spirit. The meditative
+phoenix, representative of instinct and the indestructible soul, rises
+from the manifestation of vital, spontaneous nature, questing to-
+ward the enlightenment of the celestial illumination above.
+
+XVill Luna
+
+Meaning: Intuition
+
+Femininity, Receptivity, Reflection, Mystery, Enigmas, Ro-
+mance, Lunacy, Revelation of the true nature
+
+Reversed: Deception, Peril, Madness, Illusion, Deception
+
+Association: Quiet; Inner tuition
+
+She surrenders completely to the lure of the unconscious.
+The realm of dreams becomes a nightmare. Drowning in the blood
+of her inner beasts, she sinks into the quiet ecstasy of madness. Or
+is she rising, renewed by her plunge into the depths of imaginative
+vision, to traverse the two-fold path created by the swords of matter
+and spirit towards a higher consciousness?
+
+XIX The Sun :
+
+Meaning: Liberation
+
+Collaboration, Teamwork, Partnership, Cooperation, Un-
+limited energy, Life-force, Generation, Motivation, Stimulation,
+Exuberance, Organization, Shared visions, Exploration, Revitaliza-
+tion, Creation, Innovation, Attainment, Success, Achievement
+
+26
+
+Reversed: Retrogression, Depletion, Draining, Enervation
+
+Association: The Sun
+
+Ascension: Glorying in his newfound awareness, the en-
+lightened spirit has no further need for the outworn symbols of
+tradition or the playthings which marked his progress through the
+material world. Like the sunflowers which turn their faces toward
+the life-giving sun, the naked child stands, fearless and joyful, in the
+garden of eternal light.
+
+XX Judgement
+
+Meaning: Reunion
+
+Awakening, Consciousness, Discernment, Judgment, Per-
+ception, Insight, Assessment, Integration, Manifestation
+
+Reversed: Death, Disillusionment, Loss, Criticism,
+Judgmentalism
+
+Association: Avatar
+
+Apocalypse: Liberated from their separate misunderstand-
+ings, the children of Gaia unite and transform. Transcending all
+limitations, the perceptive spirit reaches for eternity. Called forth to
+anew Awakening, they ascend into mystery, becoming one with the
+universal consciousness.
+
+XXI Gaia
+
+Meaning: Fulfillment
+
+Reward, Freedom, Wholeness, Totality, Holism, Comple-
+tion, Integration, Unification, Awareness, Vision, Environment
+
+Reversed: Sloth, Incompletion, Limitation, Restriction,
+Negation
+
+Association: The Tellurian
+
+The vision has become the reality. Centered within the
+circle of all that is, the cosmic dance both creates and defines itself.
+Gaia is never-ending, always-changing, the mirror of the self-aware
+consciousness of all within and without Her. The promise is fulfilled,
+and the material world has become one with the spiritual.
+
+Chapter Three: Questing
+Wands/Traditions/Fire
+
+The best lack all conviction, while the worst
+Are full of passionate intensity.
+Surely some revelation is at hand;
+
+— W.B. Yeats, "The Second Coming"
+
+The Questing Essence embodies the search for perfection.
+The association of this suit with the Traditions and their paths
+toward Ascension reflects the purposeful focus of the individual
+cards. In the traditional Tarot, this is the suit of Wands, symbolic of
+the creative ability of the mage to transform reality according to her
+inner vision. Its elemental attribute is Fire, the ultimate source of
+transmutation and purification.
+
+Virtues: Creativity, Energy, Diversity
+
+Vices: Restlessness, Pride, Obstinance
+
+Element: Fire (seen as Air by some)
+
+Season: Spring
+Ace of Questing
+
+Meaning: Birth
+
+Creativity, Self-realization, Questing, Truth, Uncontainable
+life-force, Awakening, "Being"
+
+Reversed: False start, Setback
+
+Association: Beginnings; Ahl-i-Batin
+
+Albthings spring forth from the fires of the imagination. To
+the oft-forgotten mages of the lost Tradition, the union of the
+Spheres, the oneness of creation and the perpetual dance of oppos-
+ing forces are matters of doctrine, not supposition. The burning
+bush, the ever-renewing phoenix and the celestial explosion that
+signaled the beginning of the solar system are but echoes reverber-
+ating from the flames of the Questing spirit.
+
+Two of Questing
+Meaning: Dominance
+Rulership, Enterprise, Sovereignty, Power, Unification
+Reversed: Submission, Suffering, Sadness
+Association: Sphere of Forces; Order of Hermes
+
+28
+
+
+Within her grasp lies a city of light and harmony; outside, all
+is darkness and tumult. Both cities are her dominion. It is in her
+power to channel her energy, the Sphere of Forces, to bring illumi-
+nation to the world around her. Likewise, her Art may plunge the
+city into eternal night. The power to upset or maintain the balance
+resides in the twin centers of will and heart. ,
+
+Three of Questing
+
+Meaning: Virtue
+
+Cooperation, Partnership, Integrity, Consistency, Congruency
+
+Reversed: Treachery, Disappointment
+
+Association: Sphere of Prime; Celestial Chorus
+
+With his blessing, the ships of his people set out across the
+unknown sea. Now they return, perhaps with news of other lands,
+other people. He knows their journey was fruitful. Journeys of
+exploration always bring forth knowledge. The promise of the sun
+and the flames of his vision are surety of his belief. He stands
+between the twin poles of life and death, war and peace, past and
+future. He holds aloft the rod of the Questing spirit, and welcomes
+what the day has brought.
+
+Four of Questing
+
+Meaning: Celebration
+
+Completion, Peace, Triumph, Happiness, Festival, Achieve-
+ment, New beginnings, Wholeness, Initiation
+
+Reversed: Prosperity and Harmony of the lesser things in
+life; some sources interpret this as Repression and Restriction
+
+Association: Sphere of Time; Cult of Ecstasy
+
+The flames of ecstasy rise high into the air, companions to
+the song of celebration. Atop the arch of perfected work, the
+skeletons of old ideas merge their essence with the roses of purity and
+the common flowers of material sensations. The joining of animal
+and human natures in a paean to spiritual perfection crosses all
+boundaries of Time and space, Awakening the sleeping world to the
+possibilities of change. 7
+
+Five of Questing
+Meaning: Strife
+
+Competition, Obstacles, Anxiety, Frustration, Freneticism,
+Hyperactivity
+
+Reversed: Contradiction, Complication, Competition, Re-
+striction, Restraint
+
+29
+
+Association: Sphere of Correspondence; Virtual Adepts
+
+A common goal does not preclude a conflict of wills. With-
+out aclear-cut leader, even the most knowledgeable seekers wander
+in strange directions to aimless purposes. Who's in charge here? The
+beams of light illumine only what is in their path. Getting back to
+the right direction is essential for fruitful achievement, particularly
+when Correspondence is your goal.
+Six of Questing
+
+Meaning: Victory
+
+Success, Advancement, Revitalization, Energy, Expansion
+
+Reversed: Delay, Conquest, Defeat
+
+Association: Sphere of Life; Verbena
+
+He sits astride a metal steed, surrounded by those who would
+hail his dark victory. The candles of his acolytes light the warrior's
+
+path through the darkness of ignorance and superstition. From
+them, he draws his strength, for they burn with Life-giving radiance.
+
+Seven of Questing
+
+Meaning: Valor
+
+Development, Purpose, Courage, Energy, Perfection, Vi-
+sion, Value
+
+Reversed: Cowardice, Anxiety, Embarrassment, Indecision
+
+Association: Sphere of Mind; Akashic Brotherhood
+
+To conquer one's self is to win the greatest battle and to show
+the greatest courage. Fall Breeze contemplates her struggle for
+perfection of mind, body and spirit. Her mind opens outward, fan-
+like, to embrace the Questing spirit, and like the fan, she possesses
+both exquisite fragility and deadly keenness. Her weapon extends
+her prowess, becoming the focus for her inner strength and the
+power of her Mind.
+Eight of Questing
+
+Meaning: Motion
+
+Journey, Ideas, Actions, Swiftness, Progress, Communica-
+tion, Transformation, Problem-solving
+
+Reversed: Inactivity, Dispute, Quarrels, Procrastination,
+Covert communication
+
+Association: Sphere of Matter; Sons of Ether
+
+The secrets of the material world, of Matter in motion, fall
+to his Questing spirit. He takes flight, fueled by the energy released
+
+30
+
+by the death of the old and the birth of the new. Guided by both
+knowledge and instinct, following the moon's reflected inner light,
+he seeks the distant stars, symbols of the laws which govern the
+physical world, at last within his grasp.
+Nine of Questing
+
+Meaning: Spirit
+
+Preparedness, Defense, Attainment, Vision, Spiritual and
+intuitive strength, Conscious and subconscious thought, Unlimited
+strength, Fortitude
+
+Reversed: Obstacle, Adversity, Opposition
+
+Association: Sphere of Spirit; Dreamspeakers
+
+The vigil of the Spirit warrior is eternal. The guardian waits
+beyond the barricade erected by those who would conquer the
+natural and mystic worlds, ready to offer his vision of peace, yet
+mindful that the war is not yet over. Though the trees of life and
+knowledge stand burnt and defiled, though the wildness of the world
+be impaled upon the spear of progress, the power of the eagle's keen
+perceptions endows him with unceasing courage.
+
+Ten of Questing
+
+Meaning: Oppression
+
+Burden, Trial, Ruin, Disruption, Failure, Limitations, Re-
+strictions, Holding Back
+
+Reversed: Duplicity, Separation, Loss
+
+Association: Sphere of Entropy; Euthanatos
+
+Suspended by the chains of ignorance, silenced by the cruel
+mask of disbelief, he bears the weight of his captivity. Without the
+will to break free of the bars of physical limitations and false
+perceptions, the Questing spirit withers in its own Entropic prison.
+Page of Questing
+
+Meaning: Brilliance
+
+Learning, Courage, Beauty, Self-liberation, Release of fear,
+Spontaneous expression, Freedom, New directions, Adventure,
+Spring, Nothing to fear
+
+Reversed: Indecision, Unpleasantness
+
+Association: Discovery
+
+The Apprentice stands upon the threshold of a new aware-
+ness. Below her lie the bones of past lives, past deaths, past fears and
+past awakenings. Within her stirs the call to adventure; before her
+
+31
+
+and behind her, strange horizons beckon. Clad in the brilliant robes
+of pure intent, she holds the symbol of her triumph over the
+limitations of mortality. The evolution of the spirit begins.
+
+Knight of Questing
+
+Meaning: Conflict
+
+Haste, Inspired creativity, Expression, Concentration, Ex-
+pansion
+
+Reversed: Division, Frustration, Discord, Departure, Change
+
+Association: Impetuousness
+
+The Disciple: Driven by the Questing spirit, John Courage
+departs upon a journey of self-discovery and inner conflict. For him,
+the Wheel of Fortune has become a backward carousel of ever-
+changing circumstances, loyalties and motivations. His only
+consistency, the axis upon which his pilgrimage to Ascension
+revolves, is the quest itself.
+Queen of Questing
+
+Meaning: Control
+
+Command, Attraction, Honor, Self-knowledge, Transfor-
+mation, Self-reclamation, Fluidity, Growth, Quick temper
+
+Reversed: Opposition, Jealousy, Chastity, Enterprise
+
+Association: Aspiration
+
+The Adept: She rules. Above her, transcendent reality
+emerges from the fires of her imagination. Below her, desire lies
+nascent in the half-tamed depths of her subconscious. The symbol
+of her rulership rests easily in her hands, its weight no longer a
+burden but a comforting presence. The harshness of her metal
+crown, like her "Bitch Queen" fagade, exerts its own attraction. Just
+as the sunflower must follow the sun, so must others follow her.
+
+King of Questing
+
+Meaning: Authority
+
+Leadership, Fatherhood, Inspired direction, Vision, Intu-
+ition, Evolution, Spiritual growth, Energy, Arrogance
+
+Reversed: Severity, Honesty, Subordination
+
+Association: Purpose
+
+The Master: Herein lies the culmination of the quest.
+Surrounded by the outward trappings of his power, Porthos rests
+secure, conscious that all he sees is under his dominion, yet mindful
+of the price that he has paid for his knowledge. His fatherly authority
+
+32
+
+
+arises from the total acceptance of all that he has been, all that he
+has learned. Experience, distilled through lifetimes of inner search-
+ing, lies within his grasp. He awaits only the fires of inspiration to
+embark upon the ultimate Awakening.
+
+Chapter Four:
+Primordialism
+(Cups/Nephandi/Water)
+
+And what rough beast, its hour come round at last,
+
+slouches toward Bethlehem to be born?
+— W.B. Yeats, "The Second Coming"
+
+The raw materials of existence are present in the Primordial
+Essence. Attributing this suit to the Nephandi emphasizes the
+turbulent and often violent outpouring of unrestrained passion and
+instinct. The traditional Tarot assigns this suit to Cups, the vessels
+which contain the vital fluids of life. Water is the element repre-
+sented by these cards, reflecting their multiple meanings and their
+source as the wellsprings of desire and fertility.
+
+Virtues: Imagination, Love, Birth
+
+Vices: Excess, Lasciviousness, Bad Temper
+
+Element: Water
+
+Season: Summer
+Ace of Primordialism
+
+Meaning: Breakthrough
+
+Life-force, Open heart, Trusting heart, Spiritual heart,
+Expression
+
+Reversed: Instability, Nourishment, Abundance, Mutation
+
+Association: Feeling
+
+Thrust forth from the Primordial ooze, the hand of creation
+and destruction grasps the vessel of the mind. Substance without
+form, life without cohesion, motion without direction, the fertile
+spawning pool awaits the birth of self-awareness.
+
+Two of Primordialism
+
+Meaning: Reflection
+
+Carnality, Passion, Love
+
+Reversed: Passion, Union, Partnership
+
+Association: Symbiosis
+
+Alone before the mirror of her instincts, she confronts the
+depths of her desires. Her passions flow in two directions, merging
+inner lusts and outer ambitions, forming the watery basis of uncon-
+scious knowing. She contemplates the self, joining with her carnal
+nature in an unspoken pledge to rapturous sensation.
+
+Three of Primordialism
+Meaning: License
+Pleasure, Overindulgence, Abundance
+Reversed: Pleasure, Liberality
+Association: Carnality
+
+Unhampered by the dictates of convention, three weird
+sisters (2) revel in their wanton sensuality. Beneath their feet, the
+twisted form engendered by their gross imaginings gropes mindlessly
+for sustenance amid the barren wilderness of their ruined glory. The
+nurturing fluid of unfulfilled creativity festers within the broken
+shells of self-indulgence.
+
+Four of Primordialism
+
+Meaning: Dissipation
+
+Contemplation, Emotional luxury, Satisfaction, Apathy
+
+Reversed: Novelty, Contemplation, Wonder
+
+Association: Ennui
+
+The pleasures of the world remind him only of his own
+mortality. Entrenched within his own dissatisfaction, the sated
+wastrel shuns the proffered cup of secret knowledge, immune to the
+headiness of its bestial temptations. He has drained the sensate
+realm of everything it has to offer; neither mind nor spirit provide
+respite from the bleakness of his aimless destiny.
+
+Five of Primordialism
+Meaning: Disillusionment
+Disappointment, Sorrow, Loss, Fragility, Depression
+Reversed: Hope, Return, Inheritance
+Association: Vulnerability
+
+4
+
+Bitter with experience gone to waste, the Primordial spirit
+gazes in despair upon the gutted ruins of expectation. Having tasted
+loss and drunk the wine of unfulfilled dreams, the prospect of
+unsampled pleasures holds no temptation for him. The river of
+subconsciousness has been forded, but the barren landscape beyond
+is devoid of promise.
+
+Six of Primordialism
+
+Meaning: Initiation
+
+Pleasure, Regeneration, Revitalization, Memory, Ecstasy
+
+Reversed: Retirement, Ending
+
+Association: Opportunity
+
+Ripped from his unthinking, Primordial past and thrust into
+the heart of an alien existence, Jubuka offers sacrifices for his
+initiation into a world of new opportunities. Surrounded by the
+familiar trappings of his old life, scarred by the transition, yet hungry
+for new sensations, he seeks revitalization from the blighted flower
+that falls from civilization's twisted tree of knowledge.
+
+Seven of Primordialism
+
+Meaning: Temptation
+
+Selfishness, Illusion, Debauchery, Addiction, Over-every-
+thing, Promiscuity
+
+Reversed: Determination, Realization
+
+Association: Indulgence
+
+Overwhelmed by illusionary possibilities, unable to choose
+between desires, temptation's victim loses his sense of self in the
+contemplation of dreams and phantasms. Responding to the forces
+pulling from all directions, his awareness has transformed itself into
+a glutton for sensation. Like a black hole in the universe, the
+dreamer exists only in the definition of his dreams.
+
+Eight of Primordialism
+
+Meaning: Abandonment
+
+Rejection, Misery, Indolence, Inertia, Limits, Depletion,
+Exhaustion, Aimlessness, Retreat
+
+Reversed: Joy, Merriment, Acceptance
+
+Association: Stagnation
+
+Past achievements have lost their meaning, but abandon-
+
+ment brings with it a sense of liberation. The Primordial spirit turns
+its back upon the skeletal remains of knowledge sought, savored and
+
+35
+
+set aside. Grasping the distillation of the essence of experience, he
+sets forth upon an uncharted course, following the jagged road that
+leads to the unknown.
+
+Nine of Primordialism
+
+Meaning: Attainment
+
+Success, Happiness, Health, Opportunity, Expansion, Ful-
+fillment, Well-being
+
+Reversed: Imperfection, Overindulgence
+
+Association: Completion
+
+Devoured by the fulfillment of her wishes, she slumps before
+the fruits of her attainment. The desired traps of material comfort —
+sensual pleasure, abundance, well-being and happiness — all now
+depend upon the black tide of her continued success. Opportunity
+is assured, but satisfaction lies elsewhere.
+Ten of Primordialism
+
+Meaning: Satiety
+
+Emotional Contentment, Vitality, Expressiveness, Energy,
+Enthusiasm
+
+Reversed: Wanting, Need, Lack
+
+Association: Satisfaction
+
+They dance, O how they dance! They have plunged them-
+selves into the depths of their desires, surrendering to the serpentine
+thythms of the danse macabre. Entrapped by their sensations, rav-
+ished by their transformation into vehicles of consummate passion,
+their Primordial journey is complete.
+
+Page of Primordialism (Caul)
+
+Meaning: Rebirth
+
+Emotional objectivity and detachment, Controlling, Bears
+messages from dreams
+
+Reversed: Deception, Obstacle, Inaction
+
+Association: Possession
+
+Within the womb of Primordial emotion, a new awareness
+comes into being. Nurtured by the blood of countless sacrificial
+offerings, the child of raw sensation finds herself transformed into
+corruption's willing servant. Mindless energy coalesces in the uter-
+ine darkness, waiting for the moment of its emergence.
+
+
+Knight of Primordialism (Beast)
+
+Meaning: Emotion
+
+Desire, Tantric practices, Passion, Bliss
+
+Reversed: Subtlety, Fraud, Rivalry
+
+Association: Bestiality
+
+The Beast rides upon the waves of its own emotions, sub-
+merging all thoughts of its distant humanity in the roiling seas of
+Primordial subconsciousness. Both messenger and message, it car-
+ries promises of bliss within its cup of dreams and nightmares.
+Loosing the thrashing remnants of former desires into the hearts of
+all who hear its call, it clears the way ahead for future bestial visions.
+
+Queen of Primordialism (Barabbi)
+
+Meaning: Imagination
+
+Emotional integrity, Self-reflection, Unconscious, New form,
+New identity, New life, Expressing oneself without blame or judg-
+ment
+
+Reversed: Perversity, Dishonesty, Immorality
+
+Association: Perversity
+
+Jodi Blake, imagination's queen, salutes the riot of her
+cacophonous visions. Her perversity is the key to her freedom from
+all limitations. In her hands, the instrument of pain becomes the
+doorway to deliverance from mundane constraints. Through acting
+out her desires, she makes them real, and her goblet is filled with the
+distillation of these unhampered dreams.
+
+King of Primordialism (Gilledian)
+
+Meaning: Power
+
+Emotional loyalty and commitment, Spontaneity, Ego, Gen-
+erosity, Responsibility
+
+Reversed: Violence, Scandal, Injustice, Weakness
+
+Association: Vanity
+
+From his throne room deep beneath the seas, Galarius,
+Master of the Labyrinth of Drachus Vachor, watches the ripples of
+his power roil throughout his watery domain. For him, the sea of the
+subconscious is the font of all creation and destruction. Crowned
+with the symbol of the ocean's insensate life, he holds in one hand
+the scepter of his power to influence the world of thought. His other
+hand supports the reflection of his subtle rule.
+
+Chapter Five: Dynamic
+(Swords/Marauders/Air)
+
+Things fall apart; the centre cannot hold;
+Mere anarchy is loosed upon the world,
+— W.B. Yeats, "The Second Coming"
+
+The Dynamic essence represents constant flux and restless
+activity. This suit is assigned to the Marauders, whose unfathomable
+goals challenge the boundaries of perceptual reality. In the tradi-
+tional Tarot, this is the suit of Swords, symbols of aggressive action
+whose blades sever connections and change circumstances for good
+or ill. Air is the mercurial el igned to these ble cards.
+
+Virtues: Courage, Power, Vitality
+
+Vices: Fear, Tyranny, Chaos
+
+Element: Air (seen as Fire by some)
+
+Season: Fall
+Ace of Dynamism
+
+Meaning: Knowledge
+
+Conquest, Victory, Clarity, Inventiveness, Originality
+
+Reversed: Disaster, Tyranny, Ignorance
+
+Association: Innovation
+
+Emerging from the storm-filled skies to ground itself in the
+rippling sands of knowledge, the taloned hand of chaos and instabil-
+ity grasps the sword of activation. Driven by no quest save its own
+unmotivated energy, impelled by no emotion other than the desire
+to carve a mark upon the universe, the keen-edged symbol of the
+power of change severs the veil that hides the secrets of the world.
+
+Two of Dynamism
+Meaning: Precariousness
+Treachery, Blindness, Decision, Peace, Integrative mind
+Reversed: Balance, Stalemate, Impotence, Truce, Release
+Association: Resolution
+
+Poised precariously upon the shaky structure of a divided
+consciousness, Miss Zhao has chosen the path of inner sight. Reject-
+ing a world she no longer recognizes, she holds aloft the twin swords
+of creation and destruction. An unguarded movement by either
+
+38
+
+sword will cut the cord from which depends the lantern of illumina-
+tion, plunging it into the murky depths of the unconscious.
+
+Three of Dynamism
+
+Meaning: Sorrow
+
+Upheaval, Negativity, Triangles, Limited view, Focusing on
+the past, Jealousy
+
+Reversed: Compromise, Disorder, Confusion, Delay
+
+Association: Separation
+
+Severed from all save the anchoring rope of Dynamic flux,
+the abused consciousness suffers the threefold agonies of its loss of
+connection to spirit, mind and body. Limited by its ruptured view-
+point, the dangling awareness can focus only on its past sorrows and
+future upheavals.
+Four of Dynamism
+
+Meaning: Reality
+
+Convalescence, Quiet, Conflict resolution, Truce, Rest
+
+Reversed: Solitude, Repose, Economy, Precaution, Circum-
+spection, Exile
+
+Association: Repose
+
+Doomed to an existence in which he perpetually defends the
+constructs of imagination's realms, the self-appointed counselor of
+the damned and the forgotten seeks his repose after strife. Above
+Barrister Martins' quiescent form, the swords which symbolize the
+rigors of the law hang suspended. He rests upon the bier of his own
+reality, built — stone by stone — from his private vision. In solitude,
+he keeps his lonely vigil.
+
+Five of Dynamism
+
+Meaning: Defeat
+
+Degradation, Unfairness, Constriction, Fear, Distortion,
+Empty victory
+
+Reversed: Conquest, Threat, Menace
+
+Association: Dishonor
+
+Her victory is a hollow one, gained without honor. Smiling
+in malice, she surveys the tokens of her conquest, the weapons of her
+departing foes. Some inner urge compels her to wallow in the
+degradation of her enemies. The uncontrolled hostility she embod-
+ies takes no thought for consequences.
+
+39
+
+Six of Dynamism
+
+Meaning: Passage
+
+Journey, Travel, Rationality, Objectivity, Consideration of
+the whole
+
+Reversed: Stalemate, Failure, Obstacles, Difficulties, Delay,
+Blockage
+
+Association: Synthesis
+
+Steering a path between the choppy waves of activity and
+the calm waters of contemplation, Stephen of Warwick sets forth
+upon a journey of deliverance. His charges, too frail to exist inside
+reality's constraints, seek a new sanctuary beyond the world's hori-
+zon. The Dynamic spirit moves upon the surface of the waters,
+seeking passage to an understanding of the balance.
+
+Seven of Dynamism
+
+Meaning: Instability
+Futility, Unreliability, Helplessness, Hopelessness, Sabo-
+tage, Negativity, Lies
+Reversed: Counsel, Instruction
+Association: Betrayal
+She walks the tightrope of Dynamic change, uncertain of
+either starting point or destination. Unsteadiness prevents her from
+recovering the knives of stolen knowledge she hoped would assist
+her on the Path to her soul's development. To cease her forward
+motion is to plummet into futility, while turning back leads only to
+failure.
+Eight of Dynamism
+Meaning: Crisis
+Indecision, Restriction, Censure, Doubt, Mistrust, Over-
+analytical mind, Confusion, Interference
+Reversed: Triviality, Censure, Freedom, Relaxation, Origins
+Association: Captivity
+Surrounded by the weapons of violent change, captured in
+the twisted bonds of convoluted thought, she has become the victim
+of her own demented Inquisition. The mask of indecision blinds her.
+Although her mind has analyzed her options, doubt and mistrust
+undermine her escape. Overwhelmed by the crisis of her dilemma,
+she cannot break free of the constraints of her fevered imagination.
+
+40
+
+
+Nine of Dynamism
+
+Meaning: Despair
+
+Misery, Desolation, Disaster, Self-criticism, Mental cruelty
+
+Reversed: Suspicion, Doubt, Shame, Imprisonment, Deso-
+lation, Misery, Death
+
+Association: Suffering
+
+Nightmares of disaster haunt her sleep. Awakening, she faces
+only further intimations of her desolate existence. Without hope of
+respite or surcease, she rests uneasily upon the bed of her mortality,
+burdened by the violent demands of her Dynamic calling. The way of
+the Marauder leads as easily to despair as to enlightenment.
+Ten of Dynamism
+
+Meaning: Ruin
+
+Pain, Fear of ruin, Mental despair, Paradox
+
+Reversed: Advantage, Profit, Impermanence, Delusion
+
+Association: Failure
+
+The ruined carcass of delusion, pierced by the destructive
+instruments of change, surrenders to desolation. Overseen by the
+mountains of wisdom and understanding, fallen beneath the storm
+which will break down its outworn forms and failures, the mind
+forswears its illusions. Paradoxically, the end of one reality betokens
+the beginning of another.
+
+Page of Dynamism (Gibberer)
+
+Meaning: Aggression
+
+Activation, Ferociousness, Practical tangible thinking, Act-
+ing upon ideas
+
+Reversed: Naiveté, Unreadiness, Laxity, Slackness, IIIness,
+Unforeseen
+
+Association: Battle
+
+He stands as a buffer between the world of the mind and the
+concrete structures of external reality. Ready to do battle with those
+who would threaten his cherished beliefs, he grasps the Dynamic
+symbol of his aggression. He is imagination's sentinel, the vanguard
+of active expression rather than passive thought.
+
+41
+
+Knight of Dynamism (Dragon)
+
+Meaning: Impulsiveness
+
+Courage, Intuitive thinking, Unrestricted mind
+
+Reversed: Extravagance, Braggadocio, Romance
+
+Association: Wrath
+
+Descending from the cloud-filled sky, the Dragon of Dyna-
+mism visits destruction upon the pitiful fruits of prideful creation,
+bathing the mundane world in the flames of its purifying spirit. The
+mighty serpent does not always temper its impulsive nature with the
+wisdom of forethought and planning. Instead, it rushes headlong
+into conflict, heedless of the consequences of its actions.
+
+Queen of Dynamism (Sibi)
+
+Meaning: Perception
+
+Confidence, Rational, Objective, Consulting intelligence
+
+Reversed: Narrow-mindedness, Intolerance, Bigotry, Arti-
+fice, Prudery
+
+Association: Observation
+
+The visions of her bloody past merge with her perceptions of
+the future. Crowned with the symbols of immortality, Medea sits
+upon her skyborne throne surrounded by her airy messengers of
+thought. Made wise through suffering, tempered by the knowledge
+of her imperfections, she observes the world below her through eyes
+maddened by the clarity of her penetrating mind.
+King of Dynamism (Prankster)
+
+Meaning: Judgment
+
+Counsel, Wisdom, Focus, Intention, Concentration,
+
+Reversed: Cruelty, Injustice, Barbarity
+
+Association: Determination
+
+Sheltered in a world of his own imaginings, Robert Daven-
+port dwells within a happier time. The spirits of his past tantalize
+him, while the sylph of knowledge whispers of his intentions. In his
+domain, his will is absolute, his authority unquestioned. Crowned by
+the roses of his desires, he contemplates immortality within his own
+mind, wherein he holds command over life and death, for he has
+judged reality and found it wanting.
+
+42
+
+Chapter Six: Pattern
+(Pentacles/Technocracy/Earth)
+
+The blood-dimmed tide is loosed, and everywhere
+The ceremony of innocence is drowned;
+— W.B. Yeats, "The Second Coming"
+
+The essence of Pattern is stability and formal structure. This
+is the suit of the Technocracy, whose vision dominates the physical
+world. In the traditional Tarot, this suit is assigned to Pentacles,
+symbolic of earthly progress and material gain. The element of
+unyielding Earth finds its representation in these cards.
+
+Virtues: Stability, Knowledge, Strength
+Vices: Inflexibility, Greed, Intolerance
+Element: Earth
+Season: Winter
+Ace of Pattern
+Meaning: Prosperity
+Inheritance, Success, Production, Practical organization
+Reversed: Corruption, Excess, Surplus
+Association: The Syndicate
+
+Breaking free from the aimless flux of change without direc-
+tion, order imposes its Pattern upon the world. Material prosperity
+becomes the center for a new beginning, stamped with the imprint
+of stability and measured attainment. Hidden forces tighten their
+grip on reality, casting their shadows on the shape of things to come.
+
+Two of Pattern
+Meaning: Balance
+Change, Harmony, Yin/Yang, Stability, Adaptability
+Reversed: Opposition, Flux, Fluctuation, Vicariousness
+Association: Speculation
+
+Without balance, Patterned existence falls prey to inner
+corrosion. The lightning flash of inspiration, harnessed by the
+willworker's determination, maintains spiritual and physical mani-
+festations in delicate equilibrium. Only constant motion provides
+the appearance of static harmony; one false step, one hasty specula-
+tion, and the dance of power dissolves into chaos.
+
+43
+
+Three of Pattern
+
+Meaning: Effort
+
+Persistence, Tenacity, Priorities, Commitments, Focus, In-
+tention, Direction
+
+Reversed: Mediocrity, Pettiness, Confusion, Obstruction
+
+Association: Construction
+
+Superimposing a new vision upon the traditions of the
+past, the artisan of order directs her talents to the mastery of her
+environment. The guardians of material progress keep vigilant
+watch over her painstaking effort. Under her skilled ministra-
+tions, the construction of a threefold utopia of body, mind and
+spirit comes into being.
+Four of Pattern
+
+Meaning: Inheritance
+
+Greed, Solidity, Miserliness, Power, Vitality, Forcefulness,
+Empowerment, Possessiveness
+
+Reversed: Setback, Loss, Poverty, Legacy
+
+Association: Direction
+
+From his perch at the center of his universe, Void Engi-
+neer Ambrose Channing seeks to fathom the secrets of the
+cosmos and unlock the mystery of the physical world. As the
+inheritor of the twin powers of logic and reason, his mind
+perceives the subtle forms within the Grand Pattern of perceiv-
+able reality. It is a vision worth sharing only with those worthy
+of receiving its overwhelming legacy.
+Five of Pattern
+
+Meaning: Impoverishment
+
+Destitution, Loss, Loneliness, Worry, Concern, Preoccupation
+
+Reversed: Companionship, Success, Spirituality
+
+Association: Anxiety :
+
+Impoverished in mind, body and soul, the victim of the
+chains of spiritless reality stands before the face of pitiless
+intellect within the dark circle of his own making. Preoccupied
+by his physical limitations, lacking the inner illumination that
+would lift him to Ascension, he merely endures, rather than
+seeking to understand.
+
+
+Six of Pattern
+
+Meaning: Philanthropy
+
+Charity, Attainment, Accomplishment, Productivity,
+Tangibility
+
+Reversed: Avarice, Unfairness, Envy, Debt
+
+Association: Gifts
+
+Seeking to share the benefits of his Technocratic vision, the
+devotee of Pattern whets the appetite of others with the fruits of his
+own material success. Caretaker of the Sleepers, endowed with a
+sense of justice and the desire to uplift the ragged Masses, the
+concerned Technomancer acts as philanthropist both for the ben-
+efit of the recipient and for his own sense of self-worth. His actions
+are the proof of his attainment.
+Seven of Pattern
+
+Meaning: Re-evaluation
+
+Indecision, Failure, Fear of success, Delay
+
+Reversed: Impatience, Uncertainty
+
+Association: Stress
+
+His work all but complete, momentary indecision leads to
+the partial loss of Chain's precious stores. Constant re-evalua-
+tion of the forces surrounding him forms a necessary part of his
+drive toward completion of his goals. The fear of success is as
+
+costly as the fear of failure, and in the heat of the moment, one
+can be mistaken for the other.
+
+Eight of Pattern
+Meaning: Skill
+Artistry, Prudence, Attention to detail, Organization,
+Centeredness
+Reversed: Ineptitude, Inability, Lethargy, Chaos
+Association: Employment
+
+Centered upon his appointed task, enhanced by the grafting
+of technological precision to the creative mind, the artisan of
+Pattern focuses on the precise replication of his orderly designs.
+Awaiting completion, the object of his perfected efforts is nothing
+less than the total blend of matter and spirit.
+
+Nine of Pattern
+
+Meaning: Gain
+
+Prudence, Benefit, Balance, Order, Organization, Unification
+
+Reversed: Loss, Roguery, Dissipation, Imprudence,
+Incompletion
+
+Association: Profit
+
+She extracts the vital essences from the lushness of her
+material surroundings. Within her protected environment of abun-
+dant growth, she rests secure in the knowledge that all she surveys
+is under her control. Through prudence and discernment, she has
+gathered the material benefits of a Patterned existence.
+
+Ten of Pattern
+
+Meaning: Stability
+
+Riches, Abundance, Prosperity, Enrichment
+
+Reversed: Misfortune, Robbery, Risk, Gambling
+
+Association: Wealth
+
+Raising his glass in a toast to the success of his vision, the
+autocrat of Pattern sees the culmination of all for which he has so
+zealously striven. His patriarchal rule ensures the material well-
+being of those who embrace his orderly philosophy. Under his
+ministrations, animal instinct is harnessed to the will of the mind.
+Stability is assured.
+Page of Pattern
+
+Meaning: Perseverance
+
+Diligence, Creativity, Mutation, Incubation
+
+Reversed: Prodigality
+
+Association: Void Engineers
+
+Despite the barrenness of her surroundings, Void Engineer
+Karen Brewster draws sustenance for her belief in the cosmic order
+from the radiant energy of the stars above her. In one hand, she holds
+the secret to the Pattern of the universe. Her other hand is filled with
+unanswered questions. She stands upon the brink of a new aware-
+ness; her diligence awaits its reward.
+
+Knight of Pattern (Cyberknight)
+
+Meaning: Reliability
+
+Patience, Methodicity, Lack of imagination, Physicality,
+Architect, Reform, Solidity
+
+Reversed: Carelessness, Inertia, Idleness, Stagnation
+
+Association: Iteration X
+
+Within his cybernetic spirit, the reliability of the machine
+enhances the ingenuity of the man to form a dedicated guardian of
+Pattern. The Cyberknight of Iteration X rests patiently upon his
+mechanized steed, ever vigilant and ready to assume his duties as the
+enforcer and messenger for the Technocratic will.
+Queen of Pattern
+
+Meaning: Creativity
+
+Talent, Fertility, Health, Nurturing, Stability, Fulfillment
+
+Reversed: Neglect, Dependence, Lack, Misuse
+
+Association: Progenitors
+
+Creation is the task at hand. Crowned with the mask of
+enlightened sight, intimately connected to the throne through
+which her power flows, the Progenitor Queen of Pattern manipu-
+lates the structure of life itself. Her fertile imagination conceives of
+possibilities as yet unperceived; her disciplined will brings those
+visions into being.
+
+King of Pattern
+
+Meaning: Industry
+
+Solidity, Prosperity, Harvest, Abundance, Practicality, Fi-
+nances, Diagnostician
+
+Reversed: Perversity, Misuse, Speculation, Waste
+
+Association: New World Order
+
+At rest upon a throne carved from the ruins of the past,
+Montego Diaz-Quetzalcoatl oversees the progress of the New World
+Order's dominion. Crowned by his technological achievements, the
+King of Pattern monitors the interplay of wealth and industry.
+Protected by the twin guardians of knowledge and power, he has no
+need to step outside his sheltered enclave. All the information he
+needs is at his disposal; his rule is absolute.
+
+47
+
+
+THE FOOL.
+
+THE MAGE.
+
+THE HIGH PRIESTESS.
+
+THE EMPRESS.
+
+
+THE LOVERS.
+
+THE HIEROPHANT.
+
+THE CHARIOT.
+
+
+Vill
+
+STRENGTH.
+
+THE HERMIT.
+
+WHEEL OF FORTONE.
+
+JOS TICE.
+
+
+THE HANGED MAN.
+
+TEMPERANCE.
+
+DEATE.
+
+THE DEVIL.
+
+
+THE STAR.
+THE SON.
+
+THE TOWER.
+
+
+JODGEMENT.
+
+GAIA.
+
+
+
+
+C
+ZZ es, nt 2 ~~
+. S SSS
+
+PAGE oF DYNAMISM. KNIGHT oF DYNAMISM.
+
+
+QUEEN oF DYNAMISM.
+
+KING oF DYNAMISM.
+
+
+|ACE oF PATTERN.
+
+
+
+KNIGHT oF PATTERN.
+
+PAGE oF PATTERN.
+
+
+KING oF PATTERN.
+
+QUEEN oF PATTERN.
+
+
+ACE oF PRIMORDIALISM.
+
+
+
+KNIGHT oF PRIMORDIALISM.
+
+
+QUEEN oF PRIMORDIALISM.
+
+KING oF PRIMORDIALISM.
+
+
+ACE oF QOESTING. ;
+
+
+
+WAL
+
+aA%
+aN Ara
+
+OF O
+
+OEST KNIGHT oF QUESTING.
+
+
+QUEEN oF QUESTING. KING oF QUESTING.
+

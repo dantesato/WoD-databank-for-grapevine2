@@ -1,0 +1,4344 @@
+# File: Artificers.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+The Artilicers Sourcebook for Wraith: The Oblivion
+Guildbook One :
+
+By Richard Dansky
+
+
+
+"Wherefore do ye toil; is it not that ye may live and be
+happy? A\nd if ye toil only that ye may toil more, when shall
+happiness find you? Ye toil to live, but is not life made of beauty
+and song? A\nd if ye suffer no singers among you where shall be
+
+the fruits of your toil? Toil without song is like a Weary journey
+
+without an end. Were not death more pleasing"
+
+= HP. Lovecralt, "The Quest of lranon"
+
+
+vr Ni
+
+Written by: Richard E. Dansky
+Development by: Richard E. Dansky
+f) Editing by: Ed McKeogh
+
+Andrew Ritchie
+
+Front Cover Art: John Cobb, Richard Thomas
+Front and Back Cover Design: Aileen E. Miles
+Layout and typesetting by: Matt Milberger
+
+Vice President in charge of Production: Rich Thomas
+f! Art Direction by: Aileen E. Miles & Lawrence Snelly
+Art by: Richard Clark, Fred Harper, Eric LaCombe,
+
+B SUITE 100
+
+USA
+
+GAME STUDIO
+©1995 by White Wolf. All rights reserved. Repro-
+duction without written permission of the publisher is
+expressly denied, except for the purpose of reviews.
+Wraith: The Oblivion, Wraith Players Guide, and
+
+Guildbook: Artificers are trademarks and copyrights of
+White Wolf.
+
+marks or copyrights concerned.
+
+cretion is advised. Printed in Canada
+
+Fs 780 PARK NORTH BLYD.
+
+CLARKSTON, GA 30021
+
+The mention of or reference to any companies or
+products in these pages is not a challenge to the trade-
+
+Because of the mature themes involved, reader dis-
+
+Guildbook: Artificers
+
+Bill "Are You Online?" Bridges, for agreeing to be Ravaged.
+Jane "They Said They'd Come Today" Palmer, for not go-
+
+ing after the photocopier with an axe.
+
+Cynthia "Mucklehead Season" Summers, for witnessing
+"The Incredible Adventures of Bolt-Boy."
+
+Fred "Collectible Tarot Cards" Yelk, for doing his best to
+spread the hernias around.
+
+Ethan "I Can Have Him?" Skemp, for adding to the ranks
+of the illustrious dead.
+
+Stephe "Forget About December" Pagel, for imparting
+needed sales wisdom.
+
+Kathleen "See Layout and Design" Ryan, for the loan of
+her system.
+
+
+Table of Contents
+
+Ghost Story: A Road of Steel and Soul, Part Ne
+Chapter One: The Guild i
+Chapter Two: The Hammer of the Damned 19 Re
+Chapter Three: The Guild inside and Out mY
+Chapter Four: Putting the Hammer Down 08 if
+Chapter Five: Ways and Means 5 i
+Chapter Six: Hammerhoys and Netsurfers
+Appendix: Who Was Who
+
+
+4 4
+Part |: A Meeting ot Minds
+€ eep in the bowels of the Isle of Sorrows, a
+4 gavel moaned. Obediently, 12 heads, all
+
+more or less human, turned to face its
+
+‘coal-colored cari
+who'd introduced himself only 2
+
+wielder: a c ature
+Ember.
+forged
+k Stygian steel, functional in-
+stead of ornate. Souls Moliated into cushions (through the
+good offices of Dame Katrin of the Masquers' Guild, their
+
+host had indicated, even as he pointed to one of the early
+
+He sat, as they all did, in a
+
+from bla
+
+arrivals) provided the sole bit of ornamentation, and even
+they were plainly functional.
+
+The room matched the furniture in its utilitarian sim-
+plicity. A single entrance, barred with a steel door, loomed
+behind Ember and framed his countenance with a deeper
+black. No windows looked out on the Imperial City, and the
+
+~ Ghost Story: A Road
+eel and Souls
+
+floors and walls were a single surface of polished soul-steel.
+A wagon-wheel chandelier hung from the ceiling on a black
+chain; Moliated candles standing at the end of its spokes pro-
+vided smokeless red light. Below the chandelier squatted the
+monstrous table, its legs hammered into the semblance of
+dragons' limbs and its surface polished to a dark mirror's gleam.
+Apart from the dozen masked figures seated around the table
+and Lord Ember himself, the room held no other wraiths.
+
+Ember himself was garbed in loose robes of gray, and his
+skin was a cracked and ridged carbon black. Completely bald,
+he looked as if he had been forged as statuary and then dis-
+carded as a botched job. Only the startling whites of his eyes
+and the deep red of his mouth lent his form any color. He
+appeared as a ghost among ghosts, and the odor of char drifted
+unpleasantly from him. In his left hand he held the black-
+and-gold gavel whose moan had set the others to silence; in
+his right was a sheaf of papers. A dozen carved faces looked
+up at him expectantly, and in the back of the room someone
+coughed. An expression of impatience, perhaps, or a habit
+from breathing days.
+
+Steel and Souls
+
+
+Guildbook: Artificers
+ss RS
+
+Ember's voice, when it came, was a bass rumble, rough-
+ened by the soot of centuries in the forge. "Forgive me," were
+his first words, "for calling you on such short notice. | know
+that we were not due to meet again for another seven years,
+but I felt that what I had to impart to you to be...well worth
+the risk." Waving the sheaf of papers for emphasis, he waited.
+Every pair of eyes in the room, he noted, was on the papers.
+Where, of course, he wanted them.
+
+"This is insanity." The voice came from the back, from
+behind a mask like a leopard. "To meet again this soon is
+idiotic. To do it the bowels of the City itself is suicide." Arms
+clad in the court garb of the De Medicis were crossed in dis-
+approval. Ghostly feet in relic leather boots were propped up
+on the table.
+
+Frowning, Ember turned. "My dear Lord..."
+
+"No names."
+
+"Of course. Master of Chanteurs," and Ember paused for
+the general laughter. The fop behind the leopard's face was
+the latest in a long line of "Masters of Chanteurs" who had
+attended these meetings, each of whom was obviously an ex-
+pendable decoy. At first Ember had found the way in which
+the faux Guildmasters had attempted to press their bluff to
+be admirable. Of late, it had grown tiresome. Consistency in
+the lie would have been a courtesy.
+
+The laughter, of course, was because it was highly likely
+that all of the "Guildmasters" gathered on this night were
+"imposters." Including Ember.
+
+"Master of Chanteurs. Invoking my right as Master of
+the Eldest Guild, I have called us together tonight because I
+deem it important, and not because after twenty-two centu-
+ties, I've suddenly acquired a death wish. As for meeting in
+Stygia, as one of my Guild's new apprentices once put it, where
+better to hide than in plain sight?"
+
+A portly woman, covered in shifting robes that moaned
+and twisted in time to the twisting tentacles of her octopus
+mask, rose shrieking. "You took her? She was ours by right!"
+The sigils on her arms danced in time with her gestures, and
+the same markings danced across her mask.
+
+Ember made a self-deprecating gesture. "She chose us.
+We did not take her. And who were we to refuse such an
+illustrious apprentice?"
+
+"We should have been consulted. We'd have made bet-
+ter use of her."
+
+"And taught her through your calm example, no doubt,"
+called the Chanteur at the back. The woman, an Oracle,
+made an obvious show of ignoring him as she sank back into
+her seat.
+
+"Were you going to plump her up as well, Missy
+Kassandra?" Again the Chanteur, lazily drawing forth a man-
+dolin even as the Oracle rose again. The din her chair made
+crashing to the floor was ignored.
+
+
+"Never mention that name again," she hissed, "or you'll
+find yourself rolling double ones with your own
+s." Along the mask and the plump white arms,
+the black sigils twitched and fretted.
+
+"Js it such a good idea," said the Chanteur, his long fingers
+strumming the strings along the length of the mandolin's neck,
+"to threaten me in this echo chamber? Play your games with
+the Alchemists, you fat little fraud. Maybe you'll frighten them."
+
+"Fraud? You've just bought yourself a century of bad luck,
+you vicious little..."
+
+"ENOUGH!" The hammer howled in time as Ember
+brought it down on the table hard enough to crack the mir-
+rored surface. With a crash, the wreckage fell to the floor.
+Ember stood before his chair, rage-red marks mottling his flesh,
+his eyes green with anger. "Little songbird, you have said quite
+enough." He was on the Chanteur before the man could rise,
+his hand around the singer's throat. The gavel lay, shattered
+and weeping, on the floor. "I will not have this. If you, or any
+of your successors, disrupt a gathering of this sort again, | will
+take my revenge. I will personally hunt you down and take
+you back to my forge. I will melt you down for coin, and I will
+scatter those coins to the far ends of the Empire, those that I
+don't send to the Void or the Jade Emperor's Hell. And I will
+make sure that you are awake for the entire process.
+
+"Do you like the sound of that, songbird? A little bit of
+your mind in China, a little bit of it here. A little bit amidst
+the dust on my workshop floor. A little bit lost down a sewer
+grating. Do you like the sweet sound of that?" A choking sound
+was his only answer. "I can't hear you, nightingale. Do you
+like the sound of that?"
+
+"...no..." The response came in gasps, in terror.
+
+Ember released the Chanteur, who fell to the floor in a
+jangle of strings. None of the others in the room stirred. Im-
+passive masks stared back at him. There was silence.
+
+"Right," said Ember. "Back to business. We're here to
+talk about Charon."
+
+"Charon's dead and gone," murmured a woman with the
+inky fingers of the Pardoners. She gave Ember a look like a
+raptor gives a sparrow and frowned from beneath her half-
+mask.
+
+"Just gone. Not dead. I want to get him back."
+
+"Impossible!" It was the plump Oracle again. "He and
+Gorool went down in that horrid whirlpool, and we'll never
+see him again."
+
+A man at Ember's right elbow, marked with the broad
+shoulders and the pinched expression of the Spooks, barked
+laughter. "Miklos there was right. You are insane."
+
+Ember spun on him, still clutching the papers. "Idiot.
+Stygia's going to hell under the Deathlords. Without Charon
+and a unified leadership, it's just a question of who gets us
+first: the Spectres or the other Dark Kingdoms."
+
+
+"Granted," came the Pardoner's voice. "However, you're
+still begging several questions here."
+
+"Such as?"
+
+"Such as where is he, how do we get him back, what's
+the benefit to us in all of this, and why did you choose now to
+hatch this?"
+
+"T'll answer the last first," Ember answered as he settled
+back into his chair. The gavel whimpered once, and the Spook
+gave it a petulant kick. "Now, because I have just received
+some new information on Charon's disappearance. The ben-
+efit to us, besides mere survival, is that if we, the Guilds, re-
+trieve Charon from the Labyrinth, he'll owe us. Reinstate-
+ment in Stygia will be the least of it. Down with the
+Deathlords, up with us."
+
+"Perhaps," came a voice from unblinking eyes behind a
+moon mask. "You said retrieve him from the Labyrinth. I take
+it you know he's there?"
+
+Ember shrugged. "Where else would he be?"
+
+"The Void. In Gorool's belly. Playing pinochle with
+Nhudri's grandfather. The mind boggles."
+
+"All the evidence I have points to his being in the Laby-
+rinth." Again, a shake of the papers. "After a fashion."
+
+"Do tell," came the Pardoner's purr.
+
+"These papers were obtained for me by a journeyman of
+my Guild. One who specializes in computers. He's a bit un-
+disciplined, which is why he's still a journeyman, but his hobby
+is retrieving odd bits of data. This time, he stumbled onto
+more than he knew.
+
+"What he came across was a file on a computer belong-
+ing to a psychiatrist near his haunt. This doctor had come
+across a group of patients who'd been suffering from similar
+nightmares. All were over 55 years of age and were absolutely
+unable to sleep because this nightmare, which they'd all origi-
+nally had at the time of the Fifth Maelstrom, had returned.
+In the dream, a monster comes up out of the ocean and fights
+aman ina boat. | trust you'll all be quite surprised when I tell
+you it ends with a whirlpool swallowing both man and mon-
+ster."
+
+"Sounds familiar, yes. But I fail to see much significance."
+The Pardoner sounded spectacularly unimpressed.
+
+"Besides the fact that it came to these people in a dream?"
+Ember paused to look quizzically at the lone Sandman in the
+room and met an unblinking stare. "Besides the fact that 50
+years later it's still bothering all of them? Besides the fact that
+the descriptions of the Isle and the Weeping Bay and Charon.
+himself are letter-perfect in all of the accounts? How about
+the fact that my journeyman found similar dreams recorded
+in four other psychiatrists' offices within an evening's travel
+of his haunt?"
+
+The Pardoner leaned toward Ember, hand outstretched.
+"Let me see those."
+
+
+"Gladly," as he handed papers around the room. Even
+the Chanteur took his without comment, and for a few min-
+utes only the flipping of pages could be heard.
+
+It was the Oracle who broke the silence. "All of these
+have something else in common," she said fretfully. "I don't
+like it."
+
+"Don't like what?" retorted the Spook. "Piss-poor prose,
+most of it. What's eating you?"
+
+"Well, all of them talk about Gorool...we agree this is
+Gorool, right...all of them talk about him rising up out of the
+waves and bellowing something like ‘I have come! Where
+rests my sacrifice?" or some such."
+
+Ember nodded. "More or less."
+
+"But I don't remember hearing that! I was on the battle-
+ments when Gorool manifested, and it didn't say anything. It
+just howled. I don't remember the words all these people do."
+
+"{ don't remember those words either," interjected the
+Pardoner. "This is disturbing."
+
+"We could call in the Mnemoi and find out what we do
+remember." All heads turned to the back of the room, where
+the Chanteur smirked behind his leopard mask.
+
+"Not even as a joke, songbird. Not even as a joke." The
+Pardoner's face was grim as slate. "I'd open the gates to Yu
+Huang before I let a Mnemos into my head."
+
+"Just a suggestion. The few I've met have been decent
+people, really."
+
+"Then you're a bigger fool than Ember here thinks you
+are, and that's considerable. No, what really bothers me is
+what they all claim Gorool said."
+
+Ember's smile was a cold thing. "The reference to the
+sacrifice? Yes, that caught my attention. It's why I called you
+here."
+
+"Because Gorool wanted a sacrifice? Seems reasonable
+for a beast like that," muttered the Spook. The Oracle im-
+paled him with a glance. Dutifully, he writhed beneath it.
+
+"Imbecile. If he came for a sacrifice, someone must have
+promised that sacrifice to him." There was a long silence.
+"Someone promised a sacrifice to him. Someone called Gorool
+here, and Charon was the bait. A traitor. A traitor killed
+Charon."
+
+"Tried to, at least." Ember's forced optimism echoed from
+the polished walls. "A traitor set Charon up, yes. We find the
+traitor, we find the path to Charon. We find the path, we
+find Charon himself. We find Charon, we free him, and it's
+back to the Weeping Towers in steel and glory. These mem-
+oirs are the first step on the road back to power for us. For our
+Guilds."
+
+The Chanteur laughed, a bitter sound. "If you can trust
+your minds and your memories. I trust neither. | don't trust
+Lord Briquette here, | don't trust the fact that this magical
+evidence just came to light, and | don't trust the fact that
+despite the fact that we all watched Charon's Fall, not one of
+us recalls Gorool speaking so much as a coherent syllable.
+There's another game here, Ember. Why should we play it?"
+
+"Because," and it was not Ember who answered, but in-
+stead the Oracle, "Because we have no choice." And a hush
+fell on the chamber, as in a dozen minds, a beast a half-cen-
+tury gone roared once more from the depths.
+
+
+
+The
+
+Call for a craftsman
+
+hapter One
+
+Guild
+
+Bring me a draftsman
+Build me a path from cradle to grave
+— Billy Bragg, "Between the Wars"
+
+To: Hérnan of the Paupers' Legion
+
+From: Chandler DeShields, P.1.
+
+Re: Artificers
+
+Encl: An overview of what I found out. The full report is
+on its way as soon as I can possess my secretary and get her to
+type it. Shouldn't be more than another day. In the meantime,
+these are the edited highlights. They'll get the point across.
+
+Note: By the way, payment is overdue on this assign-
+ment. I fully expect the 10% late surcharge to be included
+when I hand you the full report.
+
+Overview
+
+n case you were wondering, the Guild is
+still around. Give me all the bullshit you
+4) want about banishment and disbanding
+and whatever else, the Guild is real. More
+to the point, it's real and it has an awful
+lot of members. Plus, they're all nuts. This
+
+group combines the worst elements of the Teamsters, the
+Masons and the Hare Krishnas. I can't tell if it's a profes-
+sional organization or a religion, and at a certain point it
+doesn't matter. If an Artificer breaks your legs out of a deep
+and abiding religious devotion to their "Lord" or because he
+doesn't like independent soulforge contractors, it doesn't make
+much difference. Capiche?
+
+I didn't get in deep enough to find out what they're re-
+ally up to, but then again, you're not paying me enough for
+me to do what would have been required. Let's put it this
+way: you join the Artificers, you're making a real investment
+of yourself.
+
+Got it? No? Tough.
+
+Anyway, on to the facts of the matter. They are:
+
+Who Are These Bozos?
+
+The Artificers Guild, also known as the Right and Hon-
+orable Brotherhood of Artificers, Soulforgers, and Gremlins;
+also known as the Society of the Hammer; also known as the
+United Smiths of Stygia; also known as the Hammerboys, is
+
+Chapter One: The Guild 13
+
+
+real, active and vital. Sorry, it's not a myth. I know you're
+disappointed to hear that, but try to restrain your despair un-
+til after you pay me.
+
+The older members tend to call themselves the Brothers
+of the Forge. Sexist as all hell, but what do you want from
+wraiths 2000 years old? The younger ones, at least those in
+the Guild, call themselves Artificers or Hammerboys. Not
+surprisingly, women tend to go by the former and men by the
+latter. Above is a partial list of aliases for the organization,
+but these are just the obvious ones. There are a lot more,
+most of which seem to be innocuous enough but are actually
+attached to the Guild.
+
+Older members tend to have been blacksmiths, philoso-
+phers, inventors, and scientists. The leadership of the Guild
+is heavily slanted toward the male side, but this is changing a
+lot faster than the fogies would like. Younger members, espe-
+cially those Reaped in the past 20 years, tend to specialize
+more in the computer end of things, though you get a few
+mechanical engineering mavens as well. Fewer architects than
+you'd expect, but a sizable minority of AFL-CIO types, blue
+collar workers who go into soulforging.
+
+Physical profile is easy for the old-timers. Think big, burly
+and blackened. Working in the forges, most get seared like
+Cajun-style catfish, and even those who don't get carbonized
+look like they've been tanning in a microwave. Younger ones
+are harder to identify, but the weathering is there if you look
+for it. Red and black streaks often disguised as tattoos or cov-
+ered with gloves and long sleeves are what to look for here.
+Steel-tipped chuckaboots are also a giveaway.
+
+What is it Up To
+
+The Guild is actively recruiting new members, especially
+from the Legions, and seem to have stepped up its inductions
+over the past four years. Mind you, the Artificers are being
+quiet about it. It's real subtle; they find someone they're in-
+terested in and start dropping hints about the bigger quarters
+you get, the higher pay for smiths as opposed to grunt sol-
+diers, the thrill of hitting computer systems and making the
+bank put a million bucks in your mom's account, all of that
+malarkey. No mention of the Guild at all. Then, once the
+sucker signs on, he gets some training, some testing, and
+wham, he's inducted into the Guild.
+
+That is, if the Guild muckety-mucks think they can trust
+him. If not, he ends up as flatware. Very ecologically con-
+scious, those Artificers; very into recycling, if you know what
+I mean. They don't leave any of their mistakes lying around
+for people like me to trip over.
+
+The other main avenue of recruitment is the raw materi-
+als line. If an Artificer spots a likely candidate in the "Future
+Lawn Furniture" pile, he pulls her out, dusts her off and in-
+ducts her. This is where a lot of the computer types come
+
+14 Guildbook: Artificers
+
+from, as most get hauled in as half-assed Renegades.
+Hammerboys pulled off the scrap heap tend to be very loyal
+to the Guild. None of ‘em would even talk to me.
+
+Mind you, that's what the Guild is up to in the small
+scale, not the large. There's something big going on here,
+something really nasty. Soul-steel production is down 2.1%
+over the same time that the Guild's bumped up recruitment,
+and that's just not kosher. What makes it even more interest-
+ing is that more and more souls are getting sent to the forges
+these days. More smiths, more raw materials; yet we're end-
+ing up with less product. Something stinks.
+
+My guess is that the Guild is siphoning off the extra. Yeah,
+I know 2% doesn't look like much, but think about the vol-
+ume of soul-steel we're dealing with here. 2.1% of 10 souls is
+an arm anda leg; but 2.1% of 4 million tons of soul-steel is an
+awful lot. It sounds like the Guild is stockpiling raw materi-
+als, a lot like survivalists squirreling away canned food and
+shotguns.
+
+Who Are Artificers Talking To?
+
+Well, pretty much everybody. They've got contacts, if
+not actual chapters in both Heretic and Renegade camps. I
+got hauled out to a couple (location will be attached with the
+full report), mainly Renegade camps on "scouting" missions
+for the Legion. Bullshit. They were out there to make nice
+with the Artificers on the other side.
+
+The vibe I got was that Guild loyalty transcends every-
+thing else. Everything. Let's put it this way, given a choice
+between saving a Renegade Artificer or a Legion Commander
+from getting chomped by a Shade, any real Artificer chooses
+in a second. Guess what: the Commander loses.
+
+Seriously, the Guild has a network strung out over the
+entire Shadowlands. Favorite Haunts are factories, ware-
+houses, and foundries. It's not going to surprise anyone that
+the Artificers pretty much own Pittsburgh, Cleveland, De-
+troit, and the rest of the Rust Belt. Oh yes, Buffalo too. Not
+overtly, mind you; however, the Hammerboys are damn strong
+there, and even the Anacreons know not to push it. Not much
+of a presence up and down the eastern seaboard or the West
+Coast; big in northern Europe and Germany, not much influ-
+ence in Spain, Portugal, or Italy. Poland's chock full, at least
+the cities like Gdansk and Cracow.
+
+In any case, one of my contacts, since vanished, informed
+me that the Guild has hidey holes, ammo and weapons dumps,
+forges and stockpiles of steel'n'souls all over the place. The
+Artificers love ‘50s vintage bomb shelters, too, and old mis-
+sile silos when they can find them. The fact that Lyman dis-
+appeared right after talking to me lenta little additional weight
+to his words.
+
+Two days after Lyman vanished, I got an anonymous de-
+livery: a dozen relic paper flowers in a soul-steel vase. Expen-
+
+
+sive gift, and there was no name or card on it. Mind you, I'm
+not one for flowers, and the vase itself was no great shakes.
+Looked like it had been done hastily. Looked like the artist
+hadn't spent more than a day or two on it. Lyman makes a
+god-awful vase, in case you were wondering. Let me know if
+you want the flowers.
+
+The long and short of it is, these honchos are serious.
+Same old Code of Silence from my days in Southie; you talk,
+you're dead. Or worse.
+
+As for those bomb shelters and bunkers the Guild's dug
+into, | wouldn't want to be the one to pry them out. We're
+talking a serious plasm party here. Wait until Janet Reno kicks
+it, then get her to take charge.
+
+Growth industries
+
+As much as some of the old-timers don't seem to like it,
+they're getting into computers. Heavily. The Dictum Mortuum
+might as well be tissue paper as far as they're concerned; they're
+into databases and dedicated systems like there's no tomor-
+row. Mind you, I haven't seen what they're pulling down, but
+Ican make some guesses: passwords, financials, launch codes.
+All that sort of fun stuff.
+
+This is where a lot of ex-Guild types come in, especially
+the young ones. There's a decent number who quit the Guild
+before they get too far in. Some are allowed to go; some take
+it on the lam. I think it depends on how much you've been
+taught and how much of a security liability you are. Besides,
+even the ones who want out in the worst way aren't going to
+talk. Nobody wants to be a vase.
+
+If they catch the ones who cut and run without permis-
+sion, it gets ugly. No appeal, no chance for parole; you've had
+it. I've heard a few people talk about the "Ancient Arts" in
+connection to somebody who got smelted down. Not much
+came out of that conversation, but there's a clear social de-
+marcation in the Guild, and I think that those who know
+these "Ancient Arts" are the ones above the line. There's
+also a bit of a rivalry between those who do the forging and
+those who work with computers. A rare few do both; every-
+body hates these guys.
+
+That Old Time Religion
+
+The Guild has developed some religious overtones over
+the centuries, which isn't surprising in something as ritualis-
+tic as a guild-type setting. I remember back from my living
+days, a lot of the fraternal organizations like the Knights of
+Damon had sort of blurred the lines between their secular
+function and the religious trappings they'd draped it in. Well,
+the Artificers have that in spades.
+
+Religious leanings are most prevalent in the old-timers,
+of course. There's a sort of holy book, which I saw at an ini-
+tiation (more on that later), that purports to be the history of
+
+
+the Guild in the same way that the Bible claims to be the
+history of the human race. I got to read a copy of the text at
+one point. Lots of "spakes" and "begats" and things like that,
+but at its core it's essentially the story of how the demand for
+soul-steel outstripped Nhudri's capacity to hammer it out, so
+Charon told him to get some help. The help hired more help,
+the whole thing snowballed, and it ended up with the Guild
+as we know it. Of course, the old-timers couldn't deal with
+the fact that their entire little subculture is based on an eco-
+nomic proposition, so they've elevated Nhudri, excuse me,
+"Lord Nhudri," to demigod status. The really whacked out
+ones call him "Our Lord" and talk about soulforging as a sort
+of communion with the souls they're working on. More
+mumbo jumbo like that. The religious devotion seems to be
+weaker among the newer members, but during initiation some-
+thing goes pop and suddenly they're devout, at least for the
+duration of the ceremony.
+
+Again, the line between computer Artificers and
+Hammerboys seems to be obvious here. The ones who actu-
+ally work in the forges seem to take the religious end more
+seriously than the netsurfers. Then again, I heard one or two
+of those call Nhudri "The Great Ghost in the Machine," so
+we could simply be watching the equivalent of a religious
+schism here.
+
+RITCHIE
+
+qhe Few, the Proud, the Artitices
+
+I didn't initiate. I was asked, and it w:
+at that I really, really should join. This came shortly after the
+delivery of the vase, and it was right around the time I de-
+cided to terminate my investigation. However, moron that I
+am, I said "Yes" and got to witness an Artificer induction cer-
+emony before taking the old Argos sidestep outta there. Just
+in time too; I was next in line.
+
+actually hinted
+
+Let me add that I've been snooping around the Under-
+world for the past 46 years, and I'd thought I'd seen every-
+thing. Everything. I was wrong. What the Artificers put their
+initiates through is like nothing I've seen, living or dead. Just
+remember, fanatics are made, not born.
+
+In any case, when you get initiated it isn't like some sub-
+urban Moose Lodge. You get hauled into a forge, with smoke
+billowing around and everything. I suspect the place is actu-
+ally on the Isle, from the way my Fetters got stretched when I
+was taken there. The whole place, wherever it is, was bathed
+in this dark red light, and there was soulfire behind these
+grates that were 30 feet tall. Bare stone floor, usual forge setup,
+and in the middle was the biggest goddamned anvil I've ever
+
+
+seen. Next to it was a hammer the size of a small artillery
+piece, and there was a wooden bucket full of something that
+sloshes on the floor. Plasm, I think.
+
+Besides the initiates, there were three others. Big suck-
+ers, all wearing featureless masks, dressed in long black robes.
+One held a sickle, the second had a chain, and the third had
+abook the size of a Bible. He (definitely a he from the voice)
+started reading from the book, and it was like a religious ser-
+vice. Reading, response, stand up, sit down, all of that. I snuck
+apeek at my fellow initiates, and they were all in some sort of
+trance, absolutely devoted.
+
+After a few minutes (hours? days? hard to tell...) the read-
+ing finally ended and the big guy on the right closed the book
+and put it on the floor. Then the first initiate in line walked
+up to the grate, the one with the soulfire behind it, and with-
+outa word she opened this little door at about shoulder height.
+It couldn't have been more than four inches on a side. Just
+big enough to stick your hand through.
+
+She held her hand over the fire, and there was silence.
+She didn't scream, didn't whimper, didn't make a sound, not
+even when her skin was blackened and cracking and when
+plasm was dripping down like hot wax. No one else made a
+sound either. Just the crackle of the flames and the sizzling of
+her hand over the fire. She just held it there so long that I
+thought I was going to scream. But she didn't make a sound.
+
+Finally, thankfully, she took her hand out. It was barely
+recognizable, just a dripping ruin of dead meat, and she laid it
+down on the anvil with a hiss. I knew what was coming then,
+and I wanted to close my eyes but couldn't. All of the others
+were watching her, even the three elders, and the expression
+on their faces could only be described as reverent.
+
+They kept that awed expression on their faces, even when
+she took her one good hand and put it on the handle of that
+impossibly large hammer. They kept it when somehow she
+swung that hammer up, and they kept it when she brought
+that hammer down like doom on her own hand. The whole
+place rang like a bell. She took the hammer and lifted it again,
+
+and again she brought it down. And again. And again.
+And...it was horrible. All the while, everyone else was sing-
+ing some sort of hymn, some sort of horrible chanting hymn,
+and all I could think was, "I don't care what they say, I'm in
+hell."
+
+She stopped after a while, and most of her hand was ac-
+tually intact when she finished. It was just a little...smaller.
+She was holding something in that ruined mess, somehow,
+and she quenched her whole hand in that bucket. It sput-
+tered and steamed for a minute, and when she withdrew her
+hand it actually looked like it had been healed. Terrifying.
+She was holding a little coin with a hole in its center, and
+holding it out she walked over to the three elders. The one
+with the chain held it up, the one with the sickle cut the
+chain, and the one with the book took the coin from her
+hand and put it on the chain. Then the three intoned some
+kind of blessing, we all said, "Amen," she put the necklace
+on, and it was my turn.
+
+That's when I left.
+
+Summary
+
+They're dangerous, they're crazy, and if we didn't need
+them so badly I'd recommend wiping every last soulforger
+(except Lord Nhudri, of course) from the face of the
+Shadowlands. They're fanatics, powerful fanatics, and I'm not
+sure that's a good combination to have running around. Mind
+you, I've met a lot of them and liked them. Genuinely liked
+them. They're good people, mostly, and do something that I
+wouldn't want to, not on my best day. But anything that can
+inspire someone to put their hand in soulfire and not even
+twitch scares the hell out of me. If you have any sense, it
+scares the hell out of you, too.
+
+The full report will be delivered, as stated earlier, by hand
+when I show up for payment. Meet me at Phocian's Column
+in the Forum Charonis Minor Tuesday at the seventh hour.
+Until that time, I'll keep the flowers for you.
+
+Chandler
+
+Memorandum
+
+My Derr Friend Maries
+
+ry it fruly oynlliny hve nue
+ata won th é frew te finfden cur secaily, J envl th
+
+Onn anere plensnat velo, te detective will be w
+
+Stinks wna able te auevver in tly Hove ys, Road fin aftnfed rqwrt oud inate fr me wnt
+fa clone wiflin the week
+
+int Tierday af 7 in the Serum Chnnenia Miner te oud ver the conylee
+
+aya oul recive fix payment On. fie way heme, dont with fin, J oxporl all ef the mensy be be rehrived,
+Youn fy the Hanne
+Henn
+
+
+
+Chapter Two: |
+~The Hammer of |
+the Damned
+
+Excerpts
+from the
+
+Book of 1 huari
+
+The following excerpts are from Talking Steel: A His-
+tory of the Artificers' Guild, written by N. D. Duffy of the
+Great Library, d. 1966
+
+Ritual and History
+
+he art of soulforging (and it is an art, as
+| surely as any other) has its own traditions
+and rules, handed down from master to
+| apprentice since Nhudri's time. It was
+{| Nhudri himself, fully cognizant of the
+power he was granting to his apprentices,
+who created the traditions of his craft.
+Before instilling in any student the secrets of soulfire, he
+first laid upon them the charge to hand down the same ritu-
+als to subsequent students. At the same time intensely prac-
+tical and deeply mystical, the Soulforge Rites are intended
+to curb the potential abuses of power that soulforging per-
+mits.
+
+A few privileged outsiders have been allowed to witness
+some of the Soulforge Rites, and they have uniformly ex-
+pressed both astonishment and fear at what the soulforgers
+voluntarily undergo to gain the knowledge of the dark flames.
+Were the Artificers not so vital a resource, they could easily
+have been branded a particularly dangerous Heretic cult.
+
+Very few if any of the higher ups in the Guild have ever
+believed in the so-called Cult of Nhudri. It has been carefully
+nurtured to exact obedience from the lower ranks of the Guild,
+but it seems highly unlikely that many Master-class Artifi-
+cers actually believe that Nhudri is any sort of divine spirit.
+
+The hoax becomes obvious when closely examined: The
+Book of Nhudri was supposedly written by the Grand High
+Artificer himself and handed down from generation to gen-
+eration of apprentices. However, if one looks at the date of
+the founding of the Guild (simultaneous with or even pre-
+dating the Pax Romana), one notices that this date also pre-
+dates the invention of the book by well over a millennium.
+Either Nhudri was clever enough to invent books a thou-
+sand years ahead of the rest of humanity, or the Book of
+Nhudri, theoretically scribed by Nhudri himself, is an elabo-
+rate hoax played by elders of the Guild on the younger gen-
+eration of Artificers. The reality of the matter, to me, seems
+obvious...
+
+in the Beginning
+
+It was during the Roman expansion that Nhudri first took
+apprentices to himself. Even the greatest craftsman the Un-
+derworld had ever seen could not keep up with Charon's in-
+
+satiable demand for soulforged steel. There were always more
+walls, more towers, more roads and gates that needed to be
+
+hewn from the raw stuff of souls, and though he labored he-
+roically, Nhudri soon realized that his commission was im-
+possible. His solution was to take to himself a trio of appren-
+tices. The three, then known as Aristogeiton, Caius Josephus,
+and Ravit bat- Yosif, were plucked from the construction gangs
+by the Lord High Artificer himself.
+
+Nhudri selected his first three apprentices carefully. Each
+had unmistakable artistic talent, indomitable will, and the
+utter callousness necessary to condemn souls to an eternity as
+inanimate objects. But this same callousness worried Nhudri,
+who feared that his apprentices would become hardened to
+the plight of all of the souls with which they worked and,
+unfettered by conscience, feed the gaping maw of the forge
+too often. Restraint was needed, as was a sense of the tremen-
+dous responsibility of soulforging.
+
+It was with all that in mind that Nhudri created out of
+whole cloth the Soulforge Rites, a combination of mystical
+theatricality and practical instruction as to the true nature of
+soulforging. To warn his apprentices (the title did not be-
+come a formal one until the 11th century) against taking their
+work too lightly, he had each of them place their hand over
+the primal soulfire of his own forge until their Corpus was as
+soft and malleable as that of any thrall fed to the flames. He
+then had them, one by one, hammer a small piece of their
+own flesh into a small coin, which he strung on a chain he
+had forged himself. Charging them to always remember what
+it felt like under the hammer, he gave the Three their coins
+as tokens of their responsibility. By always wearing a piece of
+their own soulforged Corpus, they would have a constant re-
+minder of the pain they shared with those beneath their ham-
+mers.
+
+Nhudri honestly believed that the shared pain of
+soulforging would serve as sufficient restraint on his appren-
+tices to keep them from wantonly forging others. However,
+he also saw the day when even four smiths at the forge
+wouldn't be sufficient and realized that his apprentices would
+soon be taking apprentices of their own. While he could con-
+trol his own apprentices, once they took students and those
+students took students, the situation would rapidly get out of
+hand. Nor could he afford to spend his time merely baby-
+sitting those who had inherited his knowledge; Charon still
+had great tasks for him that were beyond the capabilities of
+even the Three.
+
+In the end, Nhudri decided to let his spiritual heirs po-
+lice themselves. Drawing up a series of responsibilities, re-
+quired knowledges, and ceremonies, he gave the list to his
+apprentices as the rules that they and all who followed them
+must follow. Intended to be a set of professional qualifica-
+tions and moral restraints, they were quickly given an aura of
+pseudo-religiosity by the Three, who saw them as a way to
+ensure the eternal obedience of all of those who followed
+them.
+
+1) Inthe beginning was the hammer in the heart of the
+darkness, and Nhadri was atone at his forge. 2) Then came
+Charon, who broaght flame with him, and who took Oar Lord
+from darkness into tight. Nhadri ascended the Veinous
+
+| Stair, and dvelt with Charon, forging soals as Charon re-
+
+quested. 3) This pleased Charon greatly, and he taught
+
+Nhadri the tongues of men and broaght him the souls of
+
+nen to forge. 4) So Nhadri hammered at his forge, which
+
+he named Kyhlops, and great was the din that went forth.
+
+5) Black was the smoke that rose, yet from the blackness
+
+emerged that which shone. 6) There were the Seven Masks,
+
+the great beacon Lamen, the blade Siklos, and from the
+
+Seven Masks themsetves was Charon's Mask forged. 7)
+
+‘Wice forged it was, and it was a star in the blackness when
+
+Charon wore it.
+
+3) Bat Charon was not satisfied, and as his realm grew
+he demanded more soal-steel, which we know by its secret
+name. Day and night Nhadri was at the forge, yet Charon
+demanded more. 9) The half-forged soats cried out in torment,
+and Nhadri's hand grew weak on the hammer. to) And when
+even Nhadri could forge no more, the hammer fell to the floor.
+IDA Stygia trembled at that sound, for it was like anto the
+ringing of a titan bell that foretold death. 12) Even Charon,
+away chasing his steeds with the tools that Nhadri had made
+for him, heard the soand and retarned to Stygia.
+
+13) Charon came anto Nhadri, who sleptat the forge, and
+spake anto him, saying, "Wherefore do you steep and labor
+not. Have I not set a task before thee? Uet the fire is dim, and
+the coals are cold, and yoar hammer lies on the floor" 14)
+Nhadri awakened and replied, "I can forge no longer My
+
+hand is veak, yet you call it to the forge again. 15) Have I
+not crafted Siklos for yoa, the bridles to hold the horses of
+death and even your mask? Have I not crafted thy cities and
+thy roads, and the gates of black steel that open at your com-
+mand? 16) And you woald not marvel at what you have; nay,
+you would demand only more. 17) More I cannot craft, Charon.
+Else thoa descend into the Labyrinth again and draw forth
+another smith stronger than I, I can labor no more." 13)
+Charon was sore troubled at this, and left Nhadri, and catted
+the Senate into council, so that he might partake of their
+wisdom. 19) They spoke to Charon of the living world, where
+children were held infosterage and taught the crafts of their
+elders. 20) Charon heard their words, and knew that they were
+good..So he retarned to the forge, where Nhadri awaited him.
+
+21) Nbadri had already taken to himself three Appren-
+tices, and they were the Elder Three. 22) He taught the
+Three the secrets of soalfire and of soat-steet. 23) Lord
+Nbadri had chosen them, and they were the chosen ones. 24)
+For he looked within their soals and saw that they had the
+Gift of the hammer and the eye to see forms within form. 25)
+So Nhadri blessed them, and taaght them, and gave anto
+them the secrets of the Soatforge Rites. 26) He showed them
+that they mast taste the hammer and the flame, ere they give
+others to the hammer and the flame. 27) And he took what
+they forged of themselves, placed it on a chain, and said, "Lo,
+you shall wear this all your days. 25) For even as you forge,
+you were forged, and this shall remind you that you too have
+tasted the flame and the hammer." 29) So the Three did as
+Lord Nhadri said and wore the coins that they forged from
+their own flesh all their days. 30) And they wear them still,
+
+Qhapter
+
+1) Nhadri taaght the Three, and it vas well, and in time
+he returned to his forge, for there were great tasks that
+awaited him there. 2) Bat oatside of his forge, the Three took
+unto themselves Apprentices. 3) And they passed down Lord
+Nhadri's teachings anto their apprentices, even as they them-
+selves were taught. 4) They taaght of the hammer and the
+flame and of the Soalforge Rites. 5) In time, each of the ap-
+prentices of the Three took of themselves to make a coin. 6)
+Their Master bound that coin on a chain and commanded them
+towear it all their days. 7) And so they did, and it was good.
+
+8) The Three took anto themselves new names. 9) Those
+names were Ferram, Smoke and Macabah, and they were not
+Known by their old names any longer. to) The Three set to
+forging as wetl and created the Treasures of the Gaild. 11)
+They created the Sickle and the Rook and the Masks, and
+Macabah, who was Nhadri's favorite, retrieved from him the
+Chain. 12) Nhadri gave her the Chain, yet never again did
+
+they speak. 13) For there was corraption in the tand. 14) Not
+from Nbadri's apprentices, not from their apprentices, bat
+from the apprentices beyond, who Knew not the craft.
+
+15) They styled themselves as being of the hammer, yet
+they knew the hammer not. 16) They called themselves chil-
+dren of the flame, yet they Knew the flame not. 17) So they
+forged like children, and their work was like anto the work
+of infants. 13) Many were the soals that they rained, and
+great was the work that came to naaght because of their
+blasphemy. 19) For blasphemy it was, the defiling of the
+forge and the flame within. 20) And the people cried oat to
+Nhadri for succor. 21) For seven years they cried oat anto
+him, yet he heeded them not, as he was at the forge.
+
+22) On the first day of the eighth year, he lifted ap his
+ear to the cry of the people, and heard their lamentations. 23)
+Great was their (amenting, and many were the causes of their
+sorrow. 24) Por their castles had fatten, and their swords had
+
+Chapter Two: The Hammer of the Damned 21
+
+oy
+
+
+Nhudri by this time had trained his apprentices and lost
+interest in them, believing them sufficiently qualified to
+handle their own affairs. He returned to his own work, leav-
+ing the Three to take on new names and set themselves up as
+the heads of what became the Artificers' Guild.
+
+qhe Golden Age
+
+The Three, adopting the somewhat pretentious pseud-
+onyms Ferrum, Smoke, and Macabah, did not wait long to
+start inducting apprentices of their own. As the Legions
+marched onward they needed more and more weapons, and
+more and more smiths were needed to arm the soldiers of the
+conquering Empire. The Three were happy to oblige, provided
+that the new smiths were properly trained to respect their el-
+ders. The instructions that Nhudri handed down were codi-
+fied into what came to be known as the Book of Nhudri and
+were slathered with sufficient pomp and ceremony to impress
+even the most cynical new apprentice. Ferrum forged the
+Sickle, Macabah retrieved the Chain from Nhudri, and Smoke
+created the scroll that contained the words of the Book. Smoke
+also forged the Masks of the Three, polished and featureless
+soul-steel visages that were invested with a variety of Arcanoi.
+
+It was at this time that the Three came to the more or
+less simultaneous conclusion that apprentices meant power.
+They began an almost comical race to induct as many follow-
+
+ers as possible under their respective banners, anda great many
+underqualified souls were inducted into the Society of the
+Hammer, as it was then known. What followed was catastro-
+phe. Half-trained, half-talented soulforgers indiscriminately
+took anyone they could find to their anvils, often botching
+their smithing and ruining souls to no gain. Weapons were
+half-forged and screamed in the hands of the men that held
+them. Buildings tumbled to spectral earth as their supports
+twisted and writhed under the strain.
+
+Eventually, news of the failures made its way to Nhudri's
+forge, in which he had barricaded himself for over a hundred
+years. Ina rage, he took his hammer and strode onto the streets
+of Stygia, looking for those who sullied his craft. They were
+easy to find.
+
+The Day of Nhudri's Rage, as it has been called, really
+had little effect on the Guild in terms of numbers. While
+Nhudri is estimated to have taken somewhere between 40
+and 50 of the false Artificers back to his forge, there to be
+subjected to the torments they had inflicted upon others, by
+this time the Guild's roster could be numbered over a thou-
+sand. The was more important as an it revealed the direction
+the Guild would take. Many of the incompetent smiths slunk
+out of the Guild. Others, terrified or shamed into compli-
+ance, actually applied themselves to their craft. The quality
+of smithcraft improved, Nhudri returned to his forge, and the
+Three had apparently learned their lesson.
+
+
+1
+
+A as
+
+been beaten down by their enemies. 25) Their labors were laid
+vaste, and there was desolation in the land. 26) So Nhadri
+vent into the streets and saw there a man, and he said anto
+the man, "Wherefore dost thou cry oat to me for aid? Who has
+brought this desolation?" 27) The man said, "Thy children's
+children's children, great Nhadri. They have done this. 25)
+They have laid waste to my labor and defiled thy work."
+
+29) Nhadri heard this and fellinto a rage. So great was
+his rage that the Gates of Stygia did crack at the sound,
+
+QOhapter LIT
+
+1) The Gaild was parified, and once again the fires
+barned brightly in the forges. 2) The labor performed
+therein was pleasing anto Nhadri, and his blessing was apon
+the whole Guild. 3) Others came, marveled at the Gaild, and
+asked for the teachings of Nhadri that they might join in
+the brotherhood of those who stood at the forge. 4) Bat the
+Three would not tet them join in the worship of smoke and
+steel, for they were not worthy. 5) So the others went off in
+search of new teachings, for they were not strong enough
+or wise enough to bear the teachings of Nhadri. 6) Many
+found other teachings, and these became the Younger
+Guilds. 7) The Gounger Guilds nambered 12, and they were
+the seekers of learning who found it in light. 8) And some
+
+and Charon hid himself within his Citadel for fear 30) And
+Nhadri took himself to the false forges and gathered ap
+those who defiled his work. 3 1) From Stygia to the farthest
+end of the lands of men did he wath, and not one blasphemer
+escaped him. 32) The blasphemers were taken to his forge
+and for their panishment were given to the hammer and
+flame. 33) This vas the Day of Nhadri's Rage, and it was
+good. 34) For the blaspheming ceased, and those who had
+defiled the forge vere panished.
+
+found (earning in darkness, and these became the Lesser
+Gailds. 9) Bat over them all was the Eldest Gaild, that which
+had been given the secrets of smoke and steel.
+
+3) The other Guilds never forgot that they vere
+Nhadri's teaching because they vere not worthy.
+hearts grew bitter with hatred for the Eldest Gaild, and se-
+cretly they made war apon as. to) Bat becaase their caase vas
+anworthy, they tarned apon each other like dogs, cach snap-
+ping atits neighbor 11) For many years did the dogs quarrel,
+and quarrel with as also, yet Nhadri smiled apon as. 12) Por
+oar enemies sued as for peace, and Lo! we were stronger than
+we had ever been, yet they were weakened by their long years
+of straggte against the righteous. 13) They sued as for peace,
+
+23
+
+sed
+
+
+qhe New Guilds
+
+The next few centuries passed relatively slowly. Stygia
+reinvented itself in feudal form, and the Society followed suit,
+becoming a Guild. During this period various other Guilds
+emerged, evolving from the debris of ancient secret societies
+just as the Artificers rose from the Society of the Hammer.
+These other organizations ranged from the mystically aloof
+(The Oracles) to the appallingly common (The Haunters).
+Several found themselves in the same sort of symbiotic rela-
+tionship with Stygia that the Artifi Guilds like the
+Mnemoi, the Proctors, the Pardoners, and the Solicitors
+(known by different names) all provided services to the Em-
+pire in exchange for status, power, and wealth. However, as
+the wealth of the realm still flowed from the forges of the
+Attificers, there quickly developed an antipathy between the
+soulforgers and their fellow servants of Stygia. The unofficial
+conflict, known prosaically as the War of the Guilds, lasted
+from 1096 to 1354, and while there certainly were never any
+open hostilities on the streets of the Isle during that time, a
+great many wraiths found their way to the Void because of
+the conflict.
+
+Oddly enough, while the entire conflict was sparked by a
+desire to remove the Artificers from power, it wound up mak-
+ing them stronger. The conflict between Guilds produced a
+fair number of "accidents" that needed to be disposed of, and
+the forges were the obvious solution. All of the Guilds wound
+up indebted to the Artificers (save the bizarre Mnemoi) and
+no better off than they were before. A cessation of hostilities
+only made sense, and in 1354 the Compact of Guilds was
+ratified by the 13 major Guilds. The Mnemoi were excluded
+from the signing, and neither the Solicitors nor the Alche-
+mists were regarded highly enough to be invited to sign. The
+other 13 Guilds, however, were party to the agreement, which
+helped shape the direction Stygia took until the breaking of
+the Guilds.
+
+Simply put, the Compact called for an end to the con-
+flict among Guilds. A Council of Guilds was to be formed,
+and this body would adjudicate any disagreements between
+the Guilds. And the Artificers, as the Eldest Guild, would be
+granted leadership of the Compact and the Council. It is worth
+noting that the representative of the Masquers, violently op-
+posed to granting pride of place to the Artificers, disappeared
+during the negotiations and was replaced by a pro-Artificer
+candidate who sported a stunning new soul-steel blade.
+
+qhe Coup and the Breaking
+
+However the result was achieved, the Council did serve
+to unify the Guilds as a political force. While they bickered
+among themselves, the Guilds presented a united face to the
+rest of Stygia. While they never quite equaled the Deathlords
+in power or prestige, the leaders of the Guilds towered over
+
+
+|
+
+and ve granted it to them. 14) And they in their wisdom, which
+they (earned late, granted anto as that which was oars by right
+as the Eldest. 15) Dominion over the Guilds they offered as
+for peace, and though we had that Dominion, yet we still
+granted them peace. 16) Po ers should always be gracious
+tothose younger than themselves; this is the path of wisdom.
+
+18) Lo, all the Guilds gathered ander the banner of the
+hammer and forge, for we as Eldest did lead them. 19) And
+the Deathlords did bow to their wishes, and Charon did ac-
+cede, for the children of Nhadri were righteous. Bat the
+rabble clamored in the streets. 20) Those who listened to false
+prophets and those who denied the teachings of Nhadri; their
+voices were heard in the Iron City, and none rose ap to smite
+the blasphemers. 21) Those who bowed to no man, they en-
+tered the city as well and called themselves Renegade, and
+they stirred ap rebetlion. 22) In the midst of the clamor, the
+voices of the Three were heard, and they asked, "Who is the
+king who vill (ead as from this discord? For surely the endis
+nigh, when the rabble and the carsed of the earth do march
+and shoat, and none will silence them." 23) So the Three, who
+were righteous in the ways of Nhadri, vent unto Charon and
+demanded that he give over his dominion, that one who coald
+silence the rabble might take his place.
+
+Qhapter LV
+
+1) Charon heard the trath in their words, yet he liked it
+not.2) So he made to seize them, but there came a great wind
+that bore them away to the place where they stamber still,
+antil the day the oceans shall drain into the Labyrinth, and
+Stygia shall be a City on a Hill for all the nations of the
+world. 3) Then shatl they retarn, and be priests anto Nhadri
+that the righteous may rate. 4) Bat Charon was not satisfied
+that he had caused the Three to vanish, and he desired to
+banish all of their children as well. 5) So he made a decree,
+and the decree cast the righteous from Stygia. 6) No more
+coald they come anto the great Gaildhall, no more coald they
+hold the hammer. 7) And Charon made to set blasphemers in
+their places, to labor at the forges withoat having performed
+the sacred Rites. 8) Many did fear Nhadri's wrath that day,
+and when the anbelievers went to work at the forge, the
+flames vould not heed them. 9) Nor could they work the ham-
+ner, for it grew hot in their hands and woatd not saffer them
+to toach it. 10) So Charon was shown the error of his ways
+and called back those who had performed the Rites. 11) det
+in his pride he would not permit the retarn to the Gaildhatl,
+and he called those who held the Treasures Renegades.
+
+12) And a new Three came forward, and they bore in
+their arms the Treasures. 13) They took the mantles of those
+who had come before them and wore them in righteousness
+and glory. 14) Under them the Rites were observed once
+more, and the flames danced in gladness. Under them a re-
+tarn to glory was prophesied and a casting oat of those who
+had banished the Guild from Stygia.
+
+
+the rest of the Stygian population. But change was coming,
+as Heretic and Renegade unrest grew. Certain Guildmasters,
+the Three among them, saw the situation as an opportunity
+to seize power from Charon's obviously loosening grasp. On
+April 6, 1598, the Guilds, led by the Artificers, attempted a
+coup d'etat. It failed miserably, and while their names do not
+appear in the list of executions following the uprising, it can
+be stated with little doubt that the Three were destroyed dur-
+ing the fighting.
+
+Charon, perhaps understandably, decided that entirely
+too much power was concentrated outside of his hands, and
+the Guilds provided a focal point for that power. He deter-
+mined, therefore, to remove that focal point and instituted
+the decree that banished the Guilds from Stygia.
+
+The Decree of the Breaking is a simple document. It states
+that the Guilds are outlawed in Stygian lands, that belonging
+toa Guild is a crime, that the Guilds were by Charon's decree
+dissolved, and that Legionnaires would be instructed to take
+the place of the Guild members within Stygian society.
+Charon's decree was, in its own way, as misguided and preor-
+dained to fail as the coup. The Guilds, banished but still very
+real, hamstrung his efforts to replace them. After a mere 20
+years, Charon abandoned the experiment and reinstated
+"former" Guild members under the condition that they swore
+on Siklos that they had renounced the Guilds. The fiction
+that the Guilds were destroyed was maintained, however, and
+eventually the general populace of Stygia grew to believe it.
+
+During the revolt and banishment, the Guild underwent
+tremendous upheaval. The Three vanished, to be replaced
+by a new triumvirate; they did their best to instill the doc-
+trine of the Cult of Nhudri in their constituents. Smiths at-
+tached to the Legions were instructed to train their replace-
+ments poorly or to sabotage their work. Rumors were spread
+about unsafe soul-steel, forged by Charon's replacement smiths
+that took its owner straight into the Labyrinth. Artifice and
+deception won out. Guild members were reinstated, though
+officially they were now freewraiths, not Guild members.
+
+This period of upheaval coincided with the beginning of
+the scientific leaps forward that culminated in the Informa-
+tion Age we dwell in. Nhudri and certain of his spiritual de-
+scendants were keeping track of the advancements of mortal
+mechanics and learned how to duplicate them using Stygian
+steel. These knowledges he passed out freely to the Artifi-
+cers, and the creation of Artifacts became a major function
+of the Guild in society. Furthermore, by creating these Arti-
+facts, wraiths learned their workings well enough to Inhabit
+them in the realms of the living, and the modern arts of In-
+habit began to evolve.
+
+Years of Secrecy
+
+The official Stygian policy that there were no more Guilds
+actually worked to the Artificers' benefit. When once the
+Guild had been seen as a menace, the individual soulforgers
+and tinkerers were now seen as necessary to maintain society.
+Hardened Legionnaires who had fought against the Guild
+during the failed coup sang the praises of their unit's smith,
+who was one of the guys after all. The Hammerboys, as they
+became derisively known (despite an increasing female mem-
+bership), were seen as harmless, as long as one stayed within
+increasingly harsh Stygian law. The threat of the forge, while
+never used by actual Hammerboys, was used as a weapon to
+keep the populace in line. The Artificers themselves were
+not feared; what they could do was.
+
+Charon's disappearance had less effect on the Guild than
+one might think. Apparently the Guild leadership felt that
+testing the leadership of the Deathlords immediately after such
+a tragic loss would be counterproductive. Indeed, their restraint
+is almost enough to make one wonder if Charon's propaganda
+was correct: that the Guild had gone the way of the dodo.
+
+Computers
+
+The only recent development in the arts of Artifice con-
+cerns electronics and computers. Certain of the arts related
+to Inhabit (which your author is privileged to know) involve
+the operation of simple devices. Refinement of these tech-
+niques, as well as the entirely new paradigm espoused by the
+computer generation, allowed the traditional arts to be trans-
+planted to this brave new world of circuits, chips, and elec-
+tronics. Naturally this caused certain schisms within the
+Guild, as those who prefer to "surf the net" and those who
+prefer to hammer souls rarely have much in common.
+
+Of course, much of this is hearsay, as the Guild is more
+secretive these days. Much of the most recent information with
+which I have worked comes from the accounts of former Guild
+members, generally of the computer orientation. According
+to these escapees from the Guild, the friction between old
+guard and young turks within the Guild is real, but certainly
+resolvable. Many of the fugitives claim that the Guild is mov-
+ing again to reassert itself in Stygia and that they are in mor-
+tal danger for having left the Guild. Obviously, one cannot
+get a statement from the spokesperson for a supposedly mythi-
+cal organization, but the hints are so tantalizing that we are
+standing on the verge of a new renaissance on the part of one
+of Stygia's most venerable and most potent organizations.
+
+
+1) Nhadri (abored still at his forge, and new wonders
+were broaghtanto him. 2) Machines and engines they were
+called, the labors of mortal men. 3) And Nhadri by his di-
+vine grace Knew the souls of the machines. All were as toys
+to his touch, and those who served him saw his power as he
+crafted the new Artifacts that none of the Restless had
+seen before. 4) Great was Nhadri's knowledge and his -
+dom. 5) So he shared his knowledge, in his wisdom, with
+those who labored in the forges. 6) For Nhadri had not for-
+gotten his children, though they vere banished, and he
+gave his Knowledge anto them. 7) The secrets of forging
+machines and the paths to their secret hearts; all this he
+taaghtas.
+
+Ohapter
+
+3) So we labored in silence and in secrecy, antil the Mael-
+strom came. 9) From the seas came the instrament of ven-
+geance, called Gorool by those who Knew not its purpose. to)
+Itcame as a spirit of vengeance and as the staff of the righ-
+teous, for it came to smite Charon for his sins against the righ-
+teous. 1 1) Long was their battle, and righteousness triamphed.
+12) For Charon slew the beast, yet was stain in tarn. 13) And
+the Deathtords rated in his stead, and the sons of the forge
+waited. 14) There shatlcome a day when hall retarn in steel
+and glory. 15) And Nhadri shall embrace his children, thoagh
+forget that we are his. 16) The Three shall awaken, and
+those who observe the Rites shall be crowned with soul-steet
+and shall dwell in the light of the flames forever.
+
+27
+
+Chapter Two: The Hammer of the Damned
+
+
+
+Chapter Three:
+‘The Guild inside and Ou
+
+As the oldest of the Guilds, the Artificers hold a unique place
+in Stygian society. On one hand, they are the upholders of tradi-
+tion within the community of freeguilds, and indeed are the most
+traditional and regimented in their practices and rituals. On the
+other hand, the Guild's very existence is a calculated act of rebel-
+lion against the Hierarchy and the word of Charon, who suppos-
+edly "broke" the Artificers centuries ago. It is a fascinating para-
+dox, and one that when examined illuminates several seemingly
+mysterious aspects of greater Stygian society...
+
+From Talking Steel: A History of the Artificers' Guild
+
+The Guilds Place
+
+The Hierarchy
+
+status while preventing their activities from being examined
+too closely by neighbors on the lookout for the banned Guilds.
+It is tolerated and even expected in Charon's empire that
+Stygian citizens should know an Arcanos or three, and mere
+knowledge of a Guild's specialty is no longer considered suffi-
+cient evidence to convict a wraith of Guild membership. After
+all, the Guilds were banished, and belonging to one techni-
+cally makes one a Renegade. As only thralls, criminals and
+Spectres are eligible to be forged, there remains the ironic
+possibility that an Artificer may be arrested for his Guild mem-
+bership and promptly be melted down by a fellow Artificer.
+
+he Artificers' Guild? Disbanded and broken
+400 years ago. Any other stupid questions?
+— Jeanine Clodius, Anacreon of
+Fate, Milwaukee Necropolis
+They may have their heads up their butts,
+but they're disciplined about it. Gotta admire
+that discipline.
+— Howard Desmond, Journeyman, 13th Division, Em-
+erald Legion
+
+Inhabit is one of the more perilous Arcanoi to know in
+Stygia. It lends itself to interfering with the living in obvious
+ways, particularly in the computer age. Most Artificers keep
+their Inhabit abilities under wraps and display only their tal-
+ent for soulforging. The various Deathlords, as well as the
+
+Not everyone in Hierarchy territory is a member of a
+Guild, and most wraiths in Stygian lands are firmly convinced
+that the Guilds don't exist. This makes life easier for mem-
+bers of the Artificers' Guild, as they maintain their exclusive
+
+monolithic bureaucracy of the Hierarchy, consider it wise to
+keep a few Inhabit experts on staff for purposes of pirating
+data from systems, but for the most part, Artificers in Hierar-
+chy territory keep their heads down. Many are attached to
+
+Chapter Three: The Guild Inside and Out 29
+
+
+Legions as weaponsmiths and as such enjoy a limited immu-
+nity in case they are caught practicing the dreaded Arcanos
+Inhabit. However, a Stygian Artificer who talks too openly
+of the Guild will either be arrested by the authorities or si-
+lenced by Guild elders.
+
+The opinion held by most of the Deathlords' subjects is
+that the Guilds are history, not current events. It is less likely
+that the Deathlords themselves are fooled, but for now they
+seem content to let the fiction that Charon's ruling was
+forced stand unquestioned. As for the soulforgers in the Le-
+gions, they are seen as an integral part of the Stygian mili-
+tary-industrial complex, and they are actively encouraged to
+recruit others so that the supply of soulsmiths remains high.
+Undue famili secretiveness between soulforgers is gen-
+erally taken as a professional matter by most in the Stygian
+military and is rarely questioned.
+
+qhe Renegades
+
+The Artificers' Guild? I dunno. Claudia here does most of
+our soulforging, and she's never said anything about a Guild. She's
+cool, though. You want to ask her? No? That's cool.
+
+— Joel Glass, voting member, Northampton Autono-
+mous Souls Collective
+
+30 Artificers
+
+They're certainly more energetic than the Hierarchy. How-
+ever, they're also more chaotic, and only a properly ordered soci-
+ety can hope to stand against Oblivion
+
+— Chauncey Tinker, Forgemaster, Leicester Necropolis
+
+The Renegades present a thorny problem for the Artifi-
+Guild. Technically, the entire Guild from the top down
+is a Renegade organization, for by merely existing the Guild
+defies the will of Charon. On the other hand, the Guild is an
+organization structured firmly around tradition and hierar-
+chical structure. It seeks to place itself in power in Stygia, not
+to tear Stygian power down.
+
+cl
+
+Attificers affiliated with Renegade bands tend to be a bit
+looser about flaunting their abilities. Indeed, most Renegade
+groups actively encourage the use of Inhabit, as computer
+savvy is one of their few areas of clear-cut advantage over the
+Hierarchy. The problem most Renegade Artificers face is that
+they are under constant pressure to teach their skills to other,
+non-Guild rebels. As the Guild elders are noticeably intoler-
+ant of Guild arts being taught to outsiders, this often leaves
+Renegade Artificers between a rock and a hard place.
+
+Of more concern are non-Guild wraiths who teach In-
+habit or soulforging. Many ex-Guild members and wraiths
+with Guild skills but no Guild affiliation seek cover with
+Renegade groups. The Guild seems inclined to let some of
+
+
+these go, but those who have been taught Ancient Arts or
+who teach Inhabit and soulforging are certain targets for Guild
+retribution if they are discovered. A sizable percentage of the
+Artificers in Renegade encampments are not there out of any
+sympathy for the Renegade cause, but to keep an eye out for
+any runaway Artificers that the Guild wants put down.
+
+qhe Heretics
+
+They were blasphemers, praising Nhudri before God, and
+Charon was the instrument of God's vengeance upon them. He
+cast them out, he did, and they shall never be heard from again,
+save in the days just before the end of the world, when all manner
+of foul thing shall crawl up from the deeps.
+
+— Deacon Kenneth Droom, First Church of Jesus Christ,
+Wraith
+
+A charming bunch, really. A bunch of religious fanatics at
+each others' throats so often that the Spectres make popcorn and
+watch. On the bright side, they'd probably make good patio furni-
+ture.
+
+— Thora Eimundsdottir, Apprentice, Reykjavik
+Necropolis
+
+Heretics tend either to be unaware of the Guild's exist-
+ence or to see it as a vanished secular organization. A few
+Heretic leaders have learned enough about the Soulforge Rites
+and other Artificer practices to regard the Guild as a particu-
+larly nefarious form of competition, and they look upon the
+breaking of the Guilds as divine retribution for the Artifi-
+cers' obvious blasphemy.
+
+Most Heretic leaders give precisely zero thought to the
+question of the Guilds. Those who do ponder the problem,
+however, are among the most dogged and persistent pursuers
+the Guild has. Several Heretic cults have more knowledge
+about the Guild and its actual agenda than any of the Guild
+elders would have dreamed possible. Fortunately for the Guild,
+that information is in the hands of Heretics, whom nobody
+believes anyway.
+
+The Other Guilds
+
+It's really difficult to form a trusting relationship with some-
+one who's always staring at you with this look of — no other way
+to put it — appraisal in their eyes. On the other hand, they tend to
+have absolutely marvelous senses of rhythm. Must have some-
+thing to do with the hammers.
+
+— Roger Reynard, Initiate, Chanteurs' Guild
+
+The Artificers' relationship with the other Guilds is col-
+ored by the fact that the Artificers are the oldest Guild; there-
+fore they claim certain privileges for themselves. Nor are they
+shy about reminding others that that their Guild predates
+any of the others, and the constant reminders wear on the
+nerves of Guilds like the Spooks, Haunters, and Usurers.
+
+Admittedly it is primarily the older wraiths of the Guild who
+harp on this supposed superiority, but fairly or unfairly the
+entire Guild has been tarred with the brush of arrogance.
+
+Their ambition is naked and raw, and by overreaching them-
+selves they will bring destruction upon us all. It has already been
+written.
+
+— Hermia Matsoukis, Oracle of Athens
+
+Another difficulty in matters between the Artificers and
+other Guilds is the fact that there is a very real fear of the
+Hammerboys in most other wraiths, many of whom were
+threatened with the forge if they so much as breathed a bad
+word about a Deathlord. While such threats aren't quite as
+effective among avowed rebels like the other Guilds, the
+knowledge that the Artificer you're plotting with today could
+be hammering you into a washtub tomorrow without blink-
+ing an eye certainly puts a damper on any potential for friendly
+socializing.
+
+Ofall of the younger Guilds, it is probably the Pardoners
+that the Artificers respect most. The two Guilds are in a similar
+position, being purveyors of something that Stygia cannot do
+without. As such, they share a unique perspective on the
+Hierarchy, one that less "essential" Guilds such as the
+Sandmen and Puppeteers lack. The Harbingers also garner
+respect from the Artificers, as do the Oracles. However, the
+Oracular predilection for intoning doom-laden prophecies in
+response to any plan an Artificer hatches does not bring the
+two Guilds closer together.
+
+The younger Guilds take their direction from us. We have a
+duty and an obligation to lead them back out of banishment into
+our rightful places in Stygia. Fortunately, so far they seem to be
+listening to us.
+
+— Masterforger Brigid Noonan, Artificers' Guild
+
+qhe Artfcers and the Alchemists
+
+It's like dealing with your parents. They start you out, they
+give you everything you need, and they do their best to protect
+you. Eventually, though, they end up bugging the hell out of you
+and it's time to move on. That's what it was like with the Artifi-
+cers. They were bugging the hell out of us. So we moved on.
+
+— Vladimir Kruglyak, Journeyman Alchemist
+
+The Alchemists, offshoots of the Artificers, occupy an
+ambiguous place in the councils of the Guild. On the one hand,
+many of the elder smiths can never forgive the so-called be-
+trayal of the Alchemists, and many of the Cult of Nhudri fa-
+natics want nothing to do with anyone who abandoned the
+sacred way. On the other hand, when the Guilds were puta-
+tively equal under Charon there was much cooperation between
+the two in the research of new arts. Furthermore, when the
+Guilds were driven from Stygia, many of the Alchemists were
+sheltered by Artificers with political connections. Clearly, some
+affection and some affinity remains, though the Alchemists are
+
+Chapter Three: The Guild Inside and Out 31
+
+not considered socially equal to the Thirteen original Guilds.
+Still, one gets the definite impression that most Artificers would
+rather talk to an Alchemist than a Spook or a Haunter.
+
+Guild Structure and Ritual
+
+Now that I'm dead, I can finally make a living.
+— French, Frith, Kaiser, and Thompson, "Now That I
+Am Dead"
+
+The Hierarchy ofthe Guid
+
+hile the Artificers' Guild predates the
+medieval craft organizations that eventu-
+ally lent the organization its name, the
+structure of the Guild has evolved to re-
+flect that of an artisans' society. It has not
+evolved past that point, however, becat
+
+there
+construction, with more powerful wraiths protecting younger
+ones in exchange for loyalty. Elders of the Guild are very pro-
+tective of their Apprentices and Journeymen, at least until
+they become skilled enough to challenge the elders for power.
+Still, there is an undeniable community to the Artificers'
+
+e
+
+s an undeniably feudal strain to its
+
+Guild, and Guild loyalty easily transcends any other. The
+shared bond of the Soulforge Rites supersedes any oath of
+loyalty to God, country, or Stygia.
+
+qhe Three Ancients
+
+The Book of Nhudri claims that the first Artificer took to
+himself three apprentices, who formed what eventually became
+the Guild. While the names of the Three are recorded in the
+Book of Nhudri, there is no record of their having been de-
+stroyed or succumbed to Oblivion, and they have not made an
+appearance since the breaking of the Guild. It has been openly
+speculated that Charon took the opportunity of the breaking
+to destroy these three potent beings who had sworn fealty not
+to him, but to Nhudri. There is no proof to back up this wild
+
+speculation, but neither is there any evidence to contradict it.
+
+The Second Three
+
+With the Three Ancients vanished, the Guild structure
+quickly replaced them. the positions of Master of Appren-
+tices, Keeper of the Chain, and Guardian of the Forge, all of
+which had been important enough positions beforehand, as-
+sumed new importance. It is these three who make the final
+decisions as to the Guild's
+
+"Guildmaster" is maintained to keep others guessing.
+
+directions, though the fiction of a
+
+©: Ce
+s aRe. =
+Nat eg
+
+
+The Master of Apprentices is in charge of directing the
+training each new Artificer receives, and while it is impossible
+for Lord Ember to see to each new arrival personally, he dic-
+tates the course of study for every Apprentice. The Keeper of
+the Chain, Lady Alais Capet, holds all of the ritual items of
+the Guild and steers the course of the Cult of Nhudri. Hugh
+Gannon, the Guardian of the Forge, is the master of soulfire
+and supposedly can look into any forge anywhere by staring
+into the flames in his own workshop. These three, or their
+duly appointed representatives, also perform the initiation for
+each of the new Apprentices. While the Council of Masters
+has certain advisory powers and commands absolute obedience
+from the Journeymen, the true power rests with these three.
+
+The Council of Masters
+
+Forgemasters or Masterforgers (the titles are interchange-
+able) are the most highly skilled and potent Artificers, save
+only Nhudri and the Threes. Many are scattered with Legions
+or in Necropoli the world over, serving to oversee all of the
+lesser Artificers in their jurisdictions. The others, primarily those
+who dwell on the Isle of Sorrows, form the Council of Masters.
+
+The Council is actually open to all Master-class Artifi-
+cers, but only those who dwell in the City attend on a regular
+basis. While it holds no real power over the direction of the
+Guild itself, it controls the fates and assignments of the Jour-
+
+neymen of the Guild. Furthermore, the Council makes those
+executive decisions that keep the Guild functioning on a daily
+basis. All promotions from Apprentice and Journeyman ranks
+are decided here, and the death sentences of those who flee
+the Guild are also ratified by the Council.
+
+At present there are 37 Masterforgers who regularly sit
+on the Council, though several hundred others are eligible
+(and often show up when matters that affect the Guild as a
+whole are discussed). Full Council meetings tend to attract
+the attention of the Three and are exercises in controlled
+chaos. Many of the Masterforgers of the Guild are older than
+at least one of the Three and aren't shy about expressing their
+displeasure at certain policy decisions.
+
+Journeymen
+
+Journeymen (the term covers both genders, as well as
+those wraiths who have Moliated themselves into something
+asexual) are those Artificers who have passed through the
+Soulforge Rites, served their Apprenticeships, and been
+deemed worthy of their own forges. Artificers who specialize
+in computer or electronic work often find it more difficult to
+reach Journeyman status and almost impossible to ascend to
+Masterforger. This prejudice on the part of the older wraiths
+is starting to fade, but it is still a very real phenomenon. Jour-
+neymen are often attached to smaller Necropoli, military
+
+33
+
+
+units, and intelligence-gathering services. A Journeyman will
+also often have one to three Apprentices at various stages in
+their training in his care. A great deal of a wraith's status
+within the Guild is determined by how many of his Appren-
+tices complete the Soulforge Rites. A new Apprentice who
+performs her Rites stoically and efficiently is a credit to her
+teacher (called a Master or Mistress by the Apprentice only),
+while one who cries out or botches the ritual can bring dis-
+grace on a wraith for centuries.
+
+Apprentices
+
+Apprentices are those Artificers who have not yet been
+awarded their own forges. As the granting of the forge is largely
+ceremonial and takes place immediately after the Soulforge
+Rites, Apprentices are essentially those Artificers who have
+not yet gone through the Rites. The education of an Appren-
+tice is slanted somewhat by the experience of her teacher,
+which means that more and more young Artificers are being
+trained in the computer arts as more and more users of those
+arts become Journeymen and take on Apprentices.
+Apprentices are at the beck and call of their teachers,
+and pity any Apprentice who falls into the hands of a teacher
+who intends to take full advantage of his privileges. Appren-
+ticeship can take anywhere from 1 to 50 years, though the
+latter is extremely rare. The average is three to five, but this
+is diminishing as less and less emphasis is put on the back-
+breaking labor of preparing a forge and more and more em-
+phasis is put on electronic communication and computers.
+Just as teachers are territorial about their students, Ap-
+prentices are possessive of their teachers. Wraiths who shared
+the same teacher will usually be willing to extend each other
+favors. This holds true even if one is a Master and the other isa
+rank Apprentice. Loyalty to a teacher and the Guild runs deep.
+
+Those Outside the Guild
+
+There are a great many wraiths outside of the Artificers' Guild
+who have knowledge of, practice, or teach the Inhabit Arcanos.
+Most do so ona very small scale and keep their activities to them-
+selves. Indeed, many wraiths come to the Shadowlands with an
+innate knowledge of Inhabit, and were the Guild to attempt to
+claim or destroy all of these souls, many Necropoli would be-
+come figurative, rather than literal ghost towns.
+
+It is the blatant few, the Renegades who hack systems
+without going through proper channels, the wraiths who set
+up unauthorized soulforges and take apprentices without Guild
+approval; these are the cancers that the Guild actively seeks
+to excise. Many are actually offered the chance to join the
+
+Artificers
+
+
+Guild; those who accept "disappear" into its ranks. This serves
+the twofold purpose of ending unauthorized activities and
+spreading the legend of the Guild's wrath among those who
+are in the know. A Renegade who accepts the Guild's offer of
+amnesty may find herself moved from Detroit to Dallas, but
+as far as the other local freelance soulforgers are concerned,
+she just disappeared. Of course, the Guild often seeks to de-
+stroy those wraiths who are contacted but refuse the offer of
+membership. Usually, the Guild is successful.
+
+There is no mercy, however, for the wraiths who were
+members of the Guild but who turned their back on it. Ap-
+prentices are often let go, as they have not yet learned any-
+thing that would warrant the effort of tracking them down.
+Journeymen and above, however, especially those who have
+learned Ancient Arts, invoke a response that is frightening
+in its intensity. The Guild has eyes everywhere, from the Le-
+gions to the Renegade camps, and can offer great wealth to
+those who help it. After all, what's another few oboli to the
+men who own the mint? Bribes of Artifacts and oboli are usu-
+ally sufficient inducement to get the staunchest ally to turn
+in an ex-Artificer on the run.
+
+The Cult of Nhudr
+
+The Cult of Nhudri does not officially exist. It is not
+recognized, either inside or out of the Guild, and if Nhudri
+himself were aware of its existence, he would be appalled.
+However, there persist within the Guild those who see truth
+in the Soulforge Rites and the associated writings and who
+insist that Lord Nhudri is a sort of divine being.
+
+The actual number of Guild members who are Cult of
+Nhudri fanatics is relatively small. Most Artificers are affected
+tosome degree by the sheer power of their initiation ceremony,
+and certainly there is something potent in the notion of a
+ritual that has been handed down over two millennia. How-
+ever, very few actually accept the words of the initiation cer-
+emony as gospel. These few tend to be extremely vocal within
+the Guild, and very closemouthed outside of it. Most non-
+Nhudrite Artificers have found that it's not worth their while
+to argue with a Cultist, so while internal Guild discussions do
+take on a decidedly Cultist tone, that isn't quite an accurate
+representation of the actual mood of the room.
+
+There are few known rituals that are unique to the Cult-
+ists, as opposed to being performed by all Guild members. Per-
+haps the most noticeable is the Riteday ceremony, which all
+Cultists regard as sacred. Once a year, on the anniversary of
+her initiation, a Cultist will take off the coin she forged dur-
+ing her Soulforge Rites and once again place it over the flames.
+Most Artificers never remove their token, let alone return it
+
+
+to the fire for even a brief time. Cultist Artificers can be iden-
+tified by their blackened and burned tokens, so unlike the sil-
+ver-gray of those of all other Artificers. Then again, non-Guild
+members almost never see the tokens in the first place.
+
+It is hardly surprising that Cultists are among the most
+militant of the Artificers, particularly as regarding punish-
+ments for ex-Guild members. Any act counter to the well-
+being of the Guild is counter to the word of Nhudri, they
+believe, and any action counter to the word of Nhudri is blas-
+phemy. Cultists also tend to make very productive soulsmiths.
+
+Nhudri
+
+While Nhudri bears the title Grand High Artificer, he
+steadfastly maintains that it was not his idea. For over a thou-
+sand years, his day-to-day interaction with the Guild has been
+minimal. Apart from sharing new techniques for manufactur
+ing Artifacts with Artificers he deems worthy of his attention,
+Nhudri's active impact on the Guild has been infinitesimal since
+the day he forged the false smiths. Nevertheless, Nhudri stands
+as a symbol of all that is good about Artifice and soulforging to
+the Stygian public. The Guild hides, with his tacit assent, in
+the shadows cast by the goodwill the citizenry has for him.
+
+During the past two centuries, Nhudri has once again
+begun to take apprentices. Nhudri deliberately keeps these
+new students from enrolling in the Guild, which frustrates
+Ember to no end. However, no matter how many secrets any
+of Nhudri's apprentices share with the general public, the
+Guild absolutely will not move against them. Even those who
+don't hold Nhudri in religious awe have a healthy respect for
+his power and rage.
+
+The World of Darkness
+
+raiths in general tend not to have much
+to do with the rest of the World of Dark-
+ness, though they interact far more than
+many of their fellow supernatural denizens
+might think. Artificers, because of their
+proclivity for computers and machinery,
+come into a great deal of contact with Kin-
+dred, Garou, and others who ride the Webs and Nets of the
+world. However, that doesn't mean Guild members don't like
+to have fun with the rest of the Awakened population as well.
+
+
+Vannpires
+The only ones to watch out for are the ones with the bad
+Italian accents. The rest of them wouldn't know a ghost from gou-
+lash. Some of them have tried to climb onto the nets recently; they're
+either crazy, incompetent or both.
+— April Riordan, Apprentice
+
+Garou
+
+Be afraid. Be very, very afraid. The ones who use tech we
+can fiddle with, but they have the best defenses against the arts of
+anyone out there. Pretty much, they're the only ones who realize
+that there are ghosts in the machines, and they want us out.
+
+— Derek Pierce, Journeyman attached to the Skeletal
+Legion, 3rd Division
+
+Mages
+
+There's an entire group of these idiots who rely on computers
+but don't have that many defenses against us. Mind you, the Shroud
+tends to be tough in places like that, but once you're in, you're in
+like flint. It is sheer joy seeing the look on one of these idiots' faces
+when you take his hard drive and turn it into gumbo.
+
+There are a few clueful ones, but give them respect and everything
+will be fine. The only ones to worry about are the mad scientists — get
+trapped in one of their systems and you may not make it out. Around
+these guys, the laws of physics are really more polite suggestions. Stay
+out of their machines; you never know what you're getting into.
+
+—Jennifer Tobin, Nomad of the nets and Renegade hacker
+
+Changelings
+They have nothing to offer us; we really can't do too much to
+
+them. You'll be amazed at how easy it is to ignore them; they spend
+more time talking to Monitors and Chanteurs, anyway.
+
+— Lisette Beltre, Journeyman
+
+Spectres
+
+Show no mercy. They are fodder for the forge, and their evil
+taints even the steel of their bodies. Purify them in the flames; it is
+a duty to do so.
+
+— Sir Edmund Wilkes-Smythe, Masterforger of the
+Grim Legion
+
+
+
+Chapter Four:
+
+ing the Hammer Down
+
+They talk of me going around and buying souls, like a fishwife
+come market day, never stopping to ask themselves why. I need no
+souls. And how can anyone own a soul?
+
+— Neil Gaiman, Season of Mists
+
+Soulforging
+
+oulforging lies at the heart of the Artifi-
+cers' Guild. Before the Inhabit Arcanos
+and the Guild itself, there was the sacred
+ritual of taking the soul of a human being
+and turning it into a senseless, inanimate
+thing. It is a moment of supreme power
+for the smith, of prime importance for
+those who rely on the smith's output, and of supreme agony
+for the victim of the Artificer's ministrations.
+
+That Delicate Moral Question
+
+There is something inescapably repugnant about the forg-
+ing of souls into objects. It is the worst sort of slavery to which
+one can reduce a fellow human being; a dehumanizing bru-
+tality with profound effects on both forger and forged. Many
+
+Artificers find they cannot stomach their work in the forge
+and either leave the Guild or transfer to other, less viscerally
+disturbing lines of work. What possible moral justification
+could there be for such a dehumanizing profession? On too
+many, the lesson of the Soulforge Rites is lost.
+
+The sad truth is that for many Hammerboys, there is no
+justification, or even any attempt at one. Hardened to the
+uncertain nature of existence in the Underworld, they ap-
+proach their task as just that; a task that needs to be done,
+requiring some very odd materials to be done properly. They
+close their ears to the screams and tell themselves that if they
+didn't do this, someone else would. Such smiths are usually
+merciful, if such a word can be applied, and labor as quickly
+as possible to minimize the pain of their victims.
+
+Other, truly despicable souls actually enjoy the torment
+they put others through. The moment at which a conscious-
+ness is obliterated once and for all is a powerful narcotic for
+certain personalities, who will come to the forge as often as
+they can in search of their fix. Many of the most and least
+efficient soulforgers are of this sort. The former seek the mo-
+
+
+ment as often as possible and thus work souls through as
+quickly as they can so they can get to their next victim; the
+latter simply take their time.
+
+However, there are some good and noble souls, from
+Nhudri on down, who labor in the forges and yet are neither
+callous nor sadistic. It is their belief, or in some cases their
+hope, that they are actually doing the souls in their care a
+favor by hammering them into obliviousness. While the be-
+lief has never formally been codified, it can be summed up as
+follows: soulforging purifies a soul by literally burning out its
+Shadow. The selfish Shadow cannot endure time over the
+flames and flees to Oblivion rather than suffer. While the
+remaining soul is doomed to a term as an inanimate object,
+there is hope even for these. It has been noted by many wraiths
+that even soulforged Artifacts tend to break down after a few
+centuries, leading to speculation on a sort of soul "half-life."
+Many Artificers have embraced the notion wholeheartedly
+and claim that the souls that they hammer, once they have
+broken down completely in a century or three, can go unen-
+cumbered by their Shadows straight to Transcendence.
+
+Many other wraiths, particularly those who have been
+threatened with the forge, view this belief as pollyana-ish
+hogwash, but in one form or another it has endured through
+the centuries. Furthermore, even the most robust cynic can-
+not help occasionally hoping that it's true.
+
+Process and System
+
+Soulforging is a delicate and dangerous process, and the
+wraith who attempts it without proper preparation and skill
+can lose a great deal more than just valuable raw materials.
+After all, soulsmiths are hammering the souls of human be-
+ings, and the slightest bit of pleasure taken in this activity
+can open the door for a wraith's Shadow to seize control of
+them.
+
+To forge a soul into something useful, a smith starts with
+soulfire (see Wraith: The Oblivion for more details on
+soulfire) and a pair of tongs. The Corpus of the wraith in-
+tended for forging is held over, not in, the flames of pure Pa-
+thos until his outlines begin to sag and melt. Corpus that is
+held in the flames, while still workable, suffers Corpus dam-
+age and thus can be lost to a Harrowing. Corpus held over
+the flames softens and becomes malleable, but at no risk of
+dissolution.
+
+When the Corpus has softened enough to be easily mal-
+leable, it is placed on the soulforger's anvil and hammered
+with a specially made instrument of Stygian steel. Ordinary
+soul-steel cannot withstand the heat necessary to melt a Cor-
+pus, so the more potent metal must be used. The unfortunate
+wraith is then pounded into shape, reheated as many times as
+necessary until the Corpus has assumed its final form. It is
+during this procedure that any additives, such as "death ore"
+
+
+or raw Oblivion, are hammered into the mix. Often these
+materials also need to be heated over the Pathos flames,
+though this can be dangerous in the case of raw Oblivion.
+Material scraped from the wall of the Labyrinth acts unpre-
+dictably in the heat of Pathos. It can explode, melt, evapo-
+rate, or achieve a sort of disturbing animation and attempt to
+crawl away from the searing flames. "Death ore" is sedate in
+comparison.
+
+At this point, the newly forged object is plunged into a
+bucket of liquid plasm, which cools and hardens it instantly.
+Soulforged items that are not cooled in plasm are brittle and
+often break, which is why most independent smiths produce
+work inferior to that of Guild smiths; they're simply unaware
+of the secret.
+
+System: To work with souls in the forge requires a series
+of rolls. The initial roll, Perception + Empathy (difficulty 7)
+determines whether the smith can see a potential end prod-
+uct within the Corpus she is working. If the roll is failed, the
+Corpus must be set aside and another one used, as the smith
+simply won't be able to do anything with that one.
+
+Once a soulforger has determined that there is something
+salvageable within the Corpus, she makes an extended series
+of Dexterity + Soulforging rolls (See Chapter Five). The dif-
+ficulty of the roll is the Stamina of the wraith being forged,
+while the number of successes necessary depends on the type
+of object being soulforged. A simple bar or wheel requires 2
+successes, while a wheel mounting for an Artifact locomo-
+tive would require as many as 10. A single botch during the
+forging process necessitates starting the contest again. Once
+three botches have been accumulated while working on a
+single soul, the smith must discard that soul temporarily.
+Additionally, being forced to discard a soul that has already
+been worked on gives the smith a temporary Angst point.
+Wraiths without the Soulforging skill can substitute Crafts,
+but the difficulty of the actual forging roll will be increased
+by one.
+
+Stysian Steel (and the cheap stuff)
+
+There are a variety of materials that can be worked with
+soulfire. The two most common are pure plasm, sometimes
+called soul-steel, and Stygian steel. The former is the pure
+, heated and hammered. Oboli
+are made from soul-steel, as are most of the weapons of the
+Legions and many of the buildings and bridges of the City of
+Chains. Most Artificers can only forge soul-steel, but this
+material serves their purposes.
+
+ence of human bein;
+
+Stygian Steel is something else again. An alloy of souls,
+the "death ore" that makes up the islands in the Tempest,
+and the raw stuff of Oblivion scraped from the walls of the
+Labyrinth, Stygian steel cuts through soul-steel with hardly a
+hitch, and as such Stygian steel weapons are coveted by
+
+
+vi)
+
+Guildbook: Artificers
+
+Deathlords and the other mighty of Stygia. It is rare that an
+Attificer below Forgemaster rank is capable of working with
+Stygian steel, and anyone without the requisite skill (at least
+four points in Soulforging) who attempts to work with the
+taw Oblivion necessary will inevitably destroy all of the ma-
+terials with which he's working.
+
+Between these two extremes lies an alloy of "death ore"
+and souls that is marginally tougher and stronger than soul-
+steel. Sometimes called Necropolis steel, it takes longer to
+work than plain soul-steel. Many soulforgers don't consider
+the extra effort worth it.
+
+End Product
+
+There is a relatively simple ratio between souls forged and
+product produced. Every object produced up to the size of a
+human being requires a single soul, though complex Artifacts
+with multiple parts are often considered a single item. Every
+weapon, whether it be sword, dagger, mace, or spear, is made
+from a single soul. Soul matter compresses and attenuates in
+odd ways, but in almost all cases the ratio is one soul per object.
+
+Girders and other large objects sometimes require that
+multiple souls be forged into them. Cases like these require
+great delicacy on the part of the smith, who must convince,
+using soulfire and hammer, two or more souls that they are in
+fact one. If this blending of souls is successful, a seamless mass
+that can then be forged is produced. Failure ruins all of the
+souls involved.
+
+boli
+
+We'll buy you and we'll sell you
+
+But perhaps we'll save your skin
+
+— Marillion, "The Hollow Man"
+
+At the heart of the Stygian economy rests the lowly
+obolus, a coin forged from souls. Oboli are frequently known
+to mutter or moan, causing more sensitive wraiths to refrain
+from carrying them. However, as oboli are the most common
+form of portable wealth in Stygian lands, it is rare to find a
+soul who will not deal with them. Often oboli will be split
+into slivers to serve as "change"; this is done because of the
+impossibility of creating coins of smaller or larger denomina-
+tions out of souls.
+
+Oboli are valuable both as coinage and because they are
+the easiest way to transport forge-ready souls. Oboli are very
+easy to work with as raw materials and can be smelted down
+readily into other forms without the difficulties usually at-
+tendant upon reworking souls.
+
+Each obolus contains precisely one soul, setting up an
+eternal, unwavering exchange rate for goods and services. It
+is for this reason that there is only one denomination of coin:
+any coin forged would take the same amount of soul-matter
+no matter how much it was supposedly worth.
+
+
+An obolus is approximately four inches across and has a
+dull gray sheen much like pewter or gunmetal. On one side is
+a portrait of Charon's Mask, on the other a representation of
+the Great Seal of Stygia. The edge of both sides is decorated
+with geometric patterns, and small skulls rest at the cardinal
+points. On one side is a legend in Greek; translated it reads
+"High Court of Stygia."Any obolus is instantly recognizable
+as such, and there is remarkable similarity from coin to coin,
+considering how many forges they flow from.
+
+Recognizing the impossibility of trying to control the
+obolus-based economy, the Hierarchy allows any authorized
+smith to make oboli so long as 20% of their output goes di-
+rectly to the Isle as tithe. The Hierarchy's real control is in the
+souls handed over to the smiths to be made into oboli; a
+soulforger out of favor in Stygia can find himself with a license
+to create oboli but no raw materials. In Legion camps there is
+a very careful reckoning of how many souls go to the forge
+earmarked for oboli, as opposed to how many come out as coins,
+but in other places it is easier for a smith to set aside a few
+coins for himself. Renegade smiths do a booming trade in "coun-
+terfeit" coins, but as the obolus' real value is in its raw materi-
+als, the notion of counterfeiting one is somewhat dubious.
+
+Chains
+
+Contrary to popular belief, the Deathlords of Stygia do
+not produce the city's fabled chains by seating themselves
+upon their bathroom thrones. This is propaganda, as ludi-
+crous and inaccurate as the notion espoused by Japanese tac-
+ticians during World War II that American soldiers would
+crumble upon hearing the phrase "To hell with Babe Ruth!"
+Rather, chains are painstakingly and slowly forged link by
+link from souls. Relatively few soulforgers know the secret of
+making chains from souls, and those who discover the secret
+often find themselves turning chain out day and night.
+
+Chain is one of the few exceptions to the "one soul, one
+item" rule. Each soul hammered into chain will provide one
+foot of chain for every 10 pounds she weighed in life, and a
+pair of manacles.
+
+Stygian chain can also be imbued with a unique prop-
+erty. When Empowered with the Arcanos Argos, Stygian
+chains or manacles actually prevent the wraith upon which
+they are fixed from using that Arcanos to escape. Such chains
+are fastened on valuable Artifacts or dangerous prisoners to
+prevent their theft or escape, respectively.
+
+to Net
+
+$<4)| t has been asked how on earth the Artifi-
+}} cers went from forging souls to hacking
+4| security systems. The answer lies within
+the soulforging process itself. At the b
+ginning of each attempted soulforging, the
+Artificer reaches out with her perceptions,
+attempting to "feel" the patterns and
+grains within their materials. It was the same "reaching out"
+
+technique that first allowed Artificers to Inhabit machines.
+Wraiths projected their consciousness outward into the ma-
+chines they worked with, and by searching for those same
+patterns and stresses within the Inhabited machines, they were
+able to send their entire consciousness inside.
+
+Of course, thought (and therefore consciousness, accord-
+ing to some schools) is composed entirely of electrical en-
+ergy, and when circuits and transistors appeared on the scene,
+they provided remarkable pathways for Artificers to project
+their consciousness onto. With the advent of telecommuni-
+cations networks and circuit boards, the paths became even
+more streamlined, and many wraiths found it easier to work
+with the newer contraptions than with the old ones. From
+traipsing along the electronic pathways it was a short step to
+meddling with them, and from there, making them do things
+they were never meant to do.
+
+
+
+Chapter Five:
+Ways and Means
+
+Looking down on the smoke and the factories
+Until the truth leaks up unseen
+
+They see themselves in the faces of their children
+And realize they too are part of the machine
+
+— Jethro Tull, "Part of the Machine"
+
+Ad q
+< f "selected students under fearsome vows of secrecy. Those wraiths
+In d it /7/ Ai potential for advancement within the Guild are those
+
+wholare singled out to receive this additional knowledge, and
+
+once it has been imparted, they are no longer permitted to
+he Inhabit Arcanos as it is curre leave tht Guild. The Guildmasters will simply not permit any
+figured in Wraith: The Oblivion igonl raith\ with knowledge of the so-called Ancient Arts to re-
+
+: the Artificers. Most who learn these arts are con-
+is in their best interests to remain with the Guild.
+ers, well, the forges are always hungry.
+
+not of the Guild is found practicing or, even
+any of these abilities, the wrath of the Guild
+
+ys
+¥| most recent manifestation of whe 3
+i skills of the Artificers. Admittédlyft
+{| one that most younger wrait
+
+a generation raised on ATM
+Internet has little use for a talent tl
+them where a blade will break or allows them to%anii
+row of cuckoo clocks. So it is the uses of Inhabit that scra
+data and possess vacuum cleaners that the teachers, is
+those outside of the Guild, hand down to eager stude:
+
+However, there are other and older uses of Inhabi
+of which still apply today. Knowledge of some of these t4
+
+te
+
+Ancient Arts instead of the modern Inhabit art of an
+nt level. In addition, a wraith who has already learned
+
+
+k
+(©) would be required to spend 6 Experience Points. A wrai
+who knew Surge could take Flawsight as his second-level g
+instead of Ride the Electron Highway, and an older wra
+miliar with the Ancient Arts could purchase Gremlinize,
+
+The Alchemists' Guild grew from the applications of this
+cular Ancient Art, which is really a sort of modified
+ight for use on devices and constructions, whether in
+adowlands or the Skinlands. Flawsight allows wraiths
+oli on the points where a manufactured object is most
+x eak and to predict when those breaks are likely to
+
+cand!
+
+While the list of Ancient Arts is extensive,
+it is by no means comprehensive. Players and
+Storytellers are encouraged to create their own
+Ancient Arts or newer uses of Arcanoi. Wraiths
+with specialized backgrounds may well have
+adapted Inhabit to their own peculiar circum
+
+ances and come up with variations on the
+
+anos that have never k seen befor
+
+xample, the ghost of a locomotive engineer
+could have developed arts relating to sensing
+what lies along railroad tracks, raising or low-
+ering steam pressure, or aff witches with
+which he is not in direct contact. / ecom-
+munications expert might find laim
+an entire phone network or send a drone intel-
+lect out on the Digital Web while she remained
+safe in her haunt. Such additional arts should
+be transferable in the same way the Ancient
+Arts are, and Storytellers should take great care
+in assigning levels to new arts. Beyond that,
+
+g that the brake line is worn and
+eks, and that the speedometer
+will rip in a month or so. Fi-
+ak in the oil pan, but it's six
+pality.
+
+ze only one machine at a
+d, lets a wraith control an
+Fain. the same way in which
+
+a bi eries of simj
+< : th Yates e (phe machine. Sympathy is re-
+The Ancient Arts / imple mackinéggwhich cannot have any transis-
+
+‘circuit-based cg
+
+« ik "
+Lightning's Bite
+Lightning's Bite allows wraiths to'g
+
+charge within any metal object. Anyone
+affected receives a startling and painful (th¢
+shock. Careful observation will reveal a
+lines around the object that the wraith affect
+older wraiths have no idea of what they're act
+
+pathy is invoked through a roll of Dexterity
+
+ulty is the local Shroud). For each additional
+
+taith wishes to Sympathize, the same roll must
+
+at a difficulty increased by 1. The difficulty of a
+
+roll can never go above 9, however. Sympathy
+
+os and 1 Willpower for the first machine affected,
+additional Pathos for every device thereafter.
+
+p wraith can use Sympathy on more devices than she
+
+ints in Intelligence. Beyond that point, it is assumed
+
+simply too much for any one mind to handle. Botches
+
+e the wraith temporary Angst at a rate of one point per
+
+otch, as well as causing the target machines to malfunction.
+
+System: To employ Lightning's Bite, a ¥
+Stamina + Inhabit (difficulty of the local Shroud).
+ber of suc
+
+Lightning's Bite is never strong enough to cause dai
+Rather, three successes on a Lightning's Bite roll would i
+cate that the next three times the object in question W
+touched, it would give off an electric shock. A botch shocl
+the wraith instead and causes one Health Level of damage.
+
+46 Guildbook: Artificers
+0 ew:
+
+
+"~ Creeping Rot
+
+Wraiths with talent in Creeping Rot have the ability to
+induce a self-perpetuating weakness into a device. Objects
+touched with Creeping Rot will rust, decay, and otherwise
+fall apart in one to four weeks, by which time nearby objects
+will be rotting as well. Objects up to 10 feet from the original
+target item will be affected. This art is often used to bring
+down bridges and buildings an@hto destroy automobiles in the
+Skinlands. Users of Creepin, are almost automatically in
+violation of the Dictum and as such are circum-
+spect about using their
+
+System: Utilizing, requires a Stamina +
+Inhabit roll (difficult Shroud rating). The
+more successes ob' a ot spreads. A botch
+actually strengt! @
+immune to furthg pulations of. mes :
+
+epi 2 Pathos aridt
+
+Angst point.
+
+lof Kinesis takes 4 Py
+titioner arid giv
+
+. f
+cesses indicat
+ture. Each succe: t's temperature by
+
+. The temperature
+minute per success.
+
+power of the wraith using
+heated or cooled for each
+
+illpower point the wraith
+ate Kinesis. Wraiths cannot
+
+3s
+e oe ed
+ect at a time, and a botch has i on ea cod
+precisely the opposite effect, t@mperaturewise, of what was in- , ne fac we aes ey
+tended. A botch also gives the wraith two temporary Angst points. . ics
+
+Note: Wraiths attempting to heat or cool air may affect
+one cubic yard of air for each temporary Willpower point they
+possess. Heating or cooling liquids is more difficult, but one
+quart of liquid can be affected for each temporary Willpower
+point possessed.
+
+L2~G t's not just the older Artificers whodhave
+Sh fi| their secrets. Younger wraiths, those-with
+both feet firmly planted in the Infofniatien.
+Age, have developed a few tricks their el
+ders never dreamed of. In ordér 16 learn
+any of the New Arts, a wraith of 25 ormore
+years in the Shadowlandsémust make a
+Willpower roll (difficulty 7), otherwise they'll fever be able to
+
+OH grasp the concepts being explained to them. Yeunger wraiths
+(at least those not cursed with the Technophobic Flaw) who
+
+grew up ina world of SCSI drives and microchips haye no prob-
+lem dealing with the particular demands of the new. technol.
+
+* Command Line
+
+Q and cursors moved.
+
+ogy and have no additional difficulty in learning the New Att.
+})‘structi6n will reappear on the disk from which it was origi-
+
+Note: Command Line cannot be used to reformat disks
+or delete files. The system Commanded will actively resist
+this sort of activity, and the offending wraith must make a
+‘Willpower roll (difficulty 6) or suffer a level of non-aggra-
+vated damage.
+
+System: Command Line costs 1 Pathos to use and re-
+quires AWits + Inhabit roll (difficulty 6).
+Botching Command Line gives the wraith a temporary
+and freezes the system she was attempting to
+tiple botched attempts on the same system might
+
+y :
+* Reconsttuction
+‘Used jf conjunction with Ride the Electron Highway,
+
+Reconstrfction is a method for wraiths to retrieve data that
+has beew erased. Data that has been rescued through Recon-
+
+| .
+Nallyferased, no doubt confusing the person who originally
+
+\ dleheted it. This art can only be used on a storage medium
+Command Line lets wraiths give computers simple cme «that is currently accessed by a computer. A floppy disk or
+mands directly, bypassing both keyboard and mouse. Files caf backup tape sitting out on a table cannot be Reconstructed.
+
+be opened or closed, short phrases inputted, windows resized,
+
+
+System: A wraith must have already gained access to the
+target system before using Reconstruction. Once inside, the
+wraith rolls Perception + Inhabit to determine what data had
+been erased from the source in question (difficulty 6). Once
+the wraith has decided what information she wants, Intelli-
+gence + Inhabit is rolled (difficulty determined by how thor-
+oughly the information has been erased). The number of suc-
+cesses indicates how quickly the data is restored, but a botch
+destroys an equivalent amout current data.
+
+to use. It cannot be used
+it is already full, and such
+
+Reconstruction costs
+to restore information
+attempts will automati:
+
+Wipe Me
+
+Just as Surg
+a localized, extr
+ally used for ¢
+
+pus ona single
+the deviee's.s; e
+the image
+achieved,
+
+er the image and
+minutes and costs
+
+difficulty of 7.
+sound quality. TI
+2 Pathos and 2
+
+ww Horizontal & Vertical
+
+A coich who con RM Fororal &Verdal con
+throw any image he wants up@n the screen of a television or
+monitor. While the images are static, a series of pictures up
+to 15 minutes in length can be shown. No attempt to adjust
+the set or monitor will have any effect on the images shown,
+save turning the monitor off.
+
+Horizontal & Vertical Control also grants limited control
+of the speakers of the TV or monitor. While the sound of a sym-
+
+phony orchestra can be recreated, any music tends to be tinny
+and thin. Single voice quality, however, tends to be very good.
+
+System: To use Horizontal & Vertical Control costs 3
+Pathos and 2 Willpower, and gives the user 1 temporary Angst
+point. The art requires a Wits + Inhabit roll (difficulty of 10
+minus the wraith's skill at Expression). A botch, as with Hi,
+Mom! gives the wraith 2 temporary Angst points and trashes
+the monitor or TV that the wraith attempted to control.
+
+For an additional 1 Pathos and 1 Willpower, the wraith
+can take control of all of the televisions or monitors in a small
+area (for example, the electronics department of a depart-
+ment store) and can project the same image onto all of the
+screens simultaneously. Of course, this increases the conse-
+quences of a botch; one blown-out television set is under-
+standable, but the simultaneous blowout of a dozen monitors
+on three different circuits raises a few more questions.
+
+Merits anc Flaws
+
+ttificers, by specializing their areas of ex-
+pertise, have gained specific advantages
+] and weaknesses. While other wraiths
+could conceivably be blessed or cursed
+with some of these characteristics, they
+are generally found within the Guild or
+those who share the Guild's knowledge.
+
+These Merits and Flaws are intended to be used along
+with the Merits and Flaws in the Wraith Players' Guide. Up
+to seven points each in Merits and Flaws can be assigned dur-
+ing character creation.
+
+Platform Snobbery (point flaw)
+
+You are so attached to one particular type of computer
+that you find yourself at a distinct disadvantage when operat-
+ing on any other type. While this Flaw is purely psychologi-
+cal in nature, it can have serious effects. You receive a -2 to
+the difficulty of all rolls on your chosen type of computer, but
+a +2 to the difficulty of any roll on any other platform. Pos-
+sible specialties include Macintosh, IBM-PC compatible,
+VAX, UNIX systems, Trash-80s, Atari 2600s and mainframes.
+
+Forgemarked (2 point Flaw)
+
+You've been at the soulfires so long you look like a piece
+of charcoal. This goes beyond the usual searing that all Arti-
+ficers experience, leaving you completely carbonized. You've
+been completely toasted, and no one can think you're any-
+thing but a soulforger. Forgemarked wraiths automatically lose
+one point from their Appearance score, and the point can-
+not be regained, even through the use of Moliate.
+
+Chapter Five: Ways and Means 49
+
+
+Gui
+
+Idbook: Artificers
+
+Hammerbtten ( point Flaw)
+
+Something went horribly wrong during your initiation
+into the Guild. Perhaps you hammered on yourself a bit too
+hard or plunged your hand too deeply into the flames. In any
+case, your off hand is drastically disfigured from the hammer
+or the forge. All rolls involving two-handed manual dexter-
+ity are ata +1 difficulty, and while you can still use your butch-
+ered hand to hold things, subtle manipulations like typing
+are out of the question.
+
+Entropy Sink ( point Flaw)
+
+Things just fall apart around you. You probably would
+have been better off with the Alchemists, but that's not the
+path you took. Any device you Inhabit becomes prone to
+breaking down (at the Storyteller's discretion), usually at the
+most disastrous times. On the other hand, you are at a -3 on
+difficulty to use the Ancient Arts Creeping Rot and Flawsight.
+
+Technophobic (4 point Flaw)
+
+You may not have been born before the advent of high
+technology if you have the Technophobic Flaw; you simply
+need to be afraid of it. This fear gives you a +2 on the diffi-
+culty of all rolls dealing with computers or electronic equip-
+ment. Particularly difficult applications of Inhabit on com-
+puter systems require a Willpower roll before you even begin.
+
+Note: At the Storyteller's discretion, a similar Flaw,
+Technosnob, could be given to modern wraiths who are unable
+to deal with older technologies. Wraiths with Technosnob add
++2 to the difficulty of any roll dealing with low-tech equipment.
+
+Virus Carier (point Flaw)
+
+You've been in a sick system, and now you're spreading
+the disease. Somehow, you've managed to pick up a computer
+virus in your jaunts down the Electron Highway, and every-
+where you go becomes infected. In the Skinlands, people are
+tracking the virus' vectors and starting to wonder why it's
+spreading so oddly, between systems that seem to have no
+connection. Any techno-savvy ghost hunters in the area
+might already have guessed at the truth. Also, systems that
+you've visited will be ailing when you return to them, and
+data you want may well have been destroyed.
+
+Sense ofthe Metal (I point Merit)
+
+You have a good sense of how metal feels, enabling you
+to bend it to your will more easily. All arts involving metal
+(such as Lightning's Bite) are at a -1 difficulty, and you gain
+the same bonus when trying to Gremlinize or Claim some-
+thing made completely of metal.
+
+Clean Countenance (3 point Merit)
+
+For some reason the forges have not touched you. Your
+face is as clean and fresh as the day you first went into the
+forges. You have no explanation for it, but it does enable you
+to move freely in wider wraith society without immediately
+being identified as an Artificer.
+
+Master Forger (4 point Merit
+
+Your work with souls is unparalleled. Deathlords clamor for
+your pieces,and thralls beg to be forged by your hand. Well, maybe
+not the latter but still, you are a master worker of souls. All forg-
+ing rolls are made at a -1 difficulty, and your work is so well
+known that you automatically acquire a point of Status as well.
+
+Shielded by the System (25 point Merit)
+
+You have friends in high places in the Hierarchy. Even though
+the Guild is officially outlawed, somebody likes you enough not
+to press you on the issue even when you slip up. For 2 points, it
+could be that you do good enough work forging for your Legion;
+5 points might mean you've gained the favor of a Deathlord.
+
+Guild Sponsor (5 point Merit)
+
+Somebody in the Guild likes you and is pushing to ad-
+vance your career. This could mean making certain that you're
+taught Ancient Arts or getting you a comfortable position with
+a unit that's not likely to ever leave its Citadel. The number
+of points invested in the Merit determines how powerful the
+sponsor is: 1 point would be someone who initiated a week
+before you did, and 5 points may be Lord Ember or Lady Alais.
+
+New Backerourd: Guild Status
+
+he Guild Status background indicates how
+high up you are in the labyrinthine poli-
+
+cates how many other Artificers will heed
+your words...or plot to take your place.
+
+. You've been initiated and told who a few
+other members are.
+
+oo Occasionally they ask your opinion in
+Guild meetings. Raw recruits look up to you.
+
+eee You have a half-dozen protégés, and the
+Guild elders have noticed you.
+
+cece You've recruited dozens of new Guild
+members, and know who the real movers
+and shakers are.
+
+eooee You move and other Artificers shake.
+
+rie
+
+< 4
+New Skil: Soutorging
+\v
+ou have achieved the knowledge of how
+to turn human souls into something use-
+ful by the application of brute force and
+4] open flame. Not only can you turn a hu-
+man soul into something else, you have a
+
+good sense for what a particular Corpus
+would function best as.
+
+° Novice: You know which end of the hammer
+to grab.
+oo Practiced: You can make a tea tray without
+
+injuring yourself.
+
+ooo Competent: Swords aren't beyond your
+skill.
+
+eoce Expert: You can make anything, from any
+one, at any time.
+
+eoeee Master: Lord Nhudri, I didn't recognize you...
+
+Possessed By: Spectral Smiths, Artificers, Renegade
+Weaponmakers, Lord Nhudri
+
+Specialties: Weaponsmithing, Oboli, Artistic Ironwork,
+Stygian Steel, Construction Materials
+
+Artiticer Marks
+
+hile not all characters with Inhabit spend
+time at the forges, most do end up with
+the distinctive marks of Artifice. While
+most wraiths simply assume that Artifi-
+cer marks are a result of spending time in
+front of the soulfires, those wraiths who
+spend all of their time hacking systems
+soon find themselves scored as well. While prolonged expo-
+sure to soulfire does have a cosmetic effect, it is really the
+mingling of soul and object that gives an Artificer her marks.
+
+The type of work performed by any given Artificer de-
+termines the characteristics of her marks. Those who prima-
+tily use work in the soulforges tend to acquire marks that are
+mottled patterns in pure carbon black. Artificers who work
+primarily with machines, either in the Skinlands or the Un-
+derworld, are scored with black marks that shine with an oily
+gleam. These marks tend to be long and straight, looking al-
+most like slashes gouged in the marked wraith's Corpus. Those
+wraiths who work in computers often acquire a network of
+dark gray lines that uncannily resemble circuitry.
+
+So far as anyone knows, Artificer marks cannot be re-
+moved by the Arcanos Moliate.
+
+Ways and Means
+
+51
+
+Chapter Five:
+
+
+
+Chapter Six:
+
+Hammerboys and
+Netsuriers
+
+So I said all the best freaks are here
+All the best freaks are here
+
+Please stop staring at me
+
+— Marillion, "Freaks"
+
+The Artificers run the gamut, from ancient smiths who were
+hammering nails into horseshoes for Roman legions to electric
+heads who wouldn't know where to start without net access and
+aTI line running right into their haunts. Practically anyone is
+eligible to be recruited by an Artificer agent or at least to learn
+a bit of Inhabit from an ex-Guild member on the run.
+
+The templates given here are sample characters for you
+to use or modify. Fetters and Passions, especially, are merely
+samples of what the possibilities could be, instead of being
+definitive versions of what these characters' should be. Adopt,
+adapt, or ignore the following characters as you see fit.
+
+
+Quote: And ye want me to forge ye a what? Out of who? A
+daft idea, but I'll see what I can do.
+
+Prelude: Born and bred to the forge, you were a black-
+smith descended from a long line of blacksmiths. From nails to
+wagon axles, you hammered them all out on your anvil, and
+you took pride in what you did. The neighbors appreciated
+your work too; that's why so many of them turned out for your
+funeral when a bloody flux turned your insides to raw meat.
+
+Reaped and inducted into the Legions, you were part of
+Charon's unsuccessful attempt to replace the Guilds with trained
+soldiers. As a guildsman yourself in your living days, your heart
+wasn't in the effort, and your sympathies were noted by a few real
+Artificers who'd been planted in your unit. When Stygia finally
+abandoned the project, you were invited into the Guild for real.
+Glad for the chance to ply your trade honestly, you accepted.
+
+Since then, you've given whatever Legion you've been
+attached to your utmost effort, knowing that you're not tak-
+ing the place of another honest tradesman. Time has made
+you cynical about some of the directions the Guild has taken,
+
+but you're still a loyal member. Your devotion to your craft is
+the most important thing to you, and Guild membership seems
+the most honest way to ply your trade.
+
+Concept: You've been around for a few centuries, and
+you've seen a lot of things come and go. Certain of your basic
+knowledges are timeless and seem just as fresh today as they
+did all those years ago before you died. New machines like
+computers escape you, but you're just as happy not knowing
+anything about them. You prefer the Ancient Arts to the new
+ones, and on many oc:
+them to promising new Guild members.
+
+sions you've been called upon to teach
+
+Roleplaying Tips: Let others ramble on endlessly; that's
+not your style. You'll speak, all right, but only when you know
+what you're talking about and you think the person you're
+talking to might listen. Outside of the forge you're pleasant
+enough, but inside you're all business.
+
+Relics: Heavy apron and gloves, soulforged knife, Guild
+medallion, framed notes of appreciation from students of
+
+yours, soul-steel horseshoe
+
+
+Nature: Af rchitect life Ye Otde Village Smith WD
+Demeanor: Zarmudgeon Death: Zorsusnption
+chronicle; Shadow: Zhe Perfectionist Regret: Leaving Lator
+
+Attributes
+
+Social Mental
+Strength, Charisma, @@000 Perception,
+Dexterity, OO Manipulation. OOO Intelligence.
+Stamina, @@@@0 = Appearance. @@000 Wits
+
+Talents Skills Knowledge
+
+Drive. Bureaucracy.
+Etiquette, Computer, OOO000
+Firearms, Enigmas. @0000
+Leadership. Investigation, OO0000
+Meditation, Law. @0000
+Melee Linguistics @0000
+Performance. Medicine. 00000
+Intimidation. Repair. Occult, OOO0O0O0
+Streetwise. Soulforging. Politics, OOO000
+\ Subterfuge Stealth, OOOOO Science. 00000
+
+Backgrounds Passions Arcanoi
+
+WM A tties 00000 2? Gredwork 00000 Inhabit @0000
+Artifacts @0000 (Craftsmanship) @@@@o Puppetry @0000
+
+© Contacts @0000 Serve the Guild 00000 Msury @0000
+Guild Status @0000 (Loyatty) @@e0o ‘00000
+
+6 00000 Avoid Conflict 00000 00000
+00000 (Desire forPeace) @@000 00000
+
+00000 00000 00000
+
+woocccs tits poo RoS POO-5 (1) POO CCEC oe C CO) Ii] soOO Coe \
+
+Gravestone e ©oBBBBBBBeanae ©Ce@ee000000
+ite of Old Forge @e@000 NQOO0000000
+gon Ave you ForgedOOOOO »ooeaa Willpower wowococe> Thoms
+
+(pty in a museum) @®OOO Shade familiar (black cat with glowing eyes)
+OOO0O0O
+
+00000 Dark Passions
+
+Eneriene poorer Oem. ath: reate shoddy work (Perversit eeee
+§ Doeocooc
+Lerrorize everyone weaker than OOOOO
+
+BBB BBN Raima @@000
+
+
+Quote: You know, I might have considered this good security
+back when I was alive. It's nice to see that death doesn't interfere
+with your hobbies.
+
+Prelude: You were the FBI's worst nightmare, or so you
+told your easily impressed friends. Male nerds drooled after
+you because you were attractive and could grok computers;
+female ones hated and envied you. You loved the attention,
+and you loved it more when it came across the nets from people
+who admired the hacks and break-ins you'd pulled. They all
+knew who you were, and you reveled in your notoriety.
+
+Of course, eventually the Feds knew who you were too,
+and they came looking for you. One too many peeks inside
+the computers at Quantico, and your secret was blown. You
+saw the men in identical trench coats and sunglasses coming
+up the walkway to your dorm and panicked. Trying to climb
+out the fire escape, you slipped and fell to your death. It wasn't
+until well after your funeral that you found out that you'd been
+fingered by a hacker buddy who was now working for the NSA.
+
+The Hierarchy bored you to tears, so you hit the road for a
+Renegade hangout as soon as you found out such things existed.
+Your biggest Fetter is online anyway, so the move didn't cause
+you any undue distress. It took you a few weeks to convince
+your new friends in the underground to trust you, but once they
+did they pumped you of all of the info you wanted. It wasn't
+long before you had the knowledge and talent to crack even the
+systems that baffled you when you were alive. Now you float
+through the Web looking for interesting little tidbits that your
+rebel friends might use and making life miserable for the little
+snot who squealed on you. You've learned your lesson and keep
+a low profile, but you have plans to pull something big.
+
+Concept: You're not so much anti-Hierarchy as anti-
+authority. Living power structures disgust you as much as
+dead ones, and you're just as happy bringing either down.
+Your abilities are all tied into computers and their abuse,
+though you've learned a surprising amount about what the
+information you're stealing is used for. You're not the physi-
+cal type, having spent your living days glued to your moni-
+tor, but there aren't too many, Quick or dead, who think
+faster than you do. At least, that's what you hope.
+
+Roleplaying Tips: You have no respect for your elders,
+primarily because most of them wouldn't understand tech if it
+jumped up and bit them on their ghostly butts. When you
+meet someone for the first time, spew as much technical jar-
+gon as you can at them. If they flinch, they're worthless. The
+whole idea of soulforging disgusts you, and for that reason alone
+you've never even considered joining the Guild. You realize
+this position might make you unpopular in certain circles, but
+you're convinced you can handle whatever the Guild throws
+at you. After all, you've made it this far, haven't you?
+
+Relics: Working Apple Powerbook, glasses, buttons that
+read "MS-DOS: Just Say No" and "Nice Computers Don't
+Go Down," set of lockpicks hidden inside a pen
+
+
+Chronicle:
+
+Physical
+OOO
+OOO
+@@000
+
+Strength,
+Dexterity.
+Stamina.
+
+Nature: Jester
+Demeanor:
+Shadow: The Freak
+
+Attributes
+Socal
+@@000
+
+@e0
+@@000
+
+Charisma.
+Manipulation.
+Appearance.
+
+Death: Fale WiPhile Escaping |
+Regret: Leaving L{nhacked
+Systems Behind
+
+Mental
+
+Perception,
+Intelligence.
+Wits,
+
+Talents
+@0000
+OO0O000
+@@000
+00000
+@e@000
+@0000
+@0000
+OOO00O0
+@0000
+@ee@00
+
+4 Alertness,
+Athletics,
+
+4 Awareness.
+Brawl.
+Dodge.
+Empathy.
+Expression,
+
+H Intimidation.
+Streetwise,
+Subterfuge.
+
+Skills
+Drive.
+Etiquette.
+
+@0000
+OO00O
+OOO00O
+00000
+@0000
+OO0000
+Performance. OO0000
+Repair. @@000
+Soulforging OOO00O0
+Stealth, @0000
+
+Firearms,
+Leadership.
+Meditation.
+Melee.
+
+Knowledge
+
+Bureaucracy,
+Computer.
+Enigmas.
+Investigation.
+Law,
+Linguistics,
+Medicine
+Occult,
+Politics,
+Science,
+
+weccccococccecoesce: |flantivs coceccccccoccececcces |
+
+Backgrounds
+A Allies
+
+Passions
+Get the guy who turned gggoo
+
+Arcanoi
+
+Inhabit @@e@00
+
+d
+} Contacts
+
+you in (Vengeance) eccco
+
+Pandemonium @@000
+
+Eidolon
+
+Put the Phierarchy's knickers (OOOO
+
+OO0000
+
+Haunt
+
+in a tevisst (Perversity) @0000
+
+OO0000
+
+Memoriam
+
+Hack new systems 00000
+
+00000
+
+(Curivsity) @@000
+
+00000
+
+00000
+
+OO0000
+
+Favorite MUSH
+
+Cotlege Terminal Room
+W Old le JI Computer @@OOO
+\ Vet provider's mainframe @OOOO
+}) Favorite Ylervsgroup OOO00O0
+
+archive site @OOOO
+
+Polo (I) POO oCoc
+
+BEBBBBOOO0
+
+@e@eoo0o0o00o000d0
+OOO0000000
+Thoms
+
+Bad Luck, Ghadoer Call
+
+Dark Pasions
+Crash the Net (Levsted Ansitin) @@@@O
+Get other Hackers in Trouble OOOO
+Batre) @@@OO
+
+
+Quote: The problem with Stygia is that the guys running it are
+all soft. Desk-job types, never had to do an honest day's work in
+their lives. Betcha they wouldn't know hard work if it jumped up
+and bit ‘em on the ass. Now if I was in charge...
+
+Prelude: A blue-collar worker in life, you were a devoted
+union man at a time when unions were losing their power
+with frightening speed. It was all management's fault, of
+course. Those bastards never gave a damn about their work-
+ers, and they forced your union to make one giveback after
+another. You resolved that this had to stop, and you were the
+one to make it stop. You ran for union office, and within a
+few years, you were sitting on negotiating committees oppo-
+site the suits. Unfortunately, they had the training and the
+lawyers, and all you had was the conviction that your people
+were being screwed. When an agreement was finally reached,
+you were the one who had to go back to your fellow workers
+and say "This is what we have to give up if we want to keep
+our jobs." You could see the effects of your betrayal in their
+eyes, and it was too much for you. You blew your brains out
+the night the contract was ratified by a near-unanimous vote.
+
+Routinely Reaped, you settled into the unglamorous
+death of a standard Hierarchy citizen. It drove you crazy,
+though, just existing and not doing anything. You looked
+around and recognized the same sort of ongoing manipula-
+tion that got your union hung out to dry when you were alive,
+and you hated it. It was an entire afterlife full of the suits, and
+
+none of them actually produced anything. The only ones |
+worth a damn were the guys in the forges, and you weren't
+shy about letting people know your opinion. It took less than
+a month for a recruiter for the-Guild to look you up, and
+since then you've been happy as a clam. The initiation ritu-
+als scare some people? Hell, that's nothing, you they should
+have seen what you had to go through to join the Teamsters.
+
+Concept: While you weren't exactly a mechanic in life,
+you at least got your hands dirty, and soulforging is the only
+thing in death that is the same sort of honest labor. You do your
+job and you're proud to do it. You look on the Guild in the same
+way you looked on your union. Sure, it's tough getting in, but
+it's always there for you. You're going to do what you can for it,
+and God help anyone who badmouths it while you're around.
+
+Roleplaying Tips: Radiate contempt for anyone in the Un-
+derworld, from the Deathlords on down, who doesn't work with
+his hands. As this includes pretty much everyone outside of the
+Artificers' Guild, you're not too popular outside of Guild circles.
+Still, you do good work quickly, and even those sniveling bums
+from the other Guilds have to respect that. Wraiths who aren't
+members of the Guild but who use Inhabit are scabs as far as
+you're concerned, and you should treat them accordingly.
+
+Relics: Baseball cap with Chicago Cubs logo, relic
+Knights of Columbus lapel pins, loose change, socket wrench
+and screwdriver, Guild medallion
+
+Guild book: Artificers
+
+
+@e@e@00
+@00
+@eee0
+
+Strength,
+Dexterity.
+} Stamina.
+
+Nature: Conformist
+Demeanor: Lradzonatist
+Shadow: Lhe Monster
+
+Attributes
+Social
+Charisma.
+
+Manipulation.
+Appearance.
+
+@e@e00
+@e@e@00
+@0000
+
+Talents
+
+@@000
+@0000
+OO0O00O0
+@ee@00
+OO0O000
+OO0O000
+OO00O0
+
+@00
+@@000
+@@000
+
+4 Alertness.
+Athletics.
+Awareness.
+Brawl,
+Dodge.
+Empathy.
+
+j Expression,
+fi Intimidation,
+fl) Streerwise
+
+Subterfuge.
+
+Skills
+Drive.
+Etiquette.
+
+@e@000
+00000
+
+@000
+@@000
+OO0O000
+@e@000
+@0000
+
+@000
+
+Soulforging @@000
+Stealth, 00000
+
+Firearms
+Leadership.
+Meditation.
+Melee.
+Performance.
+Repair.
+
+lie: ston Official
+Death: 5 nictde
+Regret: BHaving "setrayed"
+
+Mental
+
+Perception.
+Intelligence.
+Wits.
+
+Bureaucracy
+00000
+00000
+@@000
+@0000
+00000
+00000
+00000
+@0000
+00000
+
+Computer.
+Enigmas.
+Investigation,
+Law,
+Linguistics.
+Medicine.
+Occult,
+Politics,
+
+Science.
+
+Backgrounds
+
+f Altties @e000
+
+Passions
+Protect your people- __ QQO00
+
+Arcanoi
+
+Embody @0000
+
+\) Artifacts @0000
+
+Living and Dead (Love)@@e@eeo
+
+Inhabit @@000
+
+Giuitd Status @0000
+
+Abvenge the screwing thegno00
+
+Outrage @0000
+
+Memoriam @@000
+
+Union got (Vengeance)@@@oo
+
+Puppetry @0000
+
+00000
+
+Serve the Guitd (Loyalty]@@ooo
+
+OO0000
+
+OO0000
+
+Hurt anyone who dismissesoQgoo
+
+OO0000
+
+OO0O00O0
+
+what you do (Pride) @O000
+
+00000
+
+PH} OOOO Fetters noooeoc
+
+Mack Truck
+
+i Wedding Picture e
+
+pea nremmrmanssciemon ane OOOO)
+OOO00O
+OO000O0
+
+DCO 4 (iI) POODOOC
+
+spoee filpier ~cocc:
+
+woe. Pith; roooCos
+BSEBBBBOUO00
+
+Ast
+@e@eoo0000000
+OQ000000000
+
+Thoms
+Ara of Corruption (Grating tice),
+Pact of Drom, Bad Luck
+Dark Pasions
+Share the suffering of the prr OOOOO
+bastard you're forging (Guitt) @@OOO
+
+Destroy the "Suits" (Pate) @00
+Wreck the Union (LivisteA Love) @®OOO
+
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, Willpower: 5, Pathos: 5 + Memoriam, Freebies: 15 (5,2,1)
+
+
+Quote: You hide me, I'll teach you what you need to know.
+Deal?
+
+Prelude: A television repairwoman in life, you were
+snapped up by the Guild recruiters upon your death for your
+expertise with electronics. This was all well and good, but
+
+bothered you a lot. You actually screamed during your initia-
+tion ceremony, and that brought you some unpleasant atten-
+tion from the elders of the Guild. Pretty quickly, you decided
+that you needed to get out.
+
+However, you didn't go through all of that agony for noth-
+ing. You've bided your time and learned what they would teach
+you. When you had wrung as much out of your teachers as
+you were able, you knew it was time to cut and run. Besides,
+if you'd hung around much longer, you might have started to
+believe some of the crap they were slinging.
+
+A friend with a little bit of Argos helped you out and got
+you out of your home Necropolis. While you haven't seen
+
+Guild is intent on hunting you down. What would follow
+your capture would be unpleasant in the extreme, so you've
+been running and hiding ever since.
+
+You've mostly fallen in with Renegade bands over the
+past couple of years. The basic deal: you teach them as much
+Inhabit as they want to learn in exchange for a place to hide
+from the long arm of the Guild. You know there are others
+out there like you, and you're certain that if you all got to-
+gether, the Guild wouldn't be able to hunt you down with
+impunity. Where to start, though, is the question.
+
+Concept: You loathe the Guild and everything it stands
+for. Inhabit is a useful skill: why drape all the BS on top of it?
+Besides, slavish has never been your thing. Your biggest asset
+is your skill in Inhabit, but you're quite proficient at Stealth
+and Subterfuge. On the run from the Eldest Guild, you have
+to be.
+
+Roleplaying Tips: Trust no one. Always cover your tracks,
+and have all of the exits out of a room clearly labeled in your
+mind. The fertilizer could hit the fan at any minute, so be
+prepared to duck out of the spray. Friends are hard to come
+
+teach them something.
+Relics: Series of maps, working 9mm with ammo, list of
+Renegade and other contacts
+
+when they started cloaking what they were doing in hellfire
+and brimstone, it bothered you. When they made you stick |
+your hand in soulfire and bring a hammer down on you, it j
+
+your face on a "Wanted" poster, you're pretty sure that the |
+
+by, but there's always someone willing to help you out if you |
+
+
+HW Chronicle:
+
+Nature: .Zoxeer
+Demeanor: (2 rétic
+Shadow: Zhe Pusher
+
+Physical
+Strength,
+Dexterity.
+
+fefere)
+OO
+oO
+
+Stamina.
+
+Savi
+Charisma.
+Manipulation.
+Appearance.
+
+O00
+fefefe)
+@@000
+
+| woocnccccccceccosces dbilities
+
+@e@000
+00000
+00000
+@e@000
+@0000
+00000
+00000
+@0000
+@0000
+@@000
+
+Awareness,
+Brawl,
+Dodge.
+Empathy.
+
+| Expression
+Intimidation,
+Streetwise.
+Subterfuge.
+
+skills
+Drive.
+Etiquette.
+Firearms
+Leadership.
+Meditation.
+Melee.
+Performance.
+Repair.
+Soulforging, @0000
+Stealth, @e@e00
+
+life: Letevision Repairroman
+Death: Automobile Accident
+Regret: VLever Opening
+
+our Ot Sho
+
+Mental
+
+Perception.
+Intelligence.
+Wits.
+
+Bureaucracy.
+Computer.
+Enigmas
+Investigation.
+Law,
+Linguistics.
+Medicine.
+Occult.
+Politics
+Science.
+
+Backgrounds
+R Attics
+
+Passions
+Stay one step ahead of the OQOQ00
+
+Arcanoi
+Argos
+
+@e@000
+
+Wl] Artifacts
+
+Guild (Self-Preservation) @@@@Oo
+
+Castigate @0000
+
+Contacts @0000
+
+Rill the drunk driver QQ000
+
+Inhabit @0000
+
+00000
+
+who killed you (Revenge) @@O0O
+
+00000
+
+00000
+
+Save the others from theggooo
+
+00000
+
+00000
+
+Guitd(A ttrnism) @@000
+
+00000
+
+00000
+
+Pass on what you kno @@O00
+
+00000
+
+WOOO Fetters nooceoe:d
+TV Repair Shop eccee0
+Old Tool Kit @e@0@00
+Pet Cat (Yow on the OOO0O0
+streets) @@@OO
+
+OOO00O0
+
+00000
+
+(Pride)
+DCO0-0 (Ip) POO OOOE
+
+spoese illu ~oxoce:
+eee
+
+ooo
+QO00000
+
+e@oecee
+QO000
+
+woe Pills PoDoCOOc
+BEBBBBOOO0
+
+wooo Ant
+@e@eoo00o00000
+OQ00000000
+Thoms
+Devil's Dare, Trick of the Light
+
+atk Passions
+Get sanlforgeh inte OBrien @@OOO
+
+reate Aastraction evhart ever ox 2@@OOO
+Salted
+rag the nitd Aoige to its Avon
+id inugennces @OOOO
+
+00000
+
+
+book: Artificers
+
+Quote: Our Lord has shown me the secrets of soulfire and
+steel. Would you like to learn more about them? I'd be glad to
+show you, and my workshop is nearby...
+
+Prelude: You drifted through life, never really specializ-
+ing in anything. You picked up a bit of computer knowledge
+here, a bit of other things there, but nothing that added up to
+acalling. You dabbled in everything from Dianetics to work-
+ing on a construction site, but you always had a sense that
+you were missing something; that when you died you'd leave
+nothing memorable behind you.
+
+Sad to say, you were right, and when it came time for the
+big dirt nap, no one even attended your funeral. Nothing you
+did, nothing you said lived on after you because you hadn't
+said anything interesting and you hadn't done anything at
+all. You arrived in the Shadowlands and were immediately
+Reaped and sold as a Renegade by an amoral freelance
+soulhunter. At the last minute, you were pulled off the scrap
+heap by the local soulsmith who recognized some innate tal-
+ent that you possessed.
+
+He had you trained and inducted, and now the Guild is
+your everything. Imagine: religious fulfillment and the op-
+portunity to do something productive, something that will
+last. The teachings of the Book touched something inside
+you, and you knew instinctively that they were the unvar-
+nished Truth. These days, all that you do is for the greater
+glory of Nhudri and the Guild, praised be the Hammer and
+the Hand that wields it!
+
+Concept: You're attached to a band of Legionnaires in
+one of the outlying Necropoli. Officially you're the
+weaponsmith for the brigade you're stationed with, but you
+make sure that the Legionnaires bother you as little as pos-
+sible. Your smattering of knowledges come in handy here, out
+on the fringes of wraith society, but they just help with your
+cover. You're really here to bring more souls to the greater
+glory of Nhudri, whether by recruiting them to the Guild or
+hammering them into steel.
+
+Roleplaying Tips: The people out to kill Salman Rushdie
+have nothing on you for clarity of purpose or devotion to
+religious duty. Discussion about anything except soulforging
+bores you to tears, but when the conversation turns to your
+favorite topic, your eyes glow with (un)holy delight. Never
+talk about the revelations you've been given with outsiders,
+unless you're either going to kill or induct them.
+
+Relics: Hammer, soulforge with basic equipment, black-
+ened Guild medallion, copy of the Book of Nhudri
+
+
+Physical
+@e@e@00
+@00
+@@000
+
+Strength,
+Dexterity.
+} Stamina
+
+life
+
+Nature: Faratic
+Demeanor: Visionary
+Shalow: Lhe Martyr
+
+Attributes
+Social
+Charisma____ Oo
+Manipulation,
+
+Appearance, @000
+
+imbless Drifter
+
+Death: Slipped in Bathroom and
+
+hit head on sink
+
+Regret: Lot having Aone anything
+
+Mental
+Perception,
+Intelligence.
+
+Wits, @@000
+
+[wocccoococccecoosces hills eococoo co coceoneccoce
+
+Talents
+@0000
+00000
+@ee@00
+00000
+@0000
+@@000
+@®0000
+@0000
+00000
+00000
+
+4 Alertness.
+Athletics,
+Awareness,
+Brawl,
+
+I Dodge.
+Empathy.
+
+| Expression,
+Intimidation.
+Streetwise.
+Subterfuge.
+
+Skills
+Drive.
+Etiquette,
+
+OO0000
+00000
+OO0000
+00000
+@0000
+OOO00O
+@@000
+CL BOOOO
+Soulforging__— @@WOO
+Stealth, @0000
+
+Firearms
+Leadership,
+Meditation.
+Melee.
+Performance.
+Repair.
+
+Knowledge
+
+@0000
+@e@000
+
+Bureaucracy.
+Computer.
+Enigmas,
+Investigation.
+Law.
+Linguistics,
+Medicine.
+Occult,
+Politics,
+
+Science.
+
+Backgrounds
+
+i A ties ©0000
+
+Passions
+Serve Lord Whurdi 00000
+
+Arcanoi
+Castigate
+
+Eidolon @0000
+
+(Retigions Lve)@e0e500e
+
+Inhabit
+
+Havat @@000
+
+Serve the Guitd OOO00O
+
+Lifeweb
+
+Vnreatth @0000
+
+(Loyatty)@e@e@oo
+
+Motiate
+
+OO00O0
+
+Smelt all unbelievers OQ000
+
+OO00O
+
+(Fanaticism)@@ooo0
+
+00000
+
+00000
+
+a Fetters nooopoc
+Sink you cracked head n @@@@O
+Leddy bear @@e@e@00
+
+| Bfigh school yearbook @@000
+OLA netvspayer clipping OOOOO
+with your picture @OOOO
+
+OOO00O
+
+ff, ooo fiperiene pO Omo-o
+
+*DOO--0 (ipl) DOOD.
+BEEBBEBEBEEREE
+
+apoee filo ~oxooe:
+e0e
+
+[oem ene)
+QOO00000
+
+e@oecee
+Q000
+
+weece fiths room
+BERBEBEBBEBO
+
+O°o-0-000
+@eee o°O o000
+QO00000000
+Thoms
+Death's Sigit (3 pts-cyes that glorv a bloody red
+and an omnipresent odor of smoke), Dark Attis
+Dak Passions
+Torment everyone tiving who's for-
+gotten about you (Envy)
+Grupose the Cult as a frand (Cyics
+00000
+
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, Willpower: 5, Pathos: 5 + Memoriam, Freebies: 15 (5,
+
+
+
+ord Ember
+
+The Master of Apprentices, Lord Ember has
+gone by his nom de forge for so long that
+4} even he has forgotten his real name. He
+
+claims to have been Apprenticed to Nhudri
+himself and has held his current title in the Guild since before
+it was banished by Charon. Indeed, he used the breaking of the
+Guilds as a convenient way of ridding himself of certain politi-
+cal opponents; since then he has enjoyed a sort of protected
+status in Stygia. He has played the role of a model citizen, vol-
+unteering his services to the various Legions numerous times.
+Ember's mansion in Stygia is positively Ghormengastly in
+scope, with hundreds of chambers, dozens of towers and scores of
+cellars carved into the bowels of the Isle of Sorrows. Here many
+of the Guild's new Apprentices are hidden; here rest the Guild's
+stockpiles of arms imbued with Arcanoi, here squat the forges
+
+that hum and belch black smoke as they are worked day and night.
+Through a cunning arrangement of flues and ducts, the smoke of
+the forges escapes into the sky over Stygia at a hundred different
+points, none located anywhere near Ember's mansion. There are
+literally dozens of doors at strategic points around the isle, and
+the house is such a maze that Lord Ember can be entertaining a
+Deathlord in the parlor while an Apprentice is instructed ten
+feet away; neither aware of the other's presence.
+
+Ember's primary obsession, cloaked in rationality, is to
+return the Guilds to prominence in Stygia. This radical no-
+tion, combined with his high visibility outside of the Guild,
+makes his existence precarious in the extreme. Most politi-
+cally inclined Artificers fully expect him to be unmasked soon
+and are already jockeying for position with an eye toward re-
+placing him.
+
+Duncan Bessemer
+
+The laws of Stygia state that only thralls, criminals and
+Spectres can be fed to the forges. Laws, as Duncan Bessemer
+knows very well, were made to be broken. Few Artificers are
+as feared, as hated or as fiercely hunted by both Hierarchy
+and Heretics.
+
+Born in 1767 on the Isle of Skye, Bessemer worked as
+smith and later, as a foundry worker in a factory that made
+cannon for His Majesty King George. A handsome man, he
+became involved with a local beauty, the lovely Mrs. Eudora
+Wayland. Unfortunately, Mr. Wayland was the foreman of
+the foundry where Bessemer labored, and it didn't take long
+for him to uncover his wife's duplicity. Less than two weeks
+later, Wayland tipped both his wife and her lover into a vat
+of molten metal. Eudora's spirit fled to wherever the souls of
+the righteous go, but Duncan became a wraith.
+
+Appendix: Who Was Who
+
+
+Reaped by a bored Hierarchy functionary and scheduled
+for the forge; Bessemer was rescued at the last minute by the
+woman who had been scheduled to smelt him. Officially the
+staff smith for the 3rd Division of the Skeletal Legion, she
+was also a Journeyman Artificer with ambitions of climbing
+higher. She saw in Duncan a potential apprentice of unlim-
+ited gifts and malleable personality. Diverting him from the
+forge, she had him trained, initiated and turned loose in a
+position subordinate to hers with the same Legion.
+
+With his natural aptitude for metalworking, Duncan
+quickly mastered the secrets of soulforging,and became no
+mean hand at Inhabit. He enjoyed his work at the forge — a
+little too much, some said — and achieved a rate of produc-
+tion unmatched since the days before Nhudri took appren-
+tices. When his Mistress was shipped out with much of the
+rest of the Skeletal Legion to fight the Jade Empire, he re-
+mained and rapidly assumed his teacher's place in the coun-
+cils of the Guild.
+
+One of the perks of Guild status is being able to choose
+the souls you work with. Through use of this privilege, Besse-
+mer was able to obtain for himself the Corpus of one Johnny
+Cope, a British general of ill repute in Scotland who had taken
+
+66 Guildbook: Artificers
+
+RITCHIE
+
+up with Renegades after his death. Bessemer, more a Scots
+patriot in death than in life, took his time working Cope and
+found himself enjoying every minute of the Englishman's
+agony. Six months later, once Cope had finally been ham-
+mered into a lovely representation of a hawthorn branch in
+bloom, Duncan went looking for a new victim.
+
+Bessemer's obsession with torturing those who oppressed
+Scotland has turned into a more general fixation on "collect-
+ing" the souls of those who were famous in life and hammering
+them into works of art. Many of the living world's foremost
+citizens ended up decorating the homes of the leading citizens
+of Stygia. Eventually Bessemer's desire for raw materials out-
+stripped the legal methods for getting them, and rather than
+curb his appetites, he sought other channels to sate them. It
+took decades for his sickness to be uncovered, and when the
+Legionnaires finally came for him, he easily avoided capture.
+
+No one claims knowledge of Bessemer's whereabouts to-
+day, though there is strong suspicion that the Guildmasters
+are hiding him for their own purposes. In the meantime, ev-
+ery celebrity and politician who comes into the Shadowlands
+learns to shudder at the name of Duncan Bessemer.
+
+
+Most people aren't aware that DaisyChain (real name: Daisy
+Lucinda Mickelstein) is dead. The vast majority never knew
+she existed, but those who know her online haven't yet tumbled
+to the fact that she's now deceased. She posts to the UseNET
+just as frequently, still pulls hacks that are the stuff of legend,
+and shows up at conventions precisely as often (i.e., never) as
+she did when she was alive. So while police, NSA and FBI agents,
+and hackers-turned-stooges go bananas trying to track down the
+mysterious DaisyChain, she sits in the Shadowlands and laughs.
+
+A hacker par excellence, Daisy's demise was a combination
+of malnutrition from her ramen-heavy diet and a bad case of
+influenza that she was determined to tough out. Her weakened
+system couldn't fight the bug off, however, and as a freelance
+programmer she had no medical insurance. By the time she bit
+the bullet and decided to go to the hospital, it was too late.
+
+Once dead, Daisy never actually joined the Artificers
+Guild. She was Reaped by a Renegade band who'd had their
+eye on her fora while (and through Puppetry, helped her hold
+off on calling for medical help) and taught the rudiments of
+Inhabit by a renegade Apprentice named Solly Richardson.
+The pupil soon outstripped the master, however; less than a
+year later DaisyChain was pulling off hacks of greater sophis-
+tication than she ever had done while alive. By Gremlinizing
+
+the central mainframe of the NorthStates Bank of Philadel-
+phia, she was able to have every ATM the bank owned start
+spitting bills into the air, while every screen displayed an
+ASCII daisy. And that was only the beginning. Among hack-
+ers, her name is legend. In Stygia, she's among the most wanted
+Renegades for her flagrant violation of the Dictum Mortuum.
+Fortunately for her, she never goes anywhere near Stygia...at
+least not if she can help it.
+
+qhe Porrohman
+
+Supposedly a spirit who watches over those who labor in
+steel mills and forges, the Porrohman is real enough. The
+wraith of a blacksmith who served the Roman legions in
+Albion, in life Porrohman forged the blades of the troops who
+built Hadrian's Wall. Fettered to the Wall itself, he's spent
+centuries wandering the north of England and Scotland slyly
+slipping aid to the soot-stained men who make the steel that's
+built the West. A Gremlinized blast furnace halted from in-
+cinerating a fallen man, a Claimed steel chain's weak link
+made known through ghostly whispers, an assembly line
+Surged into silence before a hand can be mangled; all of these
+are the work Porrohman does for the living. Thus far his ac-
+tions have not come to the attention of those authorities who
+might frown on this sort of activity, and there is a conspiracy
+of silence between Porrohman and those he helps.
+
+
+In the Shadowlands, Porrohman sits high in the Guild's
+councils, having achieved Master status while the Roman
+Empire was still a going concern. Suspicious of modern elec-
+tronics and frankly computerphobic, he is a conservative voice
+when it comes to debating the future of the Guild. As far as
+Porrohman is concerned, the Internet is a fad and resources
+should not be wasted on it.
+
+Over eight feet tall and completely blackened, Porrohman
+is fiercely loyal to the Guild, almost to the point of unreason.
+His devotion to his fellow Artificers (and his living protégés)
+is matched only by his disdain and loathing for those who
+have left the Guild or who use Inhabit but who have never
+joined the Artificers. He has gone on record as advocating
+making an "example" of these traitors and has taken the mat-
+ter into his own hands on several notable occasions.
+
+
+Shadow:
+
+Social Nental
+
+Strength. @0000 Charisma. @0000 Perception. @0000
+Dexterity. @0000 Manipulation, @0000 Intelligence. OOOO
+Stamina, @OO0O0O Appearance. @0000 Wits. 10000.
+
+Talents Skills Knowledge
+Alertness, OOOOO Drive. OOOOO Bureaucracy. 00000
+Athletics, OOOOO Etiquette. OOOOO Computer. 00000
+Awareness, OOOOO Firearms. OOOOO Enigmas. 00000
+Brawl, OOOOO Leadership. OOOOO Investigation. OOO00O
+Dodge. OOOOO Meditation. OOOOO Law. 00000
+Empathy. OOOOO Melee. OOOOO Linguistics. 00000
+f Expression. OOOOO Performance. OOOOO Medicine. OO0O000
+Intimidation, OOOOO Repair. OOO0O0O Occult, 00000
+
+Streetwise. OOOOO  Soulforging OOOOO Politics. 00000
+Subterfuge. OOOOO Stealth, OOOOO Science. OOO0O0O
+
+Passions
+OOO00O OOO00O0
+OOO0O0O OOO00O0
+OO0O00O 00000
+OOO0O0O 00000
+OOO00O 00000
+OOO00O OO000O0
+OO0O00O 00000
+
+oooo0 QDOAOOOORO0000 Hike
+
+00000 NU
+
+00000 seoee illo mecce. spo Lesion Attachment <-e>-cr-crene i
+Y
+
+900000 OOOO0OOO pe
+00000 9 O00
+OO0O00O
+
+Glas ocooees omc Pils coo cec "POS Heeale Mtahnel oooo,
+
+Forge Markings Q0O00000000
+
+Attributes: 7/5/3, Abilities: 13/9/5, Arcanos: 5, Passions: 10, Fetters: 10, Backgrounds: 7, Willpower: 5, Pathos: 5 + Memoriam, Freebies: 15 (5,2,1)
+
+
+Death
+
+\ Age.
+
+Apparent Age.
+
+W) Date of Birth,
+
+RP.
+
+) Hair.
+
+Eyes,
+
+Race.
+
+Nationality.
+
+Garb,
+
+( Other Distinguishing Features,
+
+
+b wooccc coco ce econ: fypaided Backoround
+Alles
+
+Fidolon Guild Status
+
+Memoriam
+
+Wealth
+
+Relis
+
+Location
+
+
+Cost
+
+Flaw
+
+00000
+
+00000
+
+OO0000
+
+OO0000
+
+OO0000
+
+00000
+
+OO0000
+
+00000
+
+recoccen:. Ancient/ew Arts Known
+
+woococoes fog Malis oorcoco
+
+Experience
+
+Total Spent:
+Spent On:
+
+Seecocs (iil Standing § (ontals mococes f
+Standing
+
+Guild Contacts
+
+Hunted by Guild
+
+Weapon
+
+Difficulty
+
+Damage
+
+Conceal
+
+Range | Rate Brawling Table
+
+Maneuver
+Bite
+
+Punch
+Grapple
+
+
+CAME STUDIO
+
+Spirits in the Material World
+
+So, kid; you thought you were hot-stuff-on the nets |
+while*you were alive. Ever hack anything from the inside : j 4
+before? Didn't think so. Well, don't worry, -back then-you : a
+= were only human. Now you're something else:
+= See you on the inside!
+= — Kathryn Chan, Renegade Artificer
+
+Taste the Hammer and the flame!
+
+In the darkest heart of Stygia; they wait for you-
+Do you have what it takes to place-another in the-flames of soulfire?
+Can you-bring the hammer down -and:close-your éars:to the screams? ——
+OF even now, are the Legionnaires bringing you to the forges.in- chains?
+One-way-or another, the Attificers' Guild is waiting for you.
+Guildbook: Artificers is the first in the series of Guildbooks
+for Wraith: The Oblivion.
+Revealing the secrets of the Eldest Guild, it-will take-you
+from the desolation-of the Labyrinth
+to the silicon nerves of the Information Age.
+
+Guildbook: Artficers also includes:
+
+New and Ancient uses of the Inhabit "Arcanos!
+© The history of the Guild —
+¢and the true reason for its banishment!)
+¢ The first chapter in a continuing story
+that will shape the fate
+of all of the Guilds?
+
+ISBN 1256504-661-7,
+2 = WW 6300 $12.00 ~
+AEE 2 2 8.8
+
+|
+
+aa 100
+180 Punk Nor BL.
+CLARKSTON, GA 30001
+
+Pl
+=i HobbyTown USA
+
+THE oBLEViON —,

@@ -1,0 +1,89 @@
+# File: Wraith the Oblivion Errata.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+ouston, we have a problem.
+— Jim Lovell, Apollo 13
+
+The following information was ac-
+cidentally left out of Wraith: The
+Oblivion 2nd Edition. We apologize
+profusely for this.
+
+Regaining Pathos Through Passions
+
+To regain Pathos, a wraith (or Storyteller) rolls dice
+equal to the rating of her applicable Passion. If the wraith
+is actually performing the Passion in question, the diffi-
+culty of the roll is 6. If the wraith observes mortals who
+are in the throes of one of her Passions (i.e. experiencing
+the emotion at the core of the Passion), the same roll can
+be made at difficulty of 8. Finally, if the wraith herself feels
+the core emotion, but in a context other than the actual
+phrasing of the Passion, the difficulty of the roll is 9.
+
+Rolling against a Passion should be reserved for times
+when a character feels strong emotion. A mild twinge of
+regret over a sunset not seen should not beget a roll against
+the Passion Say farewell to my father (Regret) 3. On the
+other hand, players should feel free to request Passion rolls
+from their Storytellers whenever they feel it is appropri-
+ate. Furthermore, Storytellers always have the option of
+rolling against characters' Passions in secret and handing
+out Pathos garnered in this manner.
+
+A botch on a Passion roll gives the character a point
+of Temporary Angst instead.
+
+——
+
+—_——
+
+~
+
+Pathos can never, ever rise above 10.
+
+messaninen
+
+tha ophlyloy
+
+For Example
+
+Daffyd has the Passion Atone for my errors (Penitence)
+5, and finds himself low on Pathos. However, he's burned up
+most of his juice trying to recover a relic that a friend had
+loaned him and that he'd lost. Daffyd's player asks his Story-
+teller if these actions were sufficient to trigger the Penitence
+Passion; the Storyteller agrees that they are and tells Daffyd's
+player to roll. He takes five dice (equal to his Passion rating)
+and lets loose: 10, 8, 7, 7, 2. With the four successes, Daffyd
+gets four points of Pathos and feels much perkier.
+
+Later on, he sees a crying child through the Shroud. The
+boy has broken what is obviously one of his mother's prized
+vases and is desperately trying to glue it back together, with-
+out much success. Still, the Storyteller rules that observing
+this allows Daffyd to roll against his Passion, but at a difficulty
+of 8. Again Daffyd's player reaches for the dice, but this time
+he gets 7, 6, 5, 2, 1. It's a botch, and instead of Pathos, he gets
+a shot of Angst. His Shadow chuckles and suggests using Out-
+rage to show the kid what a broken vase really looks like.
+
+Much later, Daffyd finds himself awakening from a
+Catharsis. Gleefully, his Shadow informs Daffyd that while
+in control, he had returned to the little boy's house and
+shattered every breakable in it. Of course, the child was
+blamed, and of course his parents didn't believe his story
+about a ghost being responsible. At this point, Daffyd ex-
+presses genuine regret over having caused the boy pain,
+even when it was his Shadow that performed the actual
+crime. In secret, the Storyteller figures that this is close
+enough to Daffyd's big Passion to warrant a roll, and be-
+hind his screen comes up with 10, 9, 4, 4, 2. He passes
+Daffyd' player a note letting him know that he's just come
+up with two new Pathos points, and a hint that maybe
+those points might be put to best use helping out the child
+who suffered for his sins....

@@ -1,0 +1,1391 @@
+# File: World of Future Darkness.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+. got i
+
+2 < aw
+ithe
+yg" oe
+a AAS
+NANA IL,
+
+\\
+
+
+Pa
+
+are!
+
+SRicar Oscar Oe NR OT
+
+Sea ean er emer an,
+
+Sou aca ORGCaI ORO NGO BRIO TRICO IRE
+
+== ED ea ST
+dl ae
+
+Deirdre Brooks
+
+"Rippers. Vampires. Skin grafts. Sometimes I think we've got a population explosion of
+Werewolves on our hands. . ."
+—Lt. Strawberry Morressey, NCPD
+
+Cyberpunk and Gothic-punk are a natural crossbreed; the Vampire naturally slips into the
+mean streets of 2020 with a vengeance. There are many themes that are common in both
+games: humanity and the loss of it, alienation, and a feeling of fighting the inevitable. Is there
+really much difference between a Netrunner, a pair of Solos, and a Medtech out to make money
+
+and flout the corporations and a group of Anarchs attempting to destroy the Establishment?
+
+The times are changing. In the old days, you only had to worry about the other Kindred and
+the occasional ambitious Witch Hunter. Now, you not only have the Elders and Anarchs
+hunting you for your Blood, but you also have the Megacorps and Edgerunners to worry about.
+With the addition of Cybernetics, the humans are no longer the pushovers they've been over
+the centuries. Technological advances are now being placed in the body, providing many hu-
+mans with the ability to match Kindred in physical combat. Modern weaponry has also reached
+a peak; a Kindred with 5 dice in Firearms and a Perception of 5 will not stand up well to a
+Cyberpunk with 5 dice in Firearms, a Perception of 5, and a Smartgun Link.
+
+As if all this wasn't bad enough, many of the youngest Anarchs were Embraced with
+Cyberware. They have not only Disciplines, but also Cybernetic boosts. Who wants to meet a
+pissed-off Brujah Solo with Reflex Boost, Muscle & Bone Lace, a Smartgun Link, and Potence
+and Celerity in a dark Combat Zone alley?
+
+On the other hand, Cyber won't stop Dominate.
+
+{
+f
+i
+{
+i
+t
+i
+t
+\
+i
+i
+
+4
+;
+x
+;
+f
+;
+is
+i
+a
+3
+
+THE MASQUERADE IN 2020 Wich changing imercome changiny custom'
+
+When anyone who has the cash can afford to buy
+hearing boosts that can pick up a heartbeat or the la:
+of it, or perhaps a set of Thermographics that allow
+sight reading of skin temperature, the Kindred's life
+becomes that much riskier. Many Elders simply don't
+deal with mortals on any kind of basis. They stay in
+their Elysium, as always, and leave the humans for their
+What will they have in five years? Ten? Twenty? Adapt, retainers to deal with. Some Ancillae are so fortunate
+die, or get the hell out of the way as to be able to take this stance in relation to mortals.
+
+_~Margali, 4th Generation Ravnos, in a letter Most Ancillae and Neonates do not. A Childe has the
+to the Camarilla, 1994
+
+ttiatiaaanaoe:
+f i \
+i ik
+
+ae
+
+"You don't understand; the Masquerade will be
+outdated inside the next thirty years. Technology has
+advanced to the point that nearly anyone who cares to
+spend the cash can identify Kindred. We must be
+prepared for the inevitable exposure of our ‘lifestyle
+
+"The Canaille possess the means to destroy us now!
+
+Finicar tracer ORs
+
+benefit of his Sire's resources, but only until he is
+released by his Sire.
+
+Vid Saco cinta anon nao on
+
+bin ear:
+
+erie' eaabe i irae oe
+OLHIEMA GAZ ine
+
+
+<p
+
+os
+
+SBI SRSCBIE SY MOSUR ZOE ORIZBIT ERGOT BR GCBRE ORICBIE OT Af
+
+hae deh tele ait at dean ceo thd a aerate anode
+fey : Ls Bea a SC Fl
+
+FONG ONTO FY MERU TOIT OR TBE IN GB I IRICIR O OSIRE
+
+PAR GB RE OY MORI HORIRE.
+
+Bit bo cxscanr en scar ee MERA ICAI ERS:
+
+same position they've always held: at the bottom of the
+heap and going down fast. The ability to simulate
+normal heartbeat, breathing, and temperature is much
+valued in this strata.
+
+Unfortunately, this doesn't always do the trick.
+How do you deal with the olfactory boosts? Masquer-
+ade doesn't simulate odor. Add to this that even those
+with an extremely high Humanity can't fool a person
+with Image Enhancement, Thermographics, or Sound
+Editing as often as they would like.
+
+This means that the Cyberpunk strata—
+Edgerunners, Gangs, and the like—are, to some extent,
+aware that there is something unusual out there. More
+than a few even know what. Many of the executives in
+the Megacorps are quite aware that something is out
+there. While most of them are pawns of Ventrue,
+Giovanni, Tremere, or Magi, not all will be. The
+precise extent to which this is known is up to the
+Storyteller. The basic idea in any event should be that,
+like everything else in the world, the Masquerade is
+fraying to tatters rapidly. Very rapidly-by 2024—2025
+at the latest; in the playtest Chronicle it fell apart in
+2021. Against this backdrop you have the Elders, trying
+to maintain the Traditions against all odds; the
+Anarchs, who are simply not concerned; and the
+Lupines, whose packs form some of the Nomad gangs
+responsible for hit-and-run terrorist attacks on many
+Corp installations.
+
+When the Masquerade finally falls to tattered
+pieces, the Elders will throw the younger generations to
+
+This leaves the Neonates and many Ancillae in the
+
+the wolves to save their own Vitae. If the Neonates are
+careful, they will be capable of surviving this assault of
+paranoid religions, jealous millionaires, and open
+warfare from the Inquisition.
+
+VAMPIRIC SOCIETY IN
+CYBERPUNK 2020
+
+You know I'm going to lose
+
+And gambling's for fools
+
+But that's the way I like it baby
+
+I don't wanna live forever
+
+... And don't forget the Joker!
+—Motérhead, "Ace of Spades"
+
+THE CAMARILIA:
+
+The last major Conclave was held in Venice in
+2009. The Inner Circle decided at that time to enforce
+harsher restrictions on the Neonates and Anarchs to
+keep them under control and lessen the risk to the
+Masquerade. It was also decided to bring North
+America under tighter control, specifically the West
+Coast. The advent of cybernetic enhancements has
+many of the Elders worried about their future.
+
+One major effect this meeting had, although it was
+unknown to the Camarilla at the time, was the forma-
+tion of a new faction. This faction is primarily com-
+posed of Brujah Individualists, Gangrel, Malkavians,
+Nosferatu, and Toreador. They call themselves the
+
+Esenee rs
+
+AZI
+
+A
+
+
+"Children of Carthagos." Their ultimate goal is to
+bring about a world in which Kindred can live openly
+and freely. Since that time they have been working
+their way into the Anarch and Camarilla power
+structure.
+
+The Camarilla has become aware of this group and
+executes any it finds for breaching the Masquerade.
+Blood Hunts have been declared on suspicion of
+membership. Many of the Anarchs view humans as
+their cattle and see the Children as hopeless idealists.
+
+ASSAMITE:
+
+The Assamites have more business now than they
+have had in centuries. Many possess contacts with the
+Megacorps; this is in fact their major source of mon-
+etary income. On the other hand, with the constant
+increase in tensions between the Elders and the
+Anarchs, there is rich business to be had for elder
+Vitae.
+
+BRUJAH:
+
+The modern world has even more place for rebels
+than the late 20th century. Iconoclasts are found
+leading street gangs, and a few are at the cutting edge of
+music. You won't find them on major labels, however.
+The Idealists are losing support for their tactics; with
+the world changing so fast, the Iconoclasts insist there
+is no time to plan ahead so far. The Individualists are
+gaining the most ground; most of them can be found in
+music or as street ops, although a few can be found
+pulling strings on the few Corps they could get into
+without attracting Ventrue or Giovanni interest.
+
+FOLLOWERS OF SET:
+
+The Followers of Set are rising rapidly. Their
+Clan's wares are bought and sold nearly everywhere. In
+fact, some pride themselves on purchasing these items
+or services. Many can be found dealing the latest and
+greatest in designer drugs, running the nastier gangs,
+and otherwise being frustratingly annoying, but always
+from behind the scenes and in the shadows.
+
+GANGREL:
+
+Travel has become much more difficult in the last
+thirty years. Most Gangrel find a Nomad family to run
+with, occasionally the Ravnos's caravans. If they run
+with a human pack, they don't do so for very long. In
+the city they stay to themselves, maintaining their
+loner image, often becoming Solos or Medics.
+
+GIOVANNI:
+
+This Clan still continues to operate from the family
+stronghold in Venice, reaching out to gain control of as
+much of the wealth they can manage to grab. In the
+last few decades, they have come into indirect conflict
+with the Ventrue numerous times. The Camarilla is
+beginning to see them as a greater danger than ever
+before as their plans bloom.
+
+MALKA\
+Members of this Clan still congregate where
+madness and insanity are common. Naturally, this
+
+means they could be anywhere in most modern Ameri-
+can cities.
+
+NOSFERATU:
+
+The Nosferatu remain separated from Mortal and
+Kindred society for the most part, although their
+information network has expanded to even greater
+levels. Members of this Clan are likely to know
+anything about anyone.
+
+RAYNOS:
+
+The American members of this Clan travel about
+as Nomads, wandering from city to city, trying to find
+what enjoyment they can in their particular form of
+unlife.
+
+TOREADOR:
+
+This Clan continues to be a powerful influence in
+the Camarilla. Several influential Toreador own,
+several Entertainment Corps specializing in every
+medium available in the world of 2020.
+
+TREMERE:
+
+Many of the Tremere have puppets in the middle
+to upper levels of several Corps, including those
+controlled by Ventrue and Giovanni. The Tremere are
+still interested in gaining influence in the mortal world,
+and the balance of power is shifting from national
+governments to Megacorporations. During the last
+pilgrimage to Transylvania to meet with Tremere, it
+was noticed that he was behaving strangely.
+
+VENTRUE:
+
+The Ventrue possess much influence since many of
+the more powerful shareholders in many corporations
+are in their pockets. Money, favors, Dominate, and
+Blood Bonds ensure their status in the human world.
+Ever wonder why cybernetics are unpopular in Europe?
+
+CAITIFF:
+
+Ina time when individuality is becoming a rare
+resource, the Caitiff are having even more difficulty
+keeping theirs. Many are currently found in gangs or
+simply trying to survive on their own or in small
+groups. Quite a few have joined Anarch or Sabbat
+packs in the last few years.
+
+INCONNU:
+
+These Kindred are even more strict about nonin-
+terference than ever before. They have also become
+even more ferocious in enforcing it. In latter years,
+fewer Kindred have been accepted into the Inconnu.
+Perhaps the members of this group have completely lost
+
+&
+
+rete nae
+
+a
+
+SR Saar OR GDF Oo MUSLIN SD OR BBW OY ORRIN
+
+¥
+
+4
+
+YF
+
+ie scawr OND AP
+
+‘:
+
+is
+
+set
+
+SR Sai Vd MURLR ra IM Sa ONT
+
+OR GLBI UY MOE MERLIN a ON SIT OR FOI OY BELEN TOT ORK
+
+ne
+
+bacariiaritmaEs.
+
+PRGA RS
+\
+
+STO NGO UNGAR IRE.
+
+SRIGBIE FY OSDIR TBI IRIS FY BOGUT IRCA HY HE.
+
+RIE TY NOEL T IT INIA INE:
+
+ORS:
+
+SCR ERIAR OTR FY ORIEL TSAR
+
+FAR ORIBT OY
+
+Cis
+
+interest in bringing new members into the fold, or are
+they focusing their efforts on the Tremere?
+
+SABBAT:
+
+The Sabbat have continued to expand operations
+across the continent, taking control of a few cities to
+the south and west of their primary holdings. Several
+packs now operate as Nomads, traveling from city to
+city. Those who have taken to violent action are
+generally considered dangerous Boostergangs and are
+occasionally hunted by Cyberpsycho squads.
+
+OTHER GROUPS
+
+MAGI:
+
+Those who become involved in human politics are
+ruthless about using their abilities to gain influence
+over those they consider major players. So long as it
+doesn't risk their Masquerade, they will use all of the
+powers at their disposal.
+
+While it might be nice to think that the Corps will
+discover and control the Magi, remember that the
+Order of Hermes has been around for over a thousand
+years. These are not amateurs; they may not fully
+understand firearms, but, really, what is the difference
+between a hail of bullets and a ball of fire?' The condi-
+tion of the corpse, Choomba. Remember that.
+
+Most Magi, however, consider themselves above
+such manipulations. At least those of the Order of
+
+These immortals have changed little, no more than
+necessary to adjust to the modern world. Perhaps a few
+of them have taken to adding Cyberware to their
+bodies. It is unlikely more than a few of them would,
+however.
+
+SPIRITS:
+
+Stories about ghosts haunting mainframes, while
+not common, are being circulated through the Net.
+
+WEREWOLVES:
+
+Several packs of Garou now wander the country
+with Nomad Families, nearly always Relatives, often
+making "terrorist" attacks upon Corporate installations.
+They generally spend enough time ina city to resupply
+and no more.
+
+VAMPIRE HUNTERS:
+
+The Society of Leopold currently has the ear of the
+Pope, along with enough evidence to prove that
+Vampires exist. The hunters associated are now more
+of a paramilitary organization. Expect them all to
+possess any cybernetic enhancements they can get,
+specifically anything that will put them on fairly even
+footing with an enraged Garou or a Frenzying Vampire.
+
+The FBI Special Affairs division has had its
+funding reduced and has nearly ground to a halt. The
+
+RS pSaaysaaapsaaa pasa i cae i aa ce ae =f ac
+
+current director, William T. Burroughs, suspects
+Vampire interference and is working through shadier
+channels to locate the precise source of the interfer-
+ence; specifically, he is hiring Edgerunners.
+
+The NSA is currently split into three factions and
+only one is aware of it. The Sabbat and Camarilla each
+control one of the factions, with the third working to
+locate the Vampires behind the first two. It is generally
+engaged in TSSI-level internecine warfare.
+
+The Center for Disease Control has not discovered
+the cause for the mysterious spread of AIDS.
+Petrondon, the Nosferatu Justicar, called a Conclave in
+Atlanta in 1994 with the intent to solve the problem.
+Currently, a small group of Vampires are responsible for
+insuring that CDC research into the problem goes
+nowhere. Unfortunately, this manipulation will not
+last much longer.
+
+The Arcanum is still studying the supernatural in
+every form in which they can find it. Jonathan Kelvin,
+the former head of the American Order, disappeared
+from the Georgetown Chapter House in 1993. The
+only clue was found by the Psychometrists in the order:
+there were traces of an ancient, powerful presence
+having been in his room the night he disappeared. The
+man who replaced him is Thomas Yardley, who is
+becoming bored and frustrated with the restrictions
+placed on his fieldwork.
+
+CYBERPUNKS
+
+Waiting for the revolution
+
+New clear vision - Genocide
+
+Computerize God - It's the new religion
+
+Program the brain - Not the heartbeat
+—Black Sabbath, "Computer God"
+
+In the modern age technology takes a larger and
+larger space in the lives of Kindred and Kine alike.
+Considering the speed at which it advances, the ability
+to deal with such technology is a prized ability. Thus,
+the Clan known as the Cyberpunks.
+
+This Bloodline was created by the Netrunner
+known as Eryn and the Ravnos known as Margali in
+2016. It took a little over two years to perfect it, with a
+few false starts along the way.
+
+The Bloodline is currently confined to Night City
+and all of its members are Anarchs. They are not well
+known to Carlo or Helen.
+
+They can be a frightening presence, taking control
+of technological devices, causing malfunctions and
+misfires. Those who encounter them in a hostile
+manner rarely wish to do so again.
+
+Appearance: Cyberpunks can look like anyone,
+naturally. There is a tendency toward the cutting-edge
+look among the members, however.
+
+Haven: Anything from a heavily defended
+basement in an abandoned building to a high tech
+heaven in which you could find any gadget you can
+conceive.
+
+Background:
+
+Edgerunner strata with Solos, Techies, and Netrunners
+especially common. Age before death can be any-
+where, but should range between sixteen and thirty.
+The Bloodline is so new that none should be older than
+four years. Avant Garde is a common demeanor.
+
+Character Creation: For Solos, Physical At-
+tributes are primary; for Netrunners and Techies,
+Mental Attributes are ascendant. In any event Skills or
+Talents are primary.
+
+Weakness: Cyberpunks tend to use technology
+where Disciplines might work better. If a Cyberpunk
+begins relying upon Disciplines (other than the specials
+for Bloodline) more often than technology, assess a
+Willpower cost.
+
+Disciplines: Celerity, Potence, Technica.
+
+Quote: "Dead meat? Choomba, you ain't fast
+enough to shoot before I make you ‘dead meat.' Chill it."
+
+TECHNICA
+
+Cyberpunks generally come from the'
+
+Technica is the Cyberpunks' special relationship
+with technology. With this power, they can under-
+stand machines much more fully, or even speak with
+them-an absolute necessity in the modern world.
+
+LEVEL 1 (INTERFACE)
+
+This ability allows the Kindred to interface with
+any piece of equipment designed for this that she can
+touch: Smartguns, Dataterms, Vehicles, and
+Cyberdecks. A touch on the device or on an interface
+cord is all that is necessary. However, the touch must
+be maintained; if contact is lost, control is lost.
+
+LEVEL 2 (TECHNICAL TOUCH)
+
+With this ability, the Kindred can roll his Percep-
+tion + Appropriate Ability (Target number 6) to gain
+an understanding about a device. While maintaining
+this ability he can use, repair, or modify the device,
+rolling a number of dice equal to his successes if he does
+not already have the necessary skill needed to do
+whatever he wants.
+
+LEVEL 3 (EMPOWER DEVICE)
+
+The Kindred can now draw energy from the
+differentials in the air to power equipment she is
+touching. With this level, she can run a flashlight
+without batteries or a cyberdeck without a power
+source. Use of this ability requires the expenditure of 1
+Willpower point.
+
+LEVEL 4 (REMOTE TOUCH)
+
+At this level the Kindred can use all of the above
+abilities upon any technological item within 100 feet.
+
+LEVEL 5 (SPIRITUS EX MACHINA)
+
+Now the Kindred can speak directly with the
+machine. He merely needs to touch it to become
+
+yd a nxnem creer oer ER EAMETS EET TE CT TEU OTT
+
+SND Od VERSO OR SCD FRAO I ORT PRICOI OND AEA
+
+ors carro nero inner roe NTT Tarren I
+
+SRB VME TOT ORIG VY ORI
+
+ON SBI Od MOLI RELA TOD OR SBE ON AOI OY MB SLR TDF ORTON ORES
+
+ee
+
+RSCam TN Rai Fy ORLA
+
+‘3
+
+Ri
+
+"
+
+i i i i i i i i i
+
+-**capable of conversing with it. If the machine is an Al,
+> the Kindred can speak to it normally. Otherwise, the
+Kindred speaks to the "Spirit" of the object, as per
+Wooden Tongues power (Player's Guide, p. 88), but
+using the chart below to determine amount of informa-
+tion gained. Roll ys. Charisma + Appropriate Ability.
+(These can quite reasonably be the Net Spiders found
+in Werewolf.)
+
+lsuccess General ideas can come across.
+
+2 successes Simple sentences.
+
+3 successes Basic communication with responses
+to straightforward questions.
+
+4 successes Complete communication is possible.
+
+5 successes As four, but the machine will not
+mislead the character.
+
+LEVEL 6 (GHOST IN THE MACHINE)
+
+The Cyberpunk can send her life force into any
+machine, inhabiting it. She has absolute control over
+the device. Her body, however, is motionless as if in
+Torpor, and the character will be unaware of what is
+occurring around her body unless she is near death or
+the machine has a sensor that can monitor it. She can
+only leave the machine to reenter her body or enter
+another machine.
+
+rena ay
+
+GDI MORIN TIBIE SEB SUSAR HNO FRSA OR
+
+OFA TY WO EIRE.
+
+There are no Cyberpunks above Seventh Genera-
+tion.
+
+CYBERWARE
+
+Hard as iron
+Sharp as steel
+Stop for no man
+You better beg and kneel
+—Judas Priest, "Hard as Iron"
+
+Cyberware is what makes the genre different. You
+don't play Cyberpunk just to shoot people; you play
+Cyberpunk to shoot people with your smartchipped
+Minami 10 Submachinegun and shoot first with your
+Kerenzikov Reflex Boosts. Meat doesn't cut it on the
+streets, Choomba. If you have the Euro, buy the toys.
+Irll save your worthless butt someday. Besides, the
+chrome looks so cryo!
+
+One of the ideas that Vampire: The Masquerade
+and Cyberpunk 2020 have in common is the concept
+of diminishing Humanity. In Vampire, you can lose it
+to various heinous acts. In Cyberpunk, you lose
+Humanity to Cyberware. The normal Kindred is
+always in danger of losing Humanity due to Frenzies
+and Rétschreck. With the advent of cyberware and its
+affect on the psyche, the flame of Humanitas burns
+even lower, the Beast edging closer to the surface. Yes,
+a Vampire can become even more powerful than other
+Vampires, let alone Solos with these devices, but think
+of the price!
+
+Humanity Cost works much as it does in
+Cyberpunk 2020. The primary difference is that it
+
+etary. were pen ater TS
+OLR MAGAT!
+
+ER SBIT URSA Fd ORLA TBE ING ARITA INTAR VYOSANTL
+
+ERSBST ORSTRIE GY NOEL SOB HE ONSTAR UN STORE OY NORRIE NOR STARR wt octal alee
+
+Pin
+
+Bare
+
+bi
+ipa
+
+$8
+
+works against Humanity in CyberFang. Both Empathy
+
+from Cyberpunk and Humanity from the Storyteller
+
+system are based on a 0—10 range. Don't forget to
+
+multiply your base Humanity by ten to get your Hu- |
+
+manity Index. If a Garou has Cyberware (Luna knows
+
+why; it would prevent the change), use Gnosis instead. |
+
+If a Mummy, use Ba. ?
+For those who do not wish to use six-sided dice in
+
+their Vampire Chronicles, you can determine how |
+
+many ten-sided dice to roll for loss by adding up the \
+
+total number of dés, multiplying by 3, and dividing by |
+
+5. Keep the remainder as a plus. Example: Erik has
+
+9d6 loss from Cyberware. He multiplies 9 by 3, getting
+
+27, then divides that by 5, getting 5.4, or 5 with a
+
+remainder of 2. He rolls 5d10+2 to determine cost. Do
+
+not add fixed-cost items into this total.
+
+CYBERWARE IN KINDRED BODIES:
+
+Cyberware will generally be present in those
+Cainites who were Embraced within the last fifteen
+years. Most people in the modern world have, at the
+minimum, a pair of interface plugs and a neuralware
+processor. |
+
+These guidelines are written with the assumption
+that the Cybernetic implants will work in a Vampiric
+body.
+
+If you wish Elder Kindred to be capable of getting |
+Cyberware, here is a little Ritual we cooked up. Note
+that this would only be found at the very best of clinics,
+such as those described in Eurosource. A Cainite with
+Contact level 4 or 5 could know someone who could
+get her into such a clinic.
+
+AWAKENING THE FLESH j
+(LEVEL 4 THAUMATURGY RITUAL) |
+
+This two-hour ritual allows surgical modifications
+to be performed upon the Kindred's body. To begin,
+the caster must expend three points of his own Blood in
+acircle around the patient and a piece of amber must
+be placed under the patient's tongue. When the
+surgery is over, the Kindred heals the damage done to
+her, making a Wits+Medicine roll to avoid healing the
+modified areas. If she fails, the Cyberware is healed out
+of the body. Each botch means she also takes one level
+of Aggravated wounds. Once she is finished spending
+Blood (all wound boxes are unfilled), the Cyberware or
+biosculpt is permanent.
+
+The Magi also have a version of this Ritual,
+although it does not require Blood Points. Neither
+Tremere nor Magi accept money as payment for this
+sort of work; they accept favors.
+
+EFFECTS:
+
+Cyberware that enhances Strength and Stamina-
+namely, any Cyberpunk BOD boost-adds one half its
+normal level to the stats. This is because Vampire has
+a 1—5 range while Cyberpunk has a 2—10 range.
+
+Reflex Boosters act as Celerity of that level.
+Kerenzikov 2 is effectively Celerity 2 without the blood
+
+ak anne nek a hana i a aan ie : aoe tae ik |
+
+Subtract one from the level of the Boost to
+determine what to add to Dexterity.
+
+Movement Allowance boosts add to Dexterity for
+the purposes of determining running speed and to
+Strength for leaping ability.
+
+Cyberware that interfaces with the nervous system
+continues to work normally. This includes anything
+that works through a Neural Processor as well as several
+of the Implants. Anything that works on principles of
+human biochemistry does not work, however.
+
+Organ replacements do not work at all. T-Maxx
+Livers, Sport Hearts, and the like have no use in a
+Vampiric body. A Decentralized Heart needs some
+discussion; any Kindred with such a thing could be
+considered unstakable. This is not true. Such a
+Cainite could be staked so long as the locations of the
+pumps are known; only one pump need be staked. It is
+difficult to locate, like a misplaced heart.
+
+Armor implants such as Subdermal Armor and
+Skinweave simply add to the Soak Dice. One die for
+each four SP should be sufficient.
+
+CYBERWARE AND DISCIPLINES
+
+AUSPEX:
+
+Auspex will not enhance the acuity of Cyberoptics
+or Cyberaudio. It will improve the sense of touch,
+
+Se
+smell, or taste, even with the presence of boosters, sincé*
+
+the actual sensing organ is not replaced.
+Aura Perception will work as normal so long as the
+Lick possesses usable eyes, either Cyberoptic or meat.
+
+CELERITY:
+
+With the above rules, a Neonate could start with
+Sandevistan with a Boostmaster, all three dots in,
+Celerity, and fourteen Freebie points on two more dots
+in Celerity. This will give him an effective Celerity of
+9 with negligible loss of Humanitas.
+
+This will leave the Vampire in the same position
+relative to humans he had before—faster than they are.
+What does the Storyteller do in this situation? Let the
+Lick get away with it and waste him anyway. That's
+the Cyberpunk way, remember?
+
+DOMINATE:
+
+The presence of Cyberoptics does not interfere
+with the use of this ability. Dominate cannot, how-
+ever, interfere with cybernetic memory in the subject.
+This includes Wetdrives, Eidetic Chips, A/V recording,
+and other similar devices. A human who has been
+dominated by a Lick and happens to look back in her
+Eidetic Chip might notice something unusual lurking
+in there.
+
+Sree mi aoe
+
+SRicam OR Ica OR GCaIORD AP:
+
+roe
+
+AR Iai Va REL
+
+ artrr-neririecnervenrer certo parener vers Chie evince eer criteria ciniaT nce umar acre! rods
+
+"SWS Oe SLA Soar OR RBI Fd ERR
+
+"a
+
+Winninec Wizarps Wait With Wonper...
+Wiz War
+
+For The 6th Edition Of
+
+Wiz War'
+
+THOsE master magicians at Chessex have cast all
+
+new spells for the reintroduction of this classic
+
+game. You'll discover more fun than ever with all
+
+new graphics and artwork by Phil Morrissey, re-
+vised and expanded rules, reworked and im-
+proved playing board and cards. Cast spells,
+steal treasure, read minds, blast fireballs;
+
+turn to mist and more!!
+
+CHX 7000 Wiz War
+CHX 7001 Expansion
+
+Retail $18.00 °
+Retail $10.00 \.
+
+mae
+
+Check with your local retailer. Retailers contact Chessex ——————
+1194 Chessex East/(800) 876-2193 Chessex Midwest/(800) 444-3552
+
+Chessex Manufacturing/(510) 843-
+
+ts
+
+J
+
+
++
+aoariee =
+
+‘
+
+wv
+
+{
+
+i
+
+{
+
+{
+
+3 Re
+
+|
+
+t
+
+if
+
+|
+
+H
+
+a
+
+é
+
+Possessing Cyberware makes use of this ability more
+difficult than normal. If Cyberoptics are present,
+
+Shadow of the Beast costs two Blood Points and
+takes three turns if both are paid in one turn, or six
+turns otherwise. Six Blood Points allow a one-turn
+change. Form of Mist is treated much the same.
+
+3; FORTITUDE & POTENCE: ad 20,000 eb
+bts Fortitude and Potence can provide some interest- cea 50,000 eb
+g ing results when combined with cybernetic limbs and 7 7
+4 Bioware. Fortitude will work with any part of the body All you new Licks feeling down?
+that is still natural. It will not improve the survivabil- What do you do when . . .
+a ity of a cybernetic limb. Potence works similarly; it will Two thirds of the Solos on the street have Thermo
+& work fine with Grafted Muscle or Muscle & Bone Lace, graphic Imaging? de, Choombs
+but d tC ly to the th of a Cybi ‘, earn Masquerade, joomba.
+j oe You were Embraced before Cyberware?
+a Pick up Celerity. A lot of it. All you can find.
+: PROTEAN: The guns are bigger than you?
+
+Buy even bigger guns.
+Everyone you fight is stronger/faster/tougher than you?
+
+i Gleam of Red Eyes costs one Blood Point to activate. Burn blood. If you win, you can have their Vitae.
+gif Cyberhands or arms are present, the price to activate If you lose, it doesn't matter.
+
+Claws of the Wolf is two Blood Points. This can be Remember, the tech is there for everybody to use.
+#} spent at the rate of one point on each of two turns. Just because you're Kindred doesn't mean you have
+
+to be stupid.
+
+CYBERWARE LIST
+
+If a piece of Cyberware is not mentioned, assume
+
+no changes from Cyberpunk. Most of the Cyberware
+from Cyberpunk 2020, Interface Magazine,
+Chromebook 1, and Chromebook 2 is listed here.
+
+FASHIONWARE
+
+Biomonitor -2 to TN for resisting drugs, poisons,
+and torture. These don't do a lot for Kindred, other
+than to tell them that they really are dead.
+
+VAMPIRES IN THE NET
+(OR ANYONE ELSE, FOR THAT MATTER)
+
+Netrunning is a new form of interactive conflict
+and uses slightly different rules than normal combat.
+Nearly all tests involve computer skill.
+
+Initiative is Wits + Computer. Multiple actions
+are possible, and a Cyberdeck adds its speed as extra
+
+RGAE TROT GB FY HARLAN VY ORIEL
+
+RECA Vid BEAR CBR RCBIT BRECON Fd MEDI OELR STON ONTO ORS OH RRLER TL
+
+pay
+
+Bi bo oss
+
+actions.
+
+Combat works much like Melee, except that you
+roll your Intelligence + Computer against the
+opponent's Intelligence + Computer, with the Program
+Strength added as automatic successes. The target
+number is always a six. In Combat, successes over the
+foe's successes count as damage dice. The loser gets
+Soak Dice equal to his Wits. Protection Programs can
+be used to slow down an attack. Add the Program
+Strength to Soak Dice.
+
+A computer system has three dots of Intelligence
+for each two CPUs present, and always possesses five
+dots in Computer.
+
+When engaged in tests against programs, roll
+Computer + Program Strength against System Intelli-
+gence + Program Strength. This is used for Evasion/
+Stealth, Detection, Intrusion, or Decryption.
+
+STARTING CYBERWARE
+
+RESOURCES
+
+This is a revision for the Resources Background as
+supplied in Vampire: The Masquerade. Instead of
+starting wealthy, you simply start with cash. If you
+were Embraced after the advent of Cyberware, you can
+even buy some. Consider it a survival choice.
+
+é 2,000 eb
+‘yb 5,000 eb
+os 10,000 eb
+
+Sem i ee om ge ee annie = a om ew a yy mee
+ee tas wee
+22 Wire WOLEMAGAZ
+
+"i ee eee E4 aes re
+
+Neuralware Processor does not change
+
+Kerenzikov +1 Celerity/Level,
++1 Dexterity at Level 2
+Speedware +3 Celerity,
+
++2 Dexterity for 5
+
+combat rounds
+-3 on TN relating to touch
+-3 on TN relating to smell
+
+Tactile Boost
+Olfactory Boost
+
+Pain Editor Ignore wound penalties
+due to injury
+
+Vehicle Link -2 on TN with vehicle
+
+Smartgun Link -2 on TN with weapon
+
+Machine/Tech Link -2 on TN with equipment
+
+Reflex Chips Comes in Level 1- Talents
+or Skills
+
+Memory Chips As above - Knowledges
+
+Boostmaster Adds +1 Celerity and
+
++1 Dexterity to the efficacy
+of any Boosterware package.
+
+IMPLANTS
+
+Adrenal Booster* +1 Celerity and Dexterity for
+1d10/2 + 2 rounds, 3x/day
+
+Subdermal Armor +4 Soak Dice
+
+Forked Tongue +1 die to Social tests
+
+Decentral Heart*~ +1 Soak Die
+
++1 Strength, +1 Stamina (not
+for soak), -1 Soak Dice,
++1 Meter max run
+
+Sport Heart*+
+
+
+Overdrive Heart*+ +2 ‘Strength, +2 Stamina
+(not for soak), -2 Soak Dice,
++2 Meters max run
+
+T-Maxx Cyberliver* -2 TN for resisting drugs,
+
+poisons, and alcohol
+
+-2 TN for resisting
+
+Spacesickness, +1 die in
+
+Athletics for purposes of
+
+Zero-G Maneuvers
+
+Target makes Stamina +
+
+Fortitude roll vs. an 8. If
+
+failed, she is immobilized for
+
+2—11 minutes. If nothing
+
+over a 6 was rolled, she is
+
+dead. Kindred simply take
+one Aggravated wound.
+
+Gyro-Stabilizer
+
+Gang Jazzler
+
+*If Kindred had this before the Embrace, it no
+longer operates.
+
++lIf a Kindred possesses this, he is considered to
+have a normal heartbeat.
+
+~A Kindred with this only needs to be staked
+through one pump.
+
+BIOWARE
+Grafted Muscle Lvl 1: +1 Strength,
+
+Lvl 2: +1 Stamina
+
+Muscle & Bone Lace +1 Strength, +1 Stamina
+
+Skinweave +3 Soak Dice
+
+Enhanced Antibodies Reduce healing time by one
+line on the chart on page 191
+
+Toxin Binders
+Nanosurgeons
+
+Lifesaver Skinweave
+
+Anti-Plague Nano
+
+European Biotech Body
+Reflex
+MA
+
+CYBERWEAPONS
+
+Scratchers
+Implanted Fangs
+Rippers
+Wolvers
+
+Big Ripps
+
+Big Knucks
+Slice N' Dice
+
+Cybersnake
+Cyberoptic
+Image Enhancement
+
+of Vampire: Second Edition.
+
+-4 to TN to resist drugs
+
+or poisons
+
+Humans heal in one half the
+normal time with these.
+
+As per Enhanced Antibodies.
+If the patient is down to -7 to
+-9 Wound levels, she is in no
+danger of dying unless
+subjected to rough treatment.
+-3 TN to resist diseases.
+Kindred do not benefit from
+Nanotech in the blood.
+
++1 Strength, +1 Stamina
++1 Dexterity (not Celerity)
++2 to Dexterity for running,
++2 to Strength for leaping
+
+Strength +1
+Strength +1
+Strength +2
+Strength +3
+Strength +4
+Damage: Strength +1
+Damage: 8 (armor only
+provides 1 Soak Die)
+Damage: 4
+
+No change
+
+-3 to Sight-based TN
+
+Damage:
+Damage:
+Damage:
+Damage:
+Damage:
+
+IR Scam TRICO HRI ORD GAT:
+
+aan
+
+FRSA OY MBSR RBI OTD Oo WOELRS,
+
+aN Sa Oe MOLT
+
+TRIAS PILL NOELIA SO ON BB OR ROI Oe MUSLIN SOI OR IO ORE
+
+OR IOI FY WOELN SBR ONE.
+
+emer mercer amen rater nO TE AR NC A CO INET IN POTN ATE TOTO EE IIR TO RETNA TI ore aT er are IO
+
+"4,
+Bok bo cs
+
+
+me
+
+tir-bihnpe-—
+
+"Targeting Scope -1 TN to Smartgun attacks
+
+o> Dodgeball After observation it adds +1
+g die to skill
+Cyberaudio No change
+
+Amplified Hearing -1 to Hearing-based TN
+Voice Stress -2 to TN for Empathy
+or Interrogation.
+
+-2 to TN to hear
+
+one conversation.
+
+Sound Editing
+
+RIT RICA INE.
+
+=) LIMBS
+Cyberarm 4 damage boxes, 4 Soak Dice
+Cyberleg 4 damage boxes, 4 Soak Dice
+Hydraulic Rams 6 damage boxes, 6 Soak Dice,
+
+Triple Potence
+Thickened Myomar 5 damage boxes, 5 Soak Dice,
+Double Potence
+Reinforced Joints +1 damage box, +1 Soak Die
+Armor +4 Soak Dice
+Flashbulb Automatically blinds those
+with operating Auspex I, in
+addition to then usual affects
+Orbital Crystal Arm 12 damage boxes,
+12 Soak Dice
+Winch If the user has any level of
+Potence and/or Fortitude, he
+may make full use of this
+item.
+Increases movement speed by
++5 meters
+
+BRONTE VY NOTIN:
+
+Speeding Bullet
+
+ARIAT INGA IY MERU IRR HO OY
+
+A Cyberarm is bought for a specific strength,
+
+& generally that of the recipient. Lower-strength arms
+MH canbe purchased without difficulty. Arms stronger
+q than the user can cause injury to the user.
+& A Cyberarm is considered to have one point of
+i Potence for punching and two points for crushing.
+iH Hands & Feet No change
+iB Independent Hand Potence 1 for
+
+f crushing purposes
+My Hammerhand Damage: Strength + 4
+EH Buzz Hand Damage: Strength + 5
+i Spike Hand Damage: Strength +3
+ae Talon Foot Damage: Strength +3
+4 Spike Heel Foot Damage: Strength +4
+a Cutting Torch Damage: 2 Aggravated/turn,
+Ee TN 9 to resist
+
+t
+A CyberWeapons Built into Cyberlimb
+
+H MM Launcher Damage: 8
+
+ue 2 Shot Laser Damage: 6
+
+i Linear Frames Implanted Exoskeleton
+
+S Sigma Strength: 6
+
+ti Beta Strength: 7
+
+BE Omega Strength: 8
+
+t
+
+Hi Note: Regardless of Cyborg's Strength, the Frame
+
+overrides it.
+
+Pin be
+
+‘ i Fy s Fy s é FY & g é é
+a a a a a a a a RB é a a r
+ea ae a kd a Be a a ag a ee aa pe
+
+CHIPS
+
+Body Plating ExoArmor
+
+Cowl +8 Soak Dice, 5 extra DP
+Faceplate
+
+Torso Plate
+
+Memory Compression Allows 3 Abilities to be placed
+on one chip. All at 1,
+naturally.
+Add +1 die to all
+Seduction tests.
+Add +1 to Willpower
+and +1 to Humanity.
+AdrenalinfEndorphin Surge In addition to the benefits as
+explained in Chromebook,
+this chip can be used to create
+an Adrenalin Surge that
+provides +1 to Stamina for
+purposes of Soak Rolls and
+Attribute tests. If a Kindred
+triggers the Adrenalin Surge,
+she flies into a Rage Frenzy.
+Will work for Kindred. It can
+be used to limit the amount of
+blood a Kindred will drink
+before feeling sated. This can
+be used to limit a Lick to, say,
+3 Blood Points. Nasty.
+Visual Recognition Chips Provides 1 extra die to tests
+involving the specific field
+covered by the chip.
+
+Maximum Lover
+
+Stress Chip
+
+Fish N' Chips
+
+Task levels convert as follows:
+
+Cyberpunk Task VampireTN
+Easy 3
+Average 5
+Difficult t
+Very Difficult 9

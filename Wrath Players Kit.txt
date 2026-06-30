@@ -1,0 +1,1975 @@
+# File: Wrath Players Kit.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+Wraith Players Ki
+
+The brisk fond lackey to fetch and carry,
+The true, sick-hearted slave,
+Expect him not in the just city
+And free land of the grave
+
+BE 0)
+
+by Sam Chupp, Zhonni Perchalski and jenrifer Hartshorn
+Scanned By: Ahkren
+
+Written by: Sam Chupp, Jennifer Hartshorn and Zjonni
+Perchalski
+
+Additional Material by:
+
+Developed by: Jennifer Hartshorn
+
+Brian Campbell
+
+Edited by: Brian Campbell, Cynthia Summers
+
+Art Director: Richard Thomas
+
+Layout and Typesetting: Aileen E. Miles
+
+Art: John Cobb, Richard Thomas, Joshua Gabriel
+Timbrook, Drew Tucker
+
+Front Cover: Henry Higgenbotham, Robert Dixon
+
+Crossing alone the nighted ferry
+With the one coin for fee,
+Whom, on the wharf of Lethe waiting,
+Count you to find? Not me.
+
+ssing Alone the Nighted Ferry", A.E, Housman
+
+4598 STONEGATE IND. BLYD.
+ir MIN., Gh 30083
+
+8007
+
+CANE STUDIO
+
+) 1994 by White Wolf. All rights reserved. Reproduction without
+written permission of the publisher is expressly denied, except for the
+purpose of reviews. Wraith: the Oblivion, Wraith Pla Vam-
+
+ire: the Masquerade, Werewolf: the Apoc
+rks and copyrights of White Wolf
+
+or produ
+
+n of or reference to any compa
+
+hts concerned,
+
+Special Thanks to:
+
+Rich "Sherlock" Thomas, for tracking down the missing
+Jyhad art.
+
+Aileen "Miles Away" Miles, for finally taking a long over-
+due v:
+
+Il "The Other Hothead" Snelly, for being the other
+one with a passion for Paisan.
+
+ion,
+
+Kathy "Double Agent" Ryan, for possessing both an En-
+glish and an Art degree.
+
+Chris "Cameron's Pimple" McDonough, for Illuminating
+the walls outside the ghetto.
+
+Josh "Goooob!" Timbrook, for goobin' all over the anime
+festival.
+
+Rob "Quiet One" Dixon. ..it's always the quiet ones...
+
+Matt "Perfect Angel" Milt r, for not doing anything
+degrading enough to earn a special thanks.
+
+Players Kit
+
+Wraith Character
+eneration Claritica
+
+How long til my soul gets it right?
+
+— Indigo Girls,"Galileo"
+
+etters and Haunts
+
+etters are people, places and things that con-
+tinue to link a wraith to the world of the liv-
+ing. When a character is ata Fetter, the diffi-
+
+culty to use an Arcanos is reduced. The player
+
+rolls versus the applicable Fetter rating; each
+success reduces the difficulty of all Arcanos
+for that scene by 1. The minimum possible
+difficulty is 4, including all modifiers. Fetters can include the grave
+thin
+
+life (lovers, relatives, enemies or anyone else to whom the char-
+
+or body of the wraith, people who were important to the wre
+
+acter had a particularly strong emotional attachment), things that
+were important to her (the gun of a cop or gangster, the laptop
+computer of a writer or the shot glass of an alcoholic) or areas
+: she died). Note that a place ce
+both a Fetter and a Haunt, but a Haunt can contain a Fetter.
+
+(such as the place whe not be
+
+For example, Joey's Haunt is the pool hall (a Level 1 Haunt)
+he visited every Tuesday night, right up to the night a gang fight
+resulted in his death and the death of his five of his friends. The
+pool hall closed as the result of the deaths and has since become
+
+Joey's Haunt. If his girlfriend Vanessa (a two-point Fetter) v
+into the abandoned pool hall, his difficulty to use Arcanos could
+be reduced up to three levels (one for the Haunt level, two for the
+level of the Fetter). If Van
+
+generally be reduced by only one.
+
+1 wasn't there, the difficulty would
+
+Fetters can be destroyed. If a Fetter is completely destroyed,
+it no longer functions. For example, it is impossible to start out
+
+g 2 Wraith: The Oblivion
+
+with a Fetter of "destroyed body: 4" if you were cremated and your
+ashes were scattered across the Atlantic Ocean, While you might
+not immediately know what all of your Fetters are, you can find
+them by using Lifeweb or simply tracking them down, If all of a
+
+character's Fetters are destroyed, he will be unable to return to the
+
+Jowlands should he ever leave. Relics are made from destroyed
+
+items; therefore, relics cannot be Fetters. It's difficult fora wraith
+to carry his Fetters with him if he's not materialized,
+
+Note that Fetters
+point F
+
+‘an range from one to five points; a five-
+
+tter is tremendously powerful and has an e
+
+reme emo-
+tional value. Few people in this cynical day and age have any-
+thing that the
+are ranked from one to three points. Four-point Fetters are un-
+
+care that deeply about, which is why most Fetters
+
+usual, and five-point Fetters are extremely rare. Similarly, there
+are only a few level five Haunts in the world. Most wraiths will
+have one- or two-point Haunts.
+
+Passions
+
+Passions are the "reasons to live" that each wraith h:
+
+They
+
+are vital toa wraith's continued existence, for without Passions, it
+
+is difficult to regain Pathos, and without Pathos, it is impossible
+for wraiths to use any of their Arcanos. While it is tricky to work
+out just the right Passions for a given character, they can help you
+to define who the character is better than any other trait. You
+must justify why your character continues to defy death. The three
+parts of any P;
+cusing emotion ("Love") and the rating (3). By combining thi
+parts, you define what is important to that character. For example,
+the Passion above would be listed as "Protect Vanessa (Love) 3".
+
+ion are the purpose ("Protect Vanessa"), the fo-
+
+e
+
+To regain Pathos, the player rolls a number of dice equal to
+the rating of the Passion (in this case, 3). The difficulty depends
+on how specifically the character is following that Passion. For
+
+8 CO te Se
+
+7 Secu
+
+
+"Protect Vanessa (Love)
+3", used his Embody Arcanos to warn Vanessa that a fire had started
+in the basement of her apartment building, the Storyteller might
+rule that, because a purpose has been specifically addressed, the
+difficulty would be 6. On the other hand, if Joey used the Casti-
+gate Arcanos to drive out a Spectre who was skinriding someone
+on a street near Vane:
+Vanessa was not in any immediate danger.
+
+a's house, the difficulty would be 7, as
+
+The Storyteller may allow a Pathos roll ifthe situation in the
+scene is similar to the Passion. The difficulty is still 7. For in-
+stance, Joey might be allow
+someone else's girlfriend or just helping Vanessa (as long as the
+
+1a Pathos roll if he was protecting
+
+scene was suitably dramatic). Storytellers who feel uncomfortable
+with this option or who are petitioned too often for this type of
+Pathos roll may, of course, disregard it. The Storyteller calls for
+Pathos rolls, not the player.
+
+A wraith can also regain Pathos by drawing upon the emo-
+tion underlying a Pe
+emotion from someone in the real world or witness a real mani-
+festation of that feeling. The difficulty for this roll is 8. For in-
+stance, the Passion "Protect Vanessa (Love)" is motivated by love.
+
+sion. The wraith must either evoke that
+
+If Joey had a scene in which he was able to help Vanessa remem-
+ber the love she felt for him, the player could then roll for Pathos.
+If he later witnessed a love scene between two mortals, he would
+be able to gain Pathos from that scene as well. The Storyteller
+must judge whether the scene is sincere (going to a screening of
+Romeo and Juliet won't cut it)
+
+Finally, the Arcanos: Keening can evoke certain emotions
+from mortals. The difficulty for gaining Pathos via this method is
+9, Feigned or insincere emotions will not give Pathos. If another
+
+character in Joey's Ci
+
+cle pretends to really, really love the pi:
+
+he's eating, it still won't give Joey Pathos.
+
+Type of Scene Difficulty
+Scene specifically addressing a purpose 6
+Scene generally addressing a purpose 7
+Evoking or witnessing an underlying pasion 8
+
+Evoking emotion with the Arcanos: Keening 9
+
+sions that are trivial or ri-
+
+The Storyteller can reject
+diculous. Above all, use this mechanism as a way to reward
+roleplayers for ingenious and impassioned roleplaying.
+Acceptable Passions
+"Protect my daughter (Love) 3"
+"Get revenge for my death (Hatred) 4"
+"Collect every rare Jyhad card ever made (Greed) 1"
+
+Unacceptable Passions
+
+"Hates being dead (Resentment) 5"
+"Likes the color blue (Love) 4"
+"Find hatred (Hate) 4"
+
+"Avoid Oblivion (Fear) 4"
+
+Some emotions make for very bad Passions. A character
+driven by "boredom" or "apathy" will be in for a rather dull
+
+time. When designing Passions, remember that the game is as
+seriou
+
+the pla
+
+Shadow Passions
+
+Like Psyche Passions, the Shadow'
+
+yers want to make it.
+
+assions are made up of a
+Purpose, a focusing emotion and a level. These do not have to be
+
+mirror images of the Psyche's passions, although that's usually a
+
+good place to start. The motivations of the Shadow usually run
+
+contrary to the goals of the Psyche and are usually self-destructive.
+
+The Shadow must inflict the Shadow Passion on some-
+one else. The Shadow has to work harder to achieve Shadow
+P. t when the Shadow is dominant over the
+Psyche. Each success on a Shadow Passion roll will give the
+
+ions; this is easi
+
+character one point of Angst. Use these rolls to add a bitter-
+
+sweet feeling of loss and self-destruction when a character fail;
+Difficulty
+
+Type of Scene
+The §
+(Th
+The Shadow inflicts the passion of a
+
+Storyteller judges whether the Shadow succeeds)
+
+Shadow Passion 9
+
+Example Shadow Passions
+
+"Hurt my family (Pain)"
+
+"Ruin my former business partner (Envy)"
+"Corrupt the innocent (Lust)"
+
+"Keep my loved ones away from my old home (Fear)"
+
+"Kill my parents (Regret)"
+
+Pathos
+
+Pathos is ascore that ranges from one to ten in normal wraiths.
+This trait rep
+to passionately defy death. It is conceivably possible that Malfeans
+
+‘nts sympathy with the real world and the ability
+
+and very ancient wraiths can go above this, but this is extremely
+rare. Ifa wraith falls to zero Pathos, she is unable to perform any
+
+Arcanos requiring Pathos until she can regain at least one point,
+
+Willow
+
+i
+
+illpower measures character's strength of will
+
+and his capacity to overcome the urges and
+desires that tempt him. The character's Will-
+| power Pool (the squares) can never be greater
+| than his Willpower rating (the circles). When
+you use a point of Willpower, you remove it
+from your character's temporary Willpower
+Pool, not from the permanent Willpower rating. The rating stays
+constant, while the Pool is depleted during the story.
+Willpower from the Willpower Pool fluctuates a great deal
+during a story. It decreases by one each time the player uses a
+Willpower point to have his character do something extraordi-
+
+Players Kit
+<li
+
+
+Wie
+
+nary, such as gaining an automatic success. Eventually, the char-
+acter will have no Willpower left and will no longer be able to
+exert himself the way he once did. The character is mentally ex-
+hausted and can't rouse himself enough to give a damn — he's
+expended all his Willpower.
+
+* Automatic Success: A Willpower point can be used to
+obtain one automatic success in an action. Only one point of
+Willpower can be used this way per turn, but it gives a single
+guaranteed success. In this fashion, it is possible to succeed
+automatically in any simple action simply by concentrating.
+For extended rolls, the extra success can make the critical dif-
+ference between success and failure. There are some situations
+in which the Storyteller may not allow such a use of Will-
+power.
+
+¢ Resisting the Shadow: Willpower represents the
+strength of the Psyche and the concept of identity. In many
+
+instances where the Shadow attempts to overcome the Psyche
+
+and control a wraith, the player is allowed to mak
+
+a resisted
+roll of Willpower against the Shadow's Angst. The most im-
+portant example of this is Catharsis— see pg. 183 of the
+
+rulebook.
+
+Willpower represents the strength of a character's iden-
+
+tity, which is defined by the character's Archetype. When a
+
+player roleplays a character's Nature and Demeanor, her wraith
+
+zains Willpower points. Characters regain all their temporary
+
+Willpower at the end of each story.
+
+Angst
+
+Angst is a score ranging from
+
+ro to ten in most wraith
+
+This trait represents the pain and frustration a wraith feels when
+she is separated from the real world. Any wraith whose perma-
+
+nent Angst exceeds her permanent Willpower is easily domi-
+
+nated by her Shadow and will almost certainly plunge into
+Oblivion soon due to the Shadow's powerful urge for self-de-
+struction.
+
+Corpus
+
+Corpus reflects the general "health" of a wraith. It begins
+at ten levels and diminishes with each wound taken. Unlike
+other Storyteller characters, wraiths do not suffer penalties if
+they are at a lower level of Corpus, unless they are Embodied.
+
+Ifa character is using Embody and is wounded, she will suffer
+
+the same penalties as other material creatures with regard to
+wound penalties (see pg. 200 of the rulebook).
+
+Nikils
+Nihils are terrifying pla
+Nodes to Chantries (in Mi
+
+. Unlike the relation of
+e), it is neither necessary nor
+
+desirable to have a Nihil in your Haunt. While it does
+provide an easy means of entering the Tempest, any num-
+
+ber of nasty critters could come out of it any moment.
+Besides, it is foolish to enter the Tempest unless you or
+one of your companions possesses Argos, and if that is the
+case, it is a simple matter to use the basic art Tempest
+Threshold to make a temporary opening to the Tempest,
+which will quickly reseal.
+
+like a shadow world of
+
+he Shadowlands ar
+
+death existing as a reality superimposed
+upon the other reality of the Quick. The
+Dead can see each other in the
+Shadowlands and can visualize the Passions
+of the living. They are also aware of the
+decay that is everywhere. The Quick can
+only see the real world. Actions in the Shadowlands will not
+effect the living world except through the use of Arcanos. If a
+character breaks into a room in the Shadowlands, the door
+will still be intact in the real world. However, if the wraith
+uses Outrage to break down the door in the Living World, the
+door in the Shadowlands will also open.
+
+The Tempest is a dangerous realm fraught with dangers
+scarcely imagined by most wraiths, Some have described it as
+asort of "hyperspace" realm: it is used by those with Argos as a
+means of travelling from one place to another quickly, regard-
+less of distance. It should be noted that the Tempest is only
+reached from the Shadowlands by using a Nihil or by using
+Argos. The Tempest is not a part of the Shadowlands.
+
+Deep within the Tempest, the realm of Stygia lies like a
+continent rising from a boiling sea. The Far Realms are also
+there, existing as a cluster of islands just beyond the horizon
+from Stygia. The realms of the Ivory Queen, Jade Emperor and
+Obsidian Emperor are also within the Tempest. Without a guide
+who knows the precise location, however, these non-Western
+realms of death are nearly impossible to find.
+
+Anyone who possesses Fetters can only travel to Stygia
+and the other realms within the Tempest for a limited time.
+Eventually, the ties that bind the wraith to the living world
+will draw her back to the Shadowlands. Similarly, those who
+do not possess Fetters can only visit the Shadowlands tempo-
+rarily.
+
+4 Wraith: The Oblivion
+
+aS <
+
+
+Love me, I'm your gun
+Jethro Tull, "I'm Your Gun"
+
+hile few of these guns still exist in the world
+of the Quick (and fewer still are func-
+tional), many soldiers who died with theit
+‘il guns brought them over to the
+"| Shadowlands as relics. While some have
+A) been lost or destroyed in the Shadowlands,
+it is not unheard of for a modern wraith to
+possess an Elizabethan pistol or an American Civil War rifle.
+
+The greatest problem with these archaic firearms (other
+than their relatively slow reloading speed) is that they require
+
+a substitute for the black powder or the explosive that fueled
+
+them in life. The scarcity of relic gunpowder led to the de
+d creation of Hierarcl
+
+opment of Shadowdust, a highly pri
+Artificers. Shadowdust functions as the explosive agent in these
+old guns, making it unnecessary to expend Pathos to make the
+gun fire. Soulfire crystals can also be used. Without Shadowdust
+or Soulfire, it is necessary to expend one Pathos per level of
+damage done by each shot.
+
+Also remember that in order to fire a gun, you need relic
+bullets or cartridges (or a Stygian substitute) as well as the
+gun..
+
+Archaic Firearms Rules
+
+Shadowdust
+
+With the development of personal firearms in the Re-
+naissance, Stygia faced a problem. While damaged and
+destroyed weapons poured into the Shadowlands as never
+before, the minute quantities of explosives needed to make
+the weapons functional was difficult to gather from the
+sites of battles, Without gunpowder, it was necessary to
+expend Pathos to mal pons function properly. As a
+result, a Florentine Anacreon named Carlotta de Vellia
+commissioned the Artificers in her employ to develop a
+substance that could be substituted for gunpowder.
+
+Her artisans invented the process that came to be
+known as Assimliation. The general process is belived to
+involve treating a finely ground Stygian alloy with som
+form of crystalized Pathos, presumably resulting from bit-
+terness or hatred, although the exact formula and process
+ly guarded by the Hierarchy. In fact, there
+are only a few individuals familiar with the entire proc
+
+itself are fie!
+
+However, while the Hierarchy has managed to guard the
+
+secret of its production, there are numerous sources for
+obtaining Shadowdust on the black market, including a
+number of Renegades who make their living from trading
+
+in illicit Shadowdust.
+
+Players Kit
+
+Difficulty | Damage Rate
+
+Hand-Cannon
+
+1. 14th Century European Hand Cannon (17.5mm) 8 7 if 1 N 50
+
+2, 15th Century Matchlock Pistol (.70) 8 5 ibe 1 iy 15
+
+3, 15th Century Matchlock Serpentine (.70) 7 7 1* 1 7 50
+
+4. 15th Century Matchlock Blunderbuss (30mm) 6 6/8 1* 1 N 10/15
+
+Wheellocks
+
+5, 16th Century Wheellock Pistol (.72) 7 = i# 1 J 20
+
+6, 16th Century Wheellock Musket (.72) 7 7 he 1 N 50
+
+Flintlocks
+
+7. L7th - 18th Century Flintlock Pistol (.75) 6 5 1* 1 J 20
+
+8. L7th - 18th Century Flintlock Musket (.75) 7 8 1* 1 N 75
+(Brown Bess)
+
+Percussion Revolvers
+
+9, 1837 Colt Paterson Texas Ranger ((36) 6 3 1* 5 P 15
+
+10. 1855 Beaumont-Adams (50) 8 5 yas 5 J 30
+
+11. 1865 Remington New Army (.44) 7 5 1* 6 J 30
+
+12. 1854 LeMat Cavalry (.44/.65) 7/6 5/7 ae ofl ) 25/10
+
+Cartridge Revol
+
+13, 1853 Parker-Hale Envield Musket (.50) 7 7 i* N 200
+
+14. 1863 Sharps Rifle (.54) 8 8 ie 1 N 250
+
+15. Percussion Double Shotgun (10 gauge) 6/8 8/12 a 2 N 20
+
+16. Sawed-off Double Shotgun (10 gauge) 719 8/12 2 2 7, 10
+
+Cartridge Rifles (Lever Action & Single-Shot)
+
+17. 1875 Smith & Wesson Scofield (,45) 7 5 1 6 J 30
+
+18. 1878 LeFaucheaux (.36) 6 3 2 6 J 20
+
+19, 1889 Smith & Wesson (.38) 6 4 2 5 P 10
+
+Hammerless Safety
+
+20. 1892 Colt New Army (.38) 6 4 2 6 J 30
+
+Percussion Rifles & Shotguns
+
+21, 1858 Henry Rifle (.44) va 6 1 13 T 200
+
+22, 1873 Springfield Trapdoor (.45-70) 8 8 1 1 N 275
+
+23, 1894 Winchester Repeater (.308) 8 8 1 6 N 215
+
+World War I Bolt Action Rifles
+
+24, 1898 Mauser BoltAction (Sinn) 7 8 1 5 N 300
+
+25, 1903 Springfield Bolt-Action (30.06) 8 8 1 5 N 215
+
+Support Weapons
+
+26, 1918 Browning Automatic Rifle (BAR) (30.06) 8 8 2 20 N 215
+
+27, 1862 Gatling Gun (.45-70) 6 6 10 50/400 ON 250
+100Ibs.
+
+28. 1897 Hotchkiss Light Machine Gun (8mm) 6 7 15 30/240 N 300
+56lbs
+
+29. 1913 Lewis Light Machine Gun (.303) 8 8 2 47/94 N 400
+27Ibs
+
+World War 1 Era Semi-Automatic Pistols
+
+30. 1896 Mauser Broomhandle Pistol (7.63mm) 8 5 3 10 J 20
+
+31. 1898 Luger Toggle-Action Pistol (7,65mm) 7 4 4 8 J 20
+
+32. 1903 FN Browning (9mm) 7 4 4 8 J 25
+
+Semi-Automatic Pistol
+
+33. 1911 Colt Model 1911 (.45) 8 5 3 7 J 25
+
+Derringers and Holdout Pistols
+
+34, 1854 Percussion Derringer (.41) 7 3 i* 1 e io
+
+35, 1870 Over/Under Derringer (.36) 6 3 1 2 P 10
+
+36. 1837 Duck's Foot Derringer (.32) 6 4 1* 1 P 5
+
+37. 1841 Percussion Pepperbox (.26) 5 2 2* 8 Pp 10
+
+Wraith: The Oblivion
+
+Items marked with a * under the ‘Rate' column do not fire
+pre-assembled cartridge rounds and must be carefully reloaded by
+
+hand. This isa delicate process that involves measuring and pour-
+ing a Shadowdust charge down the barrel, tamping it and ram-
+minga patch and ball down after it. A touch-hole or Shadowdust-
+pan must then be primed with still more Shadowdust, or a percus
+
+sion cap must be attached. This is easy to do out of combat in |
+
+than half a minute per round loaded, but in combat, this require:
+aroll of Dexterity + Firearms. The number of rounds it take
+reload is equal to (15 minus the number of successes). A charac-
+
+to
+
+tet who botches might drop or break reloading components, spill
+Shadowdust, or pour Shadowdust into a chamber that still con-
+tains a burning ember, resulting in the Shadowdust igniting. Very
+bad botches are likely to injure the wielder or damage the weapon.
+
+Matchlock Weapons
+
+All matchlock weapons were fired by a S-shaped steel bar
+which plunged a slow-match (rope treated with saltpeter) into a
+flashpan filled with priming Shadowdust. The Shadowdust in the
+pan could easily be spilled. Later matchlocks incorporated sliding
+metal pan-covers to afford some protection. The weapon cannot
+simply be transported with the match lit. The match must be lit
+before entering combat. Reliability depends on the uncertain bumn-
+ing of the match. Botches with these weapons likely indicate the
+match burning out or Shadowdust dampening or spilling from
+
+the pan, depending on circumstances. Worse still, the Shadowdust
+
+in the pan might ignite without touching off the main charge.
+1
+end of a staff. It could be braced against the ground or tucked
+under the arm like a lance.
+
+This was simply a primitive cannon mounted on the
+
+The user ignites the Shadowdust by
+
+thrusting a slow-match or ember into a touchhole. These weap-
+
+ons are usually a little over a foot in length and are attached to
+staves approximately four to six feet in length.
+
+2. Almost all these short weapons are stocked, rather like
+
+clumsy, sawed-off rifles. For an unstocked, "true" pistol version,
+
+Concealment becomes ‘J' and difficulty becomes 9
+
+3... Thisisalonger-barteled version ofa similar weapon with
+amore refined stock, larger Shadowdust charge and greater range
+Some could be surprisingly accurate.
+
+4. A trumpet or "bell"-barreled primitive shotgun, often
+loaded with gravel, old nails, broken crockery or whatever else
+was handy rather than real lead shot. The wide barrel, though
+
+believed falsely to help spread the shot charge, actually facilitates
+faster loading. When using improvised ammunition, use the num-
+bers to the left of the slash. When using dropped-lead shot, use
+
+the numbers to the right of the slash.
+
+Wheellock Weapons
+
+These weapons did away with the conspicuous and unreli-
+able match, replacing it with a'clockwork mechanism that put
+tension on a toothed wheel. Pulling the trigger disconnected a
+
+sear which kept the wheel restrained. This allowed the teeth to
+spin against pyrites or flint, producing sparks that showered down
+into a covered pan, igniting the Shadowdust charge. These weap-
+ons were complex, expensive and subject to breakage, but they
+did a better job of protecting the Shadowdust than matchlock
+
+weapons, and one
+
+harged and primed, they could be stored in-
+definitely, ready to fire at a moment's notice. Flashes in the pan
+
+still occurred, as did atmospheric dampening of the Shadowdust
+
+in the pan. Truly bad botches may result in breakage of the deli-
+cate mechanism, rendering the firearm useless.
+
+5. This ign, much
+more compact and reliable than its predecessors. It is typical of
+
+hort-barreled pistol of advanced de
+
+weapons used between 1520 and 1650. Many of these weapons
+incorporated large, mace-like butts, useful for clubbing ifthe wraith
+is engaged at close quarters before reloading.
+
+6. Smooth-bored wheellock carbines and muskets like this
+were utilized as late as the mid-17th century, primarily by cavalr
+
+y halberds
+
+At
+
+They were often ‘combined arms', incorporated into forks
+
+and other pole-arms to render them useful between reload:
+
+least one example was built into a crossbow!
+
+lintlock Weapons
+
+These more modem arms were highly simplified in compari-
+son to their clockwork predecessors. Nevertheless, they had f
+time (time between trigger pull and Shadowdust discharge),
+
+protected the Shadowdust pan more effectively a
+
+ster
+
+loc
+nd were not as
+
+subject to breakage. This was accomplished by fastening the flint
+
+toa hammer similar to the matchlock's serpentine. When the
+trigger was pulled, a mechanism plunged the flint down and for:
+ward, striking the hinged L-shaped pan cover. This lifted the cover,
+exposing the Shadowdust. As the flint raked down the vertical of
+the L-shaped cover, it struck sparks into the pan, igniting the
+Shadowdust. This reliable mechanism remained in use for two-
+
+and-a-half centuries. Botches with flintlock weapons usually mean
+
+that there's been "a flash in the pan" or that the flint has been
+
+chipped to the point where it no longer reliably spa
+
+This pistol design changed very little during its heyday.
+
+Long, slender and often decorated, these weapons had barrels rang-
+
+ing in length anywhere from six to sixteen inches. While many
+
+early examples retained the heavy mace-like butts of earlier pis-
+
+tols, later weapons were more slender and fitted better to the hand.
+
+Some latter-day flintlock pistols were rifled for greater accuracy.
+8. The Brown Bess typifies a style of flintlock musket that
+saw use in the military forces of most of the world's empires from
+
+the 17th to the 19th centuries. Flintlock muskets similar to this
+are the commonly portrayed weapons of the American Revolu-
+tionary War, but many saw use as late as the American Civil War.
+Despite their usually smoothbore barrels, many of them are fan-
+tastically accurate, limited only by the primitive sighting mecha-
+nisms of the times.
+
+Players Kit 7
+
+
+Percussion Weapons
+
+Percussion firearms bridge the gap between touch-hole and
+pan ignition arms to modern cartridge ammunition. The percus-
+sion cap isa tiny cup that contains a fulminate primer. Itis wedged
+onto a "nipple" at the back or breech of the chamber. When the
+trigger is pulled, a hammer crushes the cap onto the nipple. The
+ensuing detonation sends a flash down a tiny channel in the nipple
+equivalent to the toucholes of earlier firearms. When percussion
+weapons are being loaded, in addition to pouring and tamping
+Shadowdust, patch and ball, the percussion cap must be placed.
+Botches with percussion weapons most often mean that the primer
+has fallen off its nipple.
+
+9. This early Colt revolver was fairly small. It was a single-
+action weapon, requiring that the hammer be manually cocked
+for every shot to be fired. The Dice Pool may be split to "fan" the
+hammer, allowing for rapid but inaccurate fire. This is true of
+
+ingle action revolvers, although some required minor modifi
+tions to permit it.
+
+10. An early British double-action revolver, its mechanism
+automatically cocked the hammer as the trigger was squeezed for
+each shot. It fired a fairly heavy slug with fairly high recoil and
+was something of an early "magnum" weapon.
+
+11. Adopted by the U.S. Army in 1865, this revolver fired
+single-action, like the Colt-Paterson. Like several similar revolv-
+ers of its day, the entire cylinder could be removed and replaced
+(three actions) with a spare loaded cylinder. While the fastest
+reload around was still a second gun, this allowed the weapon to
+be reloaded sort of in the manner of a 19th century speedloader.
+
+12. This was a rather unusual weapon incorporating a 9-
+shot revolver cylinder over a .65 shotgun barrel only a few inches
+long. [t came in several versions and saw action during the Ameri-
+can Civil War, Bulky and unwieldy, it was nevertheless effective.
+Ratings separated by a "/" show revolver/shotgun caliber, diffi-
+culty, damage and clip.
+
+13. One of the earliest Enfields, this British smoothbore
+longarm was typical of the empire builders of its day and may be
+well.
+
+used as an example for the arms of other nation:
+
+14. This was the great slayer of buffalo, an accurate, heavy
+percussion rifle that helped "win" the American West
+
+- or least
+
+cleared all the buffalo from it, thereby greatly reducing the range
+and food supply of many Native American tribes.
+
+15. Made under many names, this is the classic "double,"
+often found in 10-gauge rather than 12-gauge during the 19th
+century. [t was percussion primed and sometimes loaded with slugs
+or even nine or ten dimes per barrel instead of lead shot. The
+second set of numbers are for firing both barrels simultaneously...
+
+an endeavor much more difficult in real life than in movies and
+fiction.
+
+16. This is the above weapon with the barrels cut bacl
+times to as little as 6". The stocks are sawed and polished down to
+
+» some-
+a pistol grip for concealabilty. In theory, this opens up the shot
+
+8 Wraith: The Oblivion
+
+OSS
+FY yy
+
+cone faster, resulting in wider shot grouping and higher hit prob-
+ability. In practice, the pistol grip and reduced forward weight
+make them almost uncontrollable. Again, the second set of fig-
+ures is for discharging both barrels at the same time.
+
+Cartridge Firearms
+
+These weapons use a firing system identical to those in most
+modem arms. The percussion cap is replaced by a primer of simi-
+lar construction actually inset into the rear of a brass casing, which
+protects and contains the powder. The ball munition at the front
+seals the casing. Rounds can be quickly chambered by hand or by
+avariety of mechanisms, eliminating the powder-pouring and prim-
+
+ing of earlier systems. Botches with these weapons should be treated
+as botches with modern weapons unless otherwise noted.
+
+17. A latter-day single-action revolver with a powerful
+tridge, quite popular on the American frontier. This revolver w
+hinged to "top break" in the manner of a breech-loading shotgun.
+The cylinder and barrel folded downward to facilitate loading and
+cleaning. Unfortunately, this weakened the weapon's frame.
+Botches with this weapon may mean that the locking mechanism
+for the hinge has weakened, blowing the weapon open and possi-
+bly destroying it or injuring the wielder.
+
+‘as
+
+18. This French double-action revolver was issued to their
+military in 1878, including the famous Legion Etrangere (the For-
+eign Legion). It fired a weak but ea
+cartridge. For reloading, the cylinder swung out to the left as on
+modern revolvers.
+
+sily controlled and accurate
+
+19. This revolver was designed with concealability in mind,
+The hammer-spur was omitted, as it tended to snag on clothing
+during the draw. In addition, a grip-safety was incorporated into
+the weapon to prevent accidental discharge. Amusingly referred
+toas the "lemon squeezer" for its resemblance to a period kitchen
+implement, it was nevertheless popular with gentlemen and law-
+men who desired an innocuous weapon.
+Jopted by the U.S. Army in 1892, is a
+nd it is identical in almost every detail
+
+20. This weapon, «
+rather modem revolver,
+
+to the .38 caliber double-action revolvers used by police as re-
+cently as the 1980's. This is the classic ".38 special".
+
+21. This is one of the classi rifles. The Henry
+lever-action repeating rifle helped to open (and close) the old
+West. Its thirteen-round tubular magazine fed cartridges similar
+to modern .44 special rounds. In the hands of an expert, the lever-
+action repeater could be emptied rapidly and accurately at mul-
+
+cattleman's
+
+tiple targets.
+
+22. Another of the great buffalo rifles, this was a popular
+big-game rifle used as late as the early 20th century. Extrememly
+accurate, it had the disadvantage that its powerful .45-70 cartridges
+
+had to be manually loaded for each shot.
+
+23. This weapon is the final evolution of the lever-action
+rifle— weaponsmiths have never truly improved on this design.
+The mechanism remains
+
+virtually unchanged today and is avail-
+
+
+able ina variety of calibers, although all bullets used in such weap-
+ons must be flat-tipped or hollowpoints to avoid the nose-to-primer
+stacked rounds in the magazine detonating each other under re-
+coil. It is interesting to note that the lever-action is perhaps the
+only repeating rifle mechanism to originate in America instead of
+Europe.
+
+World War i Era Bolt-Action Rifles
+
+These weapons were breech-loading and mags
+
+ine-fed, but
+each round needed to be manually stripped from the magazine by
+the simple expedient of working a locking blot back and forth.
+This style of weapon is still immensely popular for hunting and
+sniping applications today, and admirers of the system claim that
+
+no other repeating rifle mechanism can be tuned toa finer trigger
+
+for a
+
+racy,
+
+24. The Mauser that served Germany during World War I
+was yet another design at its peak. Old Mauser actions are still in
+demand today to build accurate rifles. In spite of the manual work-
+
+ing of the bolt, sustained fire w:
+
+Vi
+
+the armories of nations the world over.
+
+s fast, accurate and quite lethal.
+
+‘ations on this weapon have been licensed and produced in
+
+25. This is the American equivalent to the Mauser, which
+
+also saw action in the trenches during "the Great War." It was
+quite similar to the Mauser, only slightly less accurate and a bit
+heavier and bulkier. Almost all the rifles of World War I were
+similar to this weapon or the Mauser, and they may be used as
+templates for the Enfields of the day.
+
+Support Weapons 19th and 20th Century
+
+These weapons were found usually emplaced on the battle-
+
+field, or on naval vessels and in fortifications. On occasion, th
+
+were mounted to vehicles, including the early aircraft of the First
+World War. Most of these are heavier, bulkier devices meant to
+be crew-served, not carried by one man. An e
+
+the BAR, which is a very heavy rifle meant for one man to carry.
+
+ception to this is
+
+26. The original military BAR (unlike the modern hunting
+version listed in Vampire) used a twenty-round box magazine and
+should be regarded as the first modern battle rifle. It fired the
+same ammunition as the Springfield, weighed almost twice as
+much, and was not truly automatic: the gun fired one shot per
+trigger pull (no bursts). [t was the heavy squad support weapon of
+its d
+
+lay and very effective.
+
+27. This is the classic, hand-cranked multi-barreled rapid
+fire weapon of OldWest and Civil War fame. It could be fired
+single shot or in continuous burst for as long as ammunition could
+be dumped into it and willing arms were there to turn the crank.
+It loaded from top-mounted magazines or drums and was reliable
+under most conditions. Some variants loaded from a hopper into
+which more and more ammunition could be dumped. Though it
+came in many calibers and sizes, the typical model here is a light
+44-40 firing from 50-round ‘sticks' or a 400-round revolving drum.
+
+28. The French Hotchkiss was a truly heavy machine gun,
+weighing 57 pounds. The tripod weighed an additional 60 pounds.
+It did dirty work in the trenches, feeding from 30-round strip-
+clips that could be linked to form 240 round belts. It was also
+found on early aircraft and the primitive armored vehicles of World
+War I. Several hundred were purchased by America before the
+First World War and converted to 30.06 caliber.
+
+29. The Germans referred to this weapon as the "Belgian
+Rattlesnake" [t was loaded from a horizontal, top-mounted drum
+and was devilishly hard to keep functioning in WWI' trench
+environment. Both 47 and 94 round drums were used, It weighed
+27 pounds, less than half what the Hotchkiss did, and was em-
+ployed on similar vehicles as well as in trench warf
+
+World War i Semi-Automatic Pistols
+
+These weapons fired one shot per trigger pull in the fashion
+
+of modern semi-automatic pistols. Indeed, many of these are de-
+signs which are not significantly changed in the last eighty years.
+Early versions were prone to jamming.
+
+30. The old "broomhandle," as this weapon had been affec-
+tionately known, fired a high-powered cartridge for its day and
+loaded from a non-detachable box magazine in front of the pistol
+
+grip. Later versions used 9mm caliber rounds and sometimes had
+detachable 10 and 20 round magazines. It is still regarded as a
+symbol of authority in many Third World countries and has a
+strange, almost cult mystique among its afficionados.
+
+31. The classic German toggle-bolt handgun, the Luger has
+long been known for reliability and accuracy. Later versions were
+made in 9mm, and the U.S. Army briefly studied adopting a .45
+caliber vei
+
+ion, although only two of these were ever produced.
+Like the Mauser Broomhandle, it was sometimes made available
+with a loner barrel and a wooden holster which doubled as a d
+tachable stock (only available for Luger and Mauser; it cannot be
+attached to other weapons. The weapon is only concealable un-
+der a trench coat when the stock is attached).
+
+32. This pistol paved the way for almost all the modern semi-
+automatics, and its method of functioning would be instantly fa-
+miliar to any modern pistol shooter. It incorporated a cammed,
+free-floating barrel that tipped down to chamber each round be-
+fore locking rigidly against the slide in the firing position.
+
+33. The 1911 Colt Automatic has changed very little over
+the past eighty-odd years. It has been licensed and duplicated in
+most of the world's countries and has served as the sidearm of the
+U.S. Army for over seventy years. Still popular with special forces
+units and Third World armies, it is available today in an incred-
+ible number of variations. Earlier versions were very ammunition
+sensitive and very prone to jamming.
+
+Players Kit
+
+
+RPS;
+SWZ
+
+Derringer and Holdout Pistols
+
+The
+although it is uncertain whether this referred to where they
+
+: tiny weapons were often referred to as ‘belly-guns',
+
+were most commonly concealed or where you had to shove
+them to have any hope at all of hitting. Most are notoriously
+inaccurate, although some exceptions showed that the class of
+weapons as a whole are not to blame and that good craftsman-
+ship could still produce a fine piece. Even so, the range of these
+weapons was terribly limited.
+
+34. This single-shot percussion derringer was popular for
+several decades as
+
+"holdout" weapon. A derringer of similar
+type was used to assassinate Abraham Lincoln, a tribute more
+to the luck and accuracy of the assassin than to any inherent
+deadlines of these usually underpowered and inaccurate pocket
+pistols.
+
+35, Epitomized by the Remington Over/Under pistols,
+these tiny weapons are usually nickel-plated and fitted with
+
+g 10 Wraith: The Oblivion
+
+fancy grips, often known as dandy's or gambler's guns. They
+hinged open to allow the loading of cartridges and remained
+
+popular until the early 20th century. Some had longer bar
+
+than others, and some are rigged to fire both barrels at once.
+These are usually a bit more accurate than most other models.
+
+36. Truly one of the stranger weapon concepts of all time,
+the duck's foot pistol had three separate barrels side by side
+and fired
+simultaneously. At point-blank range, an enemy might be hit
+
+that fanned outward from a single percussion car
+
+by all three balls. Further out, hitting with even one was un-
+likely.
+
+37. Anearly revolving multi-barreled pistol, this weapon
+is easily concealed but vastly underpowered. Their fold-down
+
+triggers are prone to bre:
+
+kage and effectiveness at any but the
+shortest ranges was severely limited. On the other hand, they
+provided! a wiuleip
+
+-shot capability unmatched by other pis-
+
+tols of their size.
+
+0 —ZJ
+Ss
+
+
+Arcanos Char
+
+Rating Name Attribute+ Difficulty Cost
+
+Ability Tempestpeek Perception 6 nia
+Allows a wraith in the Shadowlands to peek into the Tempest.
+
+Ability Tempest Threshold Strength 7 nfa
+Opens a hole into the Tempest
+
+Ability Orienteering Perception 8 n/a
+
+Navigates through the Tempest— |-3 successes: standard time; 4 success: half standard time; 5 successes: 1/4 standard time.
+Ability Track Perception 6 n/a
+
+Tracks another wraith who has fled into the Tempest; quarry can resist with a Dexterity+Argos (difficulty 6).
+. Enshroud Dexterity 7 none
+
+Makes the wraith invisible for one turn per success; no non-Argos arts may be used without breaking effect
+ee Phantom Wings Stamina 6 none
+
+Lets the wraith fly at running speed for one\turn per success.
+
+. Flicker Dexterity 6 IP,
+
+Reduces travel time over short distances lowered by one turn per success
+
+eoee Jump Stamina 8 minus Fetter 3P
+Lets the wraith travel quickly to one of her Fetters.
+
+Oubliette Strength WP 3P
+Sends a target wraith into the Tempest. May be opposed by WP.
+
+Castigate
+
+Rating Name Attribute+ Difficulty Cost
+Ability Soulsight Perception 8 nfa
+
+Determines the strength of another wraith's Shadow.
+Ability Bulwark Stamina Malstr + 3 special
+Protects the wraith and those the wraith touches against a Maelstrom; cost is 1 Pathos per Maelstrom level
+. Coax Charisma 6 +1A
+Lets the wraith add or subtract one Shadow Die per two successes from agiven task.
+oe Dark Secrets Perception WP IP
+Lets wraith ask one question about the target per success. May be opposed by Angst.
+eee Purify Charisma perm. Angst +1A per ‘I'
+¢ Subject loses 1 temporary Angst and takes one Corpus Level per success.
+
+Casting Out Charisma ih none
+Drives all Spectres (not Doppelgangers) from area for 1 turn per success. May be resisted by Angst.
+ecoee Defiance Charisma Angst or Angst+3. none
+Prevents a Shadow from controlling a wraith; reduces Angst by one point per success. Gives 1A for each "1" rolled.
+
+
+Name Attribute+ Difficulty Cost
+
+Ability Ghostly Touch Strength Shroud n/a
+Produces a touch (strength of a keystroke) in the material world.
+Ability Maintain the Material Form Stamina fs 1P + 1P/suce.
+Adds successes to those already gained for Embody power being used; abotch dissipates the form.
+Whispers Manipulation Shroud IP
+Lets one short sentence be heard in the material world per success.
+oe Phantom Charisma Shroud IP
+Makes the wraith appear as a translucent figure for one tum per success; may scare mortals.
+eee Statue Stamina Shroud IP
+
+Makes wraith appear solid (but motionless) for one scene or touch per success.
+
+Life-in-Death Manipulation Shroud 2P
+Makes wraith appear as idealized version of self for one scene per succe:
+
+Materialize Manipulation | Shroud 3P+1W
+Makes wraith nearly human for one breath (or hour if attuned to viewer) per success.
+
+Fataism
+
+Rating Name Attribute+ Difficulty Cost
+Ability Kismet Perception 6 n/a
+
+Allows you to tell who Fate deems "important" in a room.
+Fatal Vision Perception sub. WP. none
+
+Tells about how subject died (or will die, if in the near future); adds 1 die/success to later Interpretation.
+Danger Tense Perception 6 none
+
+)
+
+Interpretation Manipulation sub. WP. 2P
+
+Warns wraith of impending danger (1 turn warning/success); difficulty may vary.
+
+Gives one cryptic answer per success about subject's past or future.
+Lachesis' Measure Perception 6 2F:
+Gives information about current and future situation.
+Luck Wits 6 1W
+
+Lets player ignore one "1" for each success; roll for this only at start ofstory.
+
+inhabit
+
+Rating Name Attribute+ Difficulty Cost
+Ability Sense Gremlin Perception 6 n/a
+
+Determines whether or not something is inhabiting a machine now (or,with three successes, in the near past).
+
+Surge Wits Shroud none
+
+Temporarily cuts power to one electronic device per success. May damage sensitive electronics.
+Ride the Electron Highway Intelligence Shroud2P++1 P/passenger
+
+Lets wraith transport herself and other wraiths through the computer network.
+
+Gremlinize Dexterity Shroud 3P + 1Pleffect
+Controls a machine; attunement is required for major effects.
+Claim Strength Shroud 2P
+Lets the wraith inhabit an object for one scene; one success needed for small objects, five for house-sized objects.
+
+Empower Wits Shroud varies
+Invests one of a wraith's Arcanos arts into an item.
+
+Wraith: The Oblivion
+
+QO og BRO! a‘ SG
+y eT A YS*
+
+Fae
+
+
+Keening
+
+Rating Name Attribute+ Difficulty Cost
+Ability Perfect Pitch Perception 6 nfa
+Senses when someone else uses Keening to influence or manipulate emotions resisted by Sotto Voce.
+Ability Sotto Voce Manipulation 6 n/a
+Conceals Keening in normal speech or song; resists Sotto Voce (greater number of successes wins).
+. Dirge Charisma 8 1P
+Provokes "dark" feelings for one turn per success (for wraiths), or longer for mortals (a week for five successes)
+oe Ballad Manipulation 8 2P
+Provokes "light" feelings for same length of time as Dirge.
+eee Muse Manipulation sub.WP 3P
+Makes subject (wraith or mortal) believe an idea is his own; min. difficulty is 7.
+sooo Crescendo Stamina 8 2P + 1P/success
+
+Does one Corpus damage per success to all wraiths in normal hearing range; if Embodied, does | Health Level per 2 successes to other listeners.
+
+Requiem Strength 7 3P + 1P/success
+Paralyzes subject for one turn per success; resisted by WP; may inflict mental damage.
+
+lifeweb
+
+Rating Name Attribute+ Difficulty Cost
+Ability Locate Fetter Perception or Intelligence 6, nfa
+
+With Perception, scans the area around a given Fetter; with Intelligence, detects range and direction to the Fetter.
+° Sense Strand Perception 8 none
+
+Determines relationship between a wraith and her Fetters, or whether something is a Fetter.
+oe Web Presence Charisma 8 1P/turn
+
+Lets wraith affect the area surrounding a Fetter without being there.
+eee Splice Strand Manipulation 7 IP +1P/day
+
+Makes something the wraith is touching into a temporary Fetter (rating 1); only one such Fetter can be maintained ata time.
+eece Sever Strand Strength owner's WP 2P + 1W
+
+Severs target's connection to Fetter (requires WP or Splice Strand to repair).
+
+Soul Pact Charisma sub. WP. oP
+Makes a willing mortal into a Fetter (rating 1).
+
+Moliate
+
+Rating Name Attribute+ Difficulty Cost
+Ability Shapesense Perception special nla
+Detects whether and how another wraith has been Moliated; difficulty is original shaper's Dextrity + Moliate.
+Ability Glow Charisma 7 IP
+Causes wraith or others to glow with a given color and intensity for one scene per success.
+Ability Return of Death's Visage Manipulation 6 to 10 IP
+
+Returns wraith to original state; difficulty depends on degree of change (minor change = diff. 6; drastic = diff. 10).
+. Imitate Dexterity 4to8 1P
+
+Molds wraith's face to match another's; diff. 5 if wraith can see the face, 8 if not, but 4 if wraith has a skinmask.
+oe Sculpt Manipulation 7 IP
+
+Changes subject wraith's shape; cannot alter subject's abilities;subject loses a Corpus Level; can also heal aggravated damage.
+eee Martialry Intelligence or Strength Stamina + 3 3P + 1P/success
+
+Molds wraith's body into weaponry (does 1 die damage per success) or armor.
+
+
+eeee Rend Strength sub. Staminat+3 1P+1A
+Does aggravated damage to target (1 die/success, plus 1 die/Pathos spent); must touch target.
+Bodyshape Wits varies 1P+1P/turn
+Transforms wraith's whole body and appearance for | scene per success; difficulty depends on form assumed.
+
+Outrage
+
+Rating Name Attribute+ Difficulty Cost
+Ability Leap of Rage Dexterity Shroud nfa
+Improves leaps and jumps (adds successes to those scored while making leap or jump); diff. 6 in Tempest or Shadowlands.
+° Ping Strength Shroud IP
+Moves a very small object just a little bit (can be a brush, a push, a lift, etc.).
+oo Wraithgrasp Strength Shroud 2P
+
+Lifts heavier objects with a Feat of Strength; objects cannot be moved in any way other than a lift.
+
+eee Stonehand Punch Strength Shroud 2P
+Physically strikes the target; does one Health Level or Corpus Level per success.
+
+cove Death's Touch Dexterity 8 3P
+
+Lets wraith manipulate objects for one minute per success gained, or start fires (using Strength instead of Dexterity).
+Obliviate Strength Shroud 3P+1A
+
+Does one level aggravated damage per success; sends destroyed objects to Oblivion; diff. Stamina + 3 when used against wraiths,
+
+Pandemonium
+
+Rating Name Attribute+ Difficulty Cost
+Ability Sense'Chaos Perception 7 n/a
+
+Determines whether a particular event has been caused by Pandemonium or whether an object or mortal has been
+touched by Shadow of a wraith or Spectre.
+
+° Weirdness Charisma Shroud IP
+
+Causes something strange to happen to one individual at a time (a hot flash, a minor hallucination, ete.),
+ee Befuddlement Intelligence sub. WP 1P
+
+Confuses target for one turn per success; target must make Intelligence roll vs. diff. 8 each turn to think clearly.
+ooo Dark Ether Intelligence Shroud 1P + 1P/turn
+
+Affects weather or light in a small area; five successes can do one level of damage to those in the area.
+
+coos Foul Humour Intelligence Shroud 4P + 1C/success
+Causes a rain of vermin, stream of blood, or other bizarre effect; damaging effects do 1 die damage per 2 succes:
+
+Tempus Fugit Intelligence Shroud 4P
+Distorts the flow of time or space, speeding up/slowing down actions or altering distances.
+
+Phantasm
+
+Rating Name Attribute+ Difficulty Cost
+Ability Sleepsense Perception 6 nia
+Lets wraith determine subject's sleep state, or observe or experience a subject's dream for one turn per success.
+. Elysia Dexterity 6t08 IP
+Removes a sleeping mortal's soul harmlessly for one turn/success; REM sleep = diff. 6, transitional sleep = diff. 7, deep sleep = diff. 8.
+
+ee Lucidity Manipulation varies 2P
+Changes a mortal's dream; difficulty depends on extent of change.
+eee Dreams of Sleep Charisma sub. WP. IP
+Makes other wraiths fall asleep and dream; roll needed only if subject unwilling; may be opposed by Intelligence + Subterfuge.
+
+14 Wraith: The Oblivion
+
+
+Puppetr
+
+Rating
+Ability
+
+oe
+
+Usury
+Rating
+Ability
+
+ry
+ooo
+eooe
+
+by Wits + Subterfuge (diff. 8).
+Phantasmagoria Charisma 6 3P+1P
+
+Creates illusions using wraith's Pathos and Corpus for 1 turn per succes
+
+y
+
+Name Attribute+ Difficulty Cost
+Detect Possession Perception 7or9 na
+
+Detects current possession of a subject (diff. 7, resisted by possessor's Appearance+Subterfuge at diff. 7), or past possession (diff. 9).
+
+Skinride Dexterity sub. WP LP
+
+Lets wraith passively enter mortal's body; must be used before other possession abilities.
+Sudden Movement Strength sub. WP IP
+
+Takes brief control of a mortal's arm or leg; resisted by WP.
+Master's Voice Intelligence sub. WP IP
+
+Lets wraith speak through mortal for one breath per success; voice is combination of mortal's and wraith's.
+Rein in the Mind Manipulation — sub. WP 4P+1A
+
+Lets wraith control attuned mortal completely for one scene per success; min. difficulty is local Shroud
+Obliterate the Soul Strength sub. WP 5P+2W+A
+
+Lets wraith permanently control mortal (but body decays after one week); successes must equal host's WP.
+Name Attribute+ Difficulty Cost
+Assessment Perception 6 nia
+
+Senses the amount of life (Stamina/Health/Corpus) in an individual or an area.
+Transfer Manipulation ‘Varies hone
+
+Transfers Pathos to a wraith (diff. = sub. Pathos) or from one (diff. = sub. WP); target wraith must be touched
+Early Withdrawal Manipulation — sub. WP. none
+
+st's Health or Corpus levels to wraith (1 per success); target must be touched (mortals must be physically touched).
+
+Moves t
+
+Charitable Trust Stamina special IP
+Moves wraith's Corpus levels to target (up to'l level per success); diff. is target's current Health or Corpus Level
+
+Exchange Rate Intelligence 6 none
+Converts wraith's Corpus to Pathos (up to 1 point per success)
+Investment Intelligence 7 none
+
+"Invests" up to a set number of Pathos or Corpus points into a relic for later use.
+
+P = Pathos
+A = Angst
+W or WP = Willpower
+
+n/a = does not apply
+
+
+Wraith Players Ki
+
+qhe Darkness Beckons..
+
+You are pat ofa group who tel stories together. When you make time to get together, you want to be abl to get started about the business of telling stories as soon
+as pose, Contained within are all the tools to make character creation a breeze, leaving you free to get on wih creating your character's part in te sory!
+
+Can You Resist is Call?
+
+The Wath players Kit isthe perfect companion to Wraith: the Oblivion, with concise summaries of Areas and condensed character creation information
+
+qhe Wraith Players Kit includes
+
+‘Deluxe Character and Shadow sheets
+‘A Player' Screen, including a quick reference chart for Arcanos;
+
+‘Additonal information on the archaic and specialty weapons f te Shadowlands and Stgil
+
+WW 6010
+
+Food 1598 STONECATE IND. BLYD. j
+‘ We STONE MT, CA 30083 be for
+
+fa) IN
+
+Printed in Canada
+
+
+
+
+
+
+Ratings
+
+Abysmal
+
+° Poor
+oe Average
+eee = Good
+
+eeee Exceptional
+eeeee Superb
+
+Difficulties
+
+3 Easy
+
+4 Routine
+
+5 Straightforward
+
+6 Standard
+
+7 Challenging
+
+8 Difficult
+
+9 Extremely Difficult
+
+Degrees of Success
+
+One Success Marginal
+Two Successes Moderate
+Three Successes Complete
+Four Successes Exceptional
+
+Five Successes Phenomenal
+
+Combat Summary Chart
+
+Stage One: Initiative
+
+* Roll Wits + Alertness (difficulty 4). The winner declares her
+action last (after she has heard everyone else's actions) and performs
+it first
+
+* Declare Dice Pool division if performing multiple actions
+
+Stage Two: Attack
+
+© For firearms combat, roll Dexterity + Firearms.
+
+* For melee (with weapons) combat, roll Dexterity + Melee.
+
+© For hand-to-hand (without weapons) combat, roll Dexterity
++ Brawl.
+
+* Dodge: roll Dexterity + Dodge. A character can forfeit some
+or all of his Dice Pool to dodge at any time; each success subtracts
+
+one from the opponent's successes. (How-ever, remember that stray-
+
+ing from your declared action will still remove one die from your
+Dice Pool.)
+
+Stage Three: Resolution
+
+* Roll damage, determined by weapon or maneuver (difficulty 6)
+
+* Soak damage: roll Stamina (difficulty 6)
+
+General Complications
+* Changing Actions: The difficulty increases by one.
+
+* Immobilization: The difficulty to hit a
+decreased by two.
+
+immobilized target is
+
+* Stunning: When Corpus damage exceeds Stamina rating, the
+
+target is stunned and cannot act next turn.
+
+
+a RR SS SS SES SSS
+
+Character Creation Chart
+
+* Step One: Character Concept
+Choose concept, Nature and Demeanor
+* Step Two: Select Attributes
+Prioritize the three categories: Physical, Social, Mental (7/5/3)
+Choose Physical Traits: Strength, Dexterity, Stamina
+Choose Social Traits: Charisma, Manipulation, Appearance
+Choose Mental Traits: Perception, Intelligence, Wits
+* Step Three: Select Attributes
+Prioritize the three categories: Talents, Skills, Knowledges
+Choose Talents, Skills, Knowledges (13/9/5)
+© Step Four: Select Advantages
+Choose Arcanos(5), Backgrounds (7), Passions (10), Fet-
+ters (10)
+* Step Five: Finishing Touches
+Record beginning Pathos (5 + Memoriam + freebies )
+and Willpower ( 5 + freebies )
+Spend "freebie points" (15)
+
+Personality Archetypes
+
+* Architect: You are unhappy unless you are creating something of value.
+* Avant-Garde: The new and different are the keystones of your existence.
+
+* Bon Vivant
+© Bravo: You are something of a bully; you like to be feared.
+
+You seek the good things in life — even after death.
+
+* Caregiver: Many need your love and protection, and you need them to
+need you
+
+* Child: You ne
+
+* Conformist: A follower at heart, you find it easy to adapt, adjust and
+comply.
+
+er grew up, and want someone to take care of you.
+
+* Conniver: There's always an easier way — which usually involves some
+one else doing your work.
+
+* Critic: Nothing in life or death is perfect, and you take great delight in
+pointing out flaws.
+
+© Curmudgeon: You are a real sourpuss and cynic to the Nth degree
+© Deviant: You're just not like anyone else
+
+© Director: You hate chaos and are forever taking charge to set things right.
+© Fanatic: You have a cause, and it gives your life meaning,
+
+* Gallant: You are as flamboyant as you are amoral
+
+* Jester: Always the clown, you can't take life, or death, seriously
+
+# Judge: You seek justice and reconciliation
+
+® Loner: You are forever alone, even in a crowd,
+* Martyr: You need to be needed and enjoy being morally superior
+* Rebel: No need for a cause; you rebel out of habit and passion.
+
+* Survivor: You struggle to survive, no matter what the odds
+
+* Traditionalist: You prefer the orthodox and conservative ways.
+
+© Visionary: Wisdom is your quest, insight your key.
+
+uA RR RE EE
+
+SE SSS RB SE A I et
+
+Examples of purposes ae:
+
+Anger: Fight injustice
+
+Avenge your death
+
+Punish a type of criminal
+
+Overthrow a corrupt leader
+
+Fight the criminal syndicate that destroyed you
+Love: Find a new owner for a cherished item
+
+Protect your daughter
+
+Express unrequited love
+
+Help your true love find someone else
+
+Greed: Possess a particular valuable item
+
+Serve the Hierarchy for payment
+Protect the family fortune
+Lust: Experience gratification you never knew in life
+
+Live vicariously through your ex-lover
+Faith: Become a martyr for a cause you know is right
+Foster belief in a higher power
+Help your family to keep their faith
+Hope: Protect the oppressed
+Protect a homeless shelter
+Prevent suicide
+Sorrow: Make your Haunt a place of remorse
+Give grief to your enemy
+
+Character Backeround
+
+© How old were you when you died?
+
+¢ What was your family life like?
+
+© What was the most shameful thing you've ever done?
+@ What was the best thing you've ever done?
+
+© What places were important to you in life?
+
+© How did you die?
+
+© How long have you been dead?
+
+© How did you meet the rest of your Circle?
+
+¢ What was your first run-in with other Underworld dwellers like?
+© What do you do for fun?
+
+© Where is your favorite Haunt?
+
+¢ Where does your Circle meet?
+
+© What motivates you?
+
+SEE EIEEEEEIRERRpe erence en aa aaa
+
+freebie Point Expenses
+
+Attributes — 5 points per dot
+Arcanos — 5 points per dot
+Willpower — 2 points per dot
+Abilities — 2 points per dot
+Passions — 2 points per dot
+Backgrounds — | point per dot
+Fetters — 1 point per dot
+
+Pathos — | point per two dots
+
+Experience Chart
+
+Trait Cost
+Attribute current rating x 4
+New Ability 3
+
+Ability current rating x 2
+New Arcanos7
+
+Arcanos Level of Arcanos x 3
+Willpower current rating
+Pathos current rating x 2
+
+Corpus current rating
+
+Ways to Heal
+
+© 1 Pathos = 1 Corpus/turn
+© Usury
+© Slumber (Stamina, difficulty 6)
+
+GAME STUDIO
+
+Peal 4598 STONEGATE IND. BLVD.
+ay . Th MIN., GA 30083
+
+Printed in Canada
+
+nit
+qhe Oblivion
+Nature: life:
+
+Demeanor: Death:
+Chronicle: Shadow: Resret:
+
+Physical Social Nental
+Strength, @0000 Charisma. @0000 Perception @0000
+Dexterity. @0000 Manipulation, @0000 Intelligence___—_—S SSS ©0000
+] Stamina @0000 Appearance. @0000 Wits. @0000
+
+Tolents Skill Knowledge :
+Alertness. QOO0O0O Crafts. OOOOO Bureaucracy. 00000
+' Athletics. 00000 Drive. OO0O00O = Computer. 00000
+Awareness, OOOOO Etiquette. OOO0OO Enigmas. 00000
+Brawl, OOOOO Firearms OO0O0OO Investigation. 00000
+Dodge. OOOOO Leadership. 00000 Law. 00000
+Empathy, OOO00O Meditation. OOOOO Linguistics 00000 fF
+Expression, OOO0OO Melee. OOOOO Medicine 00000
+Intimidation, OOOOO Performance. 00000 Occult. 00000
+Streetwise. OOOOO Repair. OO0O0OO Politi 00000
+Subterfuge 00000 - Stealth OOOOO Science. 00000
+
+Backerounds Passions Atcanos
+00000 00000 00000
+00000 00000 00000
+00000 00000 OOOOO §
+00000 00000 00000 §
+00000 00000 00000
+00000 OO0O000 00000
+00000 00000 OOO00O0
+
+wooed fits spe COo scones lili poeoce reece (ittlil coos |
+ooo0o0 MOOOOOO0O000
+OO0000
+00000
+00000
+O0000
+O0000
+
+Weapon Difficulty] Damage | Pathos.
+
+_. Experiene POooo reoceo Pills como
+
+OQOO0O0000000
+
+
+Sle qhe Oblivion™
+Pas Contacts
+
+Guilds or Afiiations
+
+ee ae eae Description ScCopwet coast coe oss ie
+
+i Apparent Age:
+
+Hair:
+
+Eyes:
+
+Race:
+
+1 Gender:
+
+Height:
+
+1 Weight: Identifying Tatoos, Scars or Marks:
+} Date of Birth:
+
+Date of Death:
+
+Total: [otal Spent:
+
+Gained From: Spent On:
+
+Gear (Caried) Equipment (Owned)
+
+Artifacts
+
+Description and Properties of Masks
+
+
+Shadow
+
+Psyche: Archetype:
+Shadowguide Player:
+
+Thorns Angst
+OO000000000
+
+OOO OOOO
+
+Psyche Willpower
+
+90000000000
+
+Shadow
+
+Psyche: Archetype:
+Shadowguide Player:
+
+Thorns Angst
+
+Dark Passions
+00000
+00000
+00000
+00000
+00000
+00000
+00000
+
+Dark Passions
+00000
+00000
+OO0000
+00000
+00000
+OO0O000
+00000
+
+Wee o) ae)
+Vesa PIU)
+
+
+Lj
+Fs eral eal sl elete
+
+FFE SAE RSF RAZ IES
+
+Printed in Canada
+
+Signature of Attending Physician
+
+Distinguishing Features or Marks:
+
+Time of Death:
+
+Signature of Attending Physician
+
+iz
+
+Name of Deceased:
+
+M
+
+Sex
+Race:
+Height:
+Weight:
+Hair:__
+Eyes:,
+Signature of Attending Physician
+
+Description of the Deceased:
+Description of Death:
+
+Date of Death:
+Cause of Death:

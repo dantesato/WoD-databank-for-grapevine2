@@ -1,0 +1,4009 @@
+# File: Ravnos.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+ia
+
+Sakae
+
+A Sourcebook for VAMPIRE: The Masquerade"
+
+
+Aa 8 © 0 KE :
+
+Ravnos
+
+Pride and Prejudice
+
+By Christopher Walters
+
+
+
+You have always scen us. Yes, there, on the out-
+skirts of your city. Perh, ips you have seen the archons
+drive us away, but in time we have always returned
+
+You marvel ar our ‘Phearance, at the distant lands
+reflected in our eyes. You wonder thout our mysteries,
+the powers you've heard we possess. Do not {pal
+yourself. Those powers we traded lone igo, for abilities
+
+far more monstrous, We are still proud, but our blood
+
+is gone, and we have known prejudice that even the
+Damned should never endure
+
+
+Credits
+
+Author: Christopher Walters
+
+Additional Material by: Robert Hatch
+Developer: Robert Hatch
+
+Editor: Ed Hall
+
+Art Director: Lawrence Snelly
+
+Layout and Typesetting: Aileen E. Miles
+Interior Art: Christopher Shy
+
+Front Cover Art: Tim Bradstreet & Grant Goleash
+Back Cover Art: Christopher Shy
+Cover Design: Aileen E. Miles
+
+735 PARK NORTH BLYD.
+ek sure
+CLARKSTON, GA 30021
+USA
+
+CAME STUDIO
+
+© 1997, 1998 White Wolf Publishing, Inc. All rights
+reserved. Reproduction without the written permission
+of the publisher is expressly forbidden, except for the
+purposes of reviews, and for blank character sheets,
+which may be reproduced for personal use only. White
+Wolf, Vampire the Masquerade, Vampire the Dark
+Ages, Mage the Ascension and World of Darkness are
+registered trademarks of White Wolf Publishing, Inc.
+All rights reserved. Werewolf the Apocalypse, Wraith
+the Oblivion, Changeling the Dreaming, Werewolf the
+Wild West, Trinity, World of Darkness Gypsies and
+Clanbook Ravnos are trademarks of White Wolf
+Publishing, Inc. All rights reserved. All characters,
+names, places and text herein are copyrighted by
+White Wolf Publishing, Inc.
+
+The mention of or reference to any company or
+product in these pages is not a challenge to the
+trademark or copyright concerned.
+
+This book uses the supernatural for settings, characters
+and themes. All mystical and supernatural elements are
+fiction and intended for entertainment purposes only.
+Reader discretion is advised.
+
+Check out White Wolf online at
+http://www.white-wolf.com; alt.games.whitewolf and
+rec.games.frp.storyteller
+
+PRINTED IN THE USA.
+
+Special Thanks
+Justin "Innsmouth" Achilli, for his ever-present, never-
+pleasant naming service.
+
+Larry "Riddle Me This" Snelly, for offering me a big,
+luscious, juicy conundrum. x
+Ben "Louis Louis" Monk, for keeping his head at the
+Halloween gala.
+
+Dinah "Madame Guillotine" Monk. Let them drink beer!
+
+Brad "Seasick" Butkovich. Arr, take it easy on the grog,
+matie!
+
+Word from the
+White Wolf Game Studio
+
+Mummy 2nd: Three notes.
+
+There should have been a blank character sheet at
+the back of the book, and there was not. For this egre-
+gious oversight we apologize; blank Mummy 2nd
+character sheets may be obtained from our Website and
+freely copied.
+
+Our apologies to Mike Danza, for leaving him out of
+the credits. Thank you for the lovely full-page art.
+
+Also, apologies to Steve Wieck, who originally
+came up with the concept of mummies in the World of
+Darkness (way back in WoD: Mummy 1st). He should
+have received a note to this effect in the credits, and did
+not. Sorry, Steve.
+
+Note from the Author
+
+Ofall the peoples of the world, the Gypsies have
+always been the most difficult for outsiders to under-
+stand. Many misconceptions have plagued them
+throughout time, and continue to follow them to this
+day.
+
+Unfortunately, it is unreasonable to assume that
+all who wish to use Gypsies in their chronicles will
+have the benefit of an anthropology course. For this
+reason, certain liberties have been taken in the presen-
+tation of these enigmatic people, including the
+continuation of some of these misconceptions.
+
+Largest among these is the misuse of the word
+Rom. The Rom are a family of Gypsies, different from
+the Gitanos or the Rudari. However, for game put-
+poses, the word Rom is used to describe all Gypsies. In
+truth, this is not the case.
+
+I would like to apologize for these errors in ad-
+vance. | mean no offense to anyone in what I have
+written. However, I would like to stress emphatically
+that this isa game; the World of Darkness isnot the real
+world. It has been created for entertainment, and for it
+to work properly, creative license must be taken to
+increase playability.
+
++ Clanbook: Ravnoo
+
+C
+
+LAR WB 0. OK
+
+Chapter Four: Char
+Appendix: Ravnos
+
+Contents +
+
+
+[first met the Gypsies
+after the First World
+old. My parents had
+thievesand briga
+traveled constani
+ties.
+
+But the people gat!
+sive, horse-drawn covered W
+to me. The laughing, playing
+than I. The old women clustered around the fires cart!
+ait of malice about them. The dark-skinned Gypsy me!
+talked among themselves showed no fear of the poli
+would eventually come to drive them off. Ragged ai
+were, these people did not strike me as thieves.
+
+I was approached by three Gypsy boys, who r
+me with the same awe that | attributed to the Gypsie:
+of them spoke to me in a broken French dialect, aski
+were not afraid to be seen in their company. I ans'
+truthfully that I was not. This delighted them, and they
+
+other members of their
+
+iry ra Panash had:
+
+es om! Again, I answered
+
+felt I had nothing 'to he men laughed deeply,
+ed if perhaps I wouldike to trade my way of life for
+thought fora moment, looking around the campsite
+
+wagons, the dogs, the firelight shining off of the
+' faces — and I nodded, saying that I would trade all
+
+Anstant.
+
+the men stopped laughing. They looked at me in
+hment; it seemed impossible to them that any gaje
+Id live as they did. Certainly, no Romani boy would
+lingly lead the life of a gajo. Panash laughed shrilly
+led me Romani-gajo, which I could only assume was
+pliment.
+
+
+Ididnot return home that night, nor the day after. And
+when the kumpania pulled up their roots and drove their
+wagons eastward, I went with them.
+
+I spent nearly half a year traveling with the Rom until
+the police found me and returned me to my family. But the
+road had taken root in my heart, and I was no longer content
+to live as the gaje did. My mother wept, and my father and
+Thad bitter words, but finally my parents ruefully allowed me
+to spend half of each year traveling with my Romani foster-
+family. This cycle of living continued for many years, until
+the outbreak of World War II, when I abruptly lost contact
+with the kumpania.
+
+It was common knowledge that the Nazis hunted
+Gypsies just as they did Jews or homosexuals, and I assumed
+that this was the fate that had befallen my Rom family. They
+had been taken to the camps and put to death. I did not
+expect to see any of them again.
+
+However, while traveling through the south of France
+on a cold autumn night in 1948, I stumbled across a Rom
+encampment. I approached the camp, calling out the tradi-
+tional Romani greetings I had learned, and was shocked to
+see my boyhood friend Panash come out to greet me. We
+laughed at our good fortune, and he led me into the camp,
+where other members of my old kumpania welcomed me
+warmly. Excitedly, | asked Panash how he and the others
+
+had survived the war, and why they had not kept in contact.
+Panash looked at me strangely, and told me he would not
+speak of it.
+
+They invited me to sit with them, to tell them of my life
+since I had last seen them. I nodded, noticing that the
+members of my old kumpania sat at a fire a good distance
+away from the other Rom, who eyed us suspiciously. |
+wondered what they had done to be treated this way by other
+Gypsies.
+
+Ttold them of my family's flight to Switzerland to escape
+Nazi occupation, and of my efforts to find any sign of the
+kumpania during the war. I told them of the work I had begun
+while living in Switzerland — of my plans to write a book
+based on my experiences among the Rom. Panash frowned,
+and asked why I would choose to write about them. I told
+him that perhaps other gaje would read my book, and see the
+Rom as I did.
+
+A low, unsettling laughter passed through the as-
+sembled Rom, and Panash smiled darkly. He rose from the
+fire, and his face fell into shadow. He beckoned me to follow
+him, and he began to walk into the darkness. The other
+Gypsies watched me carefully, and for the first time in over
+two decades, | felt ill at ease in their company. ‘
+
+I stood uncertainly and asked Panash where he was
+taking me. He turned his head, the firelight reflecting in his
+
++ Clanbook: Ravnos
+
+
+eyes. "Come," he said quietly. "Come and meet Jhienvé, and
+you will know how we survived the Holocaust."
+
+I followed him, though at the time I did not know
+precisely why. We walked to the far edge of the camp, toa
+wagon that superficially seemed no different from any of the
+others: horse-drawn, cookpots and heavy skillets dangling
+from the sides, with a cloth awning and thick wooden doors.
+Panash knocked quietly, and a soft, weary voice bade him
+enter.
+
+Jhienvé was an old Romani woman, dressed in flowing
+colored skirts and a loose-fitting blouse; charms and talis-
+mans adorned her ears and neck. Though tiny, she seemed
+to fill the wagon with her presence, and though purest Rom,
+she was exceedingly pale, as if in the grip of illness. She
+greeted Panash warmly, but her eyes turned cold and dis-
+trustful when she saw me enter the wagon behind him.
+Jhienvé looked scornfully at my blond hair and blue eyes,
+and asked Panash why he had brought a gajo to her. She
+spoke in a Romani dialect different from any I had ever
+heard; her words seemed purer than Panash's, less corrupted
+by the influence of other European languages. I could
+scarcely understand her.
+
+Panash bowed and mumbled an apology, then ex-
+plained to her that I was his foster-brother, of whom he had
+spoken so often. Jhienvé watched me closely fora moment,
+and then her stony eyes softened. She gestured to some
+pillows on the floor, and we sat.
+
+Jhienvé asked me about myself: my family, my travels,
+my experiences with Panash and the kumpania. I answered
+her questions, but I was still uncomfortable with the way her
+dark, mournful eyes stared into mine. Finally I told her of my
+work, of my plans to offer a glimpse of the real Rom to the
+gaje, so that perhaps the two peoples could live in peace.
+
+Jhienvé smiled, the wrinkles on her face becoming deep
+creases. Her mirthful grin did not match the pain and
+contempt in her eyes. She and Panash exchanged looks,
+then Jhienvé turned to me and asked me the same question
+that I had been asked so many years ago: Would I trade my
+way of life for theirs? I frowned, explaining that | already
+had. I was no more a gajo, I said, than she. Her smile only
+broadened, but her eyes hardened further.
+
+"Would you know the truth of things, Romani-gajo?"
+Jhienvé whispered. "Would you know the hidden secrets of
+the Rom? Come closer," she hissed, crooking a finger, "and
+I will tell you what I know." At this change in her counte-
+nance I started, but Panash's hand on my back implacably
+urged me forward, and then Jhienvé's eyes swelled to sucha
+size that I almost ignored her talons scrabbling at my
+clothes, or her fangs tearing at my throat.
+
+I felt a tidal surge of euphoria; then it faded, and I felt
+dizzy, faint, such that I would surely die. I slipped to the floor,
+and Jhienvé knelt over me, spat into her palm and placed
+her palm to my mouth. "Know this, Romani-gajo," she
+mockingly intonedas I licked the salty fluid. "Youhave been.
+
+Chapter One: The Ravnos
+
+
+tricked. It were well that in the future you prove more
+cunning."
+
+She told me then of the dead things that lurk on the
+edges of our lives. She told me of the Damned, and of Clan
+Ravnos: of its battles for survival and its persecution at the
+hands of the gaje, Kindred and kine alike. She told me of its
+origins in the nights of Eden and of its ceaseless struggle with
+the mulo. And when she finished, as the horizon had begun
+to lighten, I asked Jhienvé if I might use my newfound gift
+to chronicle the truth about the Ravnos, as I had intended
+to tell of the Rom — and upon hearing this she simply
+laughed, a dry and bitter sound.
+
+When I left the camp, I was no longer human.
+
+Since that time, I have traveled throughout Europe and
+the Americas, relearning what I once thought I knew. [have
+spent many years prying out the truth about my own clan: its
+customs, its factions, and its secrets. | have spoken with the
+elders of my clan and others like myself, and I have ever paid
+dearly. In truth, I know little more than I did when I
+breathed, and I am certain that half of my knowledge is but
+lies upon lies, for the Children of Caine are nothing if not
+false of tongue, and my family more so than many.
+
+Nonetheless, what you hold in your hands is the fruit of
+my labors. This book compiles a fraction of the histories,
+tales and customs that have made Clan Ravnosas foreign to
+the other Kindred as the Rom are to the gaje.
+
+I can only hope that my efforts will do some good.
+Prejudice runs deep and unyielding in the Damned, and no
+other clan has been so subject to bigotry as the Ravnos.
+Since the fabled Second City we have been hunted. Since
+our very origins we have lived apart from other Kindred. But
+in reading this, it is my hope that perhaps you will see why,
+and that understanding will temper your mistrust.
+
+I will impart to you the only truths I know, and many
+alie besides. With these truths and lies come responsibilities
+which you now share.
+
+Ravnoo Lexicon
+
+The Raynos share a language with the living Rom, a
+language that is unknown to outsiders. This language, called
+Romani, has its roots in Sanskrit, but has adapted many
+terms and inflections from other sources. A more complete
+lexicon of Romani terms can be found in A World of
+Darkness: Gypsies. However, there are a few words which
+the Ravnos use exclusively, or which hold a different mean-
+ing for them. Those terms are listed here.
+
+Amria (AHM-ree-uh) — A Gypsy curse.
+
+Baro (BAH-roh) —Literally, "big man." The leaderof
+a Ravnos or Gypsy kumpania.
+
+Draba (DRAH-bah) — Gypsy charms and talismans.
+
+Gajo (GAH-zhoh) — Literally, "peasant." Any non-
+Gypsy, mortal or Kindred.
+
+
+Gaje (GAH-zhay) — Plural of gajo.
+Georgio (JOOR-jee-oh) — A Ravnos of non-Gypsy
+stock; a gajo Ravnos.
+
+Juvindo (joo- VEEN-doh) —Literally, "alive." A mem-
+ber of the living Rom.
+
+Kaen (KAIN) — The Romani spelling of Caine, the
+first vampire.
+
+Kris (KREASE) — A Gypsy trial.
+
+Krisatora (KREASE-ah-tor-ah) — Those who preside
+over a kris.
+
+Kumpania (koom-pah-NEE-ah) — A band of Gypsies
+or Raynos.
+
+Kumpaniyi (koom-pah-NEE-yee) — Plural ofkumpania.
+
+Marhime (MAH-ree-may) — Literally, "tainted." The
+condition of an object or person being somehow unclean or
+corrupt.
+
+Mulo (MOO-loh) — Literally, "dead." A contemptu-
+ous term for non-Ravnos vampires.
+
+Patshiv (paht-SHEEV) — A kind of Ravnos "clan
+meeting": A feast and celebration that occur whenever two
+or more kumpaniyi happen to meet while traveling.
+
+Patshiva (paht-SHEE-vah) — Plural of patshiv.
+Phralmulo (FRAHL-moo-loh) — A Ravnos of Gypsy
+heritage.
+
+Samadji (sah- MAHD-jee) — Literally, "heirloom." A
+powerful piece of draba passed from sire to childe among the
+Raynos.
+
+Sarrath (sah-RATH) — The Ravnos' name for the
+being who became the first Silent Strider Lupine.
+
+Sarrath, Children of — The tribe of Lupines known as
+the Silent Striders.
+
+Shanglo (SHAN-glo) — A policeman; the term can
+also mean a vampiric "law enforcement" officer: a Justicar,
+Seraph or sheriff of a city.
+
+Tumnimos (tum-NEE-nos) — The vampire Embrace.
+
+Tzaddik (TZAH-deek) — Synonym for baro, used
+among Ravnos from Africa and Asia.
+
+Vurdon (VER-dohn) — A Ravnos' vehicleand haven.
+In Europe, a covered wagon. In the Americas, vurdon are
+often station wagons or vans.
+
+Vurma (VER-mah) — Literally, "trail." The routes
+which kumpaniyi travel.
+
+Wuzho(WOOZ-oh) —Literally, "pure." The opposite
+of marhime. Also, a Ravnos from the Tsurara family of
+Gypsies, a radical sect which has dedicated itself to combat-
+ing supernatural menaces.
+
+Chapter One:
+
+
+In the trees
+
+Our sons stand naked
+Through the walls
+
+Our daughters cry
+
+See their tears in the rainfall
+
+— U2, "Mothers of the Disappeared"
+
+We are renowned for our storytelling. It is, perhaps, the
+only point on which my people and the gaje agree. For the
+Ravnos, storytelling serves a variety of purposes. Stories have
+always been the greatest entertainment, something to stir the
+imaginations of young and oldalike. Telling tales can bea last
+resort to score a quick buck, as few gaje won't part with their
+money for a good story (or even a poor one, as attested to by
+the dreck the gaje call "bestsellers" and "blockbusters"). And
+most importantly, storytelling serves as a secret form of com-
+munication, a way to relay important information ina fashion.
+not easily interpreted by the prying ears of our enemies.
+
+‘The stories that my people tell are epic in their scope and
+even more epic in their contradictions. Each family is sure to
+havea different view of each event; each kumpaniatells the tale
+witha different hero. In fact, listening to the same story told by
+different Ravnos, it might seem as though my clan is entirely
+populated with liars and braggarts. It might seem that the
+stories we tell exist forno other reason than to satisfy our pride,
+Well....pethaps, but look to your own annals, O my Kindred!
+
+It matters little. For the Ravnos, knowledge of the past
+does not serve the same purpose as for the gaje. The truths
+ofan event — its hero, its villain, its circumstance — these
+are not so important as the meaning of it, the lesson to be
+learned and shared,
+
+Chapter Two:
+
+Greatest among these myths is that of our creation, the
+story of our founder. It is one of the first legends a young
+Ravnos learns. And just as the tale was told to me by
+Jhienvé, I shall tell it to you.
+
+Caine's Favored Son
+
+In the ancient days, after our people were cast out of the
+First City, they wandered in the wastes for many years, Living
+off of the foolish gaje and relying only on themselves, that first
+Kumpania flourished. But as they flourished, they grew numer-
+ous, and it was not long before the baros found their feet
+followed different vurma. So the kumpania split apart, and the
+families of Rom went their separate ways. Thus were the first
+vestiges of the Phuri Dae, the Urmen and the Ravnos formed.
+Their departure was like the flowing of water away from the
+source, and there was no ill will, for even then they were the
+Rom, and such has always been our way.
+
+Now in those times, our family was not known as
+Ravnos. We were called the Powara, and we lived with the
+sons and daughters of Sarrath in our midst. Motivated by
+both the natural wanderlust of the Rom and the objectives
+of their Lupine brethren, the Powara became a widely
+traveled family, even by the standards of our people.
+
+The Persecuted +
+
+
+It came in time that the baro of the Powara was a man
+called Tshurka. He was well loved by the kumpania, for he
+was as insuperable as the Rom themselves, and he spoke
+with certainty and wisdom. He led the Powara with fiery
+eyes and an arrogant smile that put fear and bewilderment
+into the gaje, for he had learned to show them just the
+slightest hint of the power in his Blood.
+
+Tshurka's brother was called Pujinka, and he was eldest
+among the children of Sarrath who traveled with the kumpania.
+For every reason that made Tshurka the baro of the Rom,
+Pujinka was the chieftain of the Lupines. In response to
+Tshurka's flashing smile, Pujinka displayed a fearsome scowl.
+Instead of Tshurka's gentle compassion, Pujinka was over-
+filled with the impassioned anger of his kind. He sometimes
+led the Lupines away from the kumpania for days, even weeks,
+only to return with but a handful of their number. Because of
+this, Tshurka favored him little, and a burning rivalry slowly
+smoldered between them as the kumpania roamed the land.
+
+One night, as Tshurka and his people cooked their
+dinner around the fire, a stranger wandered from the dark-
+ness and stood at the edge of the camp, leaning on Tshurka's
+vurdon. The dogs in the camp ran toward him, barking and
+growling, but he calmed them with a sweep of his hand and
+a few gentle words; the hounds bowed their heads and
+crawled at his feet, their bellies dragging on the dusty earth.
+
+The Powara stared at the stranger, for never before had
+they seen their dogs pacified so easily by the gaje. Anda gajo he
+was, this stranger, for his bright eyes and pale skin were as
+
+foreign to the dark-skinned Rom as the full moon is to the
+noonday sun. Foramoment, the Powara were held by thesame
+vague fear with which the gaje viewed the Rom. Pujinka,
+however, smelled the taint of the tumnimos upon him, and
+angrily leapt from the fire to drive the intruder away.
+
+No sooner had Pujinka risen to confront the stranger
+than a second figure appeared beside the gajo and tenderly
+reached up to take his cold hand. And the Powara watched in
+astonishmentas Laetshi, Tshurka's youngest daughter, led the
+man into the camp and, smiling, asked him to sit with them at
+the fire, Snarling, Pujinka immediately confronted Tshurka,
+saying that he would not share his fire with the man.
+
+Whether Tshurka was swayed by the stranger's power,
+or he held faith in the trust his daughter had shown, or he
+simply meant to anger Pujinka— this is unknown. But with
+an even gaze, the baro told his brother that to turn the
+stranger away was not the way of the Rom. Watching
+Pujinka's face darken, Tshurka added, with a smirk, that
+perhaps he would be so kind as to sit down again, before he
+brought dishonor upon the soul of their father.
+
+The gajo watched Tshurka and Pujinka with interest,
+but said nothing as the brothers fought. Finally, Pujinka
+stormed away from the fire, hurling curses at the mysterious
+stranger. Several of the Lupines rushed after their leader, but
+
+soon the camp grew quiet again. For the second time,
+Laetshi asked the stranger to sit with them, and he com-
+plied, smiling strangely at the young Romani girl
+
+
+For a moment, silence reigned over the assemblage.
+Then Tshurka asked the gajo to speak to them of his travels.
+The stranger sighed deeply, butnodded, and began to tell his
+tale.
+
+The stranger told the Powara of the destruction of the
+First City, of the deceit and treachery that had laid waste to
+the accomplishments of the gaje. He told them of his flight
+from the city shortly before its destruction — how he had
+been cast out by the other men, and bore his solitude like a
+beast of burden. He spoke of it with a distant sadness, as a
+condemned man recounts his crime.
+
+The Powara asked the stranger why it burdened him so;
+they too had been cast out, but in their divorce from the gaje
+they had found pride, not regret. The stranger could only
+shake his weary head, for he had experienced nothing but
+guilt and contrition since his earliest memories. He was a
+monster, he said, a murderer who was cursed never again to
+walk among the children of Eve.
+
+Tshurka dismissed these abuses and invited the stranger
+to travel with them for as longas he liked. After all, the baro
+concluded, youareso like us, save that youhave nokumpania.
+The man gawked at Tshurka, for he had never thought he
+would find people who could accept him in his disgrace.
+With a broad smile, he accepted Tshurka's offer, and the
+stranget was welcomed into the Powara. Among the gaje, he
+was called Caine, son of Adam and brother of Abel. But to
+the Powara, he was known as Kaen.
+
+Of course, Pujinka was not happy with these develop-
+ments. However, at the urging of Tshurka's bride, Pujinka
+remained with the kumpania, though he vowed never to
+share his vurdon or his fire with Kaen. And this vow he kept,
+even as the months rolled by.
+
+As they traveled together, Tshurka came to know what
+Kaen truly was: a shilmulo, one of the cold dead of myth and
+legend. Though Tshurka did not turn Kaen away from the
+kumpania, the baro forbade him to take nourishment from
+any of the Powara. Kaen agreed, but in his heart he had
+already begun to betray that promise.
+
+Kaen grew to be well liked among the Powara, though
+Pujinka and the other werewolves still showed him nothing
+but scorn and aversion. Among the Rom who most admired
+Kaen was Ravnos, Tshurka's eldest son. He was considered
+a brash youth, with too much fire in his eyes and too many
+dreams clouding his thoughts. In time, they said, he would
+bean able baro, but not until the passions of his adolescence
+faded into the confidence of an adult.
+
+Raynos spent many nights with Kaen in his father's
+vurdon, learning what he could about the shilmulo and their
+ways. Tshurka grew uneasy at the way in which hisson's eyes
+gleamed while Kaen spoke of his endless life, but he trusted
+in Kaen's vow. In his naiveté, Tshurka had unknowingly
+guaranteed the birth of our clan.
+
+One night, as the kumpania camped outside one of the
+hamlets of the gaje, the Powara were startled by a distant cry for
+
+Chapter Two:
+
+The Persecuted +
+
+
+help. Knowing that Tshurka and some of the other men had not
+retumed from the village, Ravnos led a group of Rom toward the
+town, fearing in his heart for the safety of his father. When they
+arrived in the town square, Ravnos' fears were confirmed.
+
+The Powara, it seemed, had not been the only noctur-
+nal visitors in the town. A group of shilmulo had also come
+that night to feed off the sleeping gaje. When their
+interrupted by Tshurka and his men, the mudo fell upon
+
+ast was
+
+them like crazed animals, so drawn were they to the power
+in the Romani Blood. Though they fought with all their
+strength, Tshurka and the other Powara soon fell to the
+might of their undead attackers.
+
+As Ravnos and his followers approached, the shilmulo
+rose from their victims and licked their bloody lips, anxious
+to drink more from the hearts of the Rom. One of the mulo
+held Tshurka's lifeless body in one hand, while the baro's
+dark blood still dripped from the shilmulo's teeth. The mulo
+laughed at the terrified Powara men, and tossed Tshurka's
+body at their feet. "This is the fate," the shilmulo said, "that
+awaits all of you wandering dogs."
+
+Seeing his father lying still on the ground, Ravnos wept,
+and through his tears hurled a frightful amria upon the mulo.
+The mulo had never seen such a display of wrath, and they
+backed away, unexpectedly frightened and confused. Perhaps
+
+they sensed Kaen's mark upon the boy, or perhaps they saw the
+power in his Blood, but the shilmulo fled, fearing that the curse
+of Ravnos would blast them into the lowest hells.
+
+Ravnos lifted the corpse of his father from the road, and
+slowly walked back to the camp. He walked with a set
+purpose, and his steps led him to the door of Kaen's vurdon,
+Kaen was waiting for him, for he had foreseen what ha
+transpired that night.
+
+nos pleaded with the shilmulo to give his father the
+tumnimos, but Kaen already knew that Tshurka's corpse he
+grown cold, and his soul was gone, beyond even the beckon-
+ing of the eternal Embrace. Ravnosseethed in his futile rage,
+and then turned his fiery eyes toward Kaen. No words
+needed to be spoken between them; Kaen simply nodded
+and wrapped the youth in his arms. Kaen wept blood as he
+heard Ravnos' heart beat mightily inside his chest, then
+lowered his lips to the young man's neck.
+
+When Ravnos emerged from the vurdon, he found
+Pujinka waiting. He wearily greeted his uncle, and told him
+of Tshurka's death, and of the new life granted him by Kaen
+But Pujinka had already sensed the change in his young
+nephew, and he could contain his fury no further. His body
+tippled with the change, and he charged forward, claws
+bared for the attack.
+
+In a swift rush of motion, Kaen interposed himself
+between Ravnos and Pujinka. Feeling the monster's teeth
+and claws tear into him, Kaen lifted the man-beast as if he
+were a child's toy and flung him across the camp. Pujinka
+howled in pain as he crashed to the ground. The other
+Lupines yielded to their rage and shifted into their mon-
+
+
+strous forms. They turned their snarling faces upon Kaen,
+and murmured of his death as they began to approach the
+vurdon. Ravnos, still weak from the tumnimos, was unable to
+summon the strength to act.
+
+However, it was not Ravnos who halted the charging
+Lupines, nor was it the undead strength of Kaen. It was
+Laetshi, still just a child, who stepped between the angry
+werewolves and their shilmulo prey. It was Laetshi who
+barred the Lupines'
+— of her visions, of her Sight. She spoke with a wisdom and
+
+way. And it was Laetshi who spoke then
+
+grace belying her young body, and even the Children of
+Sarrath could not deny that they felt her power.
+
+Laetshi told them of the dreams that had plagued her
+sleep: dreams of monstrous men who would destroy the
+Powara as they slept, drinking both their blood and their
+souls. She told them that she had seen Kaen in her dreams,
+and that she had sought him out, so that he might bring his
+blood to the Rom.
+
+Ravnos had been chosen, she said, to leada new family,
+to protect the Rom from all the other shilmulo. Without
+Ravnos, Laetshi continued, the Powara — and indeed, all
+the Rom — would come to serve the mulo as so many of the
+gaje did. Just as they had taken Tshurka, they would descend
+upon all the Rom, trying to capture the powers of the Blood.
+Only by accepting the blood of Kaen, she said, could Ravnos
+lead his new family to stop them. She begged Pujinka to put
+away his anger: They were all Rom, and as surely as he was
+her uncle, Ravnos was still her brother.
+
+Pujinka was deeply moved by Laetshi's passion, and he
+backed away from the vurdon. But his anger did not abate
+entitely. With a-cruel tongue he damned Kaen ‘and his
+blood, and he gathered his people around him as he spoke.
+The sons and daughters of Sarrath, he said, would not travel
+with the shilmulo anymore. Ifitwas destiny that Ravnos lead
+anew family, so be it — but it was the ending of the Powara.
+And indeed it was.
+
+Pujinka led the werewolves away from Kaen and his
+
+childe, away from Laetshi, away fromall the other Rom who
+chose to remain. He called his new family the Lupinos, and
+to this day they will not speak of the Powara. Though they
+know us to be their cousins, their anger is still strong, and
+
+has never ceased
+
+their fight against their enemi
+
+as their baro;
+Kaen. But Kaen had shared in
+Laetshi's vision, and he knew he could no longer travel
+
+The remaining Rom looked to Ravn
+
+Ravnos, in turn, looked to
+
+among the Rom. He taught Ravnos to use the powers to
+which we have grown accustomed: to commune with the
+wild beasts, so that our horses would not fear us; to find the
+stamina to endure the punishment of the shanglo with an
+unnatural resilience. But the greatest gift, our Chimerstry,
+was unknown even to Kaen, the sire of all the shilmulo. Itwas
+Laetshi who would teach this gift to Ravnos, and it remains
+our most closely guarded secret. After Kaen had disappeared
+again into the desert, the young baro and his family contin-
+ued their endless wandering. But from that day onward, we
+called ourselves the Ravnos.
+
+Chapter Two:
+
+
+Ravnos and Ennoia
+
+Legends of our founder do notend in those distant nights. Many tales are told of our founder's suffering at the hands of the gaje,
+
+of his flight fronvangry shilmmido and his triumphs over the other foolhardy clans. Though these stories are plentiful, there is no proof
+of their validity: However, one myth stands as an accepted truth, and may explain the superficial similarities between Clans Rawnos
+and Gangrel.
+
+After Kaen's departure, Ravnos led the kumpania wrth passion and imagination. Aided by his
+sister's visions, the Family grew strong again, and Ravnos sired several ehilder From among them,
+However, Laetsh would not; accept the tumnimos from ber brother, and grew into a beautiful
+woman.
+
+Jn time, Ravnos and his Family came to stand before the gates of another great city. Jn beauty
+and majesty it rivaled Enoch, but inthe streets hung the stal¢ auraof death, and the Ravnos knew
+they had found the city of the muto. Unafraid, the Ravnos set their. camp outside the city, and
+prepared to venture into the erty For the Food and blood hoarded mside its walls.
+
+As they began to Light theincampfires, however, their attention was drawn to.a young woman
+being cast out of the erty by the shanslo. Uoung and beautiful, she Looked as though she might have
+been a child of the Rom, with dark eyes and raven hair, Several oF the Rom approached her, with
+young Ravnos Leading them.
+
+They called out to her as she cursed the guards, who paid no attention to her venom. She turned
+to face the oncoming Rom, and suspiciously eged their movements as Raynos offered her their
+hospitality. At First, the goung woman frowned skeptically, but upon seeing the children playing
+i) the camp, she accepted Ravnos' invitation and joined them.
+
+Her name, sh¢ said, was, Chnoia, and she bad been Living in the great city for some time until
+one of her Lovers, jealous of her infidelity, had used bis influence to have her branded asa thief and
+banished from the erty. Though Laetshi, now a full-grown woman, distrusted Ennoia's story, her
+brother was deeply moved by her plight, and impulsively invited her to stay Gmong them, Ennoia
+accepted, and the downfall of our Founder was thus ensured: \
+
+Epnoid and Raynos became fast Friends; she had traveled extensively, ds he had, and they spent
+long nights resaling ach other with stories of their journeys. Their secret Forays nto the city
+
+were filled with many adventures, but those stories bave Long been Forgotten. Though the other
+
+Rom grew weary of their stay by the great erty, Ravnos was reluctant to leave, caught as be was
+i Ennoia's spell. \s time passed, the Friendship between Ravnos and, Ennoia save way to deeper
+emotion, and they became lovers, Jt was not long before she too was of our blood,
+
+AS the Ravnos family datlied ever Longer by the gates of the city, theyattracted the attention
+of the erty's masters, the other childer of Kaen. They became infuriated by the Ravnes' deception
+Gnd trickery, for it, was ‘an embarrassment to their control over the gaye. When their spies (earned
+that the leader of these Gypsies. was shilmulo, they became even more incensed, and they set about
+to have him killed. These attempts Failed, and the mulo could only scream out their Fury to the
+cold, uncaring stars,
+
+€pnoia, for her part, was also growing weary of ber unfe with the Ravnos. As‘a child of Lylith,
+She was not accustomed to following the orders of any man, even if he was the baroof her adopted
+Family. The seeds of betrayal began to growin ber heart, until one night she ventured. off alone
+into the great erty, to seek out the mulo who ruled it.
+
+She struck a terrible bargain with the ancient undead; she. would deliver Ravnos to them, and
+with bis death, she would be the new baro, They, in turn, would regain both their Lost honor.and
+control of the city's kine. She agreed to lead the troublesome Gypsies Gway From the' crty in
+exchange for their help, and with the deal thus resolved, she stole back to the Ravnes camp.
+
+Epnola went to Ravnos and told him of a great hoard of gold that the sfilmuloof the city kept
+
+hidden in their treasury. Ft would be only fitting, she reasoned, to take the sold and hidesrt, then
+
+watch the foolish mule tear down the walls of their own city to Find it. Ravhosy still blinded by
+his Love for Ennoia, agreed.
+
+q
+
+
+As they left the camp, Laetsh appeared before. them. She bade her brother to stay; after all,
+dawn would soon be upon them. Ft would do him Nd'<00d tofFind himself trapped inside the city when
+the sun rose. The malo, she said, had: many spies and. agents Lagatto them, who could easily Find
+him while he slept. She reminded him of the attempts they had made to end.his Life, of the narrow
+escapes he had made in the preceding weeks.
+
+"Fear not," Ravnos told her. *"Mydestiny does not end here. By sunrise the mulo will, be
+ravaging their own city, and 7 will be-asleep back in my vurdon under the ciderdowns."" And with
+that, he left Laetshi, and brazenly ventured into the city with Ennora.
+
+As his sister bad feared, Ravnos and Ennoia did not return by sunrise.
+
+Worried for her brother's Life, Laetsin used her powerful Sight to Find him. And Find him she
+did, his body nailed to the rooftop of the great temple, burning wn the sun. As his screams echoed
+in her mind, Laetshi wept, for she knew she could never reach him in time to save him. She reached
+out to him, and comforted her brother's Frightened mind as his unuife was extinguished. As the Last
+of fis blood boiled, the siblings said Farewell For the Final time.
+
+Aster he was gone, Lactshi dried her eyes and bid her visions cease — and a single thought
+passed through ber ike an icy wind. Where was Ennoia? Her brother had suffered in solitude upon
+that rooftop; Ennoia was not with him. Again, she used her Sight, this time to Find her brother's
+lover, friend and childe, Laetshi found her sleeping peacefully, wrapped.n darkness deep within the
+lair of the mulo, dreaming of her return to the Ravnos to claim her place as baro,
+
+Seeing this, Lactshi flew into a Frenzy that would have put fear nto the heart of the bravest
+Lupine. She destroyed the tools that provided her with the Sight; she clawed at her face with her
+hands until she bled. \s the other yuvindo watched in horror, she burned the vurdon that Ennoia
+shared with Ravnos, hurling curses into the flames. And when her Fury Fnally subsided, Lactshi told
+the Ravnos what had occurred, and instructed them to make preparations for what was to follow.
+
+‘The Following night, Ennoia crept away From the havens of the mulo, rehearsing, the story with
+which she would deceive the other Ravnos. Jn his recklessness, she would say, Ravnos had taken
+too Long in the coffersof the city's Kindred, and had been captured by their minions. She had
+managed to escape, Finding refuge In a granary nearby, where she had escaped both the ravages
+of the sun and the muto's servants. The Last words Ravnos had spoken were that she should carry
+on 1p his place, as bare, and lead the Ravnos Far. from the erty.
+
+When she reached the camp, however, she quickly found that her crime had already been
+discovered. She was ambushed by several of Ravnos' childer, and they dragged her before an
+assemblage of the Rom. Presiding over the assembly were the elders that would serve as ber
+Krisatora.
+
+Laetshi had done well: She had used what ttle strength remained to her to summon the elders
+of the Families together, so that they might pass solakh upon so great a trespass, Even fouyinka
+had answered ber call, and he smiled at Ennoia with a Ferocious anger that chilled her blood.
+
+And thus Ennoia's kris began. Ft lasted well nto the night; Laetshi's accusations were vicious
+and detailed, and Epnoia found herself unable to respond. As the krisatora began to question her,
+she found her deceptions suddenly transparent, her excuses weak and useless. Laetshi spoke again,
+revealing the visions she had received of. Ennoia's betrayal of her sires fyecoming impatient For her
+solakh, the assembled Rom hurled curses at Epnoia, who began to grow defiant as the ceremony
+continued, As the night wore on, she started to curse back atithe Rom, until Finally the krisatora
+was no longer able to maintam any order,
+
+Suddenly, the assembled Rom Felt a great power swell over them, and they fell silent. Ennoia
+too grew quiet wrth unease, as she Felt the presence of aigreater Fury than all the Rom together
+had shown her. And From the shadows, Kaen stepped Forward ito the Firelight. Several of the
+Ravnos bowed their heads to him, but all of his inbuman rage was Focused on Ennoia, who shrank
+away From him as he approached.
+
+Jn the silence that followed, Kaen.addressed the krisatora. "J mean no disrespect,"' he began,
+"by truding on this kris. Tshurka taught me well of this tradition. J have come to pass judgment
+on this wretched creature who bas destroged my best-Loved son.'"
+
+Introduction +
+
+
+‘The krisatorawas thrown into confusion. Who was this gajo, they said, to pass judgment? Never
+before had such an event occurred, As they argued among themselves, rt was Joujinka's voice that
+rose, clear and strong, above the din.
+
+"Jam fouinka, brother of Tshurka and baro of the Lupinos,"' he shouted. "J am uncle to Ravnos,
+and Jam eldest among the Powara. This mulois as much Ravnos' Father as Tshurka was. His solakh
+will stand in place of mine, for his anger with this woman is surely as great as our own."
+
+The krsatora fell silent, For rt had been many gears since the fowara Family had been spoken
+of in private, Let alone before a kris. After a moment, they relinquished the speaking of the solakh
+to the stranger standing before them,
+
+Nodding at fouyinka, Kaen slowly approached Ennoia. She shied away From him, but the power
+in his words held her transfixed. His voice was very soft, but his eyes betrayed his savage anger.
+Standing over her, Kaen began Ennoia's solakh.
+
+You are lke a beast — and so a beast you shall become. Stripped From you are the love
+and loyalty of Family; though you mag never stop your wandering, you will always travel
+alone. Never agam will you know the joy of company. When your anger seizes you, when you
+&lve In to the temptations that made you lead my son to slaughter, then will you see more of
+the beast in your own Face, until you will no longer be able to bear the sight of your own
+reflection. Gone, too, is the magic in the blood you stole From Ravnos. Jnstead, learn to
+imitate the animal you are. Vou will steep beneath the soi, uke the dead, for never again will
+you know the comfort of a vurdon. You are no longer of the Ravpos. Now so, and in going,
+know that you are nothing.
+
+‘When Kaen bad finished, the Rom remained silent, for never before had they heard such a
+terrible curse. [ausing only briefly to nod again at Puymnka, Kaen disappeared into the nisht.
+
+€nnoia snarled speechlessly in rage and horror. Dropping to all Fours ike an animal, tears of
+blood streaming down a face already bearing resemblance to a snout, she padded away into the
+Night. jn the nights since then, Cnnoia has spread her blood — and Kaen's curse. Once of Clan
+ Ravnos, she wanders the world to this night, the founder of the clan called Gangrel..
+
++ Clanbook: Ravnos
+
+
+Outsiders
+Looking In
+
+Now you know of the ancient foundations of my clan;
+however, our story does not stop there. Throughout the
+history of the gaje, we Ravnos have always been present.
+Though the Kindred have ever tried to forbid us entrance to
+their walled prisons, we have laughed at their folly and gone
+among them all the same. Their treasures we have made our
+own, and their slaves have nourished our thirst, and their
+thralls we have beguiled to our service. And on the Last
+Night, when the dead gods rise ravening from their crypts,
+we will leave the gaje to their gilded tombs with a laugh and
+wave.
+
+The Ancient World
+
+My clan came of age in the far lands, in the expanses of
+the South and East. The Ravnos tarried in the Indus Valley
+fora time, near that city which mortals have named Mohenjo
+Daro. They walked among the Dravidians, and they dealt
+with the ancient vampires whoruled them, and they saw the
+other Children of Caine lead their chariot-borne armies
+into the valley on missions of conquest and pillage. The
+yampires of Mohenjo Daro were overwhelmed, and fled into
+the uttermost East — but before they fled, they cursed their
+Cainite enemies, and swore to avenge themselves one
+
+night, in the names of Kali and Yama. The others have
+forgotten this, but the Ravnos have not.
+
+When the Children of Sarrath rose up to combat Set,
+many of their Ravnos cousins were present to aid them.
+Though the shilmulo were able to confuse Set's forces, even
+this combined effort between the two Gypsy families was
+not enough to thwart the Antediluvian.
+
+When the Silent Striders were forced to flee Egypt,
+many of the Ravnos who had come to aid them were
+captured by the dark Antediluvian's forces. Through trick-
+ery, all buta handful of these shilmulo managed to eseape, but
+those who could not escape were never heard from again.
+
+In 420 BC, almost 10,000 Gypsy performers from India
+were "imported" to Persia by Bahram Gour, and the Ravnos
+were among them. These Ravnos made use of both their
+musical and Chimerstry talents, thereby winning over many
+
+ine. However, the Ravnos did not begin to travel out
+
+and South en masse until much later. Though no
+
+accurate records remain detailing the reasons behind this
+sudden exodus, one story suggests that my clan was driven
+out of the desert by several Assamite campaigns staged to
+destroy the clan, and to enslave the few Ravnos who
+survived the ma:
+encountered Clan Assamite, so the story goes, they wel-
+
+acres. When the touring Ravnos first
+
+comed the strangers into their camps, in an attempt to
+further their relations with the other shilmulo. This gesture
+was rewarded with bloody constraint; the Assassins, for
+
+Chapter Two: The Persecuted
+
+
+their part, saw my clan as but a stepping stone on which to
+continue their journey of diablerie.
+
+For whatever reason, the kumpaniyi of Clan Ravnos
+slowly roamed out of their homeland, and began to wander
+the vast lands of the Old World.
+
+The Middle Ages
+
+By the Middle Ages, georgio Ravnos had spread across
+Eurasia, creating a network of black-market contacts and
+notorious so-called "free ports," where trade flourished.
+Ravnosalso cultivated the trade routes established between
+mainland Europe and the mysterious East, and profited
+greatly by the increasing European interest in foreign lands.
+
+Along the shores of the Mediterranean, the Ravnos
+began to build strongholds in the cities of the gaje. Through
+their influence in the burgeoning underworld, my sires
+found themselves in competition with the Setites, who had
+also begun to take an active interest in the underground
+marketplace. In a rare gesture, the Ravnos struck a bargain
+with the Followers, and forgave (though they did not forget)
+any past offenses. Alas, my sires neglected to spit into their
+palms when so bargaining — and all know that the Setites
+have no honor. And so there were unavoidable misunder-
+standings, and violent disputes interrupted otherwise
+peaceful nights in Baghdad, Alexandria and Constantinople.
+
+In Eastern Europe, the Ravnos brazenly infiltrated the
+crumbling domains of the Tzimisce. The voivodes found
+
+themselves unable tocontrol the influx of the Gypsy shilmulo,
+and began to use their gaje slaves to destroy them. In the
+chaotic battles that ensued, the Tzimisce often found their
+most prized artifacts falling into Ravnos hands. Many of
+those treasures are still passed among the Raynos today,
+becoming priceless samadji to families lucky enough to
+control them — though it were well not to display these
+trinkets too boldly when passing through Sabbat territory.
+When the Crusaders began to march, these foreign
+invaders found no resistance among my clan. As wars
+erupted around them, the Ravnos cheerfully welcomed
+theirnewfound "saviors." Though their true religion did not
+change, the Ravnos accepted the preaching of the Crusad-
+ers, citing an age-old Gypsy proverb, "May mishto les o thud
+katar i gurumni kai tordjol." (It is easier to milk a cow that
+stands still.) While the Setites and Assamites fought like
+jackals against the tide of Christianity, the Ravnos went
+about business as usual, in the process usurping the trades
+and markets left unattended by the squabbling Setites.
+
+The Age of Gypdies
+
+It was during the Renaissance that Gypsies became
+truly abundant in Western Europe. In fact, the nascent
+literature of the time began to romanticize the Rom for their
+foreign looks and mysterious abilities, and Romani perform-
+ers were highly prized at gaje fairs and festivals. Of course,
+many of my clan came hidden among the kumpaniyi that
+flocked into the newly opened territory.
+
++ Clanbook: Ravnos
+
+
+For the first time, Ravnos had access to the long-
+forbidden strongholds of the mulo, and were quick to reap
+the rewards of acceptance. Many members of my clan served
+as entertainers in the courts of the mulo, where they became
+known for their wondrous illusions and quick wit. Though
+the gaje mocked these Ravnos for their wild appearance and
+dark flesh, it was the Ravnos who laughed loudest as they
+walked away with the mulo's gold.
+
+However, Europe did not prove to be another Eden for
+my people, especially the juvindo. As they traveled, they
+encountered scorn and prejudice from the gaje townsfolk,
+who were unfamiliar with the Gypsies' lifestyle. In the
+conflicts that followed, many kumpaniyi were driven away
+from the communities of the gaje, and the swift retaliation
+of the Ravnos was more damaging than helpful; the Raynos
+would sweep through a town, fleecing money, property and
+blood from the befuddled gaje. Though motivated by good
+intentions, their crimes only
+of the G s
+The georgio walked here
+
+strengthened the gaje opinion
+
+brigands, liars, sorcerers and thieves.
+
+is well; many lone Raynos
+predators caused no end of trouble for mulo, gajeand Romani
+alike, while the mysterious Chozzai family settled in the
+Jewish ghettos and shtetls of E:
+Ravnos did what they could to protect a people nigh as
+
+stern Europe. These insular
+
+oppressed as the Rom, and many Chozzai became formida-
+bly skilled in the kabbalistic arts
+
+The New World
+
+Like all the shilmulo save the most malaise-ridden, the
+Ravnos quickly became fascinated with the idea of an
+unexplored continent. As colonies sprang up along the
+coast, ships from the Old Country bore entire kumpaniyi of
+Ravnos stowaways to the New World. Many of these were
+georgio, fleeing gaje or Romani justice for crimes and atroci-
+ties, and to this night the Ravnos of the Americas are best
+known as wastrels and marauders.
+
+When these first Ravnos began to roam the land, they
+found a variety of surprises awaiting them. Clan Gangrel
+had already influenced the Native Americans, whoshunned
+contact with any Ravnos they encountered. Many of the
+tribes also had allies among the Lupines, and the Ravnos
+were hard pressed to avoid outright slaughter by the Native
+American werewolves. Only through an ingenious use of
+Chimerstry to divert the nascent Camarilla, Sabbat and
+Lupine forces into a bloody three-way war did Clan Ravnos
+escape annihilation. Even then, many Raynos felt it wise to
+cross the Appalachians into the unknown.
+
+As the Ravnos traveled into the west, they made an
+astonishing discovery among the Native Americans of that
+region: Their tribes harbored shilmulo who possessed abili-
+ties much like those of the Ravnos. These Kindred he
+
+legends of their origins in a distant land, and they held the
+
+ai)
+
+Chapter Two:
+
+The Persecuted ae
+
+
+trickster totems of Raven and Coyote in highest esteem.
+The Ravnos called these shilmulo the "Ravnos Neve" (New
+Ravnos), and more idealistic clan members allied them-
+selves with these Native Americans in their bloody and
+
+ultimately unsuccessful r
+
+istance against the gaje settlers. (1
+am sad to say that just as many georgio "neglected to spit into
+their palms" when dealing with the Neve.) Strangely,
+stories of the Ravnos Neve persist, though that bloodline is
+largely thought to have been driven to extinction at the
+hands of gaje soldiers.
+
+By the time of the American Revolution, all of the
+larger cities were fully controlled by the mulo, and the
+
+Ravnos stayed well away from what they perceived as a
+
+squabble of the gaje. To the Ravnos, it seemed ridiculous to
+swear allegiance to any government, as this was just a
+symptom of the gaje's sickness. When America finally won
+its independence, my clan had noc
+
+use to celebrate; under
+the British governors, the Rom were largely ignored in the
+face of more urgent administrative concerns.
+
+Astime passed, however, the Ravnos grew accustomed
+to life in America. Many families continued to travel back
+and forth between New World and Old, maintaining con-
+tacts with the European Rom. Other kumpaniyi remained
+purely American, eventually losing their ties with the
+Ravnos of Europe. These families are not well loved by
+phralmulo traditionalists.
+
+World War Il
+
+When the armies of the Third Reich began to march,
+the Ravnos plunged into a phase of denial along with
+thousands of the juvindo. After the initial shock of the troop
+movements, the Rom, and the Ravnos along with them,
+quickly became accustomed to the presence of the goose-
+stepping soldiers. And why not? They were polite, loved
+good drink and song, and let the Gypsies travel freely.
+
+Then things changed. Food was rationed; many starved
+during the severe shortages that followed. Through trickery,
+phralmulo Ravnos were able to provide for their kumpaniyi,
+making alliances in the underground food trade and obtain-
+ing false papers. In short order, my clan began to form a
+monopoly on these criminal activities, and began supplying
+stolen ration cards and forged identification to several
+resistance groups.
+
+However, as the deportations continued and the perse-
+cution of Jews and homosexuals whipped to a fever pitch,
+my clan faced a new dilemma: Entire kumpaniyi were also
+vanishing, and stories surfaced of the Nazis' infiltration by
+Camarilla parasites, in particular the Tremere. Soon, word
+reached them of the wholesale slaughter of Gypsies in the
+concentration camps, and the Ravnos' worst fears were
+confirmed: The Nazis intended to destroy the Rom outright
+—and the ever-opportunistic Tremere, seeking an end to
+
+oe Clanbook: Ravnoos
+
+
+the Gypsy Kindred who remembered their crimes and
+outraged their sensibilities, planned to use the gaje's geno-
+cide as a cover to eradicate the Ravnos. After centuries of
+persecution and defiance, it seemed that the Camarilla was
+preparing to play out the final trump.
+
+This knowledge created a schism inside Clan Ravnos.
+Many felt that remaining in Europe would only hasten their
+destruction — that survival depended on fleeing to North-
+em Africa, or even farther, to America. Another group
+spoke out, preaching torpor as the method to escape Nazi
+persecution. While the war raged overhead, the Ravnos
+could slumber peacefully under the earth, and awaken to
+find the conflict resolved.
+
+Other members of my clan were not so quick to admit
+defeat. Acquiring weapons and information from the resis-
+tance groups they had supplied, these Ravnos turned their
+energies away from criminal activities and launched them-
+selves into direct insurgency and guerrilla war against the
+Nazis. The campaigns staged by my clan proved devastating;
+existing for countless generations in the shadows of the gaje,
+the Ravnos were able to travel in secrecy, strike out at their
+enemies, and disappear again without leaving a trace of their
+passing. Though guile in preparation and chaos in aggres-
+sion, the Ravnos slowed the operations of their oppressors to
+
+Chapter Two:
+
+a crawl in many areas. But we were few, and the Reich's
+armies too vast to stop.
+
+Many of the juvindo were not accustomed to such
+violence, and chose to try to live as they always had,
+traveling in peace. These nonaggressors were quickly blamed
+for the crimes of my clan, and were rounded up by Nazi
+troops. The Ravnos soon discovered that they could not
+continue to fight against the Nazis without sacrificing their
+people.
+
+Driven by fear of extinction, a few Ravnos tried to
+assault certain concentration camps. They discovered an
+abominable truth: Many of Europe's vampires — yea, even
+the "noble" Inconnu—stalked the camps by night, exploit-
+ing the Nazis' barbed wire for their personal feeding pens.
+Against so many "Kindred" even the Ravnos could not
+prevail, and so Auschwitz and Belsen, Treblinka and Ponari
+and all the rest stood until the end of the war.
+
+Adding insult to injury, other bands of georgio and
+phralmulo also infiltrated the camps, but fed on captured
+Romrather than aiding them. They were not thesole reason
+why so many Rom fell to typhus, noma and dysentery, but
+their careless feeding certainly exacerbated the spread of
+countless loathsome diseases. Unfortunately, the entire
+clan paid a severe price for the attacks of these treacherous
+
+The Persecuted oe
+
+
+shilmulo: Even today, many of the juvindo believe that the
+Ravnos were among the clans who used the camps for
+massive blood feasts.
+
+Finally, the war ended, and my people began to pick up
+the pieces of their shattered lives — and unlives. The war
+had scattered my clan: Many families had fled to America,
+while those who had remained had brought disabled Rom
+and even gaje into the clan, disgracing and weakening the
+blood of Ravnos.
+
+In the first months after the war, such an unreasoning
+hatred of the Camarilla existed that many Ravnos turned to
+the Sabbat, believing that the enemies of our enemies would
+be our friends. They are now entirely lost to us, drowned in
+the Vaulderie of theit marhime allies, Other Ravnos became
+obsessed with, vengeance, and they too became estranged
+from their families. The shame that the surviving elders felt
+could be heard in their dire predictions of the downfall of
+our entire clan. Yes, the appalling events of that time have
+
+dramatically altered the clan forever.
+
+The Information Age
+
+Today, the struggle to remain untraceable presents a
+constant challenge. With metal spying machines circling
+the globe, and billions of dollars poured into the pursuit of
+
+such arcana as "demographics" and "market tracking," the
+Ravnos have found that the simplest transaction in the gaje
+world can provide clues into their habits, patterns of move-
+ment, and even favorite swindles. Global
+telecommunications have enabled governments and police
+to keep up-to-the-minute files on millions of people; many
+Ravnos elders feel that it will only be a matter of time before
+the shanglo can track their very footprints.
+
+However, though technology has made anonymity
+difficult, it has also made the modern tools of deception
+more accessible to members of my clan. A blip ina Ventrue's
+database can be pilfered as easily as a Toreador's El Greco
+original, and high-resolution computer programs have made
+the once-troublesome art of forgery much easier. Even in
+this modern age, Ravnos continue to keep close contacts
+among forgers and other high-technology criminals.
+
+Even today, there are still vast regions of land in which
+the Ravnos can travel in relative freedom. Avoiding the
+cities of the gaje completely, many kumpaniyi live as they
+always have, under a veil of mystery and isolation. These
+Raynos stick to regions of Eastern Europe, Northern Africa,
+and the rural Americas, where the technology of the times
+has been slow to surface.
+
++ Clanbook: Ravnos
+
+
+A World of
+G ie
+ypoies
+
+We are a widely traveled people. Clan Ravnos has
+never been much for settling down, after all.
+
+Through our endless wandering, we Ravnos have expe-
+rienced firsthand all the dangers, mysteries, enemies and
+allies that the timid mulo whisper of in their cloistered
+havens. Because of our continued goodwill with our juvindo
+families, we have vicariously enjoyed the daylight world as
+well.
+
+However, everywhere that my clan has gone, we have
+encountered fear, prejudice and hatred. Often preceded by
+representatives of Clan Gangrel, Ravnos have faced great
+opposition resulting from the crimes and lies of that marhime
+clan, Soon, entire countries seemed determined to close
+their borders to my clan, though their attempts were laugh-
+ably futile.
+
+In spite of this adversity, the Ravnos have managed to
+spread their blood across the globe, and several families have
+risen into prominence in their chosen countries.
+
+Europe
+
+Ever since the Renaissance, the Ravnos have looked to
+Europe as a shining jewel of opportunity. Throughout the
+
+land, Ravnos have always found their "services" greatly in
+demand: fortunetelling, entertaining, or trafficking infor-
+mation or illegal merchandise. Though most Ravnos travel
+in and out of Europe indiscriminately, some kumpaniyi have
+become settled throughout the region, cultivating their ties
+among both the gaje and the mulo.
+
+In Spain, Ravnos of the Gitano family are renowned for
+talents in song and dance, and continue to be invited to the
+parties of the Spanish Toreador. The Juna in England have
+survived the numerous attempts of the mulo-riddled monar-
+chy to destroy them, and now travel freely among the rolling
+hills and majestic mountains of Great Britain. In Germany,
+the Sinti were once a potent force in the black markets of
+East Berlin. When the Berlin Wall fell, largely due to the
+influence of the Ventrue, they lost this sovereignty to the
+eager claws of the Giovanni and Lasombra.
+
+To the Ravnos who have chosen to remain itinerant,
+Europe is still a favorite touring route, where the living is
+easy under the shadow of the powerful Camarilla. While the
+mulo scheme against the Sabbat and against each other, the
+Ravnos are often left unattended, an opportunity few of my
+clan would pass up carelessly.
+
+Eastern Europe
+
+Believed by the gaje to be the birthplace of the Rom,
+this region is populated with phralmulo of various families. In
+Hungary and Romania, touring families of Ravnos still
+
+Chapter Two:
+
+The Persecuted a
+
+
+wander the countryside, though conflicts with Tzimisce,
+lone Gangrel or werewolf packs are not uncommon. The
+Ravnos of these countries still exist as they have for centu-
+ries; much of the countryside remains free from the influence
+of the modern age, and this is where many kumpaniyi still
+roam. However, most Ravnos scrupulously avoid the former
+Soviet bloc, as the events transpiring within are by all
+accounts not for the timid.
+
+The Former Soviet Union
+
+Long ago, the abundant steppe of Mother Russia was
+free and open country, inviting both the Ravnos and the
+juvindo into her fertile bosom. However, political turmoil
+and ethnic strife have turned the former Soviet Union into
+a wasteland. Many shilmulo vanished in the chaos of the
+times, and the Kindred began to whisper of dark forces, long
+dormant, that stirred behind the fallen Iron Curtain.
+
+Because of this, the region is shunned by the mulo, but
+especially courageous Ravnos families still tour the vast
+lands once contained within the Soviet Bloc. These in-
+trepid phralmulo bear allegiance to the legendary Ravnos
+elder Durga Syn, and she has allegedly told them many
+
+secrets of what is transpiring in old Russia.
+
+Asia
+
+Not for the Ravnos are the dank dungeons of the
+European mulo. The stars shining over desert caravans, the
+wail of flutes in jungle temples, the smell of lotus blossoms
+beside limpid pools — these things nurtured the Ravnos.
+Accordingly, Ravnos have long wandered the wastes of
+Asia, where other Children of Caine fear to walk. Of all
+clans, we Ravnos know the most about the mysterious
+Eastern Kindred — though even among my kind this
+knowledge is a closely guarded secret, and relations have
+been far from universally friendly. (After all, one can only
+view mounds of opals, golden statues of the Buddha and the
+Maharaja's emerald crown for so long before one must
+borrow these things...)
+
+Many georgio families, and a few phralmulo besides,
+haunt the East. One in particular, the Vritra, is reputed to
+have merged the beliefs of Hinduism with the teachings of
+the Path of Paradox. The Vritra has developed tenuous
+alliances with some of the Indian shilmulo, and rumors have
+spread that these enigmatic Kindred are the newest con-
+verts onto the Path.
+
+Though mainland Asia is shunned by the mulo, a few
+kumpaniyi are tolerated in these lands, especially the family
+Kalderash, whose travels have penetrated as far as Bactria
+
+
+and Western China. However, the Kalderash have warned
+that the Kindred native to the region would not readily
+ss with
+the Kalderash, most families do not travel into the territory.
+
+accept an influx of our clan. Unless they have busin
+
+Africa
+
+After centuries of struggle against the Setites and
+Assamites, all but the most traditional families have aban-
+doned the desert, finding a greater promise for the future in
+the nations beyond the sands.
+
+The Ravnos who have chosen to remain face the same
+dangers that threatened their sires. The Setites are firmly
+entrenched in Egypt, and do not tolerate the presence of the
+Ravnos in Cairo, their stronghold. However, during and
+after the Second World War, the Ravnos managed to secure
+a place for themselves in Tangiers, where Ravnos fleeing
+Europe still turn to obtain false papers or book hasty passage
+to another-part of the world.
+
+South of the Ivory Coast, roaming bands of hunter-
+gatherers are as old as time itself, and it is no surprise that
+Ravnos dwell among them. In constant conflict with Lu-
+pines and even more bizarre shapeshifters, these resilient
+shilmulo have managed to remain free, traveling with the
+Masai and other wandering tribes. Though they have accu-
+mulated neither wealth nor fame, these African Ravnos
+seem content to travel in lands seldom visited by the mulo.
+
+The Americas
+
+Though kumpaniyi from nearly all the Romani families
+tour the New World, both North and South America are
+truly controlled by the georgio.
+
+In the United States, roving gangs of georgio terrorize
+the countryside, looting the treasure-troves of the Camarilla
+and Sabbat alike. To avoid capture, the georgio have allied
+themselves with gaje similarly motivated, forming splinter
+groups of large biker gangs like the Hell's Angels or sets of
+violent street gangs like the fabled Bloods and Crips. Other
+georgio have taken to following the droves of young people
+who tour with traveling festivals and musical groups.
+
+All of these georgio seem inevitably drawn to the so-
+called "Free State" that was established by Clan Brujah in
+the 1950s. The "Idealists" rage rivals that of the most
+reactionary princes when they are the ones on the short end
+of our jests — but that makes the game all the more fun, lam
+told. The presence of the more violent georgio may help to
+explain the anarchistic nature of many of the cities in
+southern California.
+
+In Sabbat-haunted South America, however, only chaos
+reigns. Little reliable information has leaked out of these
+regions, but stories tell of terrible blood feasts, and of the
+forcible conversion of many georgio into the ranks of the
+antitribu. Though the dangers of the area seem apparent, the
+georgio seem to think themselves invincible, and continu-
+ally flock to cities like Cancun and Rio de Janeiro.
+
+Chapter Two:
+
+The Persecuted P
+
+
+i
+
+a
+||
+
+AS
+
+NY Ps
+Uae 4
+i) } r ae
+iB aaa th Le
+fae) TTT
+4 3 [ ——
+i ff ey
+i. f y
+i /
+Lh
+£ a
+oa
+=a
+
+
+this is also the
+traditions aboy,
+
+explain eithef®
+shilmulo.
+
+In our pride,
+
+tried repeatedly to assimilate
+the Rom from which we came. Though we
+
+our culture, so that the next time you gaje grope
+
+empty purse or curse our names as we ride off laugh
+in your cars, you have at least gained a bit of uf
+
+standing in return.
+
+though there is no
+believe that we de-
+
+ply the most visible result of the constant struggles and
+es that plague us from within.
+
+hen a mulo speaks ofthe Ravnos, she is speaking only
+hilmulo, for that is all she knows. However, the
+are first and foremost a family, containing' both
+fand undead blood. And even deeper, the undead
+Clan Ravnos are thrice divided, between the
+lo, the georgio, and the antitribu. All of these factions
+‘onstant conflict, and only by understanding those
+
+s can the clan itself be understood.
+
+
+wo Ravines. a a
+@ WhYavould Ravens deigt to consot wit
+
+asilyoffet her spe
+sushange ag
+
+e powel erfullgeorgio who scx@wed dteethe
+the troupe, and finds erself in an
+
+The Phratmulo
+
+The term phralmulo refers to Ravnos who were once
+Rom themselves. Growing up in a kumpania, these
+Ravnos benefit from a rich tradition and culture. From
+childhood, many Rom, and especially those of the
+Ravnos family, are aware of the existence of shilmulo.
+Though this is a point of honor for the Ravnos, other
+families are ill at ease with the presence of vampires in
+a kumpania.
+
+Chief among these families is the Tsurara, or Knife
+Tribe. They are one of the youngest Gypsy families, and
+have sworn to destroy all shilmulo, both gaje and Romani
+Their elders teach their children that all shilmulo are
+marhime, and that Romani vampires are a disgrace to
+both nature and the Blood.
+
+For the most part, however, Ravnos from all fami-
+lies of Rom work together to achieve their goals. Though
+they are not turned away from their juvindo families
+after the tumnimos, all Romani shilmulo are considered
+to be part of the Ravnos family following their death
+and rebirth.
+
+Ravnos choose their progeny among the Rom fora
+variety of reasons. Neonates might be picked because
+they are strong-minded or quick-witted, or simply be-
+cause their sires could not bear to watch them grow old
+
++ Clanbook: Ravnos
+
+
+and die. Many Ravnos are granted the tumnimos to
+preserve their powers in the Blood. This may seem
+contradictory, since the Embrace denies the Ravnos
+the use of Blood Affinities (see A World of Darkness:
+Gypsies), but in rare cases these phralmulo are given the
+Romani blood they need to use the powerful talents for
+which they were Embraced. However, this is always
+done with great care, in order to prevent disaster.
+Though the Ravnos (mortal and Kindred) is con-
+sidered a family unto itself, the family also includes
+"subfamilies" created through marriage or the tumnimos
+Most of these subfamilies comprise fairly typical
+phralmulo; a few of the more interesting ones follow.
+
+Phuri Dae
+
+Certain Ravnos Embraced from the far-seeing Phuri
+Dae maintain their own family ties, though their greater
+family is always the Ravnos. Phuri Dae Ravnos often
+include Auspex in their Discipline repertoire and are
+among the Raynos most knowledgeable about the Jyhad
+(unlike many Ravnos, they understand themselves to
+be a part of it whether they like it or not). In recent
+years, certain Phuri Dae have begun speaking of
+Gehenna, and of a "daughter of Eve" possessing a
+crescent-shaped birthmark. Other Ravnos know not
+what to make of the Phuri Dae's visions, though the
+subfamily has always proved itself uncannily accurate
+in its prophecies.
+
+Urmen
+
+Likewise, there are those among the fae-loving
+Urmen who cannot bear to sever their ties to the sunlit
+world. Urmen Ravnos typically master their Chimerstry
+Discipline quickly, and prefer to-enend their Umeamid
+the wilderness, consorting with their faerie kin. Cer-
+tain unscrupulous Urmen, | am told, have a darker
+motive for doing this: They enjoy the intoxicating
+power of faerie blood, and these malicious Urmen often
+specialize in tracking down the elusive fae folk and
+murdering them for their vitae. Though this practice
+has understandably gained the Urmen many enemies,
+ingestion of fae blood often evokes all manner of bizarre
+"tripping"
+known to go on insane and destructive rampages, blast-
+ing entire villages with wild magic.
+
+powers. Ravnos on fae blood have been
+
+Vritra
+
+The Vritra family is not phralmulo, and does not
+follow our ways — but Vritra claim lineage from the
+most ancient Rom, and so we extend them honor. This
+ancient family, I am told, dwells among the cities and
+wilds of India and Pakistan. Their traditions are little
+known to us, but they seem to observe rigid rules of
+status, hunting and etiquette, and they are said to deal
+with the mysterious vampires indigenous to South Asia.
+Our elders whisper that the Vritra know many secrets of
+the Paradox way, and Vritra have occasionally emerged
+
+ity
+
+
+from the East to aid us when dire trouble threatens the
+Rom, They have as yet asked for no similar aid from us.
+
+Kalderash
+
+The family Kalderash has wandered a distant vurma
+indeed; its members' steps have taken them into the
+recesses of the uttermost East. Even more than the
+Vritra, the Kalderash truck with those vampires who
+plague the mulo's expansion into China and Japan. (And
+therein lies the folly of the mulo, who would sooner
+throw away their unlives than simply ask advice of the
+lowly Ravnos!)
+
+The Kalderash is a wealthy clan; in its dealings
+(and, one suspects, less savory intercourse) with the
+Eastern mulo, its members have amassed riches and
+samadji of all sorts. But in their isolation they have
+become strange to us, and only rarely do they return to
+partake in the patshiv.
+
+Wuzho
+
+The phralmulo draw their numbers from every family
+— even the Tsurara. Tsurara Ravnos are a truly savage
+breed. Calling themselves the family Wuzho, these Kin-
+dred are the self-proclaimed protectors of the Ravnos,
+vowing the destruction of all other shilmulo. We fear these
+fanatics, for they have gone to great lengths in the past to
+"protect" the blood of the clan, destroying dozens of Kin-
+dred in their attempt to eliminate our enemies. Most
+Ravnos try to stay carefully informed of where Wuzho
+travel, knowing that Ravnos may suffer Blood Hunts in
+that region for many years to come.
+
+The Piles
+
+Ipissoftéwsaid.of Ravnos that few reach theit
+second century. Those who gain theiame"eldery"
+KiGwever} arn an honored place it/Ravnos s6ci-
+éty, They preserve clan fore and oversee thé lan's
+destiny, : ctiitg with a wisdom and foresight)
+
+. acierrourh centuries Of experience.
+4 only. theelders understand
+
+lying and theft by. hae so were the Ravn MOS
+absolved of théir damnation by Kaen. The Ravnos "
+alone were Embraced to right the injustice of the
+
+@inulo, and so they. are to serve Kaen's Will on the
+
+a night of Gehenna, striving against the:machina~
+tions. of Kaen's wayward and ravenous, childer:
+
+6c Tsthis true; or nerely awishfulfancy? Onlyon
+Gehenna, the elders see will the truth us
+revealed.
+
++ Clanbook: Ravnos
+
+
+The Duality of Lust
+
+Cohabitation. between travelingkumpaniyi of
+juvindo»and-their-shilmulo-relatives' is always
+strained; due-t6.the enormous temptations that
+luré the living fo the undead and Vice-versa,'In
+any casés, even a'single vampire can spell disas-
+ter fofyan unprepared kumpania, unless careful
+Steps are taken| to. prevent vampiric urges'from
+becoming uncontrollable:
+
+Shilmalo who travel with these kumpaniyi find
+it difficult'to control the tire to feed from living
+Rom, and thus/regain their Blood Affinities and
+the ther powers lost in the-tumnimos. Though it
+mightséem harmléss torakea little blood from the
+juvindo, the:tush of Romani blood can. become
+quite addictive. Entire families havé heen killed
+by a Shilmula they protected, as his® bloodlust
+Overpowered his mindand droye him into frenzy.
+
+For the juvindo, thesallure of che winninias
+itself can beediffieult to resist: Confronted: each
+night with: thé possibility of immortality,,many
+youngRomfind themselves allured to theirRavnos
+companions, andjwillingly hecomé Blood Dolls
+forsthese;shilmul6>Many young Rom-haye- lost
+their ‘Lives; "orhave beet eiven the: tumnimos
+without theirparents' consent;-an-act-that:can
+split-an.entire,family apatt.
+
+The Georgio
+
+These Ravnos share our blood without sharing our
+culture. Embraced from the world of the gaje, the georgio
+have brought shame upon Clan Raynos and inspired
+nothing but contempt in eyes of other Kindred. Though
+the georgio are not an exclusively American bloodline,
+most of their number remain in the New World
+
+As the youngest sect of the Raynos, they have no
+real history to speak of. They have developed no inde-
+pendent culture and have no uniform set of values or
+beliefs; only a few georgio families have even acknowl-
+edged their clan's history and traditions. Perhaps the
+only trait they have inherited is their pride. Like the
+phralmulo, they refuse to bow to the will of the other
+mulo. However, even in their defiance they disgrace
+their blood
+
+When the mulo speak of the treachery, thievery
+and impudence of the Ravnos, they are most likely
+speaking of the georgio. Without the benefit of Romani
+culture, these shilmulo cannot understand the urges of
+their blood, and resort to wanton theft and deceit
+
+Chapter Three: The Lost "f+
+
+
+Roving in gangs that they mistakenly call kumpaniyi,
+most georgio are not content until they have looted
+everything of value from their targets before moving on
+to another city, like locusts ruining the harvest.
+
+In the years following the Second World War,
+American georgio allied themselves with anarchs, hop-
+ing to bring the Camarilla crashing to its knees.
+Occasionally, the georgio succeeded in their efforts,
+throwing princes and their primogen councils into
+confusion so that the anarchs could
+Though they were cautious enough to avoid extinc-
+
+ize control.
+
+tion, they made unlife even more difficult for the
+phralmulo; many innocent Rom suffered for the crimes
+of their gaje clanmates.
+
+Not to be outdone, the georgio then turned on their
+"alli
+The re
+or even years, allowing the georgio to pillage and plun-
+der wl
+
+," betraying their plans and havens to the shanglo.
+
+ilting chaos plunged cities into strife for months
+
+atever they liked from the embattled cities.
+Packing their spoils into their vurdons, the georgio fled
+the cities, leaving the mulo caught in carefully orches-
+trated conflicts that had both sides guessing as to the
+identity of their adversaries.
+
+In the late ‘60s, however, these georgio underwent
+an unexpected change. Motivated by the dramatic
+events of that time, bands of georgio found themselves
+traveling among a new breed of "American Gypsy," the
+wandering hippies and beatniks that protested the
+United States' involvement in the Vietnam War. Due
+to these unlikely acquaintances, a new generation of
+georgio was Embraced from within these groups. Of
+course, these young Ravnos could not shed the urges of
+their blood, and the sometimes violent confrontations
+between the shanglo and this peaceful movement of the
+gaje were likely exacerbated by the neonates' crimes
+against "the establishment."
+
+Georgio most often choose their progeny based on
+their ability to trick or deceive others. They often
+attempt to con or swindle the prospective neonate
+a "test" of her ability. Hackers,
+nal thieves and gangbangers sully the
+ranks of the georgio. However, the georgio of the
+Woodstock era have openly Embr.
+among the ranks of alternative musicians, performance
+artists or poets.
+
+before Embracing her, as
+
+conmen, profe
+
+S
+
+d neonates from
+
+
+The Blood Curse
+
+Yow, today, tomorrow and always
+My only weakness is a list of crimes
+— The Smiths, "Shoplifters of the World Unite"
+We are thought to be a clan of thieves and liars.
+
+Most vampires believe our criminal tendencies are
+cemented by our blood — that our aspect of Kaen's
+curse provokes our flippant disregard for law and order.
+
+Like so many opinions of the gaje, this is both
+scathingly accurate and remarkably shortsighted. The
+urges that flow in the blood of Clan Ravnos are crimi-
+nal, yes, but only to the gaje. We Ravnos derive our
+ideas of what is right or wrong from our Gypsy heritage.
+
+The Rom define stealing as taking out of greed.
+Grazing horses on someone else's land is not wrong; the
+
+grass would grow there anyway. Takinga pair of scissors
+
+isnot a crime if one's hair needs cutting, and a Gypsy
+would not mourn the loss of such an item if its useful-
+ness had waned. For the Rom, stealing becomes a crime
+only when motivated by desire; to take something
+
+simply because one wants it is wrong, and such offenses
+
+are severely punished among the Gypsies.
+
+Like the Rom, we Ravnos place value not in posses-
+
+sions, or property, or status in government and bus
+the only thing of value is our freedom, the right to exist
+
+as we always
+
+ness;
+
+have, traveling and living in a world apart
+
+i at
+be
+
+from the other shilmulo. However, countless genera-
+tions of Ravnos have been forced to fight for their
+freedom — against governments who would hinder
+their movements or armies that would destroy them
+actions are criminal in
+
+entirely. To my clan, th
+
+nature, perpetrated against them by monstrous gaje and
+outright monsters.
+
+To retaliate against those who would oppress us,
+then, we turn the tables, stealing or damaging those
+things which our adversaries value: their cars, their
+yachts, their money, even their careers and reputa-
+tions. For Clan Ravnos, crime is not a way of unlife, but
+a weapon to use against the mulo who would subjugate
+
+them. We Ravnos do not steal for the joy of stealing; we
+
+steal for the joy of knowing that we have injured our
+enemies, in whatever small capacity.
+
+The blood of the phralmulo, however, differs greatly
+from the blood of the georgio. Though the phralmulo
+understand the purpose of our trickery, the georgio are
+often confused by the impulses in their Ravnos blood.
+Whereas it can be said that the Blood Curse of the
+phralmulo manifests in total and compulsive disregard
+for the foolish laws of the foolish gaje, the Blood Curse
+of the georgio truly does center on a particular breed of
+crime, which the georgio must constantly resist. This is
+the price the georgio pay for the dismissal of their
+heritage
+
+ry -_ «= BO FF
+uo 2 a
+‘ Lt id (s.
+pepe oa
+100 are) Li dL :
+s fo ov j
+J
+100 1?
+Hy s
+F
+5 Lh if
+U
+
+Chapter Three: The Lost
+
+(
+
+
+Yes, our blood compels us to lie, cheat and steal. But
+it should never be said that the Ravnos are an untrust-
+worthy clan; by showing trust and faith ina Ravnos, you
+gaje can often alleviate the danger of having your pos-
+sessions borrowed from you. Though this may be foolish
+when dealing with the lawless georgio, phralmulo are
+bound by a great sense of honor to those who honor
+them — most of the time. However, it should be noted
+that certain clans have committed such great offenses
+against the Ravnos that even goodwill cannot save
+them from our wrath. For these unfortunate mulo, |
+extend my pity, but not my sympathy.
+
+Kris
+
+To the gaje we seem a lawless people, constantly
+
+traveling in order to free ourselves from any burden of
+
+responsibility. In many ways, this is true; my people do
+not hold themselves accountable to the laws of the gaje
+or the Traditions of the mulo. However, every culture
+has its doctrines, and the Ravnos — and the Rom from
+which they came — are no exceptions.
+
+To resolve disagreements, Ravnos present their
+argument before a council of their elders, ina ceremony
+known as the kris. It is a kind of trial, though it differs
+markedly from anything which gaje would consider law
+
+or justice.
+
+Few crimes dictate the formation of a kris, if for no
+other reason that it might be weeks or months before
+the dispute can be settled. Until several kumpaniyi meet
+
+along the road, there cannot be enough elders present
+to preside over the ceremony as the judges, the krisatora,
+These individuals are highly respected, and are never
+entirely composed of shilmulo. In fact, some kris are
+delayed even longer because tradition dictates the pres-
+ence of no fewer than four krisatora, two living and two
+undead. (Hasty Ravnos have occasionally resorted to
+the tactic of nocturnally abducting and "pressing" juvindo
+into service, which can be quite disconcerting for those
+Rom who previously knew the undead only as legends.)
+
+Accusal
+
+When the kris finally convenes, the complaints
+and violations of tradition are presented in no patticu-
+lar order. The wronged party speaks to the assembled
+Rom, and to the krisatora in particular, stating the
+nature of the crimes and any other information she feels
+is important. She may also petition the krisatora for a
+particular resolution, or a judgment that would be
+favorable to her.
+
+The most common offenses brought before a kris
+involve stealing. You may laugh, dear reader, but for a
+
+Ravnos to steal from another member of the clan is a
+
+most serious crime. Other offenses range from betrayal
+
+of Clanbook: Ravnoos
+
+
+of clan secrets, to breaking an oath (as opposed to a
+mere promise, which is not sealed by the sacred hand-
+shake), to imparting the tumnimos on an unwilling
+individual.
+
+The accused is then given an opportunity to either
+defend himself or admit his guilt in the matter. If the
+defendant admits to his crimes, the krisatora passes
+judgment over him. By far the most prevalent judgment
+is the bestowing of curses, in a ceremony called the
+solakh, or sentencing. However, the nature of the of-
+fense can often influence the temperament and severity
+of the punishment, up to and including banishment
+
+If the accused pleads his innocence, the floor is
+open for any other speakers to add whatever additional
+information they know. If the charge is not dismissed
+by new evidence (which in some cases leads to the
+solakh of the original accuser), then the accused is again
+given the chance to respond. Should he maintain his
+innocence, the solakh will begin.
+
+Solakh
+
+It is at this point during the kris that outsiders
+would no longer recognize its value — for the gaje know
+nothing of honor, and so a curse would not seem a
+powerful sentence. For the Rom, and the Ravnos too,
+curses hold vital, dangerous power. They can lead to
+sickness, infirmity or even death. Among the Ravnos,
+
+there are no prisons, no hangings, no forced labor or
+asylums. So the solakh remains the most effective way of
+meting out justice.
+
+The accused is berated with a variety of curses, or
+amria, each one more terrible than the one before.
+After each curse, the accused acknowledges by saying,
+"bater," which means, "may it be so." The curses grow
+more and more horrifying until both the krisatora and
+the accuser are satisfied. Though the process is unset-
+tling to outsiders, it should be noted that all of the
+curses are conditional; they are structured to take effect
+if the accused is actually guilty. Ifhe is indeed innocent,
+the solakh will never haunt him.
+
+The solakh is a powerful thing; tales abound of a
+shilmulo who burst into flames under the power of the
+amria heaped upon her. Even if the accused refuses to
+accept the power of the curses, that does not render
+them ineffective. Such is the power of our Blood, and
+the power of the kris.
+
+Patohiva
+
+Not every meeting of kumpaniyi along the road is
+
+cause for an event as grim as the kris. In fact, the kris is
+the exception to the rule — and the rule is the patshiv.
+Elaborate (and expensive) parties, patshiva strengthen
+
+the ties between the Ravnos. They provide opportuni-
+
+Chapter Three: The Lost *f
+
+
+4
+
+oe
+
+ties to dance, to sing, and to share stories of our trav
+and exploits.
+
+Some patshiva last for many nights, sustained by
+both the continued goodwill of the Ravnos and the
+amount of money they are able to fleece in the area.
+Extensive crime sprees often accompany a patshiv, and
+the cities that host them are sometimes thrown into
+confusion as the Ravnos gather the "supplies" they
+need. Supermarkets, blood banks and surplus stores
+bear the brunt of the damage, but it is not unknown for
+Ravnos to carry the festivities into whorehouses, art
+galleries and hospitals.
+
+Patshiva are the clos
+that the Ravnos enjoy. They are as unpredictable as the
+
+st things to true clan meetings
+
+traveling kumpaniyi themselves, occurring whenever
+touring bands of Ravnos encounter one another.
+Through storytelling and song, valuable information is
+
+pa
+
+lasts, no one in a kumpania knows hunger or gloom.
+Samad ji:
+Heirlooms of Power
+
+Many Romare practiced in the art of making talismans,
+
+ed among my people, and for as long as the patshiv
+
+called draba. However, this too is lost to the shilmulo of the
+
+AN Pe: CK
+5 OVS
+
+Raynos family. Though members of my clan are occasion:
+tifacts
+
+ally presented with draba by other Gypsies, thes
+ofaRavnos' endlesslife,
+This is not so with the powerful draba called samadji. These
+items have retained their power for hundreds of years, passed
+
+can lose their power over the cours
+
+from sire to childe throughout the history of the Ravnos.
+
+Samadji, in fact, seem to draw their energy from the
+Ravnos who carry them. Though this process is impossible
+to explain, it is nonetheless true that samadji can acquire
+new powers through the experiences of their owners, even:
+tually becoming powerful. artifact
+
+and closely guarded
+treasures among the families that hold them.
+
+Stories abound of powerful samadji able to transport an
+entire kumpania out of danger, but mote believable tales
+involve items that grant their owners miraculous luck or
+powers normally not associated with Ravnos Disciplines.
+There are also myths about cursed samadji, items which
+cause nothing but misfortune to those families bound to
+carry them. These items can only be given away through the
+grace of others, for those who carry cursed samadji are unable.
+to rid themselves of the draba in any other fashion.
+
++ Clanbook: Ravnos
+
+
+There is no right and wrong.
+
+There is only fun and boring.
+
+— The Plague, "Hackers"
+
+Though the fundamentals of the Path of Paradox are
+already known tosomeamong the Kindred (see The Vampire
+Players Guide), certain aspects of the Path are virtually
+unknown except to the Ravnos themselves. Through careful
+study, [ have learned much about the Path, short of actually
+converting my beliefs. | have found that Ravnos who follow
+the Path are often more than willing to talk about their
+ideology, to the point where I was required to end several
+interviews because of their enormous length and meandering
+content. However, the most useful information I collected
+has been reproduced here, albeit in a much-edited form.
+
+Origins and Beliefs
+of the Path
+
+Many Kindred believe the Path to have originated in
+Rome, but the true origins of the Path are in fact much
+older, dating to the earliest nights of the Ravnos. Followers
+of the Path believe that reality is becoming more static as
+time goes on, and that creativity and free thought are fading
+
+from the popular consciousness. This hypothesis is rein-
+forced by the teachings of certain werewolves, who see the
+degradation of the natural world as a byproduct of human
+"progress," as well as the Urmen family's belief that magic is
+slowly leaving the world as science continues to "explain
+away" all of the phenomena that were once great sources of
+mystery. This effect, the Urmen say, proves damaging to the
+fae, driving them away from the world.
+
+Followers of the Path believe that it is only a matter of
+time before reality itself grinds toa halt, becoming an entropic
+graveyard devoid of new ideas or inspirations. The stated
+tenets of the Path dictate that its primary goal is to "free" the
+primordial energies of change, which they call "weig," through
+the destruction of objects and individuals that hoard it.
+
+However, there is another belief, held by some follow-
+ers of the Path, that may also help to explain a secondary
+goal of the Path of Paradox. They tell the story of "True
+Chimerstry," the original power that Laetshi taught to
+Ravnos, and that Ravnos in turn taught us, his progeny.
+According to the story, when weig was truly abundant, the
+Ravnos could not only warp and shape the perception of
+reality, but could actually alter reality itself. However, as the
+Antediluvians grew more powerful, and stored more weig,
+this ability was lost to the Ravnos.
+
+By releasing the trapped weig, the followers say, they
+will give magic and creative thought a "jump-start," even-
+tually resulting in the reformation of the vortex, the
+theoretical engine of the uncontrollable forces that once
+governed creation. The Silent Striders tell stories of an
+entity called the Wyld, which acts as a chaotic catalyst for
+creative thought and even evolution. The vortex and the
+Wyld, in turn, may be related to certain Urmen beliefs
+concerning the primal wellspring of the fae.
+
+Followers of the Path
+
+As the popularity of the Path has waxed and waned
+over time, it is not surprising that Ravnos who follow the
+Path of Paradox are of widely varied origin and heritage.
+Each time the Path has fallen into "vogue" within the clan,
+new converts are gained, but each new group distorts the
+tenets of the Path for its own ends.
+
+Some of the oldest surviving Ravnos are followers of
+the Path, sworn to restore the power of the vortex toa world
+that has forgotten everything it once knew. These elders are
+quite powerful, and they continually hunt items of power
+and sleeping Methuselahs, in order to destroy them.
+
+After World War II, a group of Ravnos survivors joined
+the followers of the Path, but for reasons which disgrace them
+in the eyes of theirelders. These young Ravnas follow the Path
+for their own ends, often using its teachings as an excuse to
+drink the tainted blood of vampires from other clans.
+
+Chapter Three: The Lost f+
+
+
+Crafts of
+Power
+
+T've seen things you people wouldn't believe.
+
+— Roy Batty, "Blade Runner"
+
+Asmy clan has aged, new powers have been discovered
+and refined. Through our endless wandering, we have
+found certain ways of reshaping or altering our Disciplines
+to better aid us in our struggles against the gaje and the mulo.
+
+Deep Song
+(Animaliom Level Six)
+
+The origins of this power are unknown, but Gitano
+Ravnos have claimed responsibility for its creation. Similar to
+Song of Serenity, this power allows a vampire to influence the
+moods of his listeners by singing to them. However, at this
+level, any desired emotion may be produced; through the
+words of the song, a Ravnos may attempt to sway the passions
+of his audience. People affected by a Deep Song are often easily
+manipulated by the singer: If filled with love or regret, they can
+be fleeced of their money, and if filled with anger or hate, they
+can be provoked into violence, or even incited to riot.
+
+System: The Ravnos rolls Manipulation + Music
+against a difficulty of the target's Willpower. Three suc-
+cesses are required to alter the listener's emotional state as
+desired. On a botch, the target manifests the desired emo-
+tion, but focuses it exclusively on the singer. The target of
+the song never clearly remembers its true power, recalling
+only that she was deeply moved by the performance. The
+effects of the Deep Song last for roughly one hour or, in the
+case of a botch, the remainder of the night.
+
+Hee of Chimerstry can and often does result in lasting effects upon fae
+
+Fata Amria
+(Chimerotry Level Six)
+
+Using this power, a Ravnos may place a potent curse on
+a target. By evoking the power in her blood, the Ravnos
+essentially "locks" an illusory effect to the target, which
+manifests from time to time. The effects of Fata Amria can
+range from merely annoying to potentially lethal, depend-
+ing on the severity of the curse and the number of successes
+rolled by the Ravnos.
+
+System: A Fata Amria costs one Willpower point to
+initiate. The Ravnos verbally curses the target, then rolls
+Manipulation + Intimidation against a difficulty of the
+target's Willpower. The number of successes determines the
+strength of the effect, as shown on the table below. The
+example effect given is simply a guideline; the way in which
+the Fata Amria manifests is based solely upon the nature of
+the curse accompanying it.
+
+Note: A Fata Amria is only as successful as the target
+believes it to be. If the target deeply fears the power of the
+curse, it manifests itself repeatedly until the target can
+master his fear.
+success Inconvenient effects; target loses two dice from
+a given Dice Pool.
+
+2 successes Minor effects; difficulty numbers are raised by
+two when in a given circumstance.
+
+3 successes Major effects; target automatically fails a cer-
+tain action at a pinnacle moment.
+
+4 successes Serious effects; target automatically fails cer-
+tain actions in any stressful situation.
+
+5 successes Disastrous effects; target fails all actions involy-
+ing a given Attribute, Ability or Discipline.
+
+‘ipline of Chimerstry
+
+ithain perceive
+tr Ry cccies against
+
+, remains
+
+i ed Vy -
+
+
+Sensory Overload
+(Chimerotry Level Eight)
+
+By overstimulating all five senses, a Ravnos may
+physically incapacitate a target. Though the target may
+remain conscious, he is unable to move or speak coher-
+ently; he is effectively cut off from the outside world,
+save through his screams.
+
+System: The character rolls Intelligence + Occult
+against a difficulty number of the target's Willpower.
+The duration of Sensory Overload is determined by the
+number of successes, shown on the table below.
+
+1 success One turn
+
+2 successes One scene
+
+3 successes One hour
+
+4 successes Six hours
+
+5 successes One day
+
+Fatuus Mastery (Addendum):
+
+In addition to the ability previously stated in The
+Vampire Players Guide, Ravnos gain an additional
+benefit from mastering this level of Chimerstry, though
+in most cases even the wielder herself will not know it.
+Upon attaining Fatuus Mastery, illusions created by the
+character also manifest in the Penumbra and the
+Shadowlands, and appear convincing to anyone view-
+ing the scene from there. However, a Ravnos who
+cannot peer into these locations is still unable to affect
+them directly.
+
+System: n/a
+
+Poeudo-Blindness (Addendum):
+
+Inaddition to the benefits previously stated for this
+power (see The Vampire Players Guide), a Ravnos
+who has mastered Pseudo-Blindness is also unmoved by
+the effects of the Delirium, nor is she affected by faerie
+seemings. The Ravnos can also see any chimerical
+items or animals drawn from the Dreaming as if she
+were enchanted.
+
+System: n/a
+
+New Abilities
+
+At the Storyteller's option, phralmulo characters
+
+RON DOO) OC may opt to take any of the new Talents, Skills and
+
+; Knowledges provided in A World of Darkness: Gyp-
+sies. These Abilities help to round out the character's
+mortal life as'a Gypsy.
+
+Characters Embraced into the clan from the gaje
+al 6 ©) (and who are therefore georgio) may not begin with
+tliese'Abiliciess bue may buy-thent'sormally with free>
+
+| | | bie points or experience.
+
+lXO/OO DC/VOG
+
+Chapter Three: The Loot
+
+may even alert your enemies to your presence ina city.
+
+°
+Ravnoos Merits Until you redeem yourself, be it through unrewarded
+and Fi laws loyalty or perhaps remarkable cunning, they will inter-
+
+fere with your plans and darken your name wherever
+travel. Note: You may not take a Family Enmity
+e Tsurara or the Ravnos families.
+
+e (3 pt Flaw)
+
+ommitted some grievous crime against
+now shunned by their families (in-
+10s). Though they do not work against:
+Avoid contact, as you might contaminate
+iculties of all Social rolls involving other
+increase by two). Cleansing yourself of your
+an arduous uphill battle; until you are re-
+by a kris, you are unable to travel in the
+
+Ravnos characters may take these Merits and Flay
+in addition to those listed in The Vampire Pla
+Guide.
+
+Charmed Samadji
+(1-4 pt Merit)
+
+Your family or sire has gifted yo'
+power. You are expected to carry this pow
+until you sire your own progeny, then pass t
+her. Power levels of samadji vary greatly; a sama
+reduce target numbers on certain actions (1-
+even provide the user with effects equivalent
+level Disciplinesyguch as Unseen Presence'
+
+ith the Storyteller,
+
+tion with the fataily in question are reduced b
+long as you do not Abuse your trust (such as usii
+members as steady sources of blood), the famil
+turn away from you. Note: You may not take
+Allegiance with the Tsurara or Ravnos famili
+
+Phralmulo (3 pt Merit)
+
+You were Embraced from within the Rd
+one of the families of power (see A World of Di
+Gypsies). Because of your heritage, you may b
+regain Blood Affinities by feeding on Rom
+begin with Abilities or Backgrounds availabl.
+Gypsy characters. In addition, phralmulo c!
+need not pick a specific crime as their weak:
+phralmulo show a general (but compulsive) co:
+and disregard for all the laws of the gaje. Note: Wit
+this Merit, a Ravnos player character is assumed ta
+georgio.
+
+‘in I have included a variety of opinions from
+youngling, georgio and phralmulo alike. These
+its range from the wise to the incendiary, and
+le no attempt at parenthetical explanation.
+? That, dear reader, is up to you.
+
+talk a whole lot about changing things, but
+‘ds and threats are empty unless you get them
+
+at case, just throw them a small, shiny object
+‘em busy while you get away.
+
+Instead of finding any pride or conviction, they just ~
+ang on the Camarilla's door all night, begging to be let
+Family E. nmity (2 pt Flaw) in. To their credit, the Clanless usually have a pretty
+
+By an act of betrayal, or perhaps a simple "misun- ° 800d idea of what's going on in a city, and a little
+derstanding," you have gained the scorn of one 6f the charity at the right moment will buy you a friend for
+families. They will not offer any assistance to you, and unlife — his, of course, not yours.
+
+
+Gangrel
+
+We're supposed tobe félated;' but'they'Have'a
+setious problem with us, don't ask me why. Since they
+never carry anything valuable and they have big, nasty
+fingernails, my advice is to leave them alone. Unless, of
+_ course, you see an opportunity to drive them into frenzy
+and watch fur sprout out of their ears.
+
+Malkavian
+
+Ignorant is the mulo who compares us to these sad
+undead. They are truly a blighted line. There is no
+artistry and, worse, no joy in their jests; their pranks are
+as blindly instinctive as a dog's pissing on his territory.
+
+Nooferatu
+
+We have an unspoken deal going with the Sewer
+Rats; we leave them alone (as if they had anything of
+value) and they conveniently "forget" that they saw us
+roll into town (as if we were any threat to their agenda).
+We let them have their sewers, they let us have our fun.
+Besides, they love watching us make fools of the stuffy
+Ventrue and the effete Toreador. If you find yourself
+unable to escape the wrath of the shanglo, you might
+find asylum among them — but the price, and the stink,
+will be high.
+
+Toreador
+
+Of all the clans that have denounced us as their
+enemies, the Toreador have done the least impressive
+job of showing it. Though they love the pomp and
+ceremony of their station, when their meetings are over
+and done with they would rather watch us dance than
+drive us off. Trick them, rob them, even pity them —
+but do not hate them. In truth, their hearts would break
+if we stopped dancing
+
+Tremere
+
+Their musty old books make good kindling, and
+their little baubles bring a good price at a pawnshop.
+Trust me: They're more arrogant than powerful. They
+tried to wipe us out during Hitler's war, and they failed
+Knowing that, don't pull any punches.
+
+Ventrue
+
+Feudal lords or corporate barons — some things
+never change, more's the pity. They hate us because we
+don't play the power-games they invented, so they kick
+us out of their cities. Poor us. Most of them are so
+hungry for power that they can't open their eyes, and
+the blind make easy marks. Here's a good one: Find out
+what their blood preference is, then use Chimerstry to
+make some rancid bum look that way. They make the
+
+funniest faces after just a few sips.
+
+Chapter Three: The Lost
+
+Lasombra
+
+God has taken their reflections from them. It is
+only fitting, I think, for us to take the rest of their
+things.
+
+Tzimisce
+
+These has-beens look like such easy targets, don't
+they? Well, they're not. Avoid them. Avoid, avoid,
+avoid. It's tempting to trick them, but if you piss ‘em off,
+they'll twist your head into a fucking balloon animal.
+
+(Caveat the First: Sometimes they keep such cool
+stuff in their cobwebby old crypts that it's worth the
+risk.)
+
+(Caveat the Second: If they catch you...well, you
+were warned.)
+
+Ravnoo Antitribu
+
+As Sabbat go, they're not so bad. They think a lot
+like we do, and they pull a bait-and-switch with the best
+of us. But for all our similarities, be careful not to throw
+your lot in with ‘em too quick. See, for them, their pack
+is their family, not us. Remember that before you
+powwow with ‘em.
+
+Assamite
+
+These are the guys who give the mulo nightmares,
+and that suits us fine. They also don't seem to give a
+rat's ass about us, and that suits us even better. They
+
+share our hatred for the Tremere, and I knew a Lick who
+used that angle to con an Assamite into bumping off a
+few enemies for him. It worked for him, but personally,
+I wouldn't recommend trying to duplicate it. You'd be
+dead faster than Kennedy if you got caught pulling a
+scam like that.
+
+Giovanni
+
+Okay, let me get this straight: They're big, hairy,
+overweight, immortal Mafiosi, with mansions in the
+‘burbs and beet-red Maseratis, strutting around with an
+air of mystery and control, hoarding art, money and
+blood in their safety-deposit boxes, and I'm supposed to
+be scared? With their oh-so-trendy occultism, they fall
+for the simplest cons. Let me tell you: The scariest thing
+about the Giovanni is that it takes ‘em weeks to figure
+out they've been duped.
+
+Followers of Set
+
+I love these assholes. They're so fixated on "cor-
+rupting" you that they'll give you just about anything
+— money, drugs, guns, whatever. With enemies like
+these, who needs friends?
+
+The Jyhad
+
+Heh. What a foolish game the gaje play. When the
+last chapter of the Jyhad has been written, it will be the
+Raynos who will tell the tale around the fire.
+
+
+Silent Striders
+
+You may sit across from them at the kumpania, and
+they will sheathe their talons and tolerate you. Do you
+likewise. Once away from the kumpania's confines, all
+bets are off; the Lupines are their greater family, and the
+moon bids them destroy us. If cornered by a pack, plead
+for mercy in the name of your former kinship. It won't
+stop them, but they might pause long enough for you to
+evoke a phantasm and escape.
+
+Mages
+
+Most Licks think of mages as a bunch of book-
+worms; we know better. They're a bunch of bookworms
+with cool stuff well worth borrowing. That aside, I've
+heard rumors of a partnership forming between Ravnos
+on the Path of Paradox and a group of mages called
+
+Marauders; such an alliance could produce potent re-
+sults.
+
+Though we praise the spirits of our ancestors, these
+wretched beings are called trushale odji — the thirsty
+souls. They are of little consequence to us, but there are
+mediums among the juvindo who often seek their guid-
+ance.
+
+Faeries
+
+Certain families of Ravnos have dealings with
+faeries, and from what I hear, they're all dying. The
+faeries, that is, not the Ravnos. They make powerful
+allies, but they bring a ton of problems with ‘em when
+they travel with our kumpaniyi. I've also heard that
+they're drawn to our Chimerstry, like they can smell it
+or something, but I don't like to think about that too
+much — it makes me paranoid.
+
+Chapter Three: The Lost +
+
+
+ne. Watch your
+
+Chapter Four: Characters
+
+
+You grew bored with baccarat at 16, bored with lies by gradu-
+Alice of Ss padeos ation, and bored with Kictens ori your 2lac birthday, You were ready
+to hunt pinstriped tigers now. Your chosen vocation whispered
+Quote: One of these guns is an illusion; the other is quite real. Iwill seductively every time you went to a bar, a mall, a board meeting.
+fire the one you select into your skull. Choose now, and choose carefully. Would you kill or wouldn't you? You see, you weren't one of those
+(five seconds later) Good guess....too bad I didn't inform you that the pathetic, pedophilicserotoninslaveslike
+illusory pistol was concealing a very real knife Dahmerand Chikatilo. Murder, for you,
+Prelude: Chance fascinatedyou,evenasachild. The {fgg was not the means to some autoerotic or
+chance of drawing a straight flush...the chance of your gage vengeful end; it was the end, the greatest
+mother finding out one of your lies...the of games.
+chance of a dice roll or a coin flip Y, Still, you had to find some way of
+deciding whether you'd let the q financing your fun, and so you offered
+stray kitten go or impale it on a y A your services to the underworld. Thishad
+stick in the woods. YZ, : its ups and downs — your bosses appreci-
+Acvonacubiee, j : ated your efficiency, but didn't care for the
+you discovered more / capricious way in which you went about your
+elaborate games work. Philistines. One boring night, you rolled a
+(baccarat), more elabo- LL Y die, scrutinized the result, and began arming your-
+rate lies ("Motherbeatme self.
+long before the police The police found one of your bosses in
+found the drugs in her pieces in his office, another choked to
+office, your Honor!") death on the shards of an owzo bottle, and
+and, above all, more a third burned to a crisp in the wreckage
+elaborate rules (now of his Porsche. They couldn't see the
+the kitten gota three-second " i symbolism, and so you were safe from
+headstart, and you'd let it them — but not from the other hunter
+live ifiemade it to the old who'd been watching you.
+willow stump). » The
+
+stthingyou thought, whenhe
+swooped down on you and snatched you
+off the street, was how like your victims
+you felt. Interested and satisfied, you pre:
+pared yourself for death.
+
+Instead youreceived endless life, and
+more efficient ways of dealing death, and
+an array of infinitely more interesting tar-
+. Where you went, what you did —
+that was up to younow, your sire said. You
+were Wuzho now, he told you, and you
+could play any hand you liked.
+
+Concept: You are not a lowly serial
+killer, leashed by your libidoand inadequa-
+cies, You commit crimes to exalt yourself
+the fact that others are hurt is simply irrel-
+evant. Each of your murders is planned as
+much for the survivors as for the victims, to
+evoke a particular chord of horror. Your
+"crime" of choice is, naturally, murder.
+
+Roleplaying Tips: You are somewhat
+distant; the concerns of most other beings inter-
+est you only in passing. You are still alittle in awe
+of vampires; their controlled stasis between life
+and death is slightly jarring to your philosophies,
+Your innate sense of superiority is beginning to
+emerge, however, and soon enough you will
+"graduate" to murdering Kindred, Lupinesand the
+like.
+
+Equipment: Guns of all sorts, razor, butterfly
+knives, chloroform, cyanide, syringes, rope
+
+(ee
+
+
+VAMPIRE: The Masquerade"
+Name: Ace of Spades Nature: Fanatic Clan: /0ch
+Player: Demeanor: Autist Generation:
+Chronicle: Concept: Natural Gorn Killer Haven:
+- 8S Attributes 0
+Physical Social Mental
+| Charisma, @0000000__ Perception, @@000000
+Manipulation___ ge ®@0 0000 Intelligence.
+Appearance. 000000 Wits.
+Abilities
+Talents Skills Knowledges
+
+Acting 00000000  AnimalKen_____00000000 _ Bureaucracy. 00000000
+Alertness, @@000000 Drive 20000000 — Computer. @@000000
+Athletics, 0000000 _ Etiquette. 90000000 _ Finance 00000000
+Brawl. @@000000_‘Firearms_____ee@ee0000 _Investigation, @@000000
+Dodge. @@000000 Melee____eeeeoocco Law. @0000000
+Empathy, 00000000. = Music______00000000 __ Linguistics. 00000000
+Intimidation, @@000000_  Repair________00000000_ Medicine____ 00000000
+Leadership, 00000000 _ Security______00000000 — Occult, 00000000
+Streetwise. @@000000_ ‘Stealth @ee@00000 __—s~Poilitics 00000000
+Subterfuge______eeoooc00 Survival______00000000 Science. 00000000
+
+Oss SSS Advantages SSS
+
+Disciplines _ Backgrounds Virtues
+Animalism___o0000000 Contacts @0000000 ~~ Conscience. @0000
+Chimerstry___eeoooc00 Generation _eee00000
+Fortitude @0000000 ‘Resources @@000000
+
+00000000 00000000 _ Self-Control___eeeee
+00000000 00000000
+00000000 00000000
+i «60000000 ooocccca  COUrRE. 28800)
+sesor >4-0>OS>
+ve SA
+~o—= (Other Traits——<" = =~ Path of og ae Health aa
+ooc00000, "Paradox Brtised: oO
+00000000 @®@@e@e8e0000 Hurt of ta
+00000000 ao Willpower —""~ Injured -1 0
+00000000 Wi 2 Oo
+o0000000 @ @@@®@ 88000 founded =
+cooooo000 QOOOOOOOOO Mauled = 2 O
+00000000 Crippled 5 O
+itated OF
+00000000 Blood Pool Incapacitat
+00000000 W oes
+cooooo00, OOOO00000 Must a pieces roll
+cooope0d | BIS OEknwwon
+
+not to commit crime of choice
+
+
+Roleplaying Tips: Much of the time
+youact in revoltingly stereotypical ways
+— swaggering, cursing, brandishing
+weapons and describing impossibly
+gruesome acts of violence and sex.
+Your pack knows that this means
+you're relaxed. When contemplat-
+ing the challenge of a good heist
+ora good raid, you become taci-
+turn, quiet, thoughtful and very
+alert — and your pack knows to
+stay the hell away from you.
+
+The Carjacker
+
+Quote: Attached to your car, huh? You got three
+seconds to get out or I'll make sure you're permanently
+attached to it.
+
+Prelude: You grew up in the heart of the Miami
+slums. Your father was a mechanic, and he did his
+best to support the eight of you on a repairman's
+
+wage. Fuck that — you learned early on that you
+
+could support yourself nicely by
+
+using Papa's tools for altogether
+different endeavors. As far as the \\ ulin
+
+Equipment: Shotgun, tool kit,
+
+Miami. cops were concerned, Saahicle of the week
+
+grand theft auto wasn't worth the
+bother of investigating — and if
+some asshole tried to put up a fight,
+
+well, you and your set carried tools
+
+that could open people as easily
+
+as they could open cars.
+
+You went to juvie a couple
+
+of times, killed a couple of
+
+and Papa said you were
+
+going to hell and tossed you
+out of the apartment, but basi-
+
+cally business was good — at
+least until some serious shit
+
+started going down with your set.
+
+The Haitians were crossing over
+
+where they didn't belong, and the
+leaders said it was time to fight.
+
+Over the next month you dis-
+
+tinguished yourself in a variety of
+military
+and you put yourtalents to work,
+disabling the Haitians' vehicles
+or stealing them outright.
+
+The gang leaders took notice
+
+of you—no, not the shitheads
+you followed, but the real ones,
+the ones who led from the shad-
+ows. One night you had a visitor.
+You'd pissed off the followers of
+some set or something — a bad-ass
+
+tivities. This was war,
+
+Haitian mafia— and they were looking
+
+to put you in the ground. Let him put you
+inthe ground first, he said. Dig your way out,
+and you'd be stealing cars until the night
+everybody was riding in spaceships. You said OK,
+and he initiated you into your new set.
+
+Concept: A brazen but loyal Sabbat, you
+live for the pack and the joyride. You actually
+have a fair degree of mechanical aptitude, just
+like Papa. Your crime is theft — preferably
+auto theft.
+
+oe Clanbook: Ravnos i
+
+
+Name: Carjacker Nature: Rebel
+
+it Ravnoos-\t
+
+VAMPIRE: The Masquerade"
+
+Clan: 13ch
+
+Player: Demeanor: "6yavo Generation:
+Chronicle: Concept: ‘Young Thug Haven:
+SSS Attrib ates os
+Physical Social Mental
+Strength ________ee@eeco0o Charisma @000000 __ Perception, @@0@00000
+Dexterity. @@0000 Manipulation__ ee 000000 Intelligence. @@000000
+Stamina, @@000000 Appearance. @@000000 Wits. @@000000
+00> ———SSSeeeeeeeEEEEE egegs
+Na Abilities =i areal
+Talents Skills Knowledges
+Acting ______ 90000000. AnimalKen____00000000 _ Bureaucracy. 00000000
+Alertness @0000000 Drive @0@@@0000 = Computer. 00000000
+Athletics. 00000000 _ Etiquette. 00000000 _ Finance. @0000000
+Brawl. @00000 Firearms. @@000000 Investigation. 00000000
+Dodge. 0000000 Melee______@0000000 Law. 00000000
+Empathy 00000000 = Music________00000000 _ Linguistics @0000000
+Intimidation__@e@eooo0o Repair. @@@00000_ = Medicine 00000000
+Leadership. 00000000 _ Security______eeeococo Occult, @0000000
+Streetwise @@000000 Stealth, @0000000_ Politics. 00000000
+Subterfuge. 00000000  Survival_______00000000 Science, 00000000
+<0 Q4-0.-) cee ot
+SSS Ata sew
+Disciplines Backgrounds Virtues
+Animalism___oo000000 Contacts @e@000000 ~—— Callousness. @@000
+Chimerstry___ ooo0000  dterd 00000
+Fortitude___ee000000 00000000
+Celerity __ e0000000 00000000 _ Instincts ©0000
+00000000 00000000
+00000000 00000000 agpale
+ H0000000 00000000
+<50<04<
+vr
+wm Other Traits Path of oo
+Wilicary Science eeOOGedd Atlonorable Accord Bruised oO
+00000000 ®@®@®@®@®00000 ‘Hurt Aside
+00000000 esau Willpower ——s> Injured) 0
+00000000
+oooo0000 8 OOOO CK0000 Wounded 2 O
+Soooonoe Ieee) Mauled 2 0
+00000000 Crippled 5 O
+00000000 itated O
+=== Blood Pool —* Iocan
+real <ewomee Weakness
+cooooo00 MOOOOOOO000 Must make Instincts roll not
+cooooo00 IO OOOO0000 ,
+
+to commit crime of choice
+
+>
+
+-
+
+The Dakini
+
+Quote: To obtain true enlightenment you must renounce the things of the world, bequeathing your possessions to one of the Seven-
+and-Seventy Immortal Asuras, who will use them in the pursuit of righteousness. As
+it so happens, I am Immortal Asura Number 76....
+
+Prelude: Your first memories were of Bombay's shantytowns: the
+squalid bazaars and dirt alleys where you ran with the beggar children who
+swarmed like flies about the stalls. You had a knack for being unseen by the
+police and visible for the CARE representatives; by the age of 12, fattened
+onother children's food packages, you had actually developed a haunting,
+if dirty and feral, beauty.
+
+This provided the ticket to a career in Bombay's underworld, but it was
+your sharp mind and utter lack of scruples that carved your niche amid the
+slavery rings, bordellos and opium dens.
+
+You weren't the only predator, nor the most formidable, but you
+proved to the liking of a Vritra Ravnos, who Embraced you and
+initiated you into the ways of the clan. Now you could deal in souls the
+same way you dealt in goods and bodies.
+
+Tewas the simplest matter to gain admission to high society, stalking
+among the wealthy tourists and degrading them into blood-addicted
+slaves. And then it hit you: If the tourists were this gullible, what were
+the natives like? You arranged a flight to America the next night.
+
+The fools flocked to yout exotic beauty, gobbling up what-
+ever made-up gibberish youspouted as pearls of Oriental wisdom.
+Soon you had a devoted cult of wealthy thralls, all adoring you
+as an incarnate goddess and all too willing to sacrifice their
+riches, their power, and their blood.
+
+Concept: You are a priestess, true, but your gods are
+Rolex and Rolls-Royce. You know just enough of what
+you're talking about to bilk those who don't. Your
+crime is deception — you love wrapping the wealthy
+
+and powerful around your beringed finger.
+
+Roleplaying Tips: You affect a facade of enlight-
+enment and serene wisdom, mixed with hints of
+
+sensuality — in other words, exactly what most
+people want. Youare prophetic, helpfulandcharm-
+ing, so long as there is still
+something to milk from the
+person whom youare"enlight-
+ening."
+
+Equipment: Jewelry,
+Rolex watch, sunglasses,
+saris and modern busi-
+ness suits, temple,
+Maserati, tiger and
+python ghouls
+
++ Clanbook: Ravnos
+
+
+Lu Ravnoos-t
+
+Name: The Oakini
+
+Nature: Conniver
+
+VAMPIRE: The Masquerade"
+
+Clan: 13h
+
+Player: Demeanor: Architect Generation:
+Chronicle: Concept: False Prophet Haven:
+<0 4-0 40> OS
+FSS Atco etes
+Physical Social Mental
+Strength @@ 000000 Charisma Perception. @@000000
+Dexterity, @@0000 Manipulation. Intelligence. @@000000
+Stamina. @000000 Appearance. Wits, @@000000
+SOsee Abilities ce
+Talents Skills Knowledges
+Acting eeo00000 = Animal Ken_____e@e@000000 __ Bureaucracy 00000000
+Alertness. @0000000 Drive. @0000000 Computer. 00000000
+Athletics, e@0000000 __ Btiquette____e@e@000000 Finance. @0000000
+Brawl. 00000000 __ Firearms_____00000000 __Investigation 00000000
+Dodge. @@000000 Melee 90000000 Law. 00000000
+Empathy. @0000000 = Music___ @0 000000 Linguistics @@000000
+Intimidation____00000000 — Repair______00000000 Medicine, 00000000
+Leadership. 00000000 _ Security______00000000 — Occult @@000000
+Streetwise, @@000000 = Stealth_______eeooo0000 _ Politics 00000000
+Subterfuge, e@@000000 = Survival______@0000000 __ Science. 00000000
+SOS AKantages avo
+__ Disciplines Backgrounds Virtues
+Animalism__eeoooc00 ted Conscience. @@000
+Chimerstry___eooo0o000 Influence
+Fortitude. oo000000.— ‘Resources
+QoGCooOO. > ‘Retainers i Self-Control___eeeee
+00000000 00000000
+00000000 00000000 Cy rave
+pe? Sd 1 10000000 00000000 sa) ie ee00
+~<50<+04< 24-0 OS
+See Or
+om Other Traits" Humanity I sate Health alts
+00000000 Bruised oO
+GoaGOGoo @eeeee0@8000 Huck Avo
+00000000 errsammn Willpower ——-> Injured = 1
+00000000 Womlal 2.0
+00000000 @@®®@8 e000 4
+ooooo00 OOOOOOOOOO Mauled 2 O
+00000000 Crippled 5 O
+Incapacitated O
+00000000 sme Biggd Pool ——*""
+00000000 Weakn
+cooooo00 OOOOOOOOOO 5," besa: a,
+ccoooo00-s FAD OOOO ust make Self-Control ro
+
+not to commit crime of choice
+
+
+Quote: 1amalord of the Night, an unfulfilled waif of the grave, amaster of the Demon Undead.
+
+Now watch this!
+Prelude: When you were five, the other kids in your kindergarten class were dutifully
+staying in the lines while coloring their handouts of houses. You, by
+contrast, were drawing that same house being smashed and its
+inhabitants devoured by a lurid chartreuse stegosaurus. Worlds
+of wonder and horror blossomed in your soul; you devoured all
+thescience fiction and horror cinema and literature you could,
+and did a fair job of creating your own.
+
+You went to art school, then double-majored in graphic
+design and filmmaking. O'Brien, Harryhausen, Giger,
+Cameron — these were your idols, and you made a fair go
+toward a career as a special-effects designer.
+
+You never dreamed, however, that the monsters you
+loved were anything more than wires and foam and pixels
+until that night you were working late on the set of
+Cretaceous Camage 3. First came the gunshots —and
+
+the acrid scent of very real powder — and then the
+things rounded the corner. Pale, fanged, bloodied,
+wearing black leather and sporting bright red
+wounds —you didn't need Coppola or Romero to
+tell you what they were.
+Nor did you have any doubts as to their
+intentions, as their eyes flared crimson and their very
+real talons extruded and their scarlet lips twisted into
+rictuses like the great white's in Spielberg's Jaws. So,
+with only a hint of hesitation, you flipped a switch, and
+the digitized stegosaurus materialized in the center of the
+studio.
+
+Screaming in panic, the vampires fled the studio amid
+cries of "Shapeshifter!" and "Magus!" All except one — a
+tattered, pallid waif of a girl who looked sickly even for the
+undead. Righting herself against a console, she smiled weakly.
+Reassuring you as to her innocence, she thanked you for
+chasing off the "anarch gang." Your talents, combined with a
+little "Ravnos" magic, might take you far in the "free states,"
+she said. Were you interested in life eternal?
+
+You didn't understand half of what the vampire was
+babblingabout, butif this was real, you were ll for it. Saying
+goodbye to the sun, you entered a reality mote thrilling
+than any movie.
+
+Concept: You are more interested in your
+Chimerstry Discipline than in the unfortunate side
+effects of vampirism. You did grow up steeped in tales of
+the horrific, however, so you know a little about what to
+expect from unlife — and you are talented enough to
+wiggle your way out when your expectations prove
+wrong. Your crime is trickery; you love tofool others, and
+you have mastered the art of the bluff, both verbal and
+illusory.
+
+Roleplaying Tips: Externally a little nervous and
+self-effacing, you are actually a lot more confident than
+you appear. Youget wildly enthusiastic when "conjuring"
+Chimerstry-spun visions, and you avidly seek to learn
+more about the nocturnal world into which you have
+been thrown.
+
+Equipment: Disguise kit, state-of-the-art computer
+system, explosives
+
+reeefsetethtfs
+
+
+it Ravnos-_i
+
+VAMPIRE: The Masquerade"
+Name: FX Artist Nature: "Visionary Clan: 12h:
+Player: Demeanor: Gallant Generation:
+Chronicle: Concept: Lovable Goob Haven:
+S00 Attrib tes SSS eo
+Social Mental
+Charisma. Perception.
+Manipulation. Intelligence.
+Appearance Wits.
+Abilities
+Talents Skills Knowledges
+Acting _______@0000000_  AnimalKen_____00000000 _ Bureaucracy. 00000000
+Alertness, @0000000 Drive @0000000 = Computer. @00000
+Athletics, 00000000 Etiquette. 90000000 _ Finance 00000000
+Brawl, 00000000 | Firearms____@®0000000 _ Investigation, @@000000
+Dodge. @0000000 Melee______oo000000  law_________ 90000000
+Empathy, 00000000. = Music_______00000000 _Linguistics___e 0000000
+Intimidation____00000000 — Repair_______ee@000000 Medicine. 00000000
+Leadership______00000000 __ Security_______ee000000 Occult. @@000000
+Streetwise, @0000000_ Stealth______e0000000 _ Politics 00000000
+Subterfuge @o0000000 ~— Survival_______ 900000000 Science. @0000000
+|S Q)<-0-) ce
+——tarta es SSS
+_ Disciplines _ _ Backgrounds _ Virtues
+Animalism__eoo00000 Contacts @@000000 _ ~— Conscience e
+Chimerstry___ @@00000 eneration @0000000
+Fortitude___o0000000 Mentor ___e0000000
+00000000 eSources e0000000 _ Self-Control__eeeoo
+00000000 00000000
+00000000 00000000 q,
+Pein YG 960000 00000000 URaaE. e800
+<P04-04-<—— +:
+ey oro
+sve Other Traits——<- = ~-»-——Humanity oe Health ce
+Disguise ___ @@®00000 Bruised Oo
+Photography 00000 2.9.00 0.0.0.0: 0.0 Hurt oa |
+00000000 ejmmm Willpower ——<"" Injured 32-1 O
+00000000 we o
+00000000 © @@®®®®0000 ounded 2
+oooooo00 OOOOOOOOOO Mauled 2 o
+00000000 Crippled 5 O
+0 i |
+00000000 +» Blood Pool —=~ docapesioted
+00000000 Weakn
+eooooo00 QOOOOO0000 Aust Pees ica roll
+1S Re ~Lo rm
+sade Ne io ate fs 71514 PRE | i lf i | lf
+
+not to commit crime of choice
+
+T 4
+
+
+The Seer
+
+Quote: Your significator, Knight of Swords, shows that you are to play an important role
+in the Ancients' Jyhad, but — wait! Now I draw the Tower — great strife between Ravnos
+and mulo is nigh!
+
+Prelude: Born into the Phuri Dae family, you manifested your Second Sight
+early on. Thus, you were always aware of the night-walkers hovering just
+beyond the firelight, even before your aunt told you the dreadful stories of the
+haunted Ravnos family. Even asa child, you felt their cold gaze piercing you
+from afar, and dreams of your fate tormented your sleep.
+
+Ithappened one night while your kumpania traversed a particu-
+
+larly desolate region of Hungary. The authorities had proved
+unfriendly, and your baro felt it wise to move on, despite the evil
+omens you had noticed all day. The caravan wended its way
+
+into the Transylvanian foothills, and it was just about
+midnight when the monsters attacked.
+
+They were frightful things: Though they stood on two'
+legs, their eyes blazed like those of feral cats, and the teeth
+that they bared above blackened lips were even sharper
+than your nightmares had suggested. Their talons were
+sharp, too, as your family found out when they fell J
+beneath the creatures' slashing assault. Youscreamed
+mindlessly as you watched them eviscerate and
+batten on your siblings, cousins, elders.
+
+And then the night-walkers of your child-
+hood appeared as if by magic, interposing
+themselves between you and the monsters. One
+of the night-walkers, a tall, lean woman who
+appeared to be the leader, spoke.
+
+"You have chosen the wrong victims,
+Gangrel," she spat. "We will cause you more pain
+than your Sabbat masters could inflict on you in
+centuries." And with that, the Ravnos attacked, and
+you fainted in horror.
+
+You woke to the salty taste of blood, and the cold
+grip of the Ravnos. The shilmulo woman stood over you,
+caked with gore but nonetheless radiating serenity. You
+could no longer be Phuri Dae, she said. Now you would
+use your talents in the service of the Ravnos.
+
+Concept: As phralmulo, you have no specific crime,
+but compulsively flout the foolish laws of the mulo and the
+Six Traditions of Caine (which, you are sure, do not apply
+to Ravnos anyway). Your Second Sight was largely wiped
+away by the tumnimos, but you have spontaneously mani-
+fested Auspex to compensate.
+
+Roleplaying Tips: You are more serious than many of your
+kin — they would believe themselves above the ancient Jyhad,
+but you have looked into the sorrowful eyes of the elders, and
+you know better. You try your best to prevent disaster before
+it happens, and it saddens you when others foolishly ignore
+your intuition.
+
+Equipment: Tarot deck, fortunetelling paraphernalia
+(much for show, some quite real), minivan, satchel, jewelry
+
+- Clanbook: Ravnos
+
+
+Lt Ravnos-t
+
+VAMPIRE: The Masquerade"
+Name: The Seer Nature: Martyr Clan: /2ch
+Player: Demeanor: Loner Generation:
+Chronicle: Concept: Ingenue Haven:
+B88 ———————— 2 oS
+_ SS eocbates qa
+Physical Social Mental
+Strength, Charisma, @@000000 Perception. @0000000
+Dexterity. Manipulation. 000000 Intelligence.
+Stamina. Appearance. 00000 Wits.
+Ranma Abilities
+Talents Skills Knowledges
+Acting = @0000000 = Animal Ken @@®000000 __ Bureaucracy. 00000000
+Alertness, @ee@00000 Drive @0000000 — Computer. 00000000
+Athletics, 00000000 _ Etiquette______e0000000 Finance 00000000
+Brawl. 00000000 | Firearms 00000000 _ Investigation @@000000
+Dodge. @0000000 Melee___00000000  Law_____ 00000000
+Empathy. e@@0e0000 = Music____00000000 _Linguistics___eee00000
+Intimidation 00000000 Repair_____ 00000000 ___ Medicine.
+Leadership______@0000000 _ Security_____—s9»)7 000000 Occult.
+Streetwise. 00000000 _ Stealth____———s.»> 77000000 Politics
+Subterfuge______o0000000 _ Survival_______@0000000 Science. 00000000
+30 —
+SSS Advantages Oo
+Disciplines Backgrounds _ Virtues
+Animalism__ee000000 llies ee@000000 ~— Conscience. eccce
+Chimerstry___e0000000 eneration __@0000000
+Fortitude___o0000000 Mentor ___e0000000
+uspex e0000000 ‘Resources @0000000 —_ Self-Control e000
+00000000. _________ 00000000
+00000000 00000000
+Bot. -8 3 66000000 oooocc00 Courage, ooNe.
+20> QS
+~<0+04< Sr
+o—Other Traits = ~»———Humanity-—~- Health si
+Gupsy Lore _ @0000000 Bruised Oo
+Kindred Lore e0oo0000 & 89900880 Hurt 4 6
+Lupine Lore _ a ‘
+90000000 as Willpower ——~-~ Injured 9-1 O
+puis  SSengodad W o
+00000000 @@@® 8888000 founded 2
+00000000 OOOOOoOoOoo00 Mauled 20
+00000000 Crippled 995 O
+00000000... Bigg Pool —"— Incapacitated =O
+00000000 ‘i site
+eooooo00 QOOOOOO0000 Must atts Hep croinat roll
+ccoooo0n QU OO00000
+
+not to commit crime of choice
+
+a
+
+
+The Smuggler
+
+Quote: No, you listen. I'm not one of your Vaulderie-besotted lushes. If
+‘you want the primogen councilor through the Black Forest and in your bishop's
+manse, stake intact, by 2300 tomorrow, no strings attached...it'll cost you
+everything I asked for previously , plus that muscle-bound vessel you're so fond
+of. You have 20 seconds to agree or get off my boat.
+
+Prelude: You grew up on the wharves of Amsterdam, and by the time
+you were an adolescent, you knew those wharves and the thieves that
+haunted them far better than did the police. Your underworld ascent was
+as meticulous as a mule run through Customs, and by the time you were
+25 the crime bosses of Europe were entrusting you with fortunes.
+
+Naturally, you had contacts worldwide — Bangkok, Medellin, Mi-
+ami, Moscow — and naturally, intelligence agencies worldwide had files
+on you (though no one could prove anything). So it was not so surprising
+when the nocturnal visitot slipped past your bodyguatds and state-of-the-
+art security system and tapped you awake aftera particularly tension-filled
+day.
+
+After she lulled you into quiescence, she explained. There was an
+underworld deeper and vaster and more influential than you had ever
+imagined. The players in this shadow economy routinely dealt in the fates
+of cities, states, entire countries. Those crime bosses for whom you worked
+were the merest finger puppets veiling centuries-old talons. Some of
+these players had been working the underworld since the nights of
+Delilah — and if you were game, she'd induct you into the big
+picture. Naturally, such an offer was too good to pass up.
+
+Concept: You were a professional criminal in life and intend to
+
+be even more professional in death. The ideologies of Europe, and
+the agencies that enforced them, meant nothing to you when you
+breathed — do the archons and the Hand really expect you to fear
+them now?
+
+Roleplaying Tips: Everyone needs you, but you're patient;
+they'll come to yousoon enough. You projecta cool congenial-
+ity to everyone you meet. Your ability to deal professionally
+and unflinchingly with Nosferatu has helped you more
+than all your Disciplines combined
+
+Equipment: Ghoul bodyguards, boat, van,
+
+Luger, fashionable attire, briefcase with se-
+cret cryogenic compartment
+
+
+Lt Ravnoos-t
+
+VAMPIRE: The Masquerade"
+
+Name: The Smuggler Nature: Survivor Clan: 12ch
+Player: Demeanor: ‘Ovrector Generation:
+Chronicle: Concept: Criminal Haven:
+
+SO as > Attra SSS OO
+
+Physical Social Mental
+Strength, @@000000 = Charisma. @@@00000 Perception, @@000000
+Dexterity, Manipulation__ ge ee 0000 Intelligence
+Stamina. Appearance. @@0@00000 Wits.
+ie Oe Abilities
+Talents Skills Knowledges
+
+Acting________00000000 — AnimalKen____00000000 _ Bureaucracy. 00000000
+Alertness. @@0@00000 Drive #00000 Computer. 00000000
+Athletics. 00000000 __ Etiquette. @0000000 _ Finance. @@@00000
+Brawl @0000000 Firearms. @@000000 __Investigation___00000000
+Dodge. @0000000 ~~~ Melee @0000000 Llaw__ 0000000
+Empathy. 00000000. Music______ 00000000 __ Linguistics @@000000
+Intimidation. e0000000_ Repair__ 77000000 Medicine 00000000
+Leadership____eo0000000  Security_____ 00000000 — Occult 00000000
+Streetwise Stealth _______ee000000 _ Politics 00000000
+Subterfuge Survival_______00000000 _ Science. 00000000
+
+oe  ——— = Advantages
+
+———— 0 OS
+
+_ Disciplines _ Backgrounds Virtues
+Animalism__eoo00000 Contacts ee0e0e000 = Conscience @e000
+Chimerstry___eoooco00 Generation @0000000
+Fortitude e0000000_ = Influence @@000000
+
+o0000000 ‘Resources eeeeooco _Self-Control___e
+00000000 ‘Retainers @@000000
+00000000 tatus 0000000 Ey,
+Pisieineieen een POOOOCOO 00000000
+~<SO<0¢<
+~o—« Other Traits moe Humanity-——~--
+00000000 9 @e@@ee0000 Bruised o
+00000000 Hurt ay
+00000000, — Willpower —=~ Injured 1 0
+00000000 WwW o
+00000000 © @@®8e8ee800 founded 2
+cooooo00 QOOOOOOOOO Mauled 2 O
+00000000 Crippled =-5 O
+000 Incapacitated 0
+00000000 =» Blood Pool —=-
+00000000 Weakness
+ooooo000 QOOOOO0O000 aie
+00000000 Must make Self-Control roll
+ODOOOOOOOOO
+
+not to commit crime of choice
+
+
+he Subway
+Conman
+
+Quote: Spare a couple bucks, man? I lost my leg in ‘Nam and —
+no, huh? Uh.... Well then, you wanna see a card trick?
+
+Prelude: Asa youth, you mastered three-card monte and made
+fast cash on the streetcorners of Manhattan. Pretty soon you were
+hustling the hustlers, fleecing them for every penny you could get.
+Your skill at the con was making more money in a week than your
+parents earned in a month. Sometimes it got rough, sure, but you
+learned to take care of yourself.
+
+By the time you were a teenager, you were selling pieces of the
+Brooklyn Bridge to tourists. You mastered the bait-and-switch, the
+straight con, the smash-and-grab. On your 16th birthday, you
+celebrated by convincing some poor sucker that you'd been run over
+as he was driving by you.
+
+As you gtew older, you grew tired of the same old routines. You
+started to come up with new ones, playing blind on the bus or taping
+your legs behind you and rolling around in a stolen wheelchair.
+
+One night, after you had finished a rather successful evening,
+some guy came up to you and launched into some wild story
+about muggers and cops and who knew what else, this guy
+was talking so fast. He was wearing a suit, but it was all
+messed up, and you started to actually feel bad for the
+guy. He asked you for money, to help him out,
+so he could get a cab. You started to reach
+into your pocket, and then it dawned on
+you: This was all a scam. You looked
+straight at him and told him so, and
+started to walk away.
+
+Before you knew what had
+hit you, you were face down on
+thepavement. He dragged you
+off the street, and said some-
+thing about how he'd been
+watching you. You were
+gonna work out just fine,
+he said. You had poten-
+tial, he said. He would
+teach you how to run
+areal scam, he said.
+
+And he did.
+
+Concept:
+You're a young
+street con who's
+been granted
+the abilities
+you always
+dreamed of.
+You miss your
+family and your
+old life sometimes,
+but now you have a
+newone. Your talents are
+best suited to lies and decep-
+tion, makinga quick buck froman
+unwitting mark. Your crime is the
+
+confidence game — the more elaborate, the better — and you like
+nothing better than tricking people out of their most precious
+possession of all: their blood.
+
+Roleplaying Tips: Life is a game to you, and you can make up
+the rules as you go along. You're a fast learner and a fast talker, and
+you know that no one else can keep up
+with you. You pity the poor saps
+you con, but only because they
+don't have the good sense to
+
+wise up.
+
+Equipment: Wheel:
+chair, deck of marked cards,
+lab coat, IV, blood bags
+and refrigerator, fake cast
+and sling, raggedy fatigues,
+knife, coffee cup of loose
+
+change
+
+
+VAMPIRE: The Masquerade"
+
+Name: The Subway Conman Nature: Conniver Clan: 9ch
+Player: Demeanor: Martyr Generation:
+Chronicle: Concept: "Gad Seed Haven:
+
+988 SSS Attrib ates SSS 0
+
+Physical Social Mental
+Strength _______e@e@000000 Charisma. @@000000 Perception. @@000000
+Dexterity. 00000 Manipulation__ ee ee 0000 Intelligence
+Stamina 000000 Appearance. 000000 Wits,
+Tee: Abilities
+Talents Skills Knowledges
+
+Acting _______e@eeoo000 = AnimalKen_____@0000000 __ Bureaucracy. @0000000
+Alertness @0000000 Drive. @@000000 Computer___o00000000
+Athletics 00000000 _ Etiquette 0000000 Finance. @0000000
+Brawl 00000000 Firearms. 0000000 Investigation. 00000000
+Dodge. @0000000 Melee. @0000000_  Law_____e0000000
+Empathy. e@0000000 = Music_______00000000 _Linguistics__e0000000
+Intimidation e0000000 —-Repair_______00000000 Medicine @0000000
+Leadership______o0000000 __ Security_______e0000000 Occult. 00000000
+Streetwise @00000 __ Stealth @@000000 Politics. 00000000
+Subterfuge______eeeeoooo  Survival______00000000 _ Science 00000000
+
+= Advantages aro
+
+_ Disciplines ,_ Backgrounds _ Virtues
+Animalism__eooo0000 Contacts @0000000 _ ~Conscience @0@000
+Chimerstry___e 0000000 eneration __@@@e0000
+Fortitude___eoo00000 ‘Resources @@000000
+00000000 00000000 __Self-Control___eeeee
+00000000 00000000
+00000000 00000000
+
+eo. 60000000 Cooocc00 — COUraBe. Peer.
+
+<Os04< -o<>
+
+sem=Other Traits——<- = <-»-~Humanity———~- Health ee
+00000000 Bruised Oo
+ooocoo00 OO OOOO HOO a fio
+09000000 avss—= Willpower ——"— Injured 9-1
+00000000 VWoedd > Oo
+00000000 @@eeeeee@0@00 "1
+oooooo00 OOOOOOOO00 Mauled =2 O
+00000000 Crippled 5 o
+00000000... By ni Incapacitated
+00000000 lood Weaksiess
+cooooo00 IOOO00000 Must make Self-Control roll
+00000000
+
+OOOO0000000 not to commit crime of choice
+xr =o
+
+ee ee
+
+flo eke
+
+
+
+Camarilla Justicars and Black Hand Seraphim alike
+curse the name of Ivan Krenyenko — though this
+appellation is only the latest of many aliases under
+which the Ravnos rogue has committed crimes through
+the ages. Krenyenko is no stranger to adversity, having
+
+q been hunted by every organization from the Inquisition
+
+Ivan Krenyenko
+
+thought to have connections to his clanmate Durga
+Syn, and to aid her against the machinations of Baba
+Yaga; on the other hand, many of Krenyenko's exploits
+seem motivated by nothing more than whimsy and self-
+interest.
+
+One thing is certain: Krenyenko, in any of a num-
+
+to the Inner Circle to
+
+ber of guises, has been
+
+the KGB. To such
+pursuit the Gypsy
+typically responds
+with a wave and an
+infuriating laugh, and
+Krenyenko has made
+a personal enemy of
+the Gangrel Justicar.
+
+Recently,
+Krenyenko has be-
+deviled the nascent
+power
+emerging in Eastern
+; Europe, affiliating
+himselfwith the black
+markets and the Rus-
+sian mob. He is
+
+structures
+
+present at many of the
+great events in Kin-
+dred history. It is
+believed that he and
+his Chimerstry. were
+responsible for several
+Caine sightings, and
+theGehenna Twilight
+Cult would very much
+like to question him
+regarding his knowl-
+edge of the "child of
+Eve." Given
+Krenyenko's disposi-
+tion and history, it is
+unlikely that he will
+stop by and chat any-
+time soon.
+
+Appendix: Ravnos of Legend *f*
+
+
+Durga Syn
+
+Few Kindred know the mysterious Ravnos
+wanderer and wisewoman called Durga Syn. Those
+who do are often uncertain of her motives, noting
+that the term "Durga" denotes an Indian death-
+goddess related to Kali. It matters little; Durga Syn
+has used countless aliases, and the annals of Kin-
+dred history are filled with her deeds, committed
+under a variety of guises.
+
+Once beautiful, the priestess Durga Syn was
+cursed with premature age and ugliness by the
+Nosferatu Methuselah Baba Yaga. Since that fate-
+ful night, Durga Syn has waged an exhaustive
+campaign against the hag and her minions.
+
+Recently, Durga Syn has discovered that her
+ancient foe has arisen from torpor. Those few
+vampires sufficiently knowledgeable in the Jyhad
+to be aware of Baba Yaga's return feel that Eastern
+Europe is ready to explode in long-postponed vio-
+lence, as Durga deploys centuries-dormant pawns
+and marshals the formidable supernatural forces at
+her command.
+
+For more information about Durga Syn, see
+Children of the Inquisition.
+
+
+Even other Ravnos know little about the enig-
+matic vampire called Spider-killer. He haunts the
+cities and wastes of the American Southwest,
+wreaking chaos and destruction wherever he trav-
+els. His mastery of illusions is well known and very
+powerful; many mulo have met their end trying to
+destroy him.
+
+The earliest reports of Spider-killer's presence
+date from Tucson in 1894, and since then his
+reputation has risen to almost mythic proportions.
+Though he has struck against anarch and elder
+alike, his favorite targets seem to be the Setites and
+Mexican Sabbat, whom he has repeatedly, tena-
+ciously and ingeniously disgraced. A famous story
+tells of his involvement in the revelation of a
+secret Setite community in Phoenix, knowledge
+for which the Camarilla prince was especially
+grateful.
+
+If Spider-killer truly has any goals, they cannot
+be gleaned from the course of his actions; his
+appearances are seemingly random, as are his tar-
+gets. His path wanders all across the desert, as far
+south as Mexico and as far west as California.
+Rumors often tell of Spider-killer accompanying
+other supernatural beings, including Lupines and
+magi, who aid him in his seemingly entropic agenda.
+No one seems to know exactly who he is or
+from whence he came, though some of his reputed
+powers have led many elders to wonder if he is
+actually a remnant of the Ravnos Neve. Some
+georgio believe that he is not a Ravnos at all, but
+one of the Nuwisha, a legendary breed of coyote
+shapeshifters. Other stories suggest that he is in-
+habited by the spirit of the trickster Coyote himself,
+though this seems an improbable conclusion.
+
+Appendix: Ravnos of Legena
+
+Whether Ezmerelda truly exists or not is un-
+known. However, there is no denying that she has
+played an important role, time and time again, to
+change the gaje's perceptions of the Rom. Through-
+out the literature of the gaje, her name is used to
+represent the quintessential Gypsy woman. Ravnos
+elders are unwilling to discount this as mere coin-
+cidence.
+
+She is always described as a beautiful Gypsy
+woman, with sparkling eyes, lustrous hair — and
+bearing a crescent-moon birthmark. Her ways are
+mysterious, her history unknown. Her visions are
+powerful, her mind and wit sharp, and her influ-
+ence has always been great whenever she has
+surfaced.
+
+Because of the elapsed time between her ap-
+pearances, many elders maintain that she must be
+of Ravnos stock. Others argue that Ezmerelda
+
++ Clanbook: Ravnos
+
+Ezmerelda
+
+could be a series of different Romani girls, each
+borrowing the name for their dealings with the
+gaje. These arguments are further fueled by her
+supposed abilities: She is reported to possess the
+Sight and to have appeared in broad daylight, both
+of which would mark her as juvindo. These points
+are retorted with the capabilities of advanced
+Chimerstry; given sufficient mastery of the Disci-
+pline, these tricks would be child's play.
+
+As this argument has continued, many Ravnos
+have tried to seek her out; all of these attempts
+have proved fruitless. Whether she is a single
+individual or a series of powerful Romani seers, her
+influence has nonetheless been profound. She has
+always been the heroine of the stories that include
+her, and in the minds of the gaje, the name
+"Ezmerelda" continues to be associated with the
+power of the Rom.
+
+
+VAMPIRE: The Masquerade"
+Name: Nature: Clan:
+Player: Demeanor: Generation:
+Chronicle: Concept: Haven:
+SS Att ates SSO
+Physical Social Mental
+Strength, @0000000 — Charisma @0000000 __ Perception, @0000000
+Dexterity. @0000000 Manipulation. @0000000 Intelligence @0000000
+Stamina_ -€0000000 Appearance. @0000000 Wits. @0000000
+<9<-0-< ensue 4-0 OS
+vw Abilities SEE
+Talents Skills Knowledges
+Acting_________00000000 _  AnimalKen_____00000000 __ Bureaucracy. 00000000
+Alertness 00000000 _ Drive___ 00000000 — Computer. 00000000
+Athletics 00000000 _ Etiquette. 00000000 Finance. 00000000
+Brawl 00000000 _ Firearms. 00000000 _ Investigation. 00000000
+Dodge. 00000000 Melee. 90000000 Law_____00000000
+Empathy. 00000000 _— Music. 00000000 __Linguistices___ 90000000
+Intimidation 00000000 Repair. 00000000 Medicine. 00000000
+Leadership_____oo0000000  Security_______00000000 Occult. 00000000
+Streetwise. 00000000 _ Stealth_______o00000000 Politics 00000000
+Subterfuge____ 90000000 ~—‘Survival_____—s 9 07000000 Science. 00000000
+<9<-0-< —————————————— +0
+SSS Rat 3 8 ooo
+_ Disciplines Backgrounds _ Virtues
+Animalism__oo000000 ooooocce Conscience 0000
+Chimerstry_~ 00000000 00000000
+Fortitude 00000000 00000000
+00000000 00000000 __ Self-Control___eoo00
+00000000 00000000
+00000000 00000000 Qourage
+00000000 00000000 8 BOO0O:
+oO
+som Other Traits——<- = ~~-CHumanity/PathOe- = --»-—-—- Health ——=>
+00000000 es Bruised oO
+oo000000 DODODODOO00000 Hurt io
+eee ene - Willpower ——~-~ Injured = O
+D00dd000~— 2:2. 2 0.0.00 9*0"O Wounded 2 0
+sooddone,. HUOUEAOUWEH Mauld 2 0
+00000000 Crippled 5 O
+00000000 Blood Pool —*" Incapacitated O
+00000000 oa we
+cocoon OOOOOOOOOO 4, sree
+cocoov0 AO OOOO000 te ena
+
+estincmnit ine aie §
+
+tft.
+
+
+it Ravnos-
+
+VAMPIRE: The Masquerade"
+<0 sss Merits & Haws ee
+Merit Type Cost Flaw Type
+
+0s SS Experience SSS — oO
+
+TOTAL: TOTAL SPENT:
+
+Gained From: Spent On:
+
+<== Derangements== 34> === Derangements ==
+Name Name
+
+‘Weapon Difficulty | Damage | Conceal] Range | Rate Clip Brawling Table
+
+Maneuver. Accuracy Damage
+Bite 5 Strength +1
+Punch 6 Strength
+Grapple 6 Strength
+Chw 6 Strength +2
+1
+1
+
+Kick ‘Strength +1
+Body Slam Special See Options
+
+Armor:
+
+eT 1 5 as a a
+
+=H
+
+
+it Ravnost
+
+VAMPIRE: The Masquerade"
+208 =, +0+O=—
+i ——Expanded Background
+Allies Influence
+Clan Prestige Mentor
+Contacts, Minor Resources
+Contacts, Major Retainers
+Herd Status
+ ————————— .
+Possession:
+Gear (Carried) Equipment (Owned)
+Feeding Grounds Vehicles
+Oey Havens SEOs
+Location Description
+— = — x x he
+I I ot T T VT T TT T TT YT
+
+
+VAMPIRE: The Masquerade"
+~<SOse¢< History 20
+Prelude
+Greatest Heists.
+Talismans Stolen
+Gypsy Family Allies.
+
+<0 Appe Se ——————— ee
+
+Age.
+
+Apparent Age
+
+Date of Birth
+RIP.
+
+Hair
+
+Eyes.
+
+Race.
+Nationality.
+Height,
+Weight.
+
+Sex,
+
+Se)
+
+Visuals
+
+IOP
+
+ww
+
+Coterie Chart
+
+Character Sketch
+
+
+Gypsies, vagabonds and charlatans, the
+cunning vampires of Clan Raynos roam
+the night as they indulge in the most
+dangerous of games — lying to the liars,
+tricking the tricksters, and gleefully
+receiving curses from the Damned.
+From Bel Air to Bombay, from
+Shanghai to Sarajevo, these nomadic
+vampires wander where their citybound
+Kindred fear to tread. Now learn of
+the Ravnos' secret arts, and the
+centuries of hate that can lie behind a
+jester's smile.
+
+Clanbook: Rayos includes:
+
+e The history of the clan, from
+Mohenjo Daro to Birkenau.
+
+© Information on Ravnos around the
+world, and the bitter schism between
+Gypsy and georgio.
+
+» New Merits, Flaws and Chimerstry
+powers.
+
+GAMES FOR MATURE Minons
+56504
+
+wl

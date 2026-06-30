@@ -1,0 +1,568 @@
+# File: Storytellers Screen (Storytellers Companion).txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+4,
+
+EFS
+
+SS
+. a
+
+mo |
+
+N
+N 4
+~
+F)
+P)
+>
+N
+\
+\)
+~S
+#
+~
+»
+
+~~
+
+Cost
+
+current rating x 4
+current rating x 2
+3
+
+Level of Gift x 3
+Level of Gift x 5
+current rating
+current rating x 2
+current rating
+
+a
+The Lifany Experience Chart
+Garey Shall Not Mate \WYh Garou dai
+Combat he Wyrm Wherever It Duel and Whenever It Breed "eae
+ility
+Raped the Terriory ofAvotber New Ability
+Accept an Plonordbfe Surrender Gift
+Jbtuton fo Thole of Higher Station Gift from other breed/auspice/tribe
+The Dinet Stare of the kU for the Greatest In Sehion all
+Ye Shall Not Ent the Feth of Vlomans Willpower
+Raped There Beneath Ye —AffAtre of Gata
+
+The Vill Sball Not Be Lifted
+Do Not Suffer Thy People to Tend Thy Mickva
+The Leader Vay Be hablenged atAny Time During Peace
+Te Leader May Not Be Oablenged Puring Warhime
+Yo Shall Tike No Action That Causet a Cxern to Be Violated
+
+Jampse Renown Award
+Gory
+
+Sample Behavior
+
+Proving one's bravery in less-than-lethal circumstances; participating in a just challenge
+Surviving an incapacitating wound; defeating a minor threat
+
+Defeating an average threat; surviving a hostile Umbral Realm
+
+Defeating a strong threat; dying while defending a caern (posthumous)
+
+Defeating a very powerful threat; sacrificing oneself to save a caern and its defenders
+Refusing any sept position; suffering a fox frenzy
+
+Not preventing a caern from being overrun by the Wyrm
+
+Conscious cowardice that resulted in the death of another Garou
+
+Fionor
+Sample Behavior
+Helping guard a caern; performing regular duties and chores for the sept for a month
+Performing a moot or punishment rite; participating in a just challenge; protecting a helpless human
+
+Mediating a dispute fairly and impartially; protecting the Veil by covering up incidents that might reveal
+the Garou's existence to humans
+
+Being truthful in the face of extreme adversity; dying while defending a caern (posthumous); protecting a helpless wolf
+Enduring torture to protect fellow Garou; sacrificing oneself to save a caern and its defenders
+
+Speaking without permission at a moot; not protecting a helpless human; speaking ill of another tribe
+(depending on circumstance)
+
+Refusing any sept position; failing to perform regular duties and chores for the caern in the last month
+Participating in an unjust challenge; abandoning one's post while on watch
+Harming/ rending the Veil; not protecting a helpless Garou
+Wisdom
+Sample Behavior
+Learning a new rite; creating a talen; healing a fellow Garou (not of one's pack) unselfishly
+Giving good advice; discovering a fetish after following mystic signs and advice; summoning an Incarna avatar
+
+Revealing, with certain proof, that an area or object is "of the Wyrm"; completing a spirit quest successfully;
+besting someone (including a spirit) in a riddle contest
+
+Giving a prophetic warning that comes true later; ending a threat without serious harm to any Garou
+Discovering an ancient caern that was lost; discovering or creating a new Gift
+
+Refusing any sept position; suffering a frenzy; missing a Moot Rite
+
+Having poor relations with nearby Kinfolk; attacking a much more powerful force without aid
+
+Breaking a powerful and necessary fetish accidentally
+
+Award
+
+Aw au nwn
+
+Award
+
+a Se An
+
+Aww
+
+Award
+
+Awan
+
+Renown
+Rigabath
+
+Rank Any Combination
+
+1 (Cliath) 3
+
+2 (Fostern) 7
+
+3 (Adren) 133
+
+4 (Athro) 19
+
+5 (Elder) 25
+Thewtge
+
+Rank Glory Honor
+
+1 (Cliath) 0 0
+
+2 (Fostern) 1 0
+
+3 (Adren) Z 1
+
+4 (Athro) 4 2
+
+5 (Elder) 4 9
+Nhodex
+
+Rank Glory Honor
+
+1 (Cliath) 0 3
+
+2 (Fostern) 1 4
+
+3 (Adren) 2 6
+
+4 (Athro) 3 8
+
+5 (Elder) 4 10
+Gabbard
+
+Rank Glory Honor
+
+1 (Cliath) Z 0
+
+2 (Fostern) 4 0
+
+3 (Adren) 4 2
+
+4 (Athro) 7 2
+
+5 (Elder) 9 5
+Atroun
+
+Rank Glory Honor
+
+1 (Cliath) 2 1
+
+2 (Fostern) 4 1
+
+3 (Adren) 6 3
+
+4 (Athro) 9 5
+
+5 (Elder) 10 9
+
+Lficufhet and Succettat
+Difficulties
+3 Easy (working an unreliable vending machine)
+4 Routine (changing a tire)
+5 Straightforward (hooking up a VCR)
+6 Standard (firing a gun)
+M4 Challenging (replacing a car's sound system)
+8 Difficult (rebuilding a wrecked engine block)
+9 Extremely difficult (repairing that block with-
+out parts)
+10 Nigh impossible (diving in through the win-
+Wisdom dow of a speeding car)
+3 Degrees of Success
+5 One Success Marginal (keepa broken refrigerator run-
+ning until the repairman arrives)
+7 Two Successes Moderate (making a handicraft that's
+2 ugly but useful)
+10 Three Successes Complete (fixing something so that it's
+good as new)
+Four Successes Exceptional (increasing yourcar'sefficiency
+Wisdom in the process of repairing it)
+0 Five or More Phenomenal (creating a masterwork)
+1
+2 Rage Role
+4 The following conditions might call for a Rage roll, at the
+9 Storyteller's discretion.
+¢ Embarrassment or humiliation (botching an important roll)
+. ¢ Any strong emotion (lust, rage, envy)
+Wisdom ¢ Extreme hunger
+1 * Confinement, helplessness
+2 © Being taunted by an enemy
+4 ¢ Large quantities of silver in the area
+6 ¢ Being wounded or seeing a packmate wounded
+9 Difiewlty for Rage Role
+While the old stories of werewolves changing during the full
+Wisdom moon aren't really true, they have some basis in fact.
+0 Moon Phase Difficulty
+New 8
+A Crescent 7
+l Half 6
+2 Gibbous 5
+4 Full 4
+
+The difficulty drops by one if the moon happens to be the
+
+Willpower % of Population
+
+Forget?
+1 10% Yes
+2 20% Yes
+3 18% Yes
+4 15% Yes
+5 13% Yes
+6 10% Yes
+7 7% No, but will rationalize
+
+8 5% No, but will rationalize
+
+9 1.5% No
+10 5% No
+
+Lifetors
+
+Reaction
+
+Catatonic Fear: The human collapses and whimpers, or
+perhaps even faints.
+
+Panic: The human runs in fear, trying to put as much
+distance between himself and the Garou as possible.
+Disbelief: The human refuses to accept what he sees, and
+he will likely retreat to a corner and stare at the "halluci-
+nation" until it passes.
+
+Berserk: The human takes some sort of aggressive action, be it
+firing a gun (he won't have enough presence of mind to reload,
+however), throwing crockery or even leaping at the "monster."
+Terror: Much like panic, except with more reason. The
+human will be rational enough to lock doors behind him or
+to get in a car and flee.
+
+Conciliatory: The human will try to plead and bargain with
+the Garou, doing anything possible so as not to get hurt.
+Controlled Fear: Perhaps this person is a soldier. Although
+terrified, he does not panic. The human will flee or fight as
+appropriate, but remains in control of his actions.
+Curiosity: These people are dangerous, because they re-
+member what they saw (more-or-less), and they might well
+investigate the matter further. Conspiracy theorists and
+cryptozoologists often fall into this category.
+
+Bloodlust: In the far reaches of this human's mind, he remem-
+bers the depredations of the Garou, and he refuses to take
+anymore. The human is afraid but angry, and he will remem-
+ber the Garou and probably even try to hunt it down.
+
+No reaction: The human is not the slightest bit afraid or
+bothered by the Garou. Even Kinfolk aren't this stoic, so
+Garou tend to be very suspicious of such folks.
+
+Melee Wegpont
+
+character's auspice moon. A Garou in Crinos form also subtracts
+one from her difficulty. These modifiers are not cumulative.
+
+Bruised
+Hurt
+Injured
+
+Wounded
+Mauled
+
+Crippled
+Incapacitated
+
+Health Levels
+
+-l
+-l
+
+Dice Pool Penalty
+
+Movement Penalty
+
+Character is only slightly bruised, and he suffers no dice penalties.
+
+Character is superficially hurt, but he suffers no movement hindrances.
+
+Character has suffered minor injuries, and movement is mildly inhibited (one
+half max. running speed).
+
+Character has suffered significant damage. He may walk, but he cannot run. At
+this level, a character may not move, then attack. He will lose dice when
+moving and attacking in the same turn.
+
+Character is badly injured, and he may hobble only about three yards per turn.
+Character is catastrophically injured, and he can crawl only about one yard per turn.
+Character is incapable of movement and likely unconscious.
+
+Weapon Difficulty Damage/Type Conceal
+Sap 4 Strength/B P
+Chain 5 Strength/B J
+Staff 6 Strength+1/B N
+Mace 6 Strength+2/L N
+Knife 4 Strength/L P
+Club 5 Strength +1/B T
+Sword 6 Strength +2/L T
+Axe 7 Strength +3/L N
+Polearm 7 Strength+3/L N
+Klaive* 6 Strength +2/A J
+Grand Klaive* 7 Strength +3/A T
+
+Difficulty: The normal difficulty at which the weapon
+
+is used.
+
+Damage: The number of damage dice rolled for the
+
+weapon.
+
+N=
+
+Type: B = Bashing L = Lethal A = Aggravated
+Conceal: P = Pocket, J = Jacket, T = Trenchcoat,
+
+N/A
+
+*These weapons are silver and inflict unsoakable dam-
+
+age to Garou.
+
+**A chain may be used to entangle an opponent's limb
+
+at +1 difficulty.
+
+Fats of Sirongth
+Dice Pool Feats
+
+Crush a beer can
+
+Break a chair
+
+Break down a wooden door
+Break a two-by-four
+
+Break open a metal fire door
+Throw a motorcycle
+
+Flip over a small car
+
+DAIYUDKHBWH |
+
+Break a three-inch lead pipe
+
+‘Oo
+
+Punch through a cement wall
+
+i)
+
+Rip open a steel drum
+
+Punch through 1" of sheet metal
+
+N
+
+Break a metal lamp post
+
+w
+
+Throw a car
+
++
+
+Throw a van
+Throw a truck
+
+TFumptog
+
+Type of Jump Feet per Success
+
+wn
+
+Homid Glabro Crinos Hispo
+Vertical 2 3 4 5
+Horizontal 4 4 5 6
+
+Lift
+
+40 lbs.
+100 lbs.
+250 lbs.
+400 Ibs.
+650 Ibs.
+800 lbs.
+900 Ibs.
+
+1000 Ibs.
+1200 lbs.
+
+15001bs.
+
+2000 lbs.
+3000 Ibs.
+4000 Ibs.
+5000 Ibs.
+6000 Ibs.
+
+Lupus
+4
+7
+
+Type
+
+Revolver, Lt.
+
+SW M640 (.38 Special)
+Revolver, Hvy.
+
+Colt Anaconda (.44 Magnum)
+Semi-Automatic Pistol, Lt.
+Glock 17 (9mm)
+Semi-Automatic Pistol, Hvy.
+Sig P220 (.45 ACP)
+
+Rifle
+
+Remington M-700 (30.06)
+SMG, Small*
+
+Ingram Mac- 10 (9mm)
+SMG, Large*
+
+HK MP-5 (9mm)
+
+Assault Rifle*
+
+Steyr-Aug (5.56mm)
+Shotgun
+
+Ithaca M-37 (12 Gauge)
+Shotgun, Semi-Automatic
+Fiachi-Law 12 (12 Gauge)
+Short Bow**
+
+Long Bow**
+
+Crossbow**
+
+Damage
+
+8
+
+nn
+
+Ranged Wegpont
+
+Range
+12
+
+35
+20
+30
+200
+25
+50
+150
+20
+20
+60
+
+120
+90
+
+Rate
+
+3
+
+1
+1
+1
+
+Clip
+6
+
+17+1
+7+1
+5+1
+30+1
+30+1
+42+1
+5+1
+
+8+1
+
+Damage: All damage from firearms and bows is considered lethal.
+Range: Within this range (in yards), the difficulty is six. At twice this range, the difficulty is 8. Within two yards,
+
+the difficulty is 4.
+
+Conceal
+
+N
+N
+T
+
+Rate: The maximum number of bullets or three-round bursts the gun can fire in a single turn.
+
+Clip: The maximum number of bullets the gun can hold. Some guns can hold a full clip with a round already
+chambered; this capacity is denoted by "+1".
+
+Conceal: See the Melee Weapons chart.
+
+*The gun is capable of full auto, three-round bursts, and sprays.
+
+**Long and short bows take an automatic action to nock and draw another arrow; crossbows require two automatic
+
+actions for reloading.
+
+Arrsor Thrown Wegpout
+Armor Type Armor Rating Dexterity Penalty Weapon Difficulty Damage/Type Conceal
+Reinforced Clothing — 1 0 Knife 6 Strength/L P
+Armor T-shirt 2 1 Shuriken 4 3/L P
+Kevlar Vest 3 1 Stone 5 Strength/B varies
+Flak Jacket 4 Z Spear 6 Strength+1/L N
+Full Riot Gear 5 3
+
+SN ee eee
+
+WOLF
+
+ZAPOCALYR SE |

@@ -1,0 +1,4017 @@
+# File: Monkeywrench! Pentex.txt
+# OCR Date: 2026-06-30
+# Source: UNKNOWN (add manually)
+# Category: UNKNOWN (add manually)
+# Page Range: UNKNOWN
+# ------------------------------
+
+
+\
+
+i\
+N Aa Nig |
+
+|
+
+| By Brad Freeman and Christopher Howard
+{ eee EE
+
+Seer rare ere are nar. ara a Frenne
+
+Credits
+
+Written by: Brad Freeman and Christopher Howard
+
+Developed by: Bill Bridges
+
+Edited by: Robert Hatch
+
+Art Director: Richard Thomas
+
+Art: Aileen E. Miles, Richard Thomas, Joshua Gabriel
+Timbrook
+
+Typesetting and Layout: Aileen E. Miles
+
+Logo and Back Cover Design: Larry Schnelli
+
+Word from the White Wolf Game
+Studio
+
+This book features the three contest winners from Gen
+Con ‘93's Pentex Board of Directors meeting. They are:
+Susan Durham, Francesco Santora, and Shawn Carnes.
+Yes, folks, this contest proved that anyone, given the
+chance, will sink to the vilest tactics to get a seat on the
+Board.
+
+We would also like to thank Mike Davis, whose Garou
+costume stole the show. We couldn't (and wouldn't) have
+done it without you.
+
+And just when we thought everything was all right, a
+monkey wrench got thrown in the works. Henry
+Higginbotham's name was left out of the art credits for
+Werewolf Second Edition. He did those cool fetishes
+pictured throughout the book (and you should see the
+originals! ). He is also renowned among Mage readers for his
+Loom of Fate cover. And around the office for his awe-
+inspiring and deadly looking Mask of Charon (no, we can't
+tell you what that is yet, but you'll see it soon).
+
+Sorry about that, Henry. Please don't sic your wolf on us.
+
+(Disclaimer
+
+The persons, places, and events depicted in this work are
+fictional. Any resemblance to any entities living, dead,
+or...otherwise...is coincidental. All statements are true in
+some sense, false in some sense, and meaningless in some
+sense.
+
+WARNING: The Monkeywrenching tips given in this
+book are for the purpose of roleplaying gaming only, and are
+given to enhance the "underground" atmosphere portrayed
+in this supplement. Do not try these at home or abroad!
+
+Sl aaa ia aia a
+
+Special Thanks to:
+
+Andrew "Un perfetto mascalzone e anche brutto'
+Greenberg for terrorizing Italy.
+
+Rob "Stomping the Floors" Hatch for his sound wars
+with the [expletive] downstairs.
+
+Ken "Dr. Ruth" Cliffe for the controversial sex therapy
+in WW #40.
+
+Brian "SEGA!" Campbell for getting his Hedgehog on
+Groundhog Day.
+
+Phil "Route 66" Brucato for taking the byways of America
+unintentionally.
+
+Mike "Yo Joe!" Tinney for missing his buddy with the
+kung fu chop action.
+
+Ian "Snowblind" Lemke for getting snowed out in Penn-
+sylvania. .
+
+%
+
+Mark "Piranha Bait" Rein Hagen for his proposed trip
+to the Amazon.
+
+Stewart "Happy Camper" Wieck for doing the Wyld
+thing.
+
+Dedication
+To YOU, as promised.
+
+ME Fd 1598:B STONEGATE IND. BLUD.
+PSE sincn, che
+
+GAME STUDIO
+
+© 1994 by White Wolf, Inc. All rights reserved.
+Reproduction without written permission of the pub-
+lisher is expressly denied, except for the purpose of
+reviews. Werewolf The Apocalypse™ is a trademark
+of White Wolf, Inc. Monkeywrench! Pentex and all
+material contained herein are copyrighted by White
+Wolf, Inc.
+
+The mention of or reference to any companies or
+products in these pages is not a challenge to the
+trademarks or copyrights concerned.
+
+|
+
+
+Contents
+Storyteller Information
+
+Handouts:
+Abbot's Letter
+The Werehacker Files
+Post-It Note
+While You Were Out
+International Pharmaballistics
+Newspaper Clipping
+Pentex Employee Dossiers
+Persephone's Letter
+Hines' Letter
+
+Security Memo #A 2112-93
+Buck Racer Comic
+
+Cranscript of Hardigan Interview
+Stillson Memos
+
+Pentex Executive Bulletin
+Satellite Photos
+
+Doggy Diner Placemat
+Panacea Blueprints
+
+Endron Brochure
+
+Contents 3
+
+| a. tiie 2/,
+
+Allcivilization is centralization. Allcentralization is economy.
+
+— Brook Adams
+
+The whole fabric of society will go to wrack if we really lay
+hands of reform on our rotten institutions. From top to bottom,
+the whole system is a fraud, all of us know it, laborers and
+capitalists alike, and all of us are consenting parties to it.
+
+— Henry Adams
+
+Empires are restless organisms. They must constantly renew
+themselves; should an empire start leaking energy, it will die.
+Not for nothing were the Adams brothers fascinated by entropy.
+
+By energy. By force.
+
+— Gore Vidal, "The Day the American Empire
+
+Ran Out of Gas"
+
+The sky blackens as the juggernaut Wyrm continues its
+seemingly inexorable path toward domination of our pre-
+cious sphere. Pentex is a major component of its plans. Its
+temporal power over government, the media and the
+business world, combined with its dark, Wyrm-derived
+powers, make it a seemingly undefeatable foe. Pentex is a
+thousand-armed kraken; those who war with it might find
+themselves seemingly victorious after protracted battle,
+only to find that they have merely severed one of the tips
+(a subsidiary of a subsidiary) of the monster's tentacles.
+
+Not all is as it seems, though. This book, while conced-
+ing Pentex's formidable might, reveals its great weaknesses
+as well. This book displays the blind spots and the kinks in
+supposedly impenetrable armor. This book is a book about
+hope.
+
+4 Monkeywrench! Pentex
+
+I TE Te Ee
+
+There is a schism in the Pentex Board of Directors —
+small, perhaps, but rapidly growing. Three of the Board are
+dead, slain by a single Garou's claws. As the remaining
+Board Members and their subordinates scramble to fill the
+niche left open by these deaths, the schism widens. The new
+Board Members' true allegiances (which Wyrms they serve)
+are unknown, and this leaves all the Board nervous and
+paranoid.
+
+At the same time, some Garou have finally been able to
+put a name (and, in some cases, a face) to their hitherto
+invisible enemy. Young Garou have rallied behind the
+clarion cry of Mother Gaia, and a new name —
+"Monkeywrenchers" — is on the lips of both the Garou
+community and the minions of the Wyrm. The
+
+
+Monkeywrencher movement is small, still only in its gesta-
+tional phase, yet it has begun to render a hitherto unseen
+portrait of its gargantuan foe.
+
+Monkeywrenchers are Garou who attack Pentex and its
+subsidiaries through any means necessary: computer hack-
+ing, ecoterrorism and outright assaults on Pentex personnel.
+Monkeywrenchers are allied in a loose network, usually
+communicating via computer bulletin boards. When one
+Monkeywrencher discovers a Pentex operation outside his
+area, he will alerta known Monkeywrencher in the affected
+area, and that Garou will attempt to halt the operation.
+
+Clever characters who have previously battled the Wyrm
+know that the enemy cannot be defeated by claw and fang
+alone. Plans must be made and information gathered. The
+Monkeywrencher must learn to pierce the Stygian fog
+shrouding Pentex. This text should shed some light on the
+darkness. This book contains secret computer files and
+Pentex dossiers — bought at the high price of Garou lives.
+Also contained herein are some publicly accessible Pentex
+brochures, which can provide valuable information to
+characters adept at reading between the lines.
+
+This book often refers to information on Pentex given in
+Book of the Wyrm. That sourcebook might be helpful to
+Storytellers using these handouts. Each section of the
+Storyteller's notes given here mirrors the "found materials"
+(brochures, files, etc.) in the second half of the book. Each
+artifact as presented to the players is alternately right,
+wrong or misleading. The Storyteller's notes should allow
+the Storyteller to know which is which.
+
+Information contained herein should be made available
+to the players in three ways:
+
+The so-called "WereHacker Files" and Thomas Abbot's
+Pentex dossiers may be given to players near the beginning
+of the game. These contain more than enough information
+to alert the characters to the conglomerate, as well as some
+handy hints on how to tackle a giant like Pentex. In
+addition, these sections contain the Monkeywrencher's
+ethos, which may inspire the characters to a long (or, more
+likely, short) career in the noble profession.
+
+The second form of information, as represented by the
+Endron brochure, is publicly available and contains some
+surprisingly useful information. The Storyteller is encour-
+aged to use the brochure as a template to create her own
+Pentex public-relations mumbo-jumbo (pamphlets, TV
+ads, fallacious science reports, etc.). While some of the
+more heavy-handed propaganda may be good for a laugh, it
+should always contain a sinister subtext. Remember, most
+of the public at large has never heard the name Pentex, so
+always attribute public information to the corporation's
+subsidiaries.
+
+The last form of information is given in the form of high-
+level corporate communiqués.
+
+The Storyteller's notes are filled with suggestions on
+where and how the characters may obtain their evidence.
+The Storyteller will note that the chronology of events
+forms a small story of sorts, but she is encouraged to change
+
+events to make them conform to her own chronicle, adding
+or omitting information as desired. There is a lot of infor-
+mation here, and the Storyteller may want to introduce it
+slowly, thus building suspense and allowing the players
+time to digest it. Most of the information is geographically
+nebulous, allowing the Storyteller to fit it into her own
+chronicle with minimal effort.
+
+The computer rules section in the Werewolf Players
+Guide may prove helpful when running games involving
+hacker characters. Everything one needs to know to handle
+this sourcebook is contained therein. Other computer
+references are in-jokes for flavor and for the amusement of
+computer types, but aren't necessary to use or enjoy this
+
+book.
+
+One More Disclaimer
+
+Everything in this book is legally obtained information.
+For dramatic purposes, we have tried to make it seem like
+stuff that God, Uncle Sam, and Ma Bell don't want you to
+know — which some of it may be. Nonetheless, it is legal
+to know and distribute.
+
+The Handouts
+Thomas Abbot's Letter
+
+Thomas Abbot is steward to King Jacob Morningkill of
+the Vermont/New York Silver Fangs (see Rage across New
+York). Abbot has sent the letter to a trusted friend, an elder
+or Mentor of the characters' sept. Besides mentioning the
+New York Garou's desperate straits, the letter introduces
+the characters to "Monkeywrenching" and details the deaths
+of three Pentex Board Members.
+
+This news should hearten the characters: their enemy is
+weakened. Additional news concerninga possible Wendigo/
+Get of Fenris reconciliation is also welcome, and the
+Storyteller may want to expand on this.
+
+All of the information in Abbot's letter is essentially
+correct. The "unsavory channels" by which Abbot received
+the WereHacker files involved, among other things, a
+Nosferatu vampire (Diogenes by name).
+
+The Storyteller may use this handout in any number of
+ways. The suggested method is to have the pack's Mentor
+give them the letter, along with the WereHacker Files, and
+ask them to look into the situation (i.e., stop Pentex, using
+the information provided). The documents may be ob-
+tained in other ways: e.g., a dying elder stumbles into the
+pack's caern and begs them, with his dying breath, to take
+the files and use them "for Gaia." The Storyteller should
+feel free to devise any number of ways to drop the informa-
+tion into the characters' laps.
+
+The WereHacker Files
+
+All the text in monospaced typeface represents an on-
+line "capture file," a literal transcription of a computer
+
+Storyteller Information 5
+
+0 fA E E  e  , eels 7 //
+
+
+Speer rere rere arene aren a ara a amram
+
+telecom session. The WereHacker kept these notes as a
+"brag phile" (file), and they are presented verbatim. You
+would see this replicated onscreen were you looking over
+his shoulder as he typed. His message to Diogenes is a cover
+letter from one hacker to another.
+
+The posting that begins, "Are you SICK of those PI-
+RATE BOARDS?" is also genuine, testimony to a real
+loathing that some hackers have for mere pirates.
+
+EaRthFisT!, the violent environmental action group, is
+fictitious, which is probably a good thing.
+
+The real-time conference log that begins, "Deep Umbra
+BBS Real-Time Conference" is a capture file of a computer
+BBS conference call that gets interrupted in the middle.
+This is how the hackers and Monkeywrenchers of the
+WereHacker's pack (mostly Glass Walkers) communicate.
+Think of it as a text-only conference call. The Missing
+Sysop, a peripheral member of the pack who owns the
+computer on which the bulletin board runs, was captured
+by a Pentex First Team. His equipment was confiscated.
+Information on the computer implicated other members of
+the pack, and one by one they were hunted down. The
+WereHacker was preparing to try to rescue some of them
+and decided to transmit this information to Diogenes, a
+Nosferatu of his acquaintance. That was the last anyone
+heard of the WereHacker.
+
+The files also include:
+
+¢ A Post-It note inscribed with some of the WereHacker's
+special code.
+
+¢ A "While You Were Out" message concerning Inter-
+national Pharmaballistics, and a brochure from that
+company. The International Pharmaballistics info pertains
+toasmall vertical-market corporation that sells supplies for
+nonlethal riot control and live-capture big-game hunting.
+The corporation considers its wares humane alternatives to
+"conventional" weaponry, little realizing to what evil pur-
+poses its equipment can be put.
+
+PANACEA and Magadon security forces are testing
+some of these modified weapons, using Wyrm-tainted loads
+in the injector projectiles, toxic silver arsenide compounds
+in the gas projectors, and nasty fetishes as caseless ammu-
+nition. These (and the electrically charged projectiles) can
+provide nasty shocks to Garou expecting the usual lead-
+throwers.
+
+Have fun!
+
+¢ The four satellite photos are stages in Pentex en-
+croachment. The first is found in the WereHacker's phile;
+the rest are found in Mr. Zygote's briefcase (see PANA-
+CEA, below).
+
+© Doggy Diner placemat with map of Black Dog Game
+Factory sketched on back. See Black Dog Game Factory,
+below.
+
+© The newspaper clipping titled "Boy Drowns in Church"
+details the death of one of the ecohackers in the
+WereHacker's pack. He was found by the Rev. Firestone
+and his friend Trixie. While the Reverend won't talk, she
+
+. _——z
+
+will. All she can add is that the word found on the hacker
+was "ALMA-ATA." The cops are right — it is a password.
+The information accessible thereby is up to the Storyteller.
+
+Dossiers on Pentex Subchiefs
+
+Upon receiving the WereHacker files, Thomas Abbot
+was galvanized into action and scrambled to gather infor-
+mation on four of Pentex's highest lieutenants. Most of the
+information has previously been available to Garou but has
+never before been gathered in one place. The information
+includes some of Abbot's own suppositions. Certain of
+these are accurate; others, erroneous.
+
+¢ Harold B. Hines (a.k.a. Doctor Frankenstein):
+
+Below are some secrets that the characters could possibly
+learn with some research and footwork.
+
+1. The "S.O.S." on the check in Hines' photo stands (at
+least in public) for "Save Our Schools," a grass-roots orga-
+nization aimed at bringing discipline and basics back to the
+schoolroom. It is in fact an acronym for the "Society of
+Socrates," an elite cabal of Pentex academics whoare trying
+to gain control of the educational system at all levels. To
+this end, they seek to make many schools and universities
+economically dependent on them and have lobbied (thus
+far unsuccessfully) to move the majority of the school
+system from government to private hands.
+
+2. Hines is atypical of the Pentex subsidiary president
+type. He is a genius and has figured out much more of
+Pentex's corporate structure and goals than most others of
+his ranking have. Even the Board of Directors is unaware of
+the scope of his knowledge of Pentex operations. He plots
+to fill one of the vacancies on the Board of Directors, but,
+unknown to him, he is no longer in the running because of
+the cloud of suspicion that has settled over his financial
+dealings.
+
+3. Hines is a pedophile and a secret member of the
+Society of Socrates. He shares both of these distinctions
+with his patron on Pentex's Board of Directors, Benjamin
+Rushing.
+
+4. Hines has terrorized, corrupted and then murdered
+each of his former wives. His current wife (Cindy Hines) is
+a prisoner in his mansion near PANACEA Pharmaceuti-
+cals. She is scared but strong-willed. If rescued, she will be
+grateful and may be able to help the characters, even to the
+extent of helping to set a trap for her husband.
+
+Deep Secrets: The following information is not avail-
+able to characters unless they hear it from Hines' mouth.
+
+Hines belonged to the Defiler Wyrm long before he went
+to work for Pentex — in fact before he was born. Hines is
+a Ferectoi, a bastard Wyrm monstrosity born from the
+union of a human and a Breeder Bane. At birth, Hines was
+placed with a wealthy and influential family that had
+served the Wyrm for many generations. Hines was raised
+amid luxury and has been schooled since childhood in the
+ways of the Defiler Wyrm. His membership in the Society
+of Socrates and his spectacular rise in Pentex were preor-
+dained.
+
+Monkeywrench! Pentex
+
+a ne
+
+
+Unlike most Ferectoi, he is witty and urbane, reveling in
+his role. He considers his "children," the fomori at PANA-
+CEA, to be part of his new "super-race"; he has nothing but
+contempt for humans.
+
+Physical: Strength 3 (8), Dexterity 3, Stamina 4
+Social: Charisma 4, Manipulation 5, Appearance 3
+Mental: Perception 4, Intelligence 5, Wits 4
+
+4
+
+i ri), Contacts !
+t
+
+treet fomori par
+
+| nd is Wasp
+
+is back (e
+These
+
+fo !
+
+I laying Notes: ing was so
+: ney and powers ps always set
+; at human fool, Be shing, was béhi
+i ‘i bid to joi ex's Board.
+
+ere growing at & :
+! ta little greedy: ‘
+
+The Monkeywrenchers have all vanished, though, and it is
+only a matter of time before the impostor is unmasked. The
+false Stillson will do everything in his power to aid the
+characters against Pentex.
+
+3. Ben Stillson is a patriot. For years Pentex has encour-
+aged the most ugly aspects of patriotism (blind nationalism,
+xenophobia) in the ex-Green Beret in order to make him
+easier to manipulate. Lately, though, Stillson has begun to
+
+st or option is chose
+
+fiente: f fetishes. If t p
+
+' tillsop ‘ Id have Trait: 1 © the
+Ce
+
+In eith ase=hey should ‘be t pt at
+epho e Tar-Anis: ae |
+
+are some secrets that the characte possibly
+somé ch and footwork
+
+nem tot ork with some vant
+
+éphon Embraced in 1843)
+
+Board ber Harold Zettle
+
+fe) anet, but it has a 308
+4 : sighted fools,
+
+your every footstep. The worst part is that, aving never
+been prepared for failure, you don't know how to handle it.
+You are starting to drink again, and your composure is
+starting to crack. You're not finished yet, though. You have
+power, resources and your genius. You'll show them all,
+especially that crazy slut Persephone. Crash your computer,
+will she? You'll show them all!
+
+If Hines does go down, he will try to take as many others
+with him as he possibly can.
+
+¢ Ben Stillson:
+
+Ben Stillson has no home address. He essentially lives at
+the PANACEA plant or in hotels.
+
+Ben Stillson can be a pivotal actor in this drama, de-
+pending on how the Storyteller decides to play him. Below
+are three choices.
+
+1. Ben Stillson is a loyal servant of the Wyrm and of
+Pentex. He has watched the brewing war between Hines
+and Persephone with growing concern. If Hines is indeed
+shown to have stolen from Pentex, Stillson will use his First
+Team to aid Persephone in Hines' ouster. He will act in
+Pentex's best interest in all things.
+
+2. Ben Stillson is dead. He was shot in the back of the
+head while getting into his car. The WereHacker and his
+Monkeywrencher cohorts have put a clever doppelganger
+(a Glass Walker with the Gift: Doppelganger) in his place.
+
+|
+
+2 phon us, I
+is t¢ the Board a bul
+time is not yet right for such a move
+
+able to characters unless they hea
+from an ancient vampire who knows t ‘
+
+Persephone was born in London in the early 1800s to the
+wealthy Wedgewood family. As a child she was at first
+considered to be "precocious," later "troubled," and by the
+time she reached her early teens, her family was forced to
+conclude she was insane. Not wishing to suffer the embar-
+rassment that she was increasingly causing them, they
+institutionalized her.
+
+Up to this point, the young girl's "madness" was in fact
+only a minor schizophrenia and perhaps an overly active
+imagination, but after several years in the badly managed
+sanitarium, she was completely deranged. She suffered
+wild, extremely complex hallucinations and psychotic spells,
+which she dutifully recorded in her diary.
+
+At the age of 16, Persephone attracted the attention of
+Harold Zettler, one of the hospitals' regents. Fascinated by
+her unique psychosis, he decided to preserve it forever by
+inducting her into the Sabbat. A true vampiric prodigy,
+Persephone adapted to her new unlife with an ease that
+astounded her elders and even Zettler. Within 45 years of
+her Embrace, Persephone had participated in several key
+Sabbat operations, treacherously murdered the Camarilla
+Monitor of London, formed a long-standing association
+with the Son of Ether mage Charles Babbage, and played a
+
+Storyteller Information 7
+
+i —
+
+——niemninner
+
+
+Seen rere, er ar AUR. APO NT renneh
+
+crucial role in helping to cement Sabbat ties with the Black
+Spiral Dancers.
+
+She changed her last name to Tar-Anis (in homage to
+the Gallic goddess of death) because of the prevalence of
+death imagery in her hallucinations. She has maintained
+close contact with her sire through most of her unlife,
+though to her credit she did not participate in his atrocities
+in Nazi Germany. Like Zettler, she is actively hunted by the
+Camarilla and effectively uses Pentex as a safe haven.
+
+Sire: Harold Zettler
+
+Generation: 6th
+
+Embrace: Early 1800s
+
+Apparent Age: 17
+
+Physical: Strength 3, Dexterity 5, Stamina 3
+
+Social: Charisma 6, Manipulation 5, Appearance 4
+
+Mental: Perception 4, Intelligence 6, Wits 5
+
+Talents: Alertness 5, Athletics 3, Brawl 5, Dodge 5,
+Expression 2, Intimidation 4, Streetwise 3, Subterfuge 4
+
+Skills: Drive 4, Etiquette 4, Firearms 5, Leadership 3,
+Stealth 5, Survival 2 .
+
+Knowledges: Computer 5, Investigation 4, Law 2, Oc-
+cult 3, Politics 4, Science 3
+
+Disciplines: Auspex 7, Celerity 3, Dementation 6, Domi-
+nate 4, Fortitude 3, Obfuscate 6, Potence 1. Through
+Zettler, she also has access to the 8th level Auspex Disci-
+pline: Malkavian Madness Network (see Clanbook:
+Malkavian). This Discipline allows her to enter the Digital
+Web computer Realm in the Umbra (see the Mage
+sourcebook Digital Web), enabling her to enter computers
+mentally from a distance. She can only use this Discipline
+when she is in telepathic contact with Zettler.
+
+Backgrounds: At least 4 in just about everything except
+Black Hand Membership.
+
+Bane Fetishes: Her fetishes (gifts from Black Spiral
+friends) allow her the following Glass Walker Gifts: Con-
+trol Simple Machines, Control Complex Machines, and
+Cybersenses. The fetishes are all jewelry made from com-
+puter chips.
+
+Virtues: Callousness 3, Instincts 4, Morale 2
+
+Path of Power and the Inner Voice: 5
+
+Willpower: 9
+
+Image: Persephone is just as likely to be seen wearing
+punk leather or Victorian-style funeral garb as the corpo-
+rate styles she wears at Pentex, though all of her clothes are
+expensive designer originals.
+
+Roleplaying Notes: You toyed with Babbage's differ-
+ence engine; now you're playing in cyberspace. You are
+deeply involved in all of Pentex's most secretive computer
+projects, and your facility with them has made you a
+cracker-jack security chief. You know they call you "crazy,"
+though never to your face. You know that your insanity
+allows you to make prodigious intuitive leaps, tying seem-
+ingly dissimilar threads together in ways undreamt of by the
+sane. You could almost do your entire job from your com-
+puter console, but you like to get out and about (remember
+
+8 Monkeywrench! Pentex
+
+/ mai aaa amnnmieny >,
+
+Nevada?) and to work with people (really). You view death
+philosophically, as a beginning rather than an end, and
+thus are prone to murder. However, you are not needlessly
+cruel—certainly nota practicing torturer like many of your
+Sabbat comrades. You are loyal to Pentex, but you frankly
+couldn't care less about the Wyrm. Hines has stepped out
+of line, and you are preparing to crush him like the bug he
+resembles.
+
+Persephone will only engage in physical combat if abso-
+lutely necessary, despite her skill at it. Play her with a dark
+sense of humor, like a Charles Addams character.
+
+© Max Carson
+
+Below are some secrets that the characters could possibly
+learn with some research and footwork.
+
+1. Max Carson is a Black Spiral Dancer Kinfolk.
+
+2. He is, at least on the surface, far more typical of the
+Pentex subsidiary head than Hines is. He doesn't rock the
+boat and has professed to be uninterested in a Board
+position.
+
+Deep Secrets: The following information is unavailable
+to characters unless they hear it from Carson.
+
+Born dirt-poor in Texas, Carson joined Endron's sales
+force and quickly cut a bloody swath all the way to the
+president's chair. He runs the company with an iron fist and
+has used his Black Spiral Contacts to keep all at Endron in
+line. Carson has consolidated his position by surrounding
+himself with those loyal to him (Black Spiral Kinfolk now
+hold most of Endron's top positions); he is in one of the best
+defensive positions of any Pentex subsidiary head. His
+Dallas property sits right on top of a minor Black Spiral
+caern. He is generally left to his own devices, which means
+ripping up the environment in a devious and professional
+manner.
+
+Physical: Strength 4, Dexterity 3, Stamina 4
+
+Social: Charisma 2, Manipulation 4, Appearance 2
+
+Mental: Perception 3, Intelligence 4, Wits 4
+
+Talents: Alertness 2, Athletics 1, Brawl 3, Dodge 2,
+Intimidation 4, Subterfuge 3
+
+Skills: Drive 4, Firearms 5, Leadership 4, Melee 2,
+Survival 3
+
+Knowledges: Computer 1, Enigmas 1, Investigation 2,
+Law 3, Occult 2, Politics 3, Science 2
+
+Backgrounds: Allies 4, Contacts 5, Kinfolk 5 (Black
+Spiral Dancers), Resources 5
+
+Powers: Carson is immune to all toxic Wyrm emana-
+tions (radiation, toxic waste, etc.).
+
+Willpower: 8
+
+Fetishes: Carson has several powerful Bane fetishes,
+which tend to generate, secrete and project mutagenic and
+toxic chemicals.
+
+Image: Carson plays the Texas oil tycoon role to the
+hilt. Wear a big cowboy hat, buy a pro ball team, complain
+about those tree-huggers in Washington and swagger a lot.
+The whites of his eyes are actually a pale yellow.
+
+
+yer nverieeieroenenereeensl
+
+Roleplaying Notes: Well, it looks like that egghead fairy
+Hines and the little vampire lady are intent on ripping each
+other to pieces. Pity. Looks like you'll just have to walk in
+and pick up all the pieces, though for your money the dead
+chick'll probably win. Neither of them'd better get any
+ideas about playing games with you, though; you'll tear ‘em
+a new one. You consider yourself the Wyrm's main ranch
+hand and do its bidding in all things. By the time you're
+through, the world's gonna be one giant toxic dump. The
+seas will run black and the sky will be a permanent neon
+orange — just like Vegas.
+
+Although you seek personal power, you do not seek
+membership on the Board of Directors at this time. You go
+where you are needed, and right now Pentex and the Wyrm
+need you right where you are. You've been richly rewarded
+for your services and are completely loyal.
+
+filled Pentex
+
+"BDG." If the
+
+information to lead the charae
+
+quarters, she should supply additional elaes (maybe the
+address of the diner is on the placemat; the diner is across
+the street from BDG).
+
+Because Black Dog Game Factory could be situated in
+"Anytown, USA," the Storyteller should put the company
+within relatively easy reach of the characters' stomping
+grounds. Characters who visit the company's offices will
+find them to be every bit the cesspool of human (and
+inhuman) corruption that one would imagine. Everyone
+who works here is Wyrm-tainted to some degree, except for
+some of the visiting freelancers, who are merely innocent
+Wyrm dupes (or "Wyrmies," as the jaded full-time staff calls
+them). The warehouse is filled with minor Wyrm fetishes
+and Bane-tainted goods, in the form of "miniatures" and
+"story handouts," which are aimed at corrupting the im-
+pressionable young "leaders of tomorrow."
+
+Despite the many sordid and nauseating misadventures
+possible here, there is only one major point of interest. Bob
+Forthrite, the developer of BDG's Zombie: The Putres-
+cence™ line of games, is (unknown to all but BDG's inner
+circle) a fomor. His only fomor powers are Mouth of the
+Wyrm (the mouth is located on his stomach) and Stomach
+Pumper.
+
+Bob recently received a blueprint of the PANACEA
+Pharmaceuticals plant from his vacationing cousin Frank.
+Frank, also a fomor, worked at the PANACEA plant until
+his recent unexplained disappearance. Frank thought that
+the blueprints he found were "cool" and didn't think the
+company would mind if he brought them to Bob for use in
+one of his games. Bob is currently planning to use them in
+the Zombie sourcebook Fury across Florida. The characters
+should be convinced of the blueprints' validity if they
+notice that they match those in the dossier photo of Ben
+Stillson (see the dossier on Stillson).
+
+If cornered, Bob Forthrite will wail and blubber, protest-
+ing that he only wants to make games to "make people
+happy," or that he is "making gaming an art form." He can
+look pretty pathetic and will produce pictures of fictitious
+children at the drop of a hat. If the characters are dumb
+enough to let him go, he will run to the phone and report
+them to his "masters" (Pentex).
+
+acca blueprints map out the firsefl6or poe basement of
+
+the smaller building.
+
+These blueprints (provided as a handout later in this
+book) are fairly basic; the Storyteller is encouraged to add
+his own elements and customize the maps to his own
+campaign. The blueprints are several years old, and some
+changes have surely been made at the site since their
+drafting (machines added, rooms reconfigured, etc.). Char-
+acters using the blueprints to infiltrate PANACEA should
+run into at least one unexpected dead end while in the
+plant.
+
+Here, at the PANACEA plant, the characters will find
+the most damaging and illuminating information about
+Pentex. Not surprisingly, here is also where they will meet
+their strongest resistance. PANACEA Pharmaceuticals,
+Inc. was founded in 1986 and is a subsidiary of Magadon,
+Incorporated. It is the pet project of Harold Hines; it is also
+the brainchild of Harold Zettler (Pentex Board Member
+and a Malkavian antitribu), whose interest in medical
+atrocities dates back to his nights as a Nazi doctor at
+Auschwitz. Zettler has a controlling share (53%) of
+PANACEA's stock. Hines has a private office here, as does
+Ben Stillson. A ghoul (Mr. Zygote) may also be found here,
+scrutinizing the company's financial records and generally
+lurking about.
+
+Storyteller Information 9
+
+
+The plant is not visible from the main roads (it is at the
+end of a tertiary road marked "Private") and is situated on
+a peninsula that juts out into a large lake. The peninsula
+covers about 10 acres and consists primarily of meticulously
+landscaped grounds. There is a parking lot, but no cars are
+visible. Surrounding the grounds is a high-voltage fence.
+
+First Team troops, some of them fomori, patrol the
+grounds, and security cameras sweep the perimeter. If the
+characters decide to approach through the Penumbra, they
+will find that the natural beauty of the grounds gives way to
+the sulfurous stench of a Hellhole. The Gauntlet rating is
+7 in the surrounding grounds and increases to 9 once inside
+the building.
+
+Several of the trees that dot the landscape are inhabited
+by Blight Children:
+
+Rage 8, Willpower 6, Gnosis 5, Power 25
+
+Charms: Blighted Touch
+
+They will bide their time, waiting to attack when the
+characters flee the building.
+
+There are also many minor Bane spirits here, but they
+appear mindless and do not attack; instead, they feed,
+vulturelike, on any fallen intruders. If characters approach
+stealthily through the Penumbra, they should at least be
+able to get into the building before encountering any major
+resistance.
+
+Third Floor
+
+Most of the top floor is filled with office space, though no
+employees are actually working in this area. They have
+been "given the week off' while Mr. Zygote peruses the
+records. The top floor is also where the characters will find
+the offices of the president (Hines) and vice-president
+(P.T. Barnes). There is nothing of interest in Barnes' office.
+
+Also on the third floor, hidden by a retractable roof
+panel, is Hines' private helicopter. He will use it to escape
+if things go against him.
+
+e Mr. Zygote:
+
+Somewhere in the building, the characters may run
+across the ghoul Mr. Zygote. He is the majordomo of Harold
+Zettler and one of Pentex's premiere "number-crunchers."
+He is at PANACEA because Hines is suspected of skim-
+ming profits and other unseemly financial misdoings. Zettler
+and Persephone both hope that Zygote will uncover enough
+information to depose Hines once and for all.
+
+Zygote is a Sabbat ghoul of the Obertus family (see
+Storytellers Handbook to the Sabbat) and has been in
+Zettler's service for 50 years. He is an ideal spy (Auspex 4,
+Obfuscate 3), a consummate accountant, and he likes his
+job. He has allowed Hines to "bribe" him into not investi-
+gating too deeply, even as he quietly amasses enough
+evidence to damn him in the eyes of the Board. Zygote will
+not engage in combat under any circumstances, instead
+trying to disappear and flee when confronted with danger.
+
+Physical: Strength 2, Dexterity 5, Stamina 2
+
+Social: Charisma 2, Manipulation 4, Appearance 1
+
+10 Monkeywrench! Pentex
+
+Mental: Perception 4, Intelligence 5, Wits 4
+
+Talents: Alertness 5, Brawl 2, Dodge 2, Streetwise 2,
+Subterfuge 4
+
+Skills: Drive 4, Firearms 3, Stealth 4
+
+Knowledges: Computer 4, Investigation 5, Law 3, Sci-
+ence 2
+
+Willpower: 7
+
+Roleplaying Notes: Lurk and spy. Talk like Peter Lorre.
+"You...you don't understand. I'm only an accountant!"
+Whatever you do, don't drop your briefcase.
+
+Zygote's Briefcase: Zygote's briefcase contains evidence
+against Hines. In addition, it contains "Hines' Letter to
+Persephone" (see below) and the four Pentex satellite
+photos (one of which can be found in the WereHacker
+Files). Zygote may also have copies of the "Stillson Memos"
+(see below).
+
+Harold &. Hines' Office
+
+Hines' office is both large and opulent. It is paneled in
+dark mahogany and tastefully appointed in a classical style.
+Numerous shelves contain books on a plethora of subjects
+(mostly science; some are authored by Hines), and several
+diplomas hang behind a large antique desk. Paintings,
+including an original but hitherto unknown "hellscape" by
+Hieronymous Bosch, adorn the room. On Hines' desk are
+several photos of Hines shaking hands with former U.S.
+presidents of both parties, and a photo of his current wife.
+
+Cursory examination reveals little else of interest. The
+locked desk, if forced open, contains only several innocu-
+ous but highly impressive files of sales figures. Similarly, the
+highly advanced computer next to the desk provides only
+cryptic, confusing code if booted up.
+
+The true prize in the room is a wall safe hidden behind
+the Bosch painting. The safe's computer lock can be by-
+passed with a Wits + Computer roll (difficulty 8). Three or
+more successes are required to avoid triggering the silent
+alarm system. In the safe are three artifacts:
+
+Persephone's Letter to Hines
+
+This message is on a 2" CD-ROM disc in a plastic case.
+The word "bitch" is scrawled on the case in Hines' hand-
+writing. This disc represents some of the latest in Tellus
+Enterprise's hardware technology and is incompatible with
+any computer currently available on the open market. If the
+characters neglect to play the CD on Hines' computer (it
+boots up automatically) they will have to seek out some
+Glass Walkers advanced enough to have access to this level
+of technology.
+
+The disc also has a Net-Spider bound into it. This
+creature will crash a system once the disc is inserted,
+allowing the computer to play only the disk's message
+(Persephone's idea of a practical joke). As soon as the file
+boots up, it will send the message straight to the printer,
+printing out a hard copy.
+
+
+Notes: The Storyteller should be made aware of several
+facts from the letter:
+
+¢ Persephone has already convinced several Board Mem-
+bers, including Zettler and Yamazaki, that Hines should go.
+She is planning on using evidence of his embezzlement as
+
+an excuse to depose him; Mr. Zygote's job is to obtain such.
+
+evidence.
+
+¢ Persephone plans to have Hines killed. To this end,
+she has several means at her disposal, including...
+
+a) Her influence with the Black Spiral Dancers.
+
+b) Her influence with the Sabbat.
+
+c) The First Team at the PANACEA plant.
+
+d) She has the authority to send in additional First
+Teams "to bolster security" and is seeking clearance to
+utilize the Alpha Team.
+
+¢ The reference to Stillson's "hacker doppelganger" is
+explained in the "Stillson Memos" (see below). Thus, this
+letter is not delivered to Hines until after the events listed
+in those memos have occurred. Persephone may be bluffing
+alker doppelganger is still there,
+Ison.
+the identity of the intruder in
+
+obvious psychosis. Her personal guards include disparate
+factions among the Sabbat, Black Spiral. Dancers and some
+humans; she has managed to make them cooperate effi-
+ciently.
+
+Hines' Letter to Persephone
+
+This letter is in Mr. Zygote's briefcase, but because it
+addresses subjects mentioned in Persephone's letter, Story-
+teller information is given here. The letter directly mentions
+several of Pentex's most highly guarded secrets. Below are
+details on each one.
+
+¢ The AIDS "Cure":
+
+PANACEA has tailored a "hunter virus" specifically
+programmed to latch onto the HIV virus (fighting fire with
+fire), not killing it but neutralizing it "permanently." The
+disease goes into remission, usually within two months of
+the initial treatment. This is the official version of events.
+
+The hunter virus is in reality what has been dubbed an
+"engineer virus" that mutates the HIV virus, causing it to
+become even more deadly — if that's possible.
+
+The incubation period for this new strain is about five
+years, during which time the patient feels completely
+healthy. When the new virus finally surfaces, it is far more
+virulent, faster acting and capable of being transmitted
+through casual contact. It will bear little resemblance to the
+original virus and will thus be nearly impossible to trace.
+This is part of Pentex's "Omega Plan." Five years after the
+
+initial "cure" is released, the world will face an epidemic of
+
+unbelievable proportions. This, along with other factors,
+
+will create an End Times milieu perfect for the genesis of
+
+the Omega Plan's second phase. The AIDS plan has no
+
+supernatural component to it; it is based purely on science.
+© New Fomor Powers:
+
+PANACEA has developed several new fomor powers,
+some of which are possessed by the fomor guards here.
+
+Acidic Touch: The fomor's skin excretes a caustic,
+gelatinous substance that adds two extra dice of aggravated
+damage to any physical attacks involving touch. This
+power could be particularly damaging in tandem with
+Mega-Strength and Plasmic Form.
+
+Alacrity: This is a limited version of the vampire Disci-
+pline Celerity. It allows the fomor to take one extra action
+per turn, as if he spent one Rage point. This ability costs one
+Willpower point per use. Its advantage to Pentex is that,
+because the fomor does not rely on Rage for extra actions,
+the berserker mentality does not have to be engineered into
+the fomor. This makes it easier to control in battle.
+
+Death to the Dead: This power is a byproduct of
+PANACEA's AIDS research. It functions exactly like the
+fomor power Infectious Touch, but it works against the
+
+Health Level per week, diarieyy which time the victim feels
+miserable. Hines hopes to test this power against Persephone.
+© The Berserker Serum (a.k.a. "Super Serum"):
+
+This serum is still in an experimental phase and has only
+been used a few times. The usual method of injection (as
+seen in the Buck Racer comic, below) is viaa painless air jet
+directly into the carotid artery. In a matter of seconds, the
+recipient is overwhelmed by a raging bloodlust similar to a
+vampire's frenzy. The recipient's Physical Traits are greatly
+increased (Strength +4, Dexterity +1, Stamina +3). The
+berserker does not take the usual wound penalties when
+injured, enabling him to fight effectively until he is killed.
+Berserkers can still effectively use weapons, even to the
+extent of reloading guns, and are capable of rudimentary
+strategy.
+
+Pentex assumes that all users of the serum will be on the
+same side (its). Its scientists have added a strong phero-
+mone-inducing agent that causes an aversion response in
+others using the drug — thus, two people using the serum
+will not attack each other. The drug suppresses the speech
+centers of the brain, rendering the user mute for about an
+hour after taking it.
+
+The frenzy lasts about 15-20 minutes. After the serum
+wears off, Pentex convinces the exhausted and confused
+survivors that it was really a great experience (surrepti-
+tiously removing the bodies of any dead comrades, of
+course).
+
+Storyteller Information Il
+
+—_—~a
+
+———
+
+
+Seer rere eran ear eenn naren se ve er a remem)
+
+The injectors that emit the serum also contain a radio
+transmitter. This alerts Pentex security that the drug has
+been used, allowing the corporation to send investigators,
+reinforcements, damage control teams, etc.
+
+First-time users of this drug must score a single success on
+aStamina roll (difficulty 7) or die of heart failure as the drug
+wears off (Garou automatically switch to Crinos form and
+thus roll their adjusted Stamina). The difficulty increases
+by one with each subsequent use until it reaches a difficulty
+of 10. After this, the number of successes needed to survive
+increases by one per use.
+
+Pentex calls this "better living through chemistry." The
+drug has no effect, beneficial or otherwise, on Kindred.
+
+¢ Experiment #4:
+
+For years, the researchers at Mars Electronics (an elec-
+tronics firm catering exclusively to the military; a subsidiary
+of Nastrum Enterprises) have attempted to create the
+perfect assassination weapon for use by the intelligence
+community. Recently, they have succeeded beyond their
+wildest dreams.
+
+Experiment #4 was the brainchild of the company's
+founder Cyrus Kurtz (now deceased). It was inspired by a
+strange series of "dreams." These dreams were in fact
+visitations from the Maeljin Incarna Doge Klypse (see
+Book of the Wyrm). At his orders, the company captured
+four musicians (three Garou Fianna and one Toreador) and
+forced them to play. Their music was then subjected to
+electronic manipulations in accordance with an arcane
+mathematical formula supplied by Kurtz. The result was a
+beautiful, unearthly sound that welled up from a rift torn in
+the fabric of reality —a sound emanating from the Atrocity
+Realm. In a matter of seconds, all of the employees in the
+lab, as well as several passersby on the street outside, were
+assaulted by a wave of sheer, insane terror. All died. The rift
+collapsed upon itself and was resealed.
+
+Pentex quickly cordoned off the area and sent people
+inside. The only survivors were the Fianna and the Torea-
+dor, who had been at the nexus of the rift. They were
+completely insane.
+
+Pentex has both a recording of the sound and some of
+Cyrus' notes. From these, researchers have been able to
+reconstruct the experiment and now need only an "anti-
+dote" that will allow them to wield this devastating weapon
+safely (earplugs are useless). Pentex hopes to use the weapon
+to assassinate people "over the phone." Researchers have
+had some success with neural blocking agents and are set to
+start field-testing shortly.
+
+The sound doesn't kill Kindred, but it drives them insane
+(whether this is permanent or not is unknown). The truly
+insane, living or undead, are completely immune to this
+weapon. Pentex has decided that Experiment #4 is too good
+to share with the military and is developing it for its own
+purposes.
+
+12 Monkeywrench! Pentex
+
+ee ee ee ee aaa
+
+Security Memo #A 212-93
+
+This security memo and its accompanying transcript are
+both printouts.
+
+Pentex is being stalked. In the course of its dealings with
+the Sabbat, and as a result of its penchant for (often
+unfriendly) corporate takeovers, the corporation has un-
+knowingly raised the curiosity of several powerful individuals
+in the Camarilla (Ventrue) community. A vampire ,the
+Ventrue elder Aeneas, has been assigned to investigate.
+
+Aeneas has spent the last year probing Pentex's corpo-
+rate structure and is now making several opening feints to
+determine its power and methods of operation. To this end,
+he has obtained the voluntary talents of a Glass Walker
+Monkeywrencher named Max Stirner and the unwilling
+services of two First Teams. The latter have been procured
+through Aeneas' considerable powers of Presence and Domi-
+nate. Additionally, he has turned several fomori and an
+Iliad agent into his ghouls. These agents have limited
+Fortitude and Potence in addition to their other powers.
+Aeneas also has the service of several lower-generation
+Ventrue and can depend on limited aid from the princes of
+whatever cities he visits (if the prince is Ventrue).
+
+Aeneas is still very much in the data-gathering stage of
+his investigations and does not yet realize the true scope of
+Pentex's operations, but he is learning fast. He has some
+minor aptitude for Chimerstry and has used this to great
+advantage in covering his tracks. He has employed a num-
+ber of illusory guises, including that of the "woman"
+mentioned by Spider Hardigan in his report (see the tran-
+script).
+
+Through Max Stirner, Aeneas has sent a number of false
+orders allowing him to lead First Teams into his traps,
+disrupt communications and cause Pentex other minor
+inconveniences. He reports all of his findings to the
+Camarilla.
+
+Pentex, which has spent most of its time and resources
+on defenses against the often unsubtle attacks of the Garou,
+currently finds itself (at least thus far) ill prepared to
+counter the subtlety of an immortal master tactician like
+Aeneas. Like Aeneas, however, Pentex is adapting rapidly,
+and the corporation can muster much vaster resources than
+the vampire can. It is possible that the hunter may soon be
+the hunted.
+
+The alliance between Max and Aeneas may actually
+hurt the cause of the Monkeywrenchers if the Garou
+leadership were to find out — Aeneas, like most vampires,
+is "of the Wyrm" in the eyes of Garou.
+
+Aeneas: Aeneas was born in 1328 to a poor farming
+community in Southern Greece. He grew up tending his
+father's crops and was considered the pride of the town
+because of his athletic prowess and great beauty. Indeed,
+the latter caused some to jest that he was Adonis somehow
+reborn, and attracted the attention of a powerful and
+ancient local Toreador.
+
+
+Aeneas was still a young man when the Black Death
+swept through the region, killing many and marring many
+others. Hearing of the plague, the aforementioned Torea-
+dor rushed to the town, hoping to make Aeneas a vampire
+and thereby preserve his beauty for eternity. But the Torea-
+dor was too late: a Ventrue rival had beaten him to it. This
+Ventrue had Embraced Aeneas to anger the Toreador, but
+soon discovered that Aeneas had very good uses.
+
+Aeneas excelled at Kindred politics and rose quickly (by
+Ventrue standards) through the ranks, with the Toreador
+elder as his ally. He now serves the Camarilla and his clan
+as an Archon, and is one of the Camarilla Inner Circle's
+most trusted agents.
+
+He is a sixth-generation vampire and is correspondingly
+powerful. He has high levels in Presence, Dominate, Auspex,
+and Fortitude. He also possesses Celerity and Chimerstry.
+
+Visually, Aeneas looks every bit the part of a young
+Greek godling. He appears to be a tanned youth of 19 or 20
+with long, curly, brown hair. He often dresses in fashions
+worn by the current youth culture and looks like he would
+be at home on any college campus. He is a potential ally
+against Pentex and is comparatively benign — but he is also
+a master manipulator and should be played as such.
+
+Max Stirner: Max Stirner is an experienced
+Monkeywrencher of the Glass Walker tribe and has suc-
+cessfully been tweaking Pentex's nose for several years now.
+Born in the Bronx, Max is equally adept in the Net or on the
+streets. He has obtained Rank Three and was born under
+the crescent moon. He is an excellent hacker. Stirner is a
+slender African-American man in his early 30s. He usually
+wears sunglasses and a leather jacket. He carries two .45
+caliber pistols at all times.
+
+Stirner has been working with Aeneas for a year now and
+is, of course, wary of him, though he is also somewhat
+overwhelmed by the force of his personality. If Aeneas finds
+out about the characters and decides to initiate contact
+with them, he will do so through Max.
+
+Buck Racer Comic
+
+The safe contains four pages of a comic book: "Buck
+Racer of the First Corp." These are penciled pages for the
+next issue.
+
+More sophisticated Garou may laugh out loud when they
+see the infantile nature of this blatant piece of Pentex
+propaganda, but a second look reveals several salient and
+chilling facts. The comic is only partially a propaganda
+tool; it also serves as a training manual. Pentex has learned
+much about its Garou foes — far more, in fact, than the
+Garou have learned about Pentex, and the corporation has
+made that knowledge available to its front-line troops in a
+very precise and practical manner.
+
+Most First Team soldiers are rapidly learning about
+Garou tribes, auspices, powers and tactics from this simple
+comic book. Several astute Monkeywrenchers have ob-
+served that recently encountered First Teams seem quite
+
+savvy about werewolf abilities, and they don't seem to break
+rank as easily as they used to. This comic is part of the reason
+why. In addition, the comic hints at things that may present
+a long-term threat to the Garou.
+
+Many First Teams now carry Bane fetishes
+(PowerGoggles™) that allow them to see a Garou as he
+negotiates the Gauntlet from the Umbra to the physical
+world. Such detection is not too much of a danger for Garou
+who are adept at stepping sideways quickly. However, itcan
+be devastating to a low-Gnosis werewolf, who may well find
+himself staring down the barrels of multiple, carefully
+aimed rifles when he completes his five-minute journey
+from the Umbra. Even the fastest Umbral shifters may find
+that their foes have a fraction of a second longer to prepare,
+and many First Team soldiers are now trained to jump at the
+merest hint of an "Umbral shift."
+
+If a Garou acquires one of these fetishes, it is possible
+that, with time, a counterfetish might be created. The
+Black Spiral Dancers have already developed their own
+protections from this fetish, but their countermeasures are
+Bane-related, and Gaia's Garou will have to develop their
+own antidote.
+
+The Storyteller should also note the following:
+
+¢ The comic paints a fairly accurate physical portrait of
+"kindly ol' Doc Zettler" (a.k.a. Harold Zettler), which may
+eventually be of some use to Monkeywrenchers.
+
+¢ There really is a Buck Racer. He is a member of
+Pentex's Alpha Team. He is a sociopath in the truest sense
+of the word, but he is an effective leader and quite charis-
+matic. The Storyteller should feel free to give him whatever
+Traits and strange abilities she deems appropriate.
+
+© The Wendigo, Shadow Walker, has been marked for
+termination by Pentex security, and Pentex has placed high
+priority on his elimination. See the "Corporate Report" for
+the reason why.
+
+© The Super Serum (a.k.a. Berserker Serum) is real and
+can be activated by First Team commanders. See "Hines'
+Letter."
+
+The comic and other artifacts (videos, Pentex-con-
+trolled newspapers, etc.) found in the First Team's barracks
+represent an incredibly potent propaganda tool. Pentex has
+an army of soldiers who think exactly the way the corpora-
+tion wants them to think. But the system is not foolproof.
+First Teams have to be able to operate in the outside world
+in order to perform efficiently, and the real world doesn't
+always conform to the neat reality that Pentex has created
+for its soldiers.
+
+To this end, Pentex minimizes its soldiers' interaction
+with the outside world (short missions, limited leave time,
+etc.) in order to keep "corrupting influences" (i.e., the
+truth) from gaining hold. Pentex, of course, indirectly
+controls a considerable portion of the media, thus ensuring
+that much of its propaganda reaches even its agents on
+extended field missions. Also, most First Team agents are so
+thoroughly indoctrinated that even the most convincing
+
+Storyteller Information 13
+
+a
+
+ee
+
+|
+
+
+evidence will not shake their faith. Occasionally, however,
+an operative remains in the field a bit too long and begins
+to realize the true nature of her employers. Some of Pentex's
+most deadly foes have been created in this way.
+
+Second Floor
+
+Despite the soft pastel hues of the walls and the cheerful
+"homey touches" that predominate this floor, there can be
+no doubt that it houses one of Pentex's vilest atrocities to
+date.
+
+The floor is mostly given over to hospital space, and a
+number of the rooms are occupied. PANACEA has secretly
+lured a number of people — AIDS patients — to this
+location, promising a potential cure. The patients are from
+many walks of life and have grown to trust the cheerful
+nurses and humanitarian doctors who work the ward day
+and night. The treatments are free; patients are told that
+the tests are experimental and that there is a "small" danger
+of side effects. But, of course, this means little to the truly
+desperate.
+
+Patients are allowed to come and go pretty much as they
+please; the only stipulation is that they may not tell the
+outside world about the hospital. If characters try to help
+patients out of the hospital, the patients will most likely
+view them as monsters and intruders. Ten to 15 patients
+occupy the ward at any given time. More information on
+the supposed "AIDS cure" can be found in the Storyteller
+notes on "Hines' Letter."
+
+First Floor
+
+Much of the building's first floor is eerie and poorly lit.
+The majority of the offices and labs resemble those of a
+production facility, but the primary mission of this area is
+actually research and development. Here, in the PANA-
+CEA labs, many of Magadon's Bane-infested medicines are
+given birth.
+
+During the day, a crew of highly paid scientists works
+hard to create everything from designer drugs for sale on the
+street (Pentex is the primary force behind Colombia's Cali
+drug cartel) to highly addictive, Bane-ridden, over-the-
+counter pharmaceuticals.
+
+At night, there is only a skeleton crew of maintenance
+people, though an occasional devoted scientist burns the
+midnight oil here. All of the employees are thoroughly
+corrupted by the Wyrm and are completely aware of the
+consequences of their work. Despite this, most of them are
+humans and thus little threat to the characters (although
+some employees carry guns loaded with silver bullets).
+
+Many of the automated machines on the first floor are
+also Bane-ridden. Machines here are imbued with a sinis-
+ter, low animal cunning. Most of the time they will continue
+performing their allotted tasks while letting intruders pass.
+Only when one intruder is separated from his pack or when
+the pack as a whole is fighting for its life will the machines
+
+14
+na
+
+intervene. Forklifts will blindside struggling Garou; robot
+arms will tear and grab; conveyor belts will start and stop,
+abruptly dumping their surprised victims into automatic
+shrink-wrapping machines capable of cocooning a Garou
+in seconds. The machines down here are fully capable of
+employing teamwork and rudimentary strategy.
+
+In the blueprints, much of the floor space appears to be
+clear of obstructions. However, as with most production
+plants, the majority of the floor space is taken up with row
+upon row of inventory stacked on pallets, reaching almost
+to the ceiling (25 feet high). Because of this, visibility is
+severely diminished and there are no vantage points from
+which the characters can see the entire plant floor. The
+plant defenders know the plant well and do not need such
+vantage points. There are also security cameras, although
+they are vulnerable to Garou manipulations (such as the
+Gifts: Jam Technology or Control Complex Machines).
+
+The Bane Antenna
+
+On the roof of the complex is a silver-black, ovoid dish.
+The Wyrm emanations from it are palpable even to the
+most inexperienced Garou. This "Bane antenna" lures
+lower-order Banes, traps them, and blasts them into great
+vats on the first floor. Here, they are subjected toa scalding
+chemical bath and a sorcerous matrix, allowing PANA-
+CEA to blend them into pharmaceutical goods.
+
+Most of Magadon's harmful drugs are of this nature;
+Bane-related ingredients allow them to circumvent gov-
+ernment health regulations, which do not cover "bad
+mojo." All Magadon drugs are addictive to some degree,
+and some of them are wildly hallucinogenic when taken in
+large doses. Abusers often report seeing strange alien vistas
+and horrifying creatures. What they are actually seeing is
+the Umbra. Some long-time users have actually disap-
+peared into the Umbra, never to be seen again. Most,
+however, simply become deranged, antisocial and ulti-
+mately psychotic, thus furthering the cause of the Wyrm.
+
+The Basement Level
+
+Much of the basement isa parking deck, though there are
+not likely to be too many cars here. The rest of the basement
+has been converted into barracks, or "dormitories" as Pentex
+calls them.
+
+There are segregated dorms for the fomori and the
+human First Team members. Contact between the two
+groups is kept, by edict, toa minimum; Hines is conducting
+experiments with his fomor troops and has gained special
+dispensation to segregate them. Most Pentex First Teams
+are, of course, integrated.
+
+The two sections are stunningly different, not only
+because of the two groups' physiological differences (al-
+though some fomori can pass for human) but also because
+of the widely divergent philosophies involved in their
+training.
+
+Monkeywrench! Pentex
+
+eimai -/
+
+|
+
+
+peer rere rere cree erence av an SP orem amaseremmeearenarehh
+
+The Fomori
+
+Between 15 and 20 fomori reside at this facility at any
+given time. When fomori are first created, their goals and
+desires are still basically human (though admittedly dis-
+torted). Pentex tries to change this as quickly as possible.
+
+To this end, many Pentex installations are currently in
+the process of adopting the "Hines Plan." This psychologi-
+cal/pharmacological process whittles away any remaining
+human "weaknesses," such as kindness, remorse and empa-
+thy. It then replaces these emotions and drives with a
+cunning intelligence. While these fomori may appear hu-
+man on the surface, they are monsters inside. Of course, this
+process occasionally goes wrong, and the wayward fomor
+has to be destroyed.
+
+Most of these fomori were surgically created by Magadon
+in the physical world, but a select few were created by the
+same Seeder entity that "birthed" Hines (see Hines' de-
+scription above). These fomori are the most powerful and
+the most favored of Hines' minions.
+
+The fomori's living quarters are a Gigeresque nightmare.
+They are constructed like a giant ant farm, with numerous
+pits and dead ends. The actual tunnels exceed the original
+boundaries of the basement, and the fomori add to them all
+the time.
+
+The tunnels are not detailed in the blueprints, but they
+begin where Bob Forthrite's fomor friend scrawled the
+words, "We are here...and here."
+
+Hines favors the fomori over his human guards and
+supplies them with everything they need. There is no
+furniture here, but there are numerous cubbyholes, extru-
+sions from the floor, etc., which the fomori use instead. Not
+all Pentex fomori live this way, but Pentex has had good
+luck with Hines' methods and is using them more and more.
+
+Hines has also installed hidden speakers throughout the
+fomori quarters. From these, a barely audible musical score
+continually issues. The music was especially composed to
+divorce the fomori further from any residual weaknesses,
+and its subliminal influence is compounded by the admin-
+istration of various drugs.
+
+If characters enter the tunnels, the Storyteller should
+give the fomori a definite "home turf" advantage. Charac-
+ters should be required to make several Perception +
+Alertness rolls (difficulty 8). Failure means the character
+becomes lost and disoriented and suffers a penalty of one or
+more dice on all further Perception rolls while in the
+tunnels.
+
+Hines considers his fomori too valuable for the Berserker
+Serum. All of the fomori at this plant are completely loyal
+to Hines and will die to the last man (er, thing) to defend
+him.
+
+The average fomor's Traits are as follows:
+
+Physical: Strength 4, Dexterity 3, Stamina 4
+
+Social: Charisma 1, Manipulation 2, Appearance 0 or 1
+
+Mental: Perception 2, Intelligence 2, Wits 2
+
+Talents: Alertness 2, Brawl 2, Dodge 2, Intimidation 1
+
+Skills: Firearms 3, Melee 1, Stealth 3, Survival 2
+
+Knowledges: Occult 1
+
+Powers: Each fomor has at least two powers.
+
+Willpower: 4
+
+Equipment: Assault rifle with one clip of silver ammu-
+nition (by orders, usable only in emergencies)
+
+Che Humans
+
+While ostensibly there to "guard the installation against
+the damned werewolves," the First Team here is also
+charged with the mission of watching over Hines (whom
+the First Team has nicknamed "Doc Frankenstein") and
+curbing what many of the Board of Directors see as a
+growing threat from Pentex's nonhuman contingent.
+
+The human First Team is being maintained at PANA-
+CEA against Hines' will. While he has railed against its
+presence, he has not been able to get rid of or co-opt it
+without raising the furor of the entire Board. The actual
+dormitories are large, semi-spartan barracks housing 10
+humans per unit (six units total). There is also an adjacent
+training room and firing range. The barracks can hold up to
+60 humans, but there are usually 40 or so in residence.
+
+There is a strange dualism to the First Team stationed
+here, which sets it apart from most other Pentex military
+units. Like the members of many First Teams, the humans
+here are continually bombarded with the usual Pentex
+propaganda; all of the humans here are true zealots rallying
+around the Pentex banner as though it were the Holy Grail.
+They thrill to the monthly comic and television exploits of
+their hero Buck Racer, and consider it the greatest of
+honors to die for the Wyrm.
+
+However...while they are here to guard an important
+Pentex installation, they can't escape the fact that they are
+in an enemy camp. Several humans have disappeared in the
+last year, and the First Team suspects (rightly) that they
+were killed by the fomor contingent. The humans only
+leave their barracks in groups of four or more. They have
+actually become quite ingenious at ensuring their own
+security while also gaining intelligence on Hines' activi-
+ties; they relay this to the Board through Persephone (to
+whom they are particularly loyal).
+
+Hines underestimates the humans badly and doesn't
+suspect that they have dug several tunnels of their own. Nor
+does he know that they have a secret radio transmitter,
+which allows them to circumvent the phones he has bugged.
+When not in use, the "Super Serum" is locked up to prevent
+tampering by Hines.
+
+The First Team follows a strict military code of discipline
+and subscribes to an honor system. It exhibits an optimistic
+"can-do" spirit, and while the ultimate philosophy its
+members follow is repellent, there is something to be
+admired here. The team is also loyal to Ben Stillson and
+follows his orders enthusiastically. Stillson and the team
+
+Storyteller Information 15
+
+J a ———
+
+
+Seer errs eran cre are ie ve er a res enarwrensenrenarv
+
+commander are the only two who can activate the Ber-
+serker Serum, and they will do so only if it is absolutely vital.
+
+If Garou attack the plant, the human First Team will
+defend it valiantly and viciously, but its members also seek
+to settle some scores — in the dark, a fomor can look an
+awful lot like a werewolf...
+
+Despite all this, the Storyteller should resist turning
+these humans into "good guys." They are minions of the
+Wyrm, after all. Still, this is an ideal opportunity to blur the
+usual black-and-white divisions between good and evil,
+thus creating moral dilemmas for the characters. Nothing
+confuses a Get of Fenris warrior more than seeing one
+minion of the Wyrm mowing down another and perhaps
+saving his life in the meantime. This confusion is especially
+compounded wi! the Wyrm creatures are exhibiting
+
+1: Perception 3, Int
+ts: Alertness 2, Bra'
+
+ions. For instance, if
+a Kinfolk) infiltrates
+the memos may fall into her hands.
+copies in Mr. Zygote's briefcase (see PANACEA: Third
+Floor, above).
+
+These memos are on Magadon, Inc. letterhead (PANA-
+CEA is a subsidiary of Magadon). They are handed out
+perhaps once every day to employees. Which version of the
+memos is the truth is up to the Storyteller: is this just a
+hacker trick, or is someone really impersonating Stillson?
+(That "someone" may be a Glass Walker Monkeywrencher
+with the Gift: Doppelganger; see Dossiers on Pentex Subchiefs:
+Ben Stillson, above.)
+
+A suggested order for their release is as follows:
+
+Afternoon: From: Stillson, RE: Hoax II
+¢ Day Four:
+Morning: From: Davidson, RE: Imperson-
+ator
+Afternoon: From: Stillson, RE: Hoax solved! *
+Afternoon: From: Davidson, RE: Imperson-
+
+ator caught! *
+
+* These last two are handed out simultaneously to
+different employees throughout the office, dividing the
+employees in loyalty.
+
+Endron Environmental
+Pamphlet
+
+The Endron pamphlet is perforated for easy removal and
+should be folded along the dotted lines as shown.
+
+Like many companies with checkered pasts, Pentex's sub-
+sidiaries churn out a neverending stream of commercials about
+
+how benign they are. This propaganda takes many forms.
+i icate: tif
+
+Of the most immediate use is the name and face of
+Endron's president Max Carson. He is highly placed at
+Pentex but not easy to find. Also mentioned in the pam-
+phlet are the names of three other Pentex subsidiaries: Gaia
+Research (an "independent" research company hired by
+many of Pentex's subsidiaries to bolster their claim of civic
+responsibility); Good House Paper; and POW Comics,
+which is a subsidiary of Vesuvius, Inc.
+
+In addition, the characters should realize that the envi-
+ronmental group, "Planet Fund," is a Pentex corporate
+shill. Pentex made $35,000,000 in profits (donations) from
+Planet Fund last year. The high-profile, well-funded "grass-
+
+© Day One: es canes zi
+
+. ; ' roots" organization siphons support from many more
+
+Morning: From: Stillson, RE: New Equip- legitimate but less glitzy environmental groups.
+ment The Storyteller should be aware that the foam used to
+° Day Two: disperse the oil spill in Australia is actually a sort of
+Morning: From: Davidson, RE: Alert! "obfuscate" for pollution. While seemingly breaking down
+Afternoon: From: Stillson, RE: Hoax the oil into its "harmless natural components," it actually
+© Day Three: catabolizes it into less visible but still highly damaging
+Morning: From: Davidson, RE: Rogue ap- compounds. In addition, it contains a stimulant that in-
+prehended creases aggressive behavior in animals tenfold — in effect,
+
+16 Monkeywrench! Pentex
+
+/
+
+omeiaminieniiniaaiee <.
+
+
+turning nature against itself. Australia was its first field test.
+The tanker crash was, of course, by design.
+
+The brochure was written by Carson himself, and some
+of his superiors are angry about him naming other Pentex
+subsidiaries so blatantly. The brochures are being rapidly
+recalled. Some comfort may be taken from the fact that the
+condescending tone of the pamphlet bespeaks an arrogance
+that may someday fatally underestimate the "know-noth-
+ing rubes" it scorns.
+
+Wally's whereabouts are unknown.
+
+Pentex Executive
+Bulletin
+
+The Fateful Meeting
+
+In August of 1993, Pentex convened its annual sharehold-
+ers meeting, this time in Milwaukee, Wisconsin. The purposes
+of this meeting were to inform in-the-know shareholders
+about Pentex's annual progress on the Omega Plan and to
+explain how the Garou problem was being dealt with.
+
+All the shareholders know of Pentex and are aware, toa
+limited degree, of the Wyrm (each one usually has knowl-
+edge of one of the heads of the Hydra). Thus, the meeting
+is one of the few times that Pentex frankly discusses its real
+objectives.
+
+In 1993, however, something went wrong. A Garou by
+the name of Shadow Walker (see below) broke into the
+meeting, using countermeasures given to him by
+Monkeywrencher friends. Along with his small pack, he
+managed to wound Harold Zettler and kill Elliot Meiche,
+Robert Allred and Frederick Kromrich. Against all odds,
+Shadow Walker and his pack then escaped without a trace.
+
+The meeting was thrown into chaos, and only the
+smooth and calming voice of Peter Culliford, Chairman of
+the Board, was able to return the room to a semblance of
+order. The wooden spear was removed from Zettler, and he
+arose to help clean the stage of the bloody evidence. To
+help coax the shareholders into some activity that would
+take their minds off the loss, Culliford and Adrian Newberry
+instituted immediate nominations to fill the now-empty
+positions on the Board.
+
+The shareholders, greedy for power, immediately forgot
+the terrifying breach in security and set about wheeling,
+dealing and threatening their way onto the Board. By the
+end of the weekend, three new Board Members were
+elected: Francesco, a Black Spiral Dancer; Enzo Giovanni,
+a vampire; and Kathryn Mollett, a mortal.
+
+Francesco
+
+Francesco is a lupus Garou. Despite his glowing green
+eyes and patchy, toxin-smeared fur, signs of his Pure Breed-
+ing sometimes show through. Some among his adopted
+tribe, the Black Spiral Dancers, believe he is a Silver Fang
+
+by birth, but the truth may never be known. Abandoned to
+the whim of the elements by his mother, Francesco sur-
+vived feral and alone for most of his youth. Then came his
+First Change. Alone and unguided, he learned to control
+and even master his changing forms through sheer will.
+
+After a time, Francesco chanced upon a Silver Fang Rite
+of Passage ceremony. He watchedas the other cubs were put
+through extremely difficult and dangerous trials. By mim-
+icking the cubs step sideways, Francesco discovered how to
+negotiate the Gauntlet. But Banes awaited on the other
+side, slaughtering most of the Silver Fang cubs. Francesco
+fled back to the material world.
+
+At the end of the rite, one cub, the son of a great lord,
+returned alive. Francesco, proud that he had also survived,
+even by fleeing, walked into the middle of the ceremony
+and said, "I, too, have survived the passage. I, too, killed the
+bad ones". The Silver Fangs looked in awe upon this strange
+cub who bore the marks of high breeding. But the other cub,
+angered at this rival, challenged Francesco.
+
+As the two readied to fight, a tribal elder, the teacher of the
+young cub, stepped forth. "This new cub is of noble birth. Tell
+us from which tribe and family you come." To this, Francesco
+could not reply. "At least tell us the name of your mother, and
+I will allow you to fight." Francesco said, "I was abandoned at
+birth; I have neither name nor tribe." This caused a great stir
+among the assemblage. The rival cub stepped forward and
+exclaimed, "Go! It is not your place to challenge me, tribeless
+wanderer!" Shunned, Francesco left the moot with great
+bitterness. He swore a terrible oath that night: One day he
+would enact vengeance on all Garou.
+
+That same night, Abhorra ,Wyrm of Hatred, came to
+Francesco's dreams in the guise of a radiant and terrible she-
+wolf. Abhorra offered Francesco the power he needed to
+extract his vengeance. When Francesco asked what she
+wanted in return for this boon, she replied, "Only your
+loyalty." To this, Francesco agreed.
+
+Thus began Francesco's service to the Wyrm. The fol-
+lowing night, he encountered a Black Spiral Dancer pack,
+which had followed omens sent to it by Abhorra, and was
+finally adopted into the company of other werewolves. The
+first word he uttered after dancing the Black Spiral was
+"Francesco," which became his name, as is customary. He
+wonders, however, what this means. Over the years,
+Francesco quickly rose in rank among the Black Spirals and
+has led them to many victories. He has become a fierce and
+infamous warrior.
+
+In his service to Abhorra, Francesco attained a high
+position in Pentex and was present at the fateful board
+meeting where several Board Members were killed. Seizing
+the opportunity, Francesco immediately nominated him-
+self to fill one of the new vacancies. His nomination was
+seconded and accepted. Setting into motion a massive
+campaign of extortion, blackmail, kidnapping and bribery,
+Francesco quickly became the forerunner for a board posi-
+tion. Some of his more notable tactics were to enter the
+dreams of shareholders, searching for dark secrets, then
+
+Storyteller Information 17
+
+Zl ———
+
+tier //,
+
+
+Ser rer ers are nen APY rm revere
+
+buying their votes in exchange for keeping this information
+private. Francesco dealt with another rival candidate, a
+vampire, by sealing her in a lead coffin and dumping it in
+the North Sea after "convincing" her to sign over all of her
+shares to him. Similar attacks were made against him, but
+all failed. In the end, he achieved his position on the board,
+coming in second in number of votes.
+
+Francesco's exploits did not go unnoticed by existing
+Board Members. Harold Zettler was particularly impressed
+by the cruelty of Francesco's actions and has since become
+a staunch ally. However, the other Board Members are
+shocked at the prospect of a Black Spiral sitting among
+them. The combination of madness and rage is too unset-
+tling for the boardroom, they argue. Most will wait and see
+how well Francesco does; if he fails, or cannot control his
+Garou nature, he may find himself in a fight against the
+entire board — a fight he surely could not win.
+
+Francesco, as with all who walk the Black Spiral, has a
+derangement: he will only eat the fresh meat of astill-living
+creature. He forces his pack to acquire his meals for him and
+hopes his new position in Pentex will give him the neces-
+sary resources to obtain some truly exquisite meals. Such
+daily feasts have hardened him against the pain and suffer-
+ing of others. Francesco has the unquestioned loyalty of his
+Hive, all of whom now serve Abhorra.
+
+He has taken over Robert Allred's holdings and is thus
+responsible for the Amazon War effort. The board hopes
+that Francesco's greater understanding of the Garou will
+allow Pentex to succeed on that front.
+
+Enzo Giovanni
+
+Enzo Giovanni is a large figure of a man, standing 6' 2"
+tall and weighing close to 300 pounds. His jovial counte-
+nance often reminds those who meet him of a family
+member: a favorite uncle or the like. He tries to look as
+stylish as his large frame will allow. He appears to be in his
+mid-to-late 30s, though he is truly much older, having been
+Embraced in 1871 by the Giovanni clan. Despite being
+Kindred, he has always had a very human look to him, with
+a bright complexion and continually flushed cheeks. Of
+late, however, he has begun to look more like the true
+nature of the Damned: dead. This is because of the Wyrm
+slowly pulling Enzo into its dark clutches.
+
+Before being elected to Pentex's Board of Directors, Enzo
+controlled a huge business conglomerate by the name of
+Irish Eyes Enterprises, Ltd., based in London, England. It
+owned many newspapers and other media sources in En-
+gland and America, and had recently begun to acquire
+numerous American retail store franchises such as S-Mart
+and J. R. Spears.
+
+Because of the great success of Irish Eyes and its subsid-
+iary companies, the Giovanni thought that Enzo was the
+perfect front-man for the campaign against Pentex. By
+putting a Giovanni on the Board, the clan in Venice
+thought, the interests of the Giovanni would be protected
+
+18
+i _——
+
+from Pentex. Furthermore, the Giovanni could actually
+begin to control Pentex by way of their voice on the Board.
+
+Clan Giovanni's chance came in August, 1993, at the
+fateful shareholders meeting. Joining the race for a board
+seat, Enzo looked to be the dark horse candidate. Pentex
+itself was no help, either. Pentex, wishing to keep any
+Giovanni presence out of the company, engineered an
+assassination attempt on Enzo. The attempt was made by a
+Get of Fenris, whom Pentex had duped into believing that
+Enzo was an agent of the Wyrm. Only through pure luck did
+Enzo survive the attack, but he quickly found refuge with a
+powerful vampire ally in Milwaukee.
+
+Enzo quickly realized that he alone could not succeed in
+his ambition. So, uncharacteristically, he allied himself
+with two people upon whom he had once sought revenge
+for past business injustices: Kathryn Mollett, CEO of Alli-
+ance Industries; and Maximillian Toner, CEO of Ouroborous
+Distributions.
+
+Both Mollett and Toner were also running for the Board.
+Mollett had an early lead in votes, with the industrial base
+of Milwaukee backing her up. Toner was a dark horse
+himself, but his support of Mollett was garnishing him votes
+for the Board. Both Mollett and Toner had bested Enzo in
+past dealings, and Enzo had vowed revenge on both of
+them. Indeed, Enzo had begun to acquire many shares of
+stock in Alliance Industries before his arrival, initiating a
+hostile takeover of Mollett's flagship company. With Enzo's
+hopes of getting on the Board in jeopardy, however, he
+swallowed his pride and arranged a meeting with both of his
+rivals. Enzo's plan: Forget the past and work together for the
+future. There were three slots open on the Board, and they
+could each fill one if they pooled their resources. Mollett,
+eager to avoid a costly battle for her company, agreed under
+the stipulation that Enzo stop his hostile takeover. Toner
+agreed with no strings attached, needing votes almost as
+badly as Enzo did. Through quick manipulations on Enzo's
+part, all three agreed that Enzo would be the head of the
+drive for the Board seats.
+
+When news of the Giovanni-Mollett-Toner alliance
+reached the rest of the shareholders, many votes began to
+pour in forall of them. Enzo began a "grass-roots" campaign,
+speaking in person with many shareholders of Pentex stock.
+This campaign was very successful, acquiring many unde-
+cided votes. Mollett solidified her lead, and Enzo shot up to
+acomfortable second in the tabulations. Toner, however,
+was not so fortunate, and still lagged near the bottom of the
+votes. Reports of outright vote-buying grew as the race drew
+to aclose. Toner, growing more and more dissatisfied with
+his poor performance, threatened to pull out of the alliance.
+Enzo, not wanting to lose his support, quickly struck a new
+deal with Toner — near-controlling interest in Irish Eyes
+would be given to him in exchange for the transferal of his
+accumulated votes to Mollett and Enzo. This transfer
+would almost guarantee their placement on the Board. To
+Enzo's relief, Toner agreed, and waited to transfer his votes.
+
+Monkeywrench! Pentex
+
+ae ee
+
+
+Vote-buying grew to monumental proportions near the
+end of the election, and Mollett began to fall from the lead.
+Enzo's "grass-roots" campaign kept him in the top three,
+though he actually began to worry for his new ally. In yet
+another uncharacteristic action, Enzo began to campaign
+for Kathryn, hoping Toner's swing votes would secure his
+edge. Mollett's nosedive reversed, and to even Enzo's amaze-
+ment, she shot into a firm lead. Toner then treacherously
+cast his entire vote pool for Mollett. This enraged Enzo, as
+he dropped from the top three. With little time left, Enzo
+had to react fast. He turned his "grass-roots" campaign into
+a "mud-slinging" campaign, discrediting one of the biggest
+buyers of votes. As the final votes were tallied, Enzo slipped
+back into the top three, barely beating the nominee he had
+tried to discredit. Enzo Giovanni claimed the third open
+spot on Pentex's Board of Directors.
+
+Pentex realized that there was not much it could do, for
+Enzo had won the seat using every legitimate means pos-
+sible. Nonetheless, the other Board Members knew that he
+would be almost alone. Enzo's only ally on the Board was
+Mollett. In time, they felt, the Wyrm would manifest itself
+in Enzo, and Enzo would abandon his clan to serve the
+Wyrm.
+
+Indeed, Enzo shortly found himself succumbing to the
+allure of the Wyrm. Mahsstrac, the Urge Wyrm of Power,
+sensed the power-madness that drove Enzo, and began to
+offer him greater power in exchange for his loyalty. Enzo,
+eager to make an impact on the Board, agreed. The more
+Enzo gave in to the Wyrm, the more power he acquired. As
+this happened, however, his ties to his clan weakened. Irish
+Eyes Enterprises was acquired by Pentex, all but cutting off
+the Giovanni from a place in Pentex. Toner's control in
+Irish Eyes was eliminated, which gave Enzo a great deal of
+satisfaction. Enzo became more corrupt, abandoning his
+true "folksy" nature and relying more and more on his
+shrewd business acumen. Still, he was torn between his
+loyalty to his clan and his growing servitude to the Urge.
+
+At present, Enzo is almost completely subservient to
+Mahsstrac. Enzo does not trust anyone on the Board, save
+Kathryn Mollett. The Giovanni in Venice have not yet
+branded Enzo a traitor, but most feel betrayed by Enzo's
+neglect of the clan's agenda. For a while, Pentex ceased its
+acquisitions of Giovanni businesses, but recently the rate of
+acquisition has once again increased. The Giovanni are
+totally unaware of Enzo's near-submission to the Urge
+Wyrm, or of the Wyrm's domination of Pentex. Enzo
+himself is unaware of the degree of the Wyrm's infestation;
+he is almost completely consumed by his mad dash for
+power (with the assistance of his "invisible friend"). Enzo
+hasa shred of humanity left, and still feels something for his
+brethren in Venice, but if they stand in his way much
+longer, he will turn against them outright.
+
+Enzo himself has noticed that the more he devotes
+himself to Pentex's true goals, the more his personal power
+grows. He has found that his talents in Necromancy, to
+which he gave little thought before becoming part of
+
+Pentex, have increased of their own volition. He has also
+discovered an aptitude for the Thaumaturgical arts, which
+pleases him to no end. He has began to test his new powers
+on his prey, usually killing them in the test, and then using
+Necromancy on them to test his powers further. For all he
+knows, the more he serves Pentex, the more powerful he
+becomes in all aspects of his unlife; this now directs his
+agenda. Indeed, the Wyrm has all but completely suc-
+ceeded in consuming his soul.
+
+Enzo has taken over many of Elliot Meiche's concerns,
+although much of Meiche's power base was divided among
+the existing Board members. This leaves Enzo with less
+power than many members, but the strong support of Enzo's
+patron Urge compensates.
+
+Kathryn Mollett
+
+Atage 26, Kathryn is the youngest person ever to sit on the
+Board of Directors — and the only female. Mollett entered
+college at age 16 and quickly gained her Masters Degree in
+Psychology. This young and uncompromising girl seemed to
+have an intuitive understanding of other people and why they
+do what they do. This served her well upon graduation, when
+she entered the corporate world and quickly rose to become
+CEO of Alliance Industries, a Pentex subsidiary. Kathryn's
+intuition seemed uncanny to the existing Board, and all
+wondered what was the source of her insight. In truth, Kathryn
+was chosen by the Defiler Wyrm long ago to enact its plans.
+
+The Defiler Wyrm has given Kathryn a deadly tactic: the
+truth. She hasan occult ability to recognize the truth when she
+hears it, and she never lies. By always telling the truth, Kathryn
+never has to worry about enemies discovering her secrets —
+she has nosecrets. The Board, being for the most part paranoid
+old men, do not believe this, of course, and suspect that she is
+wiser and more cunning than they first surmised. They are all
+wary of her, continually trying to second-guess whatever she
+says, to discern a double meaning behind her words. But there
+is no secondary meaning; she is forthright in all she does.
+Benjamin Rushing, servant of Pseulak, Urge Wyrm of Lies, is
+especially nervous around her, and wants her destroyed.
+
+Kathryn's unprecedented rise to power has taken its toll on
+her. She is beginning to show gray hairs and crow's-feet, and
+has developed an ulcer. These too-human problems disturb
+her, especially at age 26. She wonders if her deal with the
+Defiler Wyrm is not in some way causing a premature aging.
+Perhaps it lied to her...
+
+Shadow Walker
+
+Shadow Walker, the valiant Garou who killed three
+major Pentex executives, is a Wendigo Ragabash. He is an
+unlikely terrorist. Normally opposed to such activities, he
+was thrown into a rage when his pack was destroyed by a
+Pentex-ordained wolf-hunting excursion in Alaska.
+
+Joined by other Garou who had suffered similar losses,
+Shadow Walker planned his revenge against the megacorp.
+It was only by chance that he met with the WereHacker's
+Monkeywrenchers. With their hacking expertise, he was
+
+Storyteller Information 19
+
+/ —_—
+
+tier //,
+
+
+Seer ere ern core neve ie ve emer ae res mrwrensenarenvh
+
+able to gain just the right information needed to slip
+through the Penumbra and bypass Pentex's security. With
+the help of a Monkeywrencher's fetish, the guardian Banes
+were thrown into confusion long enough for Shadow
+Walker's gang to get in, do their deed, and get out.
+
+This unprecedented success has greatly impressed the
+Get of Fenris of the New York area, who have invited
+Shadow Walker to be honored by them. The latest word is
+that he has accepted. However, should Pentex hear of this,
+and discover the time and place, it will throw everything it
+has at the Get encampment, to enact its revenge.
+
+Jn Conclusion
+
+Pentex's influence is vast and growing. It is a world-
+spanning shadow empire that ignores borders and buys
+governments. Pentex is successful not only because of its
+ruthlessness and Wyrm-spawned powers, but because it pro-
+vides people with what they want. Pentex offers a higher living
+standard in the form of numerous luxury goods and abundant
+daily "essentials" (cars, entertainment, air conditioning, etc.).
+Pentex has insinuated itself into every aspect of modern life.
+It employs untold millions and gives generously to selected
+charities, cultural events and causes on both sides of the
+traditional liberal/conservative political equation. If Pentex
+were to disappear overnight, there would be upheaval on Wall
+Street and massive unemployment, despite the long-term
+good that its destruction would bring.
+
+Pentex knows all this and has mastered the art of public
+relations. It knows that people react violently if they see their
+property taken away. Pentex, through its control of the media,
+has created an atmosphere in which it and its goods are part of
+the blessed status quo (certain "talk radio" hosts are directly in
+the service of Pseulak, the Urge Wyrm of Lies, and derive
+much of their "talent" from him). Any assault on a Pentex
+subsidiary is twisted in the public eye, becoming direct attack
+
+on traditional values. Pentex uses inflammatory rhetoric to fan
+anti-change sentiment into a roaring reactionary fire.
+
+While Pentex by no means "owns" the legal system, it is
+unparalleled at manipulating it; even the most damning direct
+evidence aimed at Pentex in this venue is likely to fail. If
+comered ina court of law, Pentex will merely throw the justice
+system a bone (a "rogue" vice-president who was working on
+his own, an overly enthusiastic aide, etc.) while continuing
+business as usual under some other name.
+
+Despite its weaknesses (and they are legion), Pentex has far
+more strengths. Even if every contingency mentioned in this
+book goes decisively against the corporation, and the forces of
+Gaia win the battle, Pentex is still far better situated to win the
+war. Only now, after many battles lost, havea few Garou— the
+Monkeywrenchers in particular — begun to realize that a
+major change, not just in tactics but in philosophy, is needed.
+Humans vastly outnumber the Garou. Great and powerful
+civilizations have been built, and the djinn of technology is
+not about to return to the bottle from which it came. If the
+Garou are ever to win, they must put behind them their
+halcyon visions of a purely agrarian society where humans
+lived in small sheep folds, fearing the night and the ravening
+wolves just outside.
+
+Many Monkeywrenchers advance the premise that if a
+workable philosophy is to be adopted, it should fall somewhere
+between the tenets of the Children of Gaia and those of the
+survivalist Bone Gnawers and Glass Walkers. Many
+Monkeywrenchers are of the latter tribe (though by no means
+are most Glass Walkers Monkeywrenchers).
+
+Violence is, of course, a tool to be used against the Wyrm
+and its minions, but the Monkeywrenchers' vision puts them
+at odds with many of the ideologues in the Garou tribal
+structure. Monkeywrenchers liken themselves to surgeons
+cutting out a malignant tumor with a scalpel as opposed to
+butchers chopping the patient to pieces with an axe. The days
+of lashing out blindly are over, they argue. The time for precise,
+methodical action is now.
+
+Monkeywrenchers, though few in number and sometimes
+inconsistent in philosophy, are nevertheless wide and varied
+in membership, crossing traditional tribal lines. They are
+pragmatists and idealists. They are flexible in their thinking
+and are born coalition builders. They have even dared to make
+tentative, secret overtures to select Kindred among the anarch
+camps. Rumors posit alliances with Virtual Adept mages —a
+powerful coalition indeed. Monkeywrenchers have gained
+much from these initial alliances.
+
+A Garou who decides to follow the Monkeywrenchers'
+path will quickly discover that it is more of a philosophy than
+an organization, though many Monkeywrenchers form tight
+and disciplined coteries or cells. Monkeywrenchers are in
+many ways a force betwixt and between. There are
+Monkeywrenchers of many stripes. Some are warriors, some
+are computer hackers and no small number of them are part-
+time philosophers. The thing thatall of them have incommon,
+though, is an instinctive hatred for the Wyrm and a definite
+method to their seeming madness.
+
+20 Monkeywrench! Pentex
+
+as
+
+Dice iaonn ili ¢/_
+
+|
+
+
+Kinain,
+
+Blood of my blood. Salutations to you and your great sept. Greetings also from the Lady Carcassone, who wishes me to
+convey her warmest regards. The news from here is not good. Disunity among the tribes continues to grow. The Get and
+Red Talons are on the verge of open war. The Sabbat creatures grow bolder night by night, and the king's dementia grows
+worse day by day. My own position has grown tenuous; I find myself alternately his closest confidant or his greatest foe.
+Yesterday, he banished me. Today, I am to attend a feast in my honor. I relay only his most reasonable decrees to his subjects,
+yet even these orders have stretched their credulity to the breaking point. I fear a revolt — if not from the Silver Fangs,
+then certainly from the Shadow Lords, who are no longer circumspect in their criticisms of our tribe. Alas, I fear they may
+be right. Do I speak treason, old friend? Perhaps. It is certainly a vanity that I feel 1 must share my musings on the subject
+with someone. You are one of the few whom I can trust with my thoughts on this matter. Still, this letter must not become
+a monument to an old wolf's Harano or a list of dilemmas over which you have no control. This is to be a letter of bold
+purpose and, I hope, good counsel.
+
+Recent events have lifted my eyes from the gloom of the local tribes' internecine bickering. Like the first Great White
+Wolf, who for Mother Gaia battled the Darkness, they have illuminated what I am often all too eager to forget in the course
+of my daily affairs: the Wyrm has not stood still while we have fought amongst ourselves. To me, the nature of its workings
+in this sphere has suddenly become very clear. You have no doubt heard of the recent "terrorist attack" carried out against
+a Pentex shareholders' meeting. In case you have not, I will explain: it was carried out by a mendicant Wendigo named
+Shadow Walker. Three of the hated seven (though I believe there are more than seven) — Kromrich, Meiche and the
+traitor Allred — have been confirmed as dead. Allred's death in particular has been cause for celebration by the Get of
+Fenris; but more on this shortly.
+
+Dramatic as these events were, they alone were not enough to force my eyes from the darkness, and here I come to the
+heart of the matter. Documents have come into my possession, copies of which (the only copies) I now commend into your
+hands. The source for most of these papers is an anruth Glass Walker who goes by the intriguing though somewhat crude
+appellation of "WereHacker." I will not trouble you by relating the unsavory channels through which he chose to send these
+documents; in truth, I was not the intended recipient. Many of the documents are vulgar and self-serving, and | must confess
+that I find his obvious contempt for authority disturbing. Perhaps | am showing my age here. In any event, the young Garou
+is most likely dead, and I find myself unable to think ill of him despite his obvious idiosyncrasies.
+
+It would seem he is/was what the Cliath these days call a "Monkeywrencher"; I believe you keep company with several.
+I am hard pressed to understand much of his writings, so steeped are they in the jargon of the youth culture; I can make
+even less sense of the computer dialect which permeates the files. | have contemplated conferring with several local Garou
+who are more competent in these matters than I, but suspicion and disloyalty have become such common companions to
+this court that I have not dared. Gaia help me, | have become timid in my old age; it is the curse of the overcautious Philodox,
+I suppose.
+
+Enough. I have sent these documents to you in hopes that the distance you have put between yourself and here, as well
+as your direct manner of dealing with the world, will allow you to make use of this information in a way I can not. The
+WereHacker files shed heretofore unknown light on the doings of the Wyrm's mortal minions. In addition, I am enclosing
+some of my own intelligence work, constructed from several sources (including some of the WereHacker files that were
+partially destroyed when I received them). I pray that they will be of some use to you.
+
+Finally, there is some good news to report. The Get of Fenris, as I have stated, were jubilant at the news of Robert Allred's
+demise, even if it was at the claws of one of their Wendigo rivals. Evidently they have invited Shadow Walker to a Rite
+of Accomplishment, and the latest news is that he has accepted. Perhaps there is some hope for us after all.
+
+Please inform me if you can make use of the enclosed information. If not, I trust that, as always, I can depend on your
+discretion and good judgment.
+
+Respectfully,
+
+us
+
+Thomas A. Abbot
+Steward of the Lodge of the Sun
+
+
+Diogenes:
+
+You weren't my first choice to give this ta,
+and you're not the only one getting it. (NO
+offense, you're alright and all, but some of my
+people and some of your people really flame each
+other. }
+
+"Anyway, this is some hot stuff, IMHO, and some
+of my friends died getting it. It needs to be
+passed on to the Garou, and my channels are all
+down. I'm trusting you to get it where it needs to
+go - to either the Glass Walker Elite op somebody
+else we all can trust. ;
+
+And watch out! This stuff is poison!
+
+| might see you again, but | wouldn't count on
+it, Stay dead and healthy, and don't step on any
+cockroaches!
+
+- The WereHacker
+
+PS: Sorry this is so huge. Some of the files
+are in TIFF format. Sorry. They came from an
+electronic document scanning & retrieval system
+with a side door, but I-didn't have any decent OCR
+software.
+
+
+CRP PP BE heg ot [ESN oa tS Meany
+
+Podl EE BECP NERS, Pei | oF Beers faa Lok? kaye O
+
+Eo fs ae PR Pe Tefal fag Pods et ec eee ieee
+Ch eee * haf Beoee fee NON i eer
+
+Amiga and lesser computers welcome!
+
+Enter number or name or ‘NEW
+
+HH: 1101
+
+PH: ARAKRK
+
+Welcome, WereHacker!
+
+~ Login @ 9600 bps on 02-10-94 15:11:21
+
+Last on: 02-01-94 02:33:01
+
+System News not updated since your last call.
+Thought for the day:
+
+Anarchy only works if everybody has a good time!
+
+MAIN: >?
+<<PenUmbra Sub-Boards>>
+1: NOISE! (General Chat) 2 (SF age Eine
+3: Real Computers (Amiga) 4: Other Computers
+Cibm/Mac}.
+5 : Classifieds e 6 : Wanted & For Sale/Trade
+7: SF (Anime) 8 : SF (Everything Else)
+9 ; Free Plugs (BBS Ads) 10: Games (Talk)
+11: Games (online) 12: Cyber-Mondo Hyper-chat
+MAIN: >13 :
+Incorrect number, must be 1-12!
+MAIN: 313
+Incorrect number, must be 1-12!
+MAIN: $13 ‘
+Incorrect number, must be 1-12!
+?>Horker
+
+Password? >*### +k +k
+
+
+fbibust!.LHA
+
+freecal|.txt
+kimble.true
+
+kimble.txt
+kimtruth. txt
+
+norway ,txt
+
+NYPOSS.zip
+nzbust ,txt
+
+PA_ACC. TAT
+Pentexnos.!Izh
+
+PYROGUID, TAT
+sabeng.txt
+subend! , txt
+sysfa.txt
+
+tu,txt
+
+uruguay, txt
+worldlis, lha
+
+yellow_pages.txt
+
+6k
+
+2k
+tk
+
+5k
+10k
+
+Tk
+
+138k
+6k
+
+ik
+14k
+
+150k
+
+6k
+
+11k
+21k
+
+tk
+22k
+
+36k. 3
+
+A FBI and SPA bust on some
+dude. CINTE®
+
+Call free via Spain
+
+Truth about Kimble * Pirate
+Circle *
+
+another text about this Kimble
+truth about this fucker KINBLE
+
+‘who's sabotaging the modem scene
+
+Many Norway elite boards got
+busted
+
+Ny-area possibles. NO faxez!
+do not call Thrill Kill Kult HQ
+in Ne!
+
+ad ‘for cool BBS
+
+Access numbers for Pentex (7)
+let me know what you find out!
+Everything you need to go into
+"business" for yourself
+
+Sabine
+
+CRACK INC is dead...
+
+how to make your own PBA
+
+Hack cable to get all the
+channels. :
+
+BB over Uruguay
+
+World HQ Boardlist * Pirate
+Gincle."*
+
+Text about BlueBoxing
+
+26 files listed.
+Command?
+
+od
+
+Download -
+
+File(s) to download? [wildcards ok]
+
+>child*.*
+
+Searching all directories.
+
+Directory : Library 10 -- Anarchy Philz
+Filename : child's_garden, lha
+
+
+THIS PHILE PASSED THROUGH:
+
+THE ONLY
+
+fe Nee tN A eee BBS
+
+Ae thee NE fp ei Le NG
+
+é meets NICE. PN ofA/ SSA EVER
+‘ NAN Mes ehh NEED
+
+ESL tN meee fen OP gee BN ek
+
+PS heat ING FBI ih Pe fone took
+Pe aaah ee eee At SEN Eel oo ee ul
+Nae Nae ee Noe? NES RES
+
+FOR IMMEDIATE RELEASE TO DISCRETE, ELITE BOARDS
+ANNOUNCING SECOND ANNUAL EaRthFisT! EarthFest !
+EaRthFisT!, THE extremist ecoaction group, and
+the Boy area Green Phreax, proudly announce the
+second annua! EarthFest!, to be held in Redwood
+Park,
+
+Ecoextremists, ecoterrorists and ecohackers
+welcome, :
+
+Bean dip will be provided for the inevitable
+spies. ‘
+
+For more information, leave e-mail for Scuttlebutt
+
+where you gat this file.
+
+
+Ge fs FP ee A # Doe PIN Gea Ee Pay
+CEE PL ELSES Pet fot beg pel el iot fat hoe O
+fe hits. Capa ee hed, Lhe hal afta fobs i fae of eek OX
+I fi Bias SE SG gh igh find fii} EES SAE gies fF sal So Sat.
+
+Amiga and lesser computers welcome!
+
+Enter number or name or ‘NEW'
+
+NN; 1101
+
+PU: RAARAS
+
+Welcome, WereHacker!
+
+Login @ 9600 bps on 01-10-94 23:11:01
+
+Last on: 01-06-94 22:24:00
+
+System News not updated since your last call,
+Command?
+
+>N :
+
+Libraries? [1-22 or RETURN for all]
+
+>10
+
+New File Listing: Library 10 -- Anarchy Philz
+(Ctpl-S to pause, Ctrl-Q to continue)
+
+File Size Description
+2600bust . txt 2 11k another bust,txt
+alldec.txt bk Satellite Codes JAN 94
+3 WW ZARD/SUNCARD
+area_codes.LHA 8k * "world area codes: know where b4
+_ you call!.
+attglobl txt 42k AT&T Global Efforts Text
+attica.txt 17k AT&T Text
+attsec, txt 14k AT&T Security
+attyvod. txt Fak? AT&T Text
+bbbeeps. txt tikes another Blueboxwarning.,. [TRAX]
+boxtodie.txt 6k British blueboxing will die!
+bt_call.txt Ok british telenog ate te
+nen ~ possible —
+child's garden. Ihattk Neo Primer, Fight lamer-itis &
+
+Be erend: it!
+
+
+Ba ag THE ONLY.
+
+ef 4 IN / LAP aN BES
+: SINE Fs MOU
+
+REM Ne
+a NA
+
+
+Sunday 2? FEB 1994 - Sunburst run post-mortem
+Coordinator:
+
+Rough Beast
+
+Attendees:
+
+WereHacker
+
+Crismus Bonus
+
+People Eater
+
+O.Natrix
+
+*The Door is LOCKED*
+
+*"Do Not Disturb" sign is ON*
+
+[Rough Beast]: Okay, let's start this off. What
+went wrong last night?
+
+[People Eater]: I'1l tell you what happened. We
+got our asses kicked. Those guys know about the
+Umbra!
+
+[Crismus Bonus]: Apparently they do. So they've
+probably got a traitor working for them,
+
+[Rough Beast]: Wait, wait, start from the
+beginning, please.
+
+[WereHacker]: Okay. | found out that the ginks
+knew. about the stuff their computers were doing
+That was when | told you guys.
+
+[Rough Beast]: And we all decided to go after
+them. i :
+
+[D.Natrix]: We may have tipped them off by using
+_theip credit card number to buy the equipment.
+[Crismus Bonus]: No, I'l! guarantee they didn't.
+Their account wasn't even billed until today. Onl
+the credit card companies computers knew about it
+[Rough Beast]: Okay, so we loaded up and went in,
+Sideways. And they were waiting for us. Pe inte
+[WereHacker]: | told you we should have come in
+through the Glass Walker Realm.
+
+
+[Rough Beast]: But there didn't seem to be much of
+that around, did there? Kind of odd for a high-
+tech factory.
+
+[D.Nateix]: What was all that other shit? Weaver?
+[Rough Beast ]: | thought we agreed it was at the
+time. $
+(0. Natrixh:: "Yeah, but it didn' t seem like any
+Weaver fram 1'VE ever ‘seen: s
+(D,Natrix]: (Sorry, fram= frame above)
+
+[Cri smus Bonus]: oe it have been. tainted
+
+Then we were sides: and those
+"expect ing us. | swear | even think
+Y we >xp cting us to come from the Umbra.
+[0,Natr x] ‘ho silver bullets? :
+[Crismus Bor | can't figure that out either.
+
+Why set then Hers if they aren't going to be able
+
+to stop us?
+
+[Rough Beast]: Okay, once we were past the: guards
+and into the complex proper, what happened? -
+
+[D. Natrix]: We were OK for a wna SH The equipment
+worked anyway. ‘
+
+[Here ker]: So we blew up some ‘stuff. Then when
+
+we got where we were headed, the. office was" te
+Foot "tho
+
+[People Eater]: Still typing one-handed, but it's
+getting better.
+
+[WereHacker]: He's used to it! }
+
+[Rough Beast]: So what were those things? Toxic
+waste elementals?
+
+[O.Natrix]: Garbage spirits?
+
+[WereHacker]: I've got Aristotle working on
+it...maybe we'll know soon. Whatever they are, |
+hope there's like a +1 weapon against them or
+something.
+
+[Crismus Bonus]: Yeoh: Sword +1, +2 versus
+animated microchips and toxic wraiths.
+
+[Rough Beast]; Back on topic: we smashed up a pile
+of high-tech trash, reinforcement arrived, and we
+exercised the better part of valor,
+
+[People Eater]: Thanks for that, Jil. Good going.
+[WereHocker]: Yeah, thanks.
+
+[O.Natrix]: Seemed like a good idea at the time
+(shrug).
+
+[Rough Beast]: So what do you think, do we wait
+for it to cool down or try again right away?
+**The Missing Sysop is here.
+
+[The Missing Sysop]: Everybody log off now!
+Someone's trying to break in my house--shutdoun
+now! Cops or]|$
+
+NO CARRIER
+
+
+|
+|
+i
+|
+i
+}
+|
+|
+|
+i
+|
+|
+|
+
+|
+|
+1
+
+some of i
+
+An Eco-Hacker's Manifesto
+By The WereHacker
+What we're talking about is War.
+
+Its not a case of you or me, or even us or
+Them. It's Everything against Nothing. Gaia is
+sick - some of you know how sick.
+
+When | was 13, a Change came over me. (And
+neither of the ones most of you are thinking.) |
+was watching TU- after a long night of burn-in
+mode,
+
+|'m almost ashamed to admit it, but the
+"PlanetMan Eco-Hour" was on, and something about
+the fatigue poisons and the blood-caffeine level
+falling dangerously low made one thing this
+chrome-plated, badly animated jock said get
+through.
+
+That night, instead of buying myself a new
+mail-order fax modem, | cash-advanced every penny
+of James Watt's credit cards and gave the money to
+Greenpeace.
+
+lt was the most fun |'d ever fon
+
+But as an experiment, it was a failure, The
+banks "noted" the error after both parties came
+screaming to them, and | guess they got everything
+straightened out.
+
+Then a few more Changes haguened in my life,
+and | discovered other folks who had as much of a
+stake in the world as | did, and were dedicated
+enough to fight for it. :
+
+We've gotten better at it now, and | just. wan
+to pass along some of what we've learned. Even put
+"straight in my mind so | can see it,
+
+Anyway, | edhe 1 Sy Disclaimer, disclaimer:
+all this: ntertainment purposes. only. Don't
+ups this. SAE Soe
+
+our mom's head.
+
+
+Something, right? You jump the guy, op grab
+the gun. Or negotiate, or bluff, or shoot first,
+op pray.
+
+But you wouldn't do nothing, right? Well I've
+got news for you. That's just what you're doing.
+
+Because there is a gun at your mom's head -
+and a sniper in the window, a slow-acting poison
+in her stomach. She's Gaia, and she needs you.
+
+Worse than ever, Those geeks supposed to be
+taking care of her are in bed with those that're
+killing her. You can't TRUST anybody to OO THE JOB
+FOR YOu!
+
+You act, now! NOW! Make plans if you must, but
+ACT ON THEM! These guys are PROVEN KILLERS.
+They've EXTERMINATED whole species. The NAZIS just
+TRIED that! And so far, a lot more species have
+died than corporations. But you can change that.
+
+The Corporation is the fiercest beast anyone
+has ever tried to hunt. Its hide is nearly
+impervious, and like Smaug, it has only a certain
+place where its armor is thin.
+
+There are basically five ways to hurt the
+Corporations: :
+
+1, Cost them Money
+. Cost them Time
+. Hurt their Reputation
+. Free their Information
+. Deprive them of Resources
+
+Now, anyone can do any of these things, and
+should, but YOU are ELITE (:0)! You can do shit
+that'll make their hair fall out!
+
+Let's see what we can do if we try:
+
+1. Cost. them Money
+
+Corporations are really sensitive to the
+bottom line, but you have to be able ta rea Ty
+sting them. A really huge corporation like Pentex
+will just use it as an excuse to pay less taxes.
+
+on sb w& fh
+
+
+How you can help:
+
+lf losing money doesn't hurt them, it can helf
+you. Stiff them with the bill. My stunt with the
+credit cards was really shortsighted, but fueling
+the underground with the treasury of the
+oppressors is an old and noble tradition. Just
+don't steal anything that'!!! be missed too soon op
+leave a trail, Remember though, with Pentex it
+isn't about the money, Money is a means to them,
+not an end. Most companies, if you could show them
+how to create their widgets for the same price
+without harming the environment, would jump at the
+chance, because despite all Pentex has tried to do
+our word is getting out. Hurting Ma Nature isn't
+as cheap and easy as it used ta be, With Pentex,
+though, they'd keep dumping their poisons even if
+they had to go broke doing it. Never forget that
+these guys are religious nuts. and if the Wyrm told
+them to take a running jump off a cliff they'd
+have theim Reeboks on in no time.
+
+2. Cost them Time
+
+More important to most of these corps is time,
+This is good, ‘cause by costing them time, you buy
+time for Gaia, Makes it particularly effective,
+
+How you can help:
+
+Communications can be rerouted - try one of
+those 900 phone-sex numbers instead of Toxitech
+Security, Orders can get lost in e-mail,
+misaddressed in the printing center, or lost in a
+network erash, Time seems to be particularly
+precious to Pentex, They're obviously working from
+some master plan to rule the world, and anything
+that you can do to put the brakes on is going to
+send them ing. Time is on their side right
+now, and | ga lot of our guys are
+
+
+3, Hurt their Reputation
+
+The best place to strike at many public corps
+but useless in some cases. Sometimes they'l! just
+close' up & peopen under another name. But if you
+have q real shovelful of hot, steaming proof, you
+can peally get some people fired up. Even better
+if you can get some religious fanatics going -
+look at what happened to Proctor & Gamble with
+‘their man-in-the-moon logo op when OmniTY had to
+fess up to owning Slaughterhouse Video last year.
+They're still being hurt by that boycott organizec
+by Fathers Against Degeneracy. Pentex doesn't
+underestimate the importance of public opinion anc
+neither should you. :
+
+How you can help:
+
+Find out what they're up to and make it as
+public as possible. (Internet is good; CNN is
+better). But you gotta be careful, ‘cause people
+will swing the other way and have sympathy for
+them if you blow it. A good sense of humor helps
+here; if there's one thing a globe-spanning
+conspiracy hates it's to be made fools of. Some of
+their corporate ‘heads are public figures and make
+real good targets for this kind of attack. If you
+can't find any real evidence, feel free ta
+manufacture some, These guys don't play according
+to Hoyle so don't feel too guilty when they ery ir
+public. Bill Sweely, the President of O'Tolley's,
+-i3 particularly open to this kind of attack. If
+you've seen the ad he's in with the kids and the
+elephant suit you know exactly what | mean,
+
+4. Free their Information
+
+The more I've been doing this, the more I'ue.
+found that world- -destraying corporate "type 1 Fae
+be information-imprisoning types, They: hoarc the
+
+anly thing they can't destroy, While this ean be ¢
+part of a reputation-attack, it can al
+its own, You find the most boring stuf n Top
+
+
+| :
+
+gee'
+Wee
+
+Secret files, but it really jerks their
+chains to see it written on the bathroom wall.
+How you can help:
+Give proprietary information to the groups
+most opposed. to the company' 8 activities, Think
+how efficient tree-spiking can be if you have the
+timber company' S.Cat aban oe ee ee ‘ Soden,
+Publish their passwords. Name tHelp Names. oe eee: a
+SW ‘Deprive them of Resources
+What they' ire a to Gat ae only you do it to
+
+<
+
+ek. . ee pain tags)
+oe Pi pt thei eras
+
+oN T TALK ABOUT IT Ne OR pee ust oC
+IT WHILE YOU STILL. CAN! oe Beh
+- WereHacker
+
+Ns. Goodwrench's Guide to Monkeywrenching:
+
+When pouring water into electrical appliances
+use salt water, not pure water. It is much more
+conductive, and corrodes better in the long run.
+
+When cutting phone or fiber optic lines, cut
+section of wire and take with you. This makes it
+much harder to fix, (Otherwise, they can just
+splice it.)
+
+Remember to wear rubber gloves whenever you
+work with electricity, The scream of a fried
+NMonkeywrencher is just as much of a giveaway as an
+alarm siren.
+
+Don't use explosives in the sewers -- methane
+gas may cause a bigger bang than you intend, Or
+maybe not...
+
+When putting sand in crankcases, be extra
+careful to clean up ground the hole. Sand won't do
+much unless the engine is started, which means the
+operator mustn't suspect anything.
+
+Those "taser" zappers work even better on
+computers and other electronic devices than they
+do on people. New cars all have computers...
+
+Put brown paint on tree spikes, to avoid that
+tell-tale metallic glint. No aerosols, please,
+
+Use lacquer thinner in a gas tank for
+temporary, hard-to-trace engine. trouble. Karo
+syrup makes for a permanent fix. Transmission
+fluid in brake lines does a, good, convincing
+‘breakdown over a period of days.
+
+That's all for this month. See you after the
+new moon, and happy sabotage!
+
+Got a Monkeywrenching tip to share? Send it.
+care of Ms, Goodwrench, care of the BBS where you
+got this file. Fae
+
+
+eT eee
+
+ne ee
+
+Category 23: Clipper Alert!
+
+The Clipper security/encryption chip will
+incorporate a backdoor to allow the NSA and other
+"authorized" government agencies to bypass its
+security. Rumors persist that another backdoor
+exists, one that can only be exploited by the
+chips's designers. The company making the Clippe
+chip denies these rumors. sain do ee think?
+
+2 New Nessages.
+
+Message #211 on pacer
+
+i A oe can't go within ten feet" of
+he gets arrested. Hope he didn't
+7 the can. BTW, the- courts never
+
+into the phone Vines. Betcha he' 2 saving up.
+
+
+
+sBILSITIVEVIN Hel so
+TVWNOILLWNeIFLNI
+
+4nd @10 sjonpo:
+
+LVLV-SSS-00Z-1
+wedjeH Py
+
+np ep hp
+
+SOAILOJUSSO1Gd] SOLSI|FOGOUMOUd JOUOIJOWS}U] ODO] INOA
+
+‘UOILOO
+-IPOW JO UOLJPOISIUIWPD SBuUNs-BHuo| ul DUOM Su PE] SOY dj]
+‘USU SOUIS ‘SOLOS JOLOS[UI-9E|S S$}! DSONPO4U! ("P4] ‘SeUOS
+-SODOY DJS USUJ) SOISI|JOGOUMOUd |OUOHOUWS}U] 8g | UI
+
+SOLSITIVEWN WHd yyy
+IVNOUVWNAALNI
+
+
+‘POPSSU S| SSUBO!| SUUDSIIJ OIFOWWOJND OU SUDEW SE|JOoe{o1d
+Uf JO SINJOU OUY JOA ‘PUODAS JOed Q| Of dN seyo1 JO sayyoefoud
+JOAIIOP Of POLOWWOIND ‘LWSJSAS UOIUNLULUD Ssejesoo SLUDS SU Ses),
+
+"SIOJOLW OZ Of dN seBun! JO Walshs AeAep
+IQDI|OJ JOA JOOdWODS D JOJOS[U! SulJ-PIdOI sIUy SEHD (S}E1]ed JUD]
+-ledoid pljos payjuBb! Ajjoo4yOa}9) ABojOUYdE} UOIUNUWUWUID ssejesoD,
+
+‘eBuUD asojo JO ABAIIEP |OIWUENbes JO snoSeUD}
+-|NUUIS JO} SOIJOOlOId OMY sEPJOY JOYOUND] sOB-pesseidWOd |NeMOod
+
+V7 ,Pl-d |
+ce
+
+q Lt
+swajshs AISAIlOg
+
+‘JEsn-PUs Ey! Aq PeunjoHojnuOW
+JO AlOJODJ INO WOM PSl@P1O eq ADW SPO} WOIsND
+
+€dd
+
+, JOSE}, PJ@y-PuDY D Jo Jndjno
+
+OU} SEPSSOXE SHDIJOA PSIOAIIoq ‘HULU Giojyeq Isn{ ein
+-POW YOOYD-Old JOUOIWdO aU AG PEeBUNYO $I JOJOOdDS
+Aojeudoid 0 YUM EIJ0EfO1d aiqosodsip ‘1yBlemyyu6Nq
+
+2}
+
+‘MBAISP |QDI|e1 104 PINbI|
+PeZUNsseld JO 90Z snoseueb D spjoy eHbuyAs ejqnosodsiq
+
+
+Although the Fahrenheit family are
+members of the Main Street Baptist
+Church, and they encourage memo-
+rial donations to the church, funeral
+services will be held at St. Brigid's
+on Thursday.
+
+
+Dossiers on Pentex Subchiefs:
+
+Harold B. Hines:
+President: Magadon, Inc.
+Age: 45
+
+* Little is known of Hines' origins. He is a graduate of
+Princeton University and is known to have extensive training
+in chemistry and biotechnology. He is fluent in German and
+Japanese.
+
+* He has had five wives, all of whom died under mysterious
+circumstances. He is currently married again; his wife travels
+with him. He has no children.
+
+* His life was reported as a rags-to-riches story in Fortune
+Magazine, and he has been listed in their Top 20 richest list for
+the last three years. His estimated worth is 5.7 billion dollars.
+
+* He is believed to be intimately involved in the creation of
+fomori and is known to utilize them as guards.
+
+* He maintains numerous mansions around the world. All
+have a high security profile. His travel schedule conforms to no
+set pattern. He affects the air of a liberal academic but is what
+the press has dubbed a "conservative progressive."
+
+* Capabilities: He has exhibited no supernatural, Wyrm-
+related powers but, as stated, he is a brilliant scientist. He is
+also an amateur pilot.
+
+Ben Stillson:
+Chief Corporate Security Officer: Magadon
+Age: 51
+
+* Stillson is a former Green Beret and a veteran of the Viet-
+nam War. He is thought to have connections with the CIA.
+
+* Stillson started working for Pentex under the aegis of
+Nostrum Defense Enterprises in the mid-'70s. He was well
+connected and active politically throughout the '80s, but has
+since maintained a low profile. He has no known home
+address.
+
+* Capabilities: He is a black belt in karate and an unparalleled
+expert in both personal and tactical weaponry. Wyrm-con-
+ferred abilities are suspected but not confirmed.
+
+
+Persephone Tar-Anis:
+North American Security Chief: Pentex
+
+Age: Immortal/unknown. Intelligence has her first surfacing in
+France, 1943.
+
+* She has been with Pentex since at least the late ‘50s and
+seems most closely affiliated with Tellus and Sunburst Enter-
+prises.
+
+* She travels extensively and is hard to track. There is strong
+evidence to suggest that she masterminded the debacle with
+the Uktena in Nevada last year. She has exhibited psychotic
+tendencies. She is known to travel in the company of Black
+Spiral Dancers.
+
+* Capabilities: She is clearly one of the unliving and must be
+assumed to possess all the abilities attributed to her species.
+Her sensory abilities are demonstrably above even our stan-
+dards, and she is believed to carry Wyrm fetishes of consider-
+able but undetermined power.
+
+Max Carson:
+President: Endron International
+Age: 55
+
+* Much of Carson's life is public record. After dropping out of
+high school, he went to work for Endron as a salesman in 1954.
+He has never married.
+
+* After rising rapidly through the ranks, it is believed he was
+corrupted by the Wyrm in 1963 while observing drilling
+operations in Alaska.
+
+* Carson has a mansion outside Dallas, Texas but is rarely in
+residence.
+
+* Capabilities: Carson has not openly exhibited any abilities
+which could be termed supernatural, but given his high status
+it is reasonable to assume that he has some. He is known to
+employ Black Spirals as guards.
+
+TELLUS ENTERPRISES
+
+Mr. Harold B. Hines
+President, Magadon International
+
+Dear Harry:
+
+By now you have met William Zygote. I hope his unexpected appearance in your office on Friday
+did not alarm you, but given the current state of affairs, 1 am sure you will agree that it was best he
+arrived unannounced. He will be at your facility for the next week to review your financial records. I
+am sure that you will render him all due cooperation and that we will have this little problem of "cash
+flow" resolved in no time. I apologize in advance for any inconvenience Zygote may cause you, but
+he is trained to be unobtrusive and Zettler insisted that he was the only man for the job. If you have
+any concerns on this matter, I encourage you to call either Zettler or me any time of night.
+
+Congratulations! I understand from Zygote that you have cured AIDS again. I am absolutely dying
+to see the results of your latest treatment. Another five years of similar triumphs and we should be
+ready to go public. Tell Stillson that Experiment #4 is ahead of schedule and that Phase One testing will
+begin in June. Please assure him that his hacker doppelganger will not trouble him again.
+
+On to the more serious matter of the two Magadon facilities which were broken into last month. On
+both occasions there were serious breaches of security which have caused a good deal of consternation
+among the Board of Directors. We have reviewed Security Memo A-2112-93 as you requested and
+concur with you that the intruder is Kindred and most likely a Camarilla agent of the Ventrue, Tremere,
+or possibly even Toreador clan. This is your problem, and we expect you to deal with it immediately.
+If you cannot handle your own security, then I will be forced to call in additional First Teams. I do not
+think I need to elaborate.
+
+Because you demanded it! Our good friends at Vesuvius Comics™ have just finished penciling the
+latest Buck Racer epic according to our new guidelines. You will note that we have simplified the layout
+toa standard six panels per page, which we feel is more conducive to the conformity we wish to inspire
+in our teams. We feel we have finally established the right violence / propaganda/ simplicity mixture
+with the last few issues, but, as always, we need feedback. Letters to the Editor have fallen off over the
+last few months; we regard this to be an unacceptable situation. Please inform your men that there will
+be a $2,000 bonus for the most loyal letter written this month.
+
+Our analysts have charted several new psychological problems arising among First Team members.
+These include, in some instances, suicidal depression and a growing inability to interact with the
+outside world when they are required to do so. New Psycho/Pharma treatments are being developed
+to deal with these problems. Until then, continue to indoctrinate them with the corporate /religious
+process outlined in directive #3-57 B. As always, we will endow the men with an ample supply of video
+entertainment and Pentex news briefings.
+
+Well, [have to go hit the Rack, soI sign off by wishing you and your wife best wishes for the holidays.
+Lov XX,
+
+Pesephont
+
+P.S.: Don't think you're safe hiding behind Ben Rushing anymore. You're not.
+P.P.S.: Send my love to the children.
+
+FAGADON
+
+Magadon—Building a better you.
+
+Ms. Persephone Tar-Anis
+Chief of Security
+
+Special Projects Division
+Dear Ms. Tar-Anis:
+
+I was both surprised and delighted to receive your emissary Mr. Zygote, and am placing my response
+to your considerate missive in his hands to demonstrate my most sincere desire to assist him in the course
+of his investigation, wherever it may lead. I assure you that if there is any impropriety whatsoever in the
+financial transactions of this office, the culprit will be found and dealt with appropriately. Zygote has
+indeed been both discreet and professional as you indicated he would be; he is a tribute to your division.
+
+Because you have expressed an interest in several of the projects currently underway here, I am pleased
+to take this chance to bring you up to date on several of the more exciting opportunities that will be
+opening doors for Magadon well into the 21st century.
+
+We are both honored and proud to be involved with Experiment #4, no matter how peripherally, and
+are working day and night to formulate the neurological defenses necessary for the safe implementation
+of the Phase One field tests next spring. Please assure our partners at Nostrum as well as Mr. Zettler that
+Magadon will not let them down. I will be sending a full report shortly, but the big news is that we have
+broken the 1.5% survival barrier. Incidentally, my own security sources have given me some information
+ona small Fianna "sept" whose territory is not far from one of our plants. If you are interested in any
+additional musical talent, let me know. I think something can be arranged.
+
+Thank you very much for your congratulations on our latest AIDS cure. Our own studies indicate
+strongly that we will be capable of going public in three years (medically speaking), not five. But, as
+always, we are dedicated to strict adherence to the Omega Plan timetable. An unexpected but welcome
+side product in our AIDS research has been several new permutations in our Iliad template. I would be
+pleased if you could visit in person to observe these new changes. With all modesty, they have to be seen
+to be believed.
+
+We are continuing research into the "berserker serum" as requested. Our latest battery of tests have
+us at a 76% survival rate for first usage. This is considerably better than last year's rate, though,
+unfortunately, the effects still seem to be cumulative, with the survival rate dropping to 25% with the
+second dose and plummeting exponentially thereafter. We are currently experimenting with several
+neurological blocking agents, but with only limited success so far. In the meantime, I guess we'll just have
+to take a page out of Buck Racer's book and continue to sell it as the "Super Serum," using it as sparingly
+as possible.
+
+Which brings me to the funny-book. Wonderful! Tell our friends at the Vesuvius "House of Ideas" that
+they are indeed masters of high camp. I showed it to Cindy and she got a real scream out of it. I'll have
+to show it to the children next time Ben and I visit them. Ben sends his regards.
+
+Thank you for your confirmation on our security memo. I would like to allay the board's concern's on
+this score. Security has been tightened up considerably after Zygote's visit so that there is now no chance
+
+of illicit entry to any of our priority facilities. You can bet your life on that. Thank you fgr your considerate
+letter and your holiday wishes. i
+
+; incgfely
+All UE
+
+afold B. Hines
+President
+
+
+AGADON
+
+Magadon—Building a better you.
+
+Mr. Harold B. Hines
+President Magadon International
+Security Memo #A 2112-93
+
+Mr. Hines:
+
+As directed, I have spent the last week investigating the reported security breaches at both our Portland and
+Los Angeles facilities. lam writing to report my initial findings. A break-in at any of our plants is, of course, cause
+for concern, but the evidence I have uncovered thus far suggests that the seriousness of the matter is far greater
+than we originally assumed.
+
+I was able to gain only a little additional information from the general manager of the L.A. plant beyond what
+we knew already. He informed me that the destruction of his computer files was total and asked me several times
+when he would receive a replacement for the First Team he "lost." I recommend moving swiftly on this matter.
+
+Portland was another case entirely. Like the California plant, the plant suffered the total loss of its database and,
+as reported, its First Team was missing. However, in this case, there was a survivor: a fomor named "Spider"
+Hardigan, who escaped from whatever took the rest of his team.
+
+1 interviewed him at length; he has obviously undergone a severe psychic trauma of some sort and much of
+what he had to say made little sense, but I was able to gather some valuable information from him in his more
+lucid moments. Enclosed is a brief transcript of the most important part of our conversation.
+
+I believe Hardigan has been compromised to the extent that he will not be able to return to active duty. Isuggest
+he be turned over to Iliad for observation; perhaps they can get more out of him. I recommend they make any
+decisions about his final deposition.
+
+Further research has indicated that the Portland First Team did indeed receive orders through the "appropriate"
+channels. | am somewhat reluctant to inform you that I followed the orders up the chain of command and that
+the path seems to have originated from your office. I can only conclude that our communications network has
+been violated. Unfortunately, I must further conclude that this has all the earmarks of an inside job. I recommend
+that new procedures for First Team deployment be initiated immediately and remain in place until we eliminate
+this intruder. This will unavoidably result in an extra layer of bureaucracy and may cut down fractionally on our
+reaction time, but I see no other option.
+
+Ican make only a partially educated guess about the intruder's identity and motivations. She is clearly a vampire
+elder of some sort. This is not my area of expertise, but I would advance the theory that she is a Camarilla agent
+and that she is most likely not working alone. The computer files at the two facilities had Level Three security
+clearance; it is a safe bet that whatever information they contained is now in the intruder's hands. I therefore
+strongly advise that all security protocols and operating procedures be reviewed and, where appropriate, altered.
+
+Ihave, of course, sent a copy of this letter to our central security office. | expect to be at PANACEA an additional
+two days to conduct further investigations and will keep you apprised of any new developments.
+
+Sincerely,
+
+Ben Stillson
+
+Director of Corporate Security
+
+| * =
+He FED, THE PeOOd/ Bove 224 / "WIEN Witiks THE wENDI¢d
+
+= Serene y 5
+
+; HA!HA! |
+(and Heer Be AS (tHats GREAT,
+oop AS NEw! pec | HA! HAL, /!
+
+AFTER VISITING ED BUCK
+RETVANS TO THE LUXURIOUS
+_ | Riest TEAM HEADQUARTERS |
+
+
+Y TopAy THE CONGRESS Gave INTO ©
+ZTHE PROTESTOR'S DEMANDS AND Tt
+NY PASSED IT's FIFTH ANTI- LOGewe
+
+LAW THIS YEAR! aE
+
+Tav,cecz! nor Acaw \
+
+|
+aM ARLES
+
+AAN OTHER NEWS, ANoTHE CSA
+"== ATLAS POWER PLANT WAS {Ea
+Ly ForRceD To crose By THE YY
+"he So-CALLED "SAFE EmIsiONs" LAW
+
+TX, NR
+
+it
+
+hz ted Lust Gay
+
+SUDDENLY, OL' ONE EYE SEES THE TELL-
+TALE SHIMMER OF THE "UMBRAL SHIPr!"
+
+
+"7 ‘SUDDENLY, BUCK IS STRUCK BYA |
+
+, | pCOWARDLY BLOW FROm ayy
+4s
+
+you €
+I segstt )
+
+SIMPLETON»
+DID You THINK You
+
+
+Her! WHAP AS THIST
+'J'MeS+S-SUDDENLy }),
+__F-F-FREEZING! Y/)
+
+DAS BUCK PRESSES His COMMAND —
+‘Boron, THE AUTO-Doc YNIT IN,
+- EACH MAN'S ve RELEASES THE
+
+THE SUPER SERUM GIVES US~
+[ ooee THAN THE STRENGTH We
+
+Yidbee ek Hib DSA pp AR?
+
+ve VOLE
+AGABAs A frp ObA2- Cora ou
+
+PE anes ts PEK
+
+Spider Hardigan: So we get the tip-off, right? I mean the orders
+come down from on high that there's this pack of Black Furies been
+causin' trouble in the area and corporate wants ‘em aced. Somethin'
+‘bout them stagin' raids on another plant. So we load up for bear
+‘cause those Fury broads are crazy and tough. Sanchez, he was team
+leader you know, he has us load up into the vans and we're headin'
+straight outta town. We was all pretty psyched up that night on
+account that Sanch had been buyin' us drinks earlier and Marty kept
+crackin' us up with jokes about what you do with lady werewolves
+an' like that. Wanna hear one?
+
+Ben Stillson: Not now. Maybe later.
+
+Spider Hardigan: Yeah. Anyway, we hit the old corrugated plant out-
+side of town and Sanch has us unload. I guess I shoulda figured
+somethin's wrong ‘cause he just marches us up to the buildin', no
+formation, no tactics, nothin'. I figured he was meetin' someone
+"fore we went after the Fury bitches. Turns out I was half right.
+Hey, what's the difference between a Black Fury and a lumberjack?
+Some lumberjacks don't have beards. (a laughing fit followed by
+hoarse coughing). Yeah, okay. So where was I?
+
+Ben Stillson: The corrugated plant.
+
+Spider Hardigan: Yeah. So we're walkin' up and the front doors
+open. I mean like by themselves, right? This gorgeous blonde walks
+out, legs up to her neck. Know what I mean? Anyway my eyes are
+buggin' out but I'm still thinkin' Black Furies and gettin' my guts
+splattered all over the pavement if I'm not careful, so I raise my
+gun just in case. Several of the other guys do the same, but Sanch
+goes right up to the chick and starts bowin' if you can believe
+that. I mean I've known Sanch for four years now and I've never
+seen him kiss anybody's ass; even that time Persephone toured the
+plant he kept his cool.
+
+Anyway, now we're really confused. Somethin's tellin' me that the
+lady's doin' a major head job on him and I oughta pull the trigger,
+but then the broad might be big brass, you know? So I hesitate for
+one second and she looks in my direction. Suddenly the world turns
+upside down. Oh, maaaan. (long pause)
+
+There was somethin' about her that made you want to be her lover,
+her best friend and slave all at the same time. It's worn
+off..mostly anyway. She looked kinda foreign, French maybe. Real
+young, like a college girl. Man. (More laughter.) So we're all
+fallin' all over ourselves to bow and scrape to her and — bam! Sud-
+denly I'm thinkin' somethin' approachin' to clear again.
+
+Donna, she's our Iliad agent; psychic you know. Anyway, she's
+hangin' back; I guess she was suspicious. She clears my head real
+good. Anyway I try to fire on the broad but there was still
+somethin' about her that made my trigger finger freeze, I just
+couldn't fire. So she smiles at me really sweet like and then I see
+she's got fangs like those Sabbat guys. "Goodbye, Spider," she
+says. Like she knows my name! All of a sudden the rest of the
+team's firin' on me!
+
+(Hardigan convulses at this point as though reliving being hit by
+gunfire, and several medics are called in. There is a 20-minute
+break. )
+
+Ben Stillson: Are you ready to continue, son?
+
+Spider Hardigan: Yeah. Yeah. They shot at me. Scored some hits of
+course. But I got a trick, see? I can turn to mist. I do that real
+good and then I just let the wind pull me away. Saved my life sev-
+eral times. (Laughter.) Last thing I see is Donna tryin' one of her
+mind tricks on the bitch but she just laughs and I see Donna's
+bowin' and scrapin' too. I mean this is crazy. We're elites, right?
+And this broad takes us all out in a couple'a seconds. I mean, you
+tell me. What the hell was she? (Pause.) I don't know, I think she
+did somethin' to my head, I still ain't trackin' right.
+
+<Transcript Ends>
+
+GADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Ben Stillson, Director of Corporate Security
+To: All Security Officers
+
+RE: New Equipment
+
+Some of you have been issued new equipment. Please do not talk about these issues, as they are
+proprietary information as defined in your contracts. Do not test-fire these issues. Use the practice
+equipment provided in the firing range.
+
+FAAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Eliza Davidson, acting Director of Corporate Security
+To: All Security Officers
+
+RE: Alert!
+
+Ben Stillson, former ICS CorpSec Director, has gone rogue. He is to be apprehended at all costs. He
+
+is no longer covered by the company health plan.
+
+
+FAAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Ben Stillson, Director of Corporate Security
+To: All Security Officers
+
+RE: Hoax
+
+Don't believe it!
+
+FAAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Eliza Davidson, acting Director of Corporate Security
+To: All Security Officers
+
+RE: Rogue apprehended
+
+Ben Stillson, former ICS CorpSec Director, was killed while resisting apprehension in the motor
+pool. ICS IntSec will be investigating the extent of his compromise. Please give them your full
+cooperation.
+
+
+PAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Ben Stillson, Director of Corporate Security
+To: All Security Officers
+
+RE: Hoax II
+
+I assure you I am neither dead nor disloyal. When we find out who these bastards are, they're going
+to suffer.
+
+PAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Eliza Davidson, acting Director of Corporate Security
+To: All Security Officers in Sections D and Q
+
+RE: Impersonator
+
+It has come to our attention that someone has been impersonating the late Ben Stillson, former
+CorpSec Director and traitor. As has been reported, the real Stillson was killed while resisting appre-
+hension. A standard pay bonus is offered for information identifying the impersonator.
+
+
+FAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Ben Stillson, Director of Corporate Security
+To: All Security Officers
+
+RE: Hoax solved!
+
+My office has been looking into the matter of the spurious memos which have been circulated,
+purporting to be issued by my replacement. We have traced the problem to an automated printing
+station which was infiltrated by computer criminals. These "hackers" were able to substitute their
+own messages for electronically transmitted legitimate memos. The security loophole which allowed
+them access has been plugged, and I am confident the criminals will be apprehended before they can
+
+cause further trouble.
+
+FAAGADON
+
+Magadon—Building a better you.
+
+MEMO
+
+From: Eliza Davidson, acting Director of Corporate Security
+To: All Security Officers in Sections F and N
+
+RE: Impersonator caught!
+
+My office has been looking into the matter of the spurious memos which have been circulated,
+purporting to be issued by the late Ben Stillson, former CorpSec Director and traitor. We have
+traced the problem to an automated printing station which was infiltrated by computer criminals.
+These "hackers" were able to substitute their own messages for electronically transmitted legitimate
+memos. The security loophole which allowed them access has been plugged, and I am confident the
+criminals will be apprehended before they can cause further trouble.
+
+
+Executive Bulletin
+Special Report: October, 1993
+
+Shareholders,
+
+We are pleased to introduce our newly elected members of the corporate Board of Directors. We believe they make fine
+additions to our company's already highly qualified executives, and with their input in future decisions, we are sure the company
+will see a significant rise in value. In addition, the special skills and backgrounds of our new members ensure a sizable reduction
+in blockages to our cash flow, whether these blockages be government regulations or "world-citizen" actions.
+
+This special edition of the bulletin has been rushed out to introduce our new faces and let you get to know them better. As
+you know, the opinions and well-being of our shareholders are important to us. To this end, we believe you should meet our
+new executives as soon as possible. However, since not everyone can travel to meet them in person, we felt that this bulletin
+could serve instead. So, without further ado, we proudly introduce Francesco, Enzo Giovanni, and Kathryn Mollett.
+
+Francesco
+
+Francesco brings with him a unique background and
+familiarity with "citizen action groups," especially the animal-
+rights fringe. With his expertise, we feel this popular cause will
+soon go the way of many immature and short-sighted fads.
+This will free the company to direct more resources toward
+acquisition and away from excessive damage-control-ori-
+ented public relations campaigns.
+
+Francesco will be picking up where the late Robert Allred
+left off, including handling our Amazon rainforest action
+projects. We feel there is no better man for the job. Francesco
+has unequaled experience in handling such deep-woods
+concerns. With Francesco at the helm, rest assured that the
+problems we have experienced in the past with the Amazon
+will be over. A whole new era begins now.
+
+
+Enzo Giovanni
+
+Mr. Enzo Giovanni came to the Board with much support
+from the shareholders, and the charisma which won him his
+position will undoubtedly take him far and make the share-
+holders a good sum of money. His business skills, garnered
+from years of buying and trading companies before joining
+Pentex, will work to great advantage in our new push for
+acquisitions. His business allies all over the world will greatly
+aid Pentex in its foreign investments.
+
+Mr. Giovanni brings a well-rounded worldliness with
+him, and this will be greatly useful in fulfilling Pentex's
+increasing global objectives. Mr. Giovanni will be handling
+some of the late Elliot Meiche's interests, and it is our sincere
+belief that there is no better man alive for the job. Mr. Giovanni
+has displayed a surprising understanding of Mr. Meiche's
+goals and objectives; as he said, "I think Mr. Meiche and | had
+much in common. Even though he is no longer here, his
+Offices still bear his presence. | think just sitting where he once
+worked, where his decisions were made, has given mea great
+insight into his affairs."
+
+Hathryn Mollett
+
+Ms. Kathryn Mollett is a wiinderkind of the business world. At
+age 25, she assumed the leadership of Alliance Industries, a very
+profitable subsidiary, and at 26 she joins the Pentex Board. With Ms.
+Mollett's entry to the Board, Pentex takes a bold step into the future.
+As the first woman member of the Board, Ms. Mollett will ensure that
+Pentex's subsidiaries shape up their equal-opportunity hiring, bring-
+ing our standards into the 90s and silencing our critics.
+
+Ms. Mollett has a tough job ahead of her, but she has proved to
+be a capable and confident executive. She will be overseeing much
+of our stockholder- and employee-relations programs, and has
+stated that anyone with questions or concerns about the directions
+the company is taking should feel free to contact her to talk it over.
+She promises to be a good ear for any questions.
+
+
+3 Qu ming
+Ayer a
+
+2/1/93
+2/1/94
+
+2/22/93
+
+
+Ppwee.ng AgeneMou une
+
+aa
+
+[= sAps owes
+
+(©°P Ciqusugmo olicw
+
+Jsuip"AG6Sb
+
+Raw
+
+Bou FLvi55
+LN Mason
+Tar
+Per ccenst
+Loomis
+ RouRee of
+coy ray
+Weoneans
+Or WALL
+
+>.
+= fa
+
+Lorie,
+
+U
+
+STiy
+Sor
+
+Becker! Down HEARSE
+
+4
+
+uNniocey tiEep
+
++ voor
+
+k LS Nd
+
+‘i fi L aE
+—} { t =F ! TT
+a ult
+me
+Wo Nene
+\W peeNovse
+‘ TOON pornaine :
+(port or)
+paiow *
+ee)
+4+4+—— >
+t |
+j We
+Gs af
+gc
+cavpren>  *
+mosie
+A ~
+A
+DMOROENY & cu Pr
+(asets! | aes oe é ya
+yd
+£ RY.
+3 t
+ak 45 Ayauncorant
+A
+Sit
+4 r
+Hatt + TNAOKUNE 7
+NaN ,
+Cm oor Gf.
+; che Dow!) |
+Ore?
+
+Life ] , ep
+Teerning| if AND
+me we ue HER™
+: E yo
+Down theory cee Denttovy whe
+Ores "5
+Vere tey
+
+Dovrrrite-y Dermtery Deowmitery
+foo pap 17a) pee
+4 Ht ie og dh bd [ : roy
+Ge ie ace i Svp-veve: t Cevetors
+Dev wites; 5 oen eer ter; Fig {1 i
+i Dor mitery € ° v if i 0 1 i for
+o Bb roo. food
+
+sf
+
+i
+
+[isso | o6/og/re [Bor 3thisen|
+
+-
+
+DN ee Bea cememictenn
+wosiiee a | 93/99/90 | 95% *4 an=avo 7
+Asapt- ans a
+{= 713031
+aT TENTH eas
+bed E AriwNr3S
+Ss 3 amdans
+Bowsers =
+: wri = cs ke
+ou wgew |= y
+‘ Boweeas
+£
+eee
+= fo
+; vw
+fi aay ce
+vo
+Ov
+banger |
+"INI NOMDAYLSNOD NV DIAN ‘
+
+
+‘MOWMOWOT JouaaI‘y)
+e JOJ — JeuUOHeuUsIO}U] UOIpU
+
+NOdaKe )
+
+pensasa Hi "S910 MOd 40%
+
+idjay 0} op ued noA yeym Jno pury juepeuRy ed
+
+iSPIM
+
+‘JQUPI JY} 2AkS O}] OG UBD NOX
+
+ssuly, Inoq ‘yoog ased-gg Ino Jo} ayIM 310 ‘Ioop MoA
+0} SQWIOD OYM JaajuNJOA pun Jourjg ay} 0} A[snossuas
+ayeuop aseayd ‘utof of "weal uaaIg, sy jo Jaquiawi e
+2g 0} NOA ayy] pynom pue pun jouryg se yons sdnois je}
+-uawUOAUa 2giqisuodsai yyM spuey paulof sey uolpug
+
+:djay uez no, moyy
+
+«MOA yueyy,, ‘SAes Ae
+
+Jeuoneusayuy uoIpuy juapisalg
+
+uosiep\q xe
+et) 7
+sag
+
+‘SoUgiph }
+*OO} QUOY INO SI yWeY esneraq siy} Sulop al.ay "YWeY Jao]
+Surprengayes apym siapjoyareys ino 10} syyoid piosar ayeur
+o} sn pamoye sey ,U2aIS Sulag apym uaals Sule, asnedaq siy}
+Sulop 21,aM ‘0} 2AeY aM asnedaq SIy} SulOp Jou a1,a/ "sprepur}s
+‘Wid L661 pesodoid aaoge jjam sn sung yaIyM , saisojouyse |,
+uaal5,, Suneal ul suomi juads aavy am ‘Aqeuly ‘aor Aq paddesy
+sem ay UaYyM pom ay} punose uarpyryD Jo suoypur Aq ,Aqem,,
+paqqnp ayeym ay} anes 0} $12})Nd 291 INO Jo auO paueo] am oNIY
+ay) Uy ‘JayDedpoo papeydo_ pay ey} aes 0} pue saaq} yuRyd 0}
+Jeuoyeusayyy Jadeg asnoypood ye spualyy poos ino yum payiom
+SAKY IM PIUIOP]ED Uy ‘pourquios dnoss jeyuauuoAua Arana ey}
+JUSUWTUOIAU2 ay} SuIpsensayes uo Aguow aroum Juads sey UOIpU
+i(jUapisarg nO
+WOJJ asessay[ Y) 2A0T Jo [HY Yue] sey y
+"sPeR} BY} O} SuIyoNs Ul UY} PpUase jeoIyJod ysipeII0s
+e Sunuoy ul paysasayul aious ‘Ajayeunyoyun ‘are oym Aouasy
+uoNd2}01g eUSUTUOMAU ay} Ul SjUaWAja aSuLy Aq se yJamse Ayu
+-NUIWWOD fe}UaUOMAUA ay} Jo yonw Aq ajdoad uesyaury ay} UO
+paisioy Sulaq yoeoidde synuarpsopnasd ay) 0} jseNUOD payseu
+UJ SI SI], ‘AduaIDs prey ‘fear jo sanyea ay} 0} Ajjouns Suuaype sisa}
+snoJosy uo suonu yuads aavy am ‘pua siy} O] "sansstjeoisojooa
+ayeuNSg] Je Surssamppe 0} saajasino payWuiod aary am yeu}
+SIQUIO}SND SY PUL SJaPfOYYIO}s SHI ansse 0} ay] prom uoIpuy
+‘UMOJQIOAO SI JUSLUOTAUA ay} O} UOp Sulag ,aseuep,, pasaye
+ay} JO YON yey} |duapias SyHUaDs SunUNOW Aypides aydsaq
+
+tadUaTs jeoy
+
+Environmental Disaster?
+
+When the Endron tanker Pequod sank in the Great
+Barrier Reef off the coast of Australia in 1992, people
+feared the worst. Journalists from around the world
+swarmed around the "environmentally sensitive" region
+and dramatically dubbed it "the worst environmental
+catastrophe of all time." The story played day and night
+as the "disaster" unfolded. Knowing full well its respon-
+sibilities in this matter, Endron immediately dispatched
+a flotilla of cleanup ships to the coastline. There, our
+
+"Green Team" went to work using the latest in Endron
+technologies to attack the spill.
+
+Problem.
+
+Solution: Max Carson,
+President of Endron Inter-
+national, and his Green
+Team attack the spill after
+using a specially designed
+oil-dispersing foam.
+
+The cleanup proceeded at a record pace, prompting the
+environmental group Planet Fund to call the operation "a
+model of corporate responsibility to be emulated by all
+others in the petroleum business." Thanks, guys, but
+safeguarding the environment is what Endron is all
+about. Despite the speed of the cleanup, however, we
+were not yet satisfied that we had done all we could. So
+we sent in an independent team of scientists from the
+Gaia Research Company to ascertain any possible long-
+term damage to the reef's ecology. We were stunned, to
+say the very least, at their findings.
+
+Oil's Well that Endrons Well:
+
+After five months of painstaking research, Gaia's scien-
+tists turned in their surprising but incontestable results.
+The reef that had been, in the words of the disreputable
+environmental extremists' group Earth-Fist, "raped by
+the oil spill" was doing better than ever! Sea bird popu-
+lation was up by 12% while marine life surged by a
+whopping 23%! Are we saying that oil is good for the
+environment? No. That is for further research to deter-
+mine. What we are saying is that the oil (a natural
+substance pumped right from good old Mother Earth, by
+the way) cleaned out some of the ecological dead wood,
+so to speak, allowing hardier species unharnessed from
+the shackles of their less survival-worthy cousins to
+thrive. The Great Barrier Reef is doing better than ever,
+
+and that's no big fish story!
+
+This smart school of fish thanks Endron for their help.
+
+iMenicesanencht Pentex i cludes:
+
+Ro ee playerhoncd
+
+chi.
+
+‘ a | e Pe opaganda brochures c
+
+ae ae ~ « eee
+
+mt GA 30083 F
+i ee 5 fa. Sy od
+
+CAME STADIO,
